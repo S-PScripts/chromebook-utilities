@@ -2,4 +2,4 @@ bunch of websites i found with games, proxies, apps, bookmarklets, exploits and 
 sector a is the best (to me) and sector c is the worst
 note the categorising might be weird but i don't really care bc the main idea was the proxies
 
-takedown requested for the proxies no more on here :P
+PROXY CREDITS ARE IN PROXY LINKS.
