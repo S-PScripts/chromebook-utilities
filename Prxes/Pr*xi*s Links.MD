@@ -76,6 +76,7 @@ https://wiki.stofcheck-ballinger.com/ <br>
 https://electronics.open-autonomy.com/ <br>
 https://world-news.inthepress.org/ <br>
 https://about-us.nuggetgarage.com/ <br>
+https://educational.naming-schemes.org/ <br>
 
 ### Rammerhead: (can be cloaked, tabs can be opened as an about:blank)
 
@@ -290,6 +291,7 @@ https://he-just.farted.net/ <br>
 https://astroid.jib.ar/ <br>
 https://mathematics.soon.it/ <br>
 https://english.pii.at/ <br>
+https://mathstudy.fivepals.com/ <br>
 
 ### Shadow Browser: (has ads)
 https://math.madroid.design <br>
@@ -310,6 +312,7 @@ https://xs.xenol.one/ <br>
 https://xs.xenol.life/ <br>
 https://fr.provend.tech/ <br>
 https://xs.xenol.cloud/ <br>
+https://ln.xenol.one/ <br>
 
 ### Riptide:
 https://riptide.fognetwork.repl.co/ <br>
@@ -342,6 +345,7 @@ https://moist.vercel.app/ <br>
 https://incognito-static-version.pages.dev/ <br>
 https://clever-bee-tiara.cyclic.app/ <br>
 https://topnotchtopnotchtopnotchtopnotchtopnotch.onrender.com/ <br>
+https://incognito-1.seanisgoated.repl.co/ <br>
 
 ### Sp0ck (Incognito):
 https://brothereistoomuchtopnotch.onrender.com/ <br>
@@ -355,6 +359,7 @@ https://long-stockings-duck.cyclic.app/ (old) <br>
 ### Moonlight:
 https://greenreading.info/ <br>
 https://skybright.art/ <br>
+https://science4noobs.co/ <br>
 
 ### Cobalt:
 https://birdfood.gq/ <br>
@@ -444,17 +449,24 @@ https://play.ehabnow.com/ <br>
 ### SurfTheWeb:
 https://surfthewebv3.glitch.me/ <br>
 
+### Ruby Education: Unclear how this works, join the DSC server maybe?
+https://ruby.jundy.org/ <br>
+
+### Aero:
+https://haven.proxyhaven.repl.co <br>
+
+### Novogames:
+https://keyofgreatness.ignorelist.com/ <br>
+
 ### Removed:
 TIW (broken) <br>
 Anonymous (ended) <br>
 Hypersite V2 (broken) <br>
 Rogue (ended) <br>
-Ruby (ended) <br>
 Taco Proxy (ended) <br>
 The Universal Proxy (ended) <br>
 Croxy Proxy (banned) <br>
 Illusive (ended) <br>
-Aero (ended) <br>
 Glype (banned) <br>
 Totally Science (banned) <br>
 DM Unbl0cker (banned) <br>
