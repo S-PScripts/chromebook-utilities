@@ -24,10 +24,13 @@ https://cheapdogs.org/ <br>
 https://busy-pink-lamb-hose.cyclic.app/ [OLD] <br>
 https://the-new-holy-unblxckerr.jacoblopez25.repl.co/ [DEV] <br>
 
-### Emerald (THE GREAT RETURN): [has ads]
+### Emerald (THE GREAT RETURN): (has ads)
 https://auth.reves.cl/ <br>
 https://restaurant.giftofappetite.com/ <br>
 https://emerald-is-very-cool-if-this-works.aigame.biz/ <br>
+https://emerald.pluh.site/ <br>
+https://emerald2.pluh.site/ <br>
+https://pluh.tantrum.org/ <br>
 
 ### Tinf0il (like Artclass): (can be cloaked and about:blanked)
 https://staff.greenvilleducation.tk/ <br>
@@ -66,6 +69,9 @@ https://thanksgiving.tscng.org/ <br>
 https://education.sciencevictory.org/ <br>
 https://desmos.me/ <br>
 https://reading-is-cool.hop.sh/ <br>
+https://wiki.stofcheck-ballinger.com/ <br>
+https://electronics.open-autonomy.com/ <br>
+https://world-news.inthepress.org/ <br>
 
 ### Rammerhead: (can be cloaked, tabs can be opened as an about:blank)
 
@@ -116,6 +122,8 @@ https://achievementnetwork.cf/ <br>
 https://r.achievementnetwork.cf/ <br>
 https://achievementnetwork.tk/ <br>
 https://r.achievementnetwork.tk/ <br>
+https://soraapp.gq/ <br>
+https://r.soraapp.gq/ <br>
 
 #### Below you cannot add r. before the links:
 https://education.mordeco.com/ <br>
@@ -166,6 +174,7 @@ https://shouldiboosttherammerheadserver.gq/ <br>
 ### Nebula: (can be cloaked)
 https://www.coremathlessons.xyz/ <br>
 https://www.onspotify.xyz/ <br>
+https://k12-fl.k12sciencemuseum.org/ <br>
 
 ### Metallic: (can be cloaked)
 https://metallic.eu.org/ <br>
@@ -173,7 +182,6 @@ https://metallic.eu.org/ <br>
 ### Ultraviolet (TBG):
 https://gafiradar.com/ <br>
 https://ny.gafiradar.com/ <br>
-https://elasticman.online/ <br>
 https://qag99.online/ <br>
 https://class.qag99.one/ <br>
 
@@ -186,7 +194,11 @@ https://sub.topicademy.com/ <br>
 https://sub.sashimimi.com/ <br>
 https://sub.promathclass.com/ <br>
 https://sub.23azorun.com/ <br>
+https://sub.sushiprosi.com/ <br>
 #### Add ANYTHING before topicademy, sashimimi, promathclass and 23azorun.
+
+### Supernova (like Ultraviolet):
+https://supernova-v2--jonathanevans7.repl.co/ <br>
 
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ <br>
@@ -196,7 +208,9 @@ https://purchase-some.hotglue.click/ <br>
 https://sail.msg.boats <br>
 https://math.isreally.pro/ <br>
 https://v4-git-main-artclass.vercel.app/ <br>
-https://v4-snowy.vercel.app/
+https://v4-snowy.vercel.app/ <br>
+https://v4-artclass.vercel.app/ <br>
+https://smellypay.isreally.pro/ <br>
 https://subscribe.mathhelpnow.site (add ANYTHING before math) <br>
 https://subscribe.sciencesimplified.pro (add ANYTHING before science) <br>
 https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://sub.artclass.lol/) <br>
@@ -209,10 +223,13 @@ https://supreme.education/ <br>
 https://learningprep.xyz/ <br>
 https://khanacademy.buzz/ <br>
 https://smartacademy.buzz/ <br>
+https://studyingmath.org/ <br>
+https://wiseteaching.cfd/ <br>
 
 ### Elixir:
 https://elixirofficial.com <br>
 https://cerryx.net/ <br>
+https://drab-gold-mackerel-robe.cyclic.app/ <br>
 
 ### Ultraviolet (Other):
 https://google7-1.jacoblopez25.repl.co/ <br>
@@ -263,25 +280,37 @@ https://maths.hs.vc/ <br>
 https://englishclass.us.to/ <br>
 https://mathsclass.youramys.com/ <br>
 https://maths.timekeeper.ro/ <br>
+https://he-just.farted.net/ <br>
+https://astroid.jib.ar/ <br>
 
 ### Shadow Browser: (has ads)
 https://math.madroid.design <br>
 https://edu.madroidmathlearning.online/ <br>
 https://shadow.msg.boats/ <br>
+https://phantom.lol/ <br>
+https://shadowis.super-cool.app/ <br>
+https://ima.mctwisted.pro/ <br>
+https://edu.elevatecorp.xyz/ <br>
 
 ### Freedom Project (like Ultraviolet):
 https://hx.illuminx.live/ <br>
 https://news.provend.tech/ <br>
 https://xs.xenol.one/ <br>
 https://xs.xenol.life/ <br>
-https://fr.provend.tech/ <br.
+https://fr.provend.tech/ <br>
+https://xs.xenol.cloud/ <br>
 
 ### Riptide:
 https://riptide.fognetwork.repl.co/ <br>
 https://riptide.quart2629.repl.co/ <br>
+https://riptide.greydog123.repl.co/ <br>
 
 ### ByeBlocker:
+#### Normal:
 https://chic-kashata-e4cec3.netlify.app/ <br>
+
+#### Click the Info button in these then click proxy:
+https://password-protection.netlify.app/ <br>
 
 ### Genoxy:
 https://genarcy.watercdn.gq/proxy/index.html <br>
@@ -308,6 +337,8 @@ https://brothereistoomuchtopnotch.onrender.com/ <br>
 
 ### Doge Unblocker:
 https://photography.lystrup.org/app <br>
+https://geoquiz.mji.ro/app <br>
+https://long-stockings-duck.cyclic.app/ (old) <br>
 
 ### Moonlight:
 https://greenreading.info/ <br>
@@ -339,6 +370,7 @@ https://noctura.tech/ <br>
 ### Sodium:
 https://3651dade.sodium-5h8.pages.dev/welcome <br>
 https://sodium.onrender.com/welcome.html <br>
+https://beta.sodium-5h8.pages.dev/welcome <br>
 
 ### Typeist:
 https://typeist.lat/ <br>
@@ -354,12 +386,35 @@ https://outredlatest.idek29879890.repl.co/ <br>
 https://goguardian.online/ <br>
 https://outreds.world/ <br>
 https://geometry-help.mathtutorials.app/ <br>
+https://schoology.pro/ <br>
+https://aboutblank.pro/ <br>
 
 ### Unblocked Cave:
 https://misterfonka.github.io/ <br>
+https://deft-travesseiro-e4bb56.netlify.app/ <br>
+https://jocular-selkie-093f6f.netlify.app/ (old?) <br>
 
 ### UBG US:
 https://classroom.ubgusa.com/apps/google <br>
+
+### Vapor:
+https://vapor.uavwzecan48kbut.repl.co/ <br>
+
+### ???: (I don't know how these work)
+https://beta101-1.jacoblopez25.repl.co/ <br>
+https://google7-1.jacoblopez25.repl.co/ <br>
+
+### Plexile Arcade:
+https://plexile-arcade-2.glitch.me/home.html <br>
+https://3ez-math-w0rksheets.glitch.me/home.html <br>
+https://plexile-arcade.jesusclapsu.repl.co/home.html (old?) <br>
+https://33-ezschoolmath-problems.glitch.me/home.html <br>
+
+### Palladium:
+https://palladium-1.deku22wes.repl.co/
+
+### General Mathematics (WHAT IT'S STILL HERE?):
+https://d.josephampiah.repl.co/
 
 ### Removed:
 TIW (broken) <br>
