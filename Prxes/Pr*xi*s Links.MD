@@ -21,6 +21,7 @@ https://thechefmethod.com/<br>
 https://getbackmath.com/<br>
 https://empressoflightnohit.com/<br>
 https://cheapdogs.org/ <br>
+https://terriblestories.org/ <br>
 https://busy-pink-lamb-hose.cyclic.app/ [OLD] <br>
 https://the-new-holy-unblxckerr.jacoblopez25.repl.co/ [DEV] <br>
 
@@ -31,6 +32,7 @@ https://emerald-is-very-cool-if-this-works.aigame.biz/ <br>
 https://emerald.pluh.site/ <br>
 https://emerald2.pluh.site/ <br>
 https://pluh.tantrum.org/ <br>
+https://friedthe-chickenman.home.kg/ <br>
 
 ### Tinf0il (like Artclass): (can be cloaked and about:blanked)
 https://staff.greenvilleducation.tk/ <br>
@@ -58,6 +60,7 @@ https://v4.wiki/ <br>
 https://vercel.wiki/ <br>
 https://khanacademy.me/ <br>
 https://beesliketo.buzz/ <br>
+https://photography.ryanandjen.org/ <br>
 https://about.computers-science.org/ <br>
 https://soccer.mikedoland.com/ <br>
 https://lightsped.hop.sh/ <br>
@@ -72,6 +75,7 @@ https://reading-is-cool.hop.sh/ <br>
 https://wiki.stofcheck-ballinger.com/ <br>
 https://electronics.open-autonomy.com/ <br>
 https://world-news.inthepress.org/ <br>
+https://about-us.nuggetgarage.com/ <br>
 
 ### Rammerhead: (can be cloaked, tabs can be opened as an about:blank)
 
@@ -225,6 +229,8 @@ https://khanacademy.buzz/ <br>
 https://smartacademy.buzz/ <br>
 https://studyingmath.org/ <br>
 https://wiseteaching.cfd/ <br>
+https://major.education/ <br>
+https://tutorsharp.com/ <br>
 
 ### Elixir:
 https://elixirofficial.com <br>
@@ -282,6 +288,8 @@ https://mathsclass.youramys.com/ <br>
 https://maths.timekeeper.ro/ <br>
 https://he-just.farted.net/ <br>
 https://astroid.jib.ar/ <br>
+https://mathematics.soon.it/ <br>
+https://english.pii.at/ <br>
 
 ### Shadow Browser: (has ads)
 https://math.madroid.design <br>
@@ -291,6 +299,9 @@ https://phantom.lol/ <br>
 https://shadowis.super-cool.app/ <br>
 https://ima.mctwisted.pro/ <br>
 https://edu.elevatecorp.xyz/ <br>
+https://ila.jswords.xyz/ <br>
+https://glueon.hotglue.click/ <br>
+https://mathedu.scay.net/ <br>
 
 ### Freedom Project (like Ultraviolet):
 https://hx.illuminx.live/ <br>
@@ -338,6 +349,7 @@ https://brothereistoomuchtopnotch.onrender.com/ <br>
 ### Doge Unblocker:
 https://photography.lystrup.org/app <br>
 https://geoquiz.mji.ro/app <br>
+https://study.helixarcade.space/app <br>
 https://long-stockings-duck.cyclic.app/ (old) <br>
 
 ### Moonlight:
@@ -360,6 +372,7 @@ https://science.aquaflo.net/ <br>
 ### Terbium:
 https://terbium-46q.pages.dev/ <br>
 https://tbx.blackxfiied.xyz/ <br>
+https://test-youtube.jacoblopez25.repl.co/ <br>
 
 ### Gallium:
 https://bitmath.xyz/ <br>
@@ -371,6 +384,7 @@ https://noctura.tech/ <br>
 https://3651dade.sodium-5h8.pages.dev/welcome <br>
 https://sodium.onrender.com/welcome.html <br>
 https://beta.sodium-5h8.pages.dev/welcome <br>
+https://3ab2b22a.sodium-5h8.pages.dev/welcome <br>
 
 ### Typeist:
 https://typeist.lat/ <br>
@@ -388,6 +402,7 @@ https://outreds.world/ <br>
 https://geometry-help.mathtutorials.app/ <br>
 https://schoology.pro/ <br>
 https://aboutblank.pro/ <br>
+https://instructure.pro/ <br>
 
 ### Unblocked Cave:
 https://misterfonka.github.io/ <br>
@@ -411,10 +426,23 @@ https://plexile-arcade.jesusclapsu.repl.co/home.html (old?) <br>
 https://33-ezschoolmath-problems.glitch.me/home.html <br>
 
 ### Palladium:
-https://palladium-1.deku22wes.repl.co/
+https://palladium-1.deku22wes.repl.co/ <br>
 
 ### General Mathematics (WHAT IT'S STILL HERE?):
-https://d.josephampiah.repl.co/
+https://d.josephampiah.repl.co/ <br>
+
+### Snorlax's Cave:
+https://snorlax-ep62.onrender.com/ <br>
+
+### Websites like CroxyProxy:
+https://www.urmom.gq/ <br>
+https://www.binomosignal.com/ <br>
+
+### Ehab Games:
+https://play.ehabnow.com/ <br>
+
+### SurfTheWeb:
+https://surfthewebv3.glitch.me/ <br>
 
 ### Removed:
 TIW (broken) <br>
