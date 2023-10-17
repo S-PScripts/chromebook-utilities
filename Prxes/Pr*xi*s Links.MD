@@ -2,7 +2,7 @@
 Note: The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy and many others.
 There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it?
 
-## CURRENTLY BEING REVAMPED!
+## CURRENTLY BEING REVAMPED! 200 LINKS LEFT TO ADD, WILL BE FINISHED ON WEDNESDAY :D
 ### Holy Unblocker: (can be cloaked)
 https://guidetoivyplants.com/ <br>
 https://whackylightbulb.org/<br>
@@ -451,6 +451,7 @@ https://surfthewebv3.glitch.me/ <br>
 
 ### Ruby Education: Unclear how this works, join the DSC server maybe?
 https://ruby.jundy.org/ <br>
+https://client.homeplex.org/ <br>
 
 ### Aero:
 https://haven.proxyhaven.repl.co <br>
