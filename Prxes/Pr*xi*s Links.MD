@@ -20,15 +20,16 @@ https://terrariaisgreat.com/<br>
 https://thechefmethod.com/<br>
 https://getbackmath.com/<br>
 https://empressoflightnohit.com/<br>
-https://busy-pink-lamb-hose.cyclic.app/ [OLD]<br>
-https://blue-delightful-turkey.cyclic.app/ <br>
+https://cheapdogs.org/ <br>
+https://busy-pink-lamb-hose.cyclic.app/ [OLD] <br>
+https://the-new-holy-unblxckerr.jacoblopez25.repl.co/ [DEV] <br>
 
 ### Emerald (THE GREAT RETURN): [has ads]
 https://auth.reves.cl/ <br>
 https://restaurant.giftofappetite.com/ <br>
 https://emerald-is-very-cool-if-this-works.aigame.biz/ <br>
 
-### Tinf0il (like Artclass) (can be cloaked and about:blanked):
+### Tinf0il (like Artclass): (can be cloaked and about:blanked)
 https://staff.greenvilleducation.tk/ <br>
 https://commanders.design/ <br>
 
@@ -64,6 +65,7 @@ https://bubbo.dev/ <br>
 https://thanksgiving.tscng.org/ <br>
 https://education.sciencevictory.org/ <br>
 https://desmos.me/ <br>
+https://reading-is-cool.hop.sh/ <br>
 
 ### Rammerhead: (can be cloaked, tabs can be opened as an about:blank)
 
@@ -147,6 +149,7 @@ https://rammerhead.ind.st/ <br>
 https://howtomath.theeduweb.com/ <br>
 https://math4kids.containersarelinux.net/ <br>
 https://war.entraide.cf/ <br>
+https://freenomisratelimitingme.cf/ <br>
 https://yomom.cpasociados.net/ <br>
 https://joyridearoundthepark.5inas.cf/ <br>
 https://lizzyyy.bgg.cl/ <br>
@@ -193,6 +196,7 @@ https://purchase-some.hotglue.click/ <br>
 https://sail.msg.boats <br>
 https://math.isreally.pro/ <br>
 https://v4-git-main-artclass.vercel.app/ <br>
+https://v4-snowy.vercel.app/
 https://subscribe.mathhelpnow.site (add ANYTHING before math) <br>
 https://subscribe.sciencesimplified.pro (add ANYTHING before science) <br>
 https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://sub.artclass.lol/) <br>
@@ -216,10 +220,12 @@ https://google7-1.jacoblopez25.repl.co/ <br>
 ### Node Unblocker: (shows as dangerous, broke)
 https://t-self.vercel.app <br>
 https://proxy-theta-three.vercel.app/ <br>
+
 ### Page Sandbox:
 https://io.sqeven.workers.dev/ <br>
 
 ### Ballbang:
+#### Normal:
 https://mathclass.ballbang.wiki/ <br>
 https://mathclass.ballbang.xyz/ <br>
 https://ballbang.motox3m.info/ <br>
@@ -256,8 +262,9 @@ https://compscirules.sen.org.nz/ <br>
 https://maths.hs.vc/ <br>
 https://englishclass.us.to/ <br>
 https://mathsclass.youramys.com/ <br>
+https://maths.timekeeper.ro/ <br>
 
-### Shadow Browser (has ads):
+### Shadow Browser: (has ads)
 https://math.madroid.design <br>
 https://edu.madroidmathlearning.online/ <br>
 https://shadow.msg.boats/ <br>
@@ -266,9 +273,12 @@ https://shadow.msg.boats/ <br>
 https://hx.illuminx.live/ <br>
 https://news.provend.tech/ <br>
 https://xs.xenol.one/ <br>
+https://xs.xenol.life/ <br>
+https://fr.provend.tech/ <br.
 
 ### Riptide:
 https://riptide.fognetwork.repl.co/ <br>
+https://riptide.quart2629.repl.co/ <br>
 
 ### ByeBlocker:
 https://chic-kashata-e4cec3.netlify.app/ <br>
@@ -278,14 +288,20 @@ https://genarcy.watercdn.gq/proxy/index.html <br>
 
 ### Solar:
 https://womginx.r480github.repl.co/ <br>
+https://womginx.nicolaspichavan.repl.co/ <br>
 
-### Shuttle: [has ads] (OPENS IN ABOUT:BLANK)
+### Shuttle: (HAS ADS) (OPENS IN ABOUT:BLANK)
 https://englishdata.co/ <br>
 https://creativeclassroom.co/ <br>
+https://tristanschools.co/ <br>
+https://tutors4u.net/ <br>
 
 ### Incognito (other):
 https://incognito-3.spamz0.repl.co/ <br>
 https://moist.vercel.app/ <br>
+https://incognito-static-version.pages.dev/ <br>
+https://clever-bee-tiara.cyclic.app/ <br>
+https://topnotchtopnotchtopnotchtopnotchtopnotch.onrender.com/ <br>
 
 ### Sp0ck (Incognito):
 https://brothereistoomuchtopnotch.onrender.com/ <br>
@@ -322,6 +338,7 @@ https://noctura.tech/ <br>
 
 ### Sodium:
 https://3651dade.sodium-5h8.pages.dev/welcome <br>
+https://sodium.onrender.com/welcome.html <br>
 
 ### Typeist:
 https://typeist.lat/ <br>
@@ -335,6 +352,14 @@ https://whitespider.pages.dev/ <br>
 ### Outred:
 https://outredlatest.idek29879890.repl.co/ <br>
 https://goguardian.online/ <br>
+https://outreds.world/ <br>
+https://geometry-help.mathtutorials.app/ <br>
+
+### Unblocked Cave:
+https://misterfonka.github.io/ <br>
+
+### UBG US:
+https://classroom.ubgusa.com/apps/google <br>
 
 ### Removed:
 TIW (broken) <br>
@@ -353,3 +378,5 @@ DM Unbl0cker (banned) <br>
 Plooshi Docs (down) <br>
 Hyper Tabs (ended) <br>
 Ludicrous (broken) <br>
+
+Thanks c0nstantly for the new formatting.
