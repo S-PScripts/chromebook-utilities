@@ -68,12 +68,16 @@ https://about.computers-science.org/ <br>
 https://soccer.mikedoland.com/ <br>
 https://lightsped.hop.sh/ <br>
 https://these-goofy-goobers.hop.sh/ <br>
+https://my-last-link-for-a-while.hop.sh/ <br>
 https://you-silly-fool.hop.sh/ <br>
 https://reading.hop.sh/ <br>
+https://financial-literacy.fedea.com.ar/ <br>
+https://testing.grobby.repl.co/ [OLD] <br>
 https://bubbo.dev/ <br>
 https://thanksgiving.tscng.org/ <br>
 https://education.sciencevictory.org/ <br>
 https://desmos.me/ <br>
+https://dominos.buzz/ <br>
 https://reading-is-cool.hop.sh/ <br>
 https://wiki.stofcheck-ballinger.com/ <br>
 https://electronics.open-autonomy.com/ <br>
@@ -165,6 +169,7 @@ https://rammerhead.ind.st/ <br>
 https://howtomath.theeduweb.com/ <br>
 https://math4kids.containersarelinux.net/ <br>
 https://war.entraide.cf/ <br>
+https://tips.bitesmagazine.com/ <br>
 https://freenomisratelimitingme.cf/ <br>
 https://yomom.cpasociados.net/ <br>
 https://joyridearoundthepark.5inas.cf/ <br>
@@ -202,8 +207,10 @@ https://sub.topicademy.com/ <br>
 https://sub.sashimimi.com/ <br>
 https://sub.promathclass.com/ <br>
 https://sub.23azorun.com/ <br>
+https://sub.23azosports.com/ <br>
+https://sub.23azoshooting.com/ <br>
 https://sub.sushiprosi.com/ <br>
-#### Add ANYTHING before topicademy, sashimimi, promathclass and 23azorun.
+#### Add ANYTHING before topicademy, sashimimi, promathclass etc.
 
 ### Supernova (like Ultraviolet):
 https://supernova-v2--jonathanevans7.repl.co/ <br>
@@ -235,6 +242,9 @@ https://studyingmath.org/ <br>
 https://wiseteaching.cfd/ <br>
 https://major.education/ <br>
 https://tutorsharp.com/ <br>
+https://learnbiology.quest/ <br>
+https://tutorcenter.quest/ <br>
+https://cleverutopia.com/ <br>
 
 ### Elixir:
 https://elixirofficial.com <br>
@@ -307,6 +317,7 @@ https://edu.elevatecorp.xyz/ <br>
 https://ila.jswords.xyz/ <br>
 https://glueon.hotglue.click/ <br>
 https://mathedu.scay.net/ <br>
+https://phantomnetwork.cloud/ <br>
 
 ### Freedom Project (like Ultraviolet):
 https://hx.illuminx.live/ <br>
@@ -321,6 +332,7 @@ https://ln.xenol.one/ <br>
 https://riptide.fognetwork.repl.co/ <br>
 https://riptide.quart2629.repl.co/ <br>
 https://riptide.greydog123.repl.co/ <br>
+https://riptide--bnon590.repl.co/ <br>
 
 ### ByeBlocker:
 #### Normal:
@@ -347,17 +359,22 @@ https://incognito-3.spamz0.repl.co/ <br>
 https://moist.vercel.app/ <br>
 https://incognito-static-version.pages.dev/ <br>
 https://clever-bee-tiara.cyclic.app/ <br>
-https://topnotchtopnotchtopnotchtopnotchtopnotch.onrender.com/ <br>
 https://incognito-1.seanisgoated.repl.co/ <br>
 
 ### Sp0ck (Incognito):
 https://brothereistoomuchtopnotch.onrender.com/ <br>
+https://lightspeed-is-bad-at-blocking.onrender.com/ <br>
+https://topnotchtopnotchtopnotchtopnotchtopnotch.onrender.com/ <br>
 
 ### Doge Unblocker:
 https://photography.lystrup.org/app <br>
 https://geoquiz.mji.ro/app <br>
+https://students.amorins.org/app <br>
 https://study.helixarcade.space/app <br>
-https://long-stockings-duck.cyclic.app/ (old) <br>
+https://p-vedah38711.b4a.run/app (V3) <br>
+https://education-gefyopudra.b4a.run/app (V3) <br>
+https://dogeunblocker.derpmans.repl.co/app (V2) <br>
+https://long-stockings-duck.cyclic.app/ (V2) <br>
 
 ### Moonlight:
 https://greenreading.info/ <br>
@@ -376,6 +393,8 @@ https://easy-bake-oven--gavindeluna.repl.co/ <br>
 https://math.chaintrust.com/ <br>
 https://computers.ourupgrade.com/ <br>
 https://science.aquaflo.net/ <br>
+https://business.arslaniz.biz/ <br>
+https://info.ajalo.com/ <br>
 
 ### Terbium:
 https://terbium-46q.pages.dev/ <br>
@@ -393,6 +412,8 @@ https://3651dade.sodium-5h8.pages.dev/welcome <br>
 https://sodium.onrender.com/welcome.html <br>
 https://beta.sodium-5h8.pages.dev/welcome <br>
 https://3ab2b22a.sodium-5h8.pages.dev/welcome <br>
+https://sodium-5h8.pages.dev/ <br>
+https://7d90cd1f.sodium-5h8.pages.dev/welcome <br>
 
 ### Typeist:
 https://typeist.lat/ <br>
@@ -402,6 +423,8 @@ https://anonymous-static.qlock.repl.co/ <br>
 
 ### WhiteSpider:
 https://whitespider.pages.dev/ <br>
+https://whitespider.gq/ <br>
+https://whitespider.cf/ <br>
 
 ### Outred:
 https://outredlatest.idek29879890.repl.co/ <br>
@@ -430,14 +453,16 @@ https://google7-1.jacoblopez25.repl.co/ <br>
 ### Plexile Arcade:
 https://plexile-arcade-2.glitch.me/home.html <br>
 https://3ez-math-w0rksheets.glitch.me/home.html <br>
-https://plexile-arcade.jesusclapsu.repl.co/home.html (old?) <br>
+https://plexile-arcade.glitch.me/home.html <br>
 https://33-ezschoolmath-problems.glitch.me/home.html <br>
+https://plexile-arcade.jesusclapsu.repl.co/home.html (old?) <br>
 
 ### Palladium:
 https://palladium-1.deku22wes.repl.co/ <br>
 
 ### General Mathematics (WHAT IT'S STILL HERE?):
 https://d.josephampiah.repl.co/ <br>
+https://liam.calvingstattenb.repl.co/ <br>
 
 ### Snorlax's Cave:
 https://snorlax-ep62.onrender.com/ <br>
@@ -445,12 +470,14 @@ https://snorlax-ep62.onrender.com/ <br>
 ### Websites like CroxyProxy:
 https://www.urmom.gq/ <br>
 https://www.binomosignal.com/ <br>
+https://www.harysutrisno.site/ <br>
 
 ### Ehab Games:
 https://play.ehabnow.com/ <br>
 
 ### SurfTheWeb:
 https://surfthewebv3.glitch.me/ <br>
+https://surfthewebv3.netlify.app/ <br>
 
 ### Ruby Education: Unclear how this works, join the DSC server maybe?
 https://ruby.jundy.org/ <br>
