@@ -44,6 +44,12 @@ https://sub.23azoshooting.com/ <br>
 https://sub.sushiprosi.com/ <br>
 #### Add ANYTHING before topicademy, sashimimi, promathclass etc.
 
+### TopVAZ (like Ultraviolet): You need to click the M- button on the calculator. It will open as an about:blank.
+https://blog.geometrytip.online/ <br>
+https://blog.mathblogs.online/ <br>
+https://school.mathblogs.online/ <br>
+https://math.geometrytip.online/ <br>
+
 ### Supernova (like Ultraviolet):
 https://supernova-v2--jonathanevans7.repl.co/ <br>
 https://supernova-v2.calebolveraboni.repl.co/ <br>
@@ -328,6 +334,9 @@ https://k12.studybetter.xyz/ <br>
 ### Metallic: (can be cloaked)
 https://metallic.eu.org/ <br>
 https://usemetallic.com/ <br>
+
+### Galaxy (Metallic version):
+https://geoquiz.gq/ <br>
 
 ### TBG (click Google):
 https://sio.birdriver.org/ <br>
