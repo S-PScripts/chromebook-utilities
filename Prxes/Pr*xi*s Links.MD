@@ -52,6 +52,19 @@ https://supernova-v2.ashtenpride.repl.co/ <br>
 https://google7-1.jacoblopez25.repl.co/ <br>
 https://ultraiolet-node2-4.jacoblopez25.repl.co/ <br>
 
+### Ballbang (like Ultraviolet):
+#### Normal:
+https://mathclass.ballbang.wiki/ <br>
+https://mathclass.ballbang.xyz/ <br>
+https://ballbang.motox3m.info/ <br>
+https://mathclass.unblocked-games.lol/ <br>
+https://scpwolfpro.ballbang.fun/ <br>
+https://avocadoarcade.lockthebook.com/ <br>
+
+### Click the ( Button on the calculators for these: (Ballbang opens as about:blank)
+https://scpwolf.ballbang1.com/ <br>
+https://scpwolf.ballbang.fun/ <br>
+
 ### Moss News: Click “Why the U.S. Government has banned TikTok” then click the word misleading or viewing; you will get redirected to an about:blank with stuff on it. Click “503 page”.
 
 #### LONG VERSION:
@@ -192,7 +205,7 @@ https://joyridearoundthepark.5inas.cf/ <br>
 https://shouldiboosttherammerheadserver.tk/ <br>
 https://shouldiboosttherammerheadserver.gq/ <br>
 
-### Interstellar: (opens in about:blank, can be cloaked) [HAS ADS]
+### Interstellar: (opens in about:blank, can be cloaked) (HAS ADS)
 #### [WARNING: SINCE IT WORKS WITH CLOUDFLARE, IT CAN SOMETIMES BE DOWN!]
 https://gointerstellar.app <br>
 https://gointerstellar.xyz <br>
@@ -225,10 +238,9 @@ https://world-news.inthepress.org/ <br>
 https://wiki.stofcheck-ballinger.com/ <br>
 https://electronics.open-autonomy.com/ <br>
 https://about-us.nuggetgarage.com/ <br>
-https://test.lightbrownwolfl.repl.co/ [OLD] <br>
 https://testing.grobby.repl.co/ [OLD] <br>
 
-### Incognito(NOBLO):
+### Incognito (NOBLO):
 https://uk1.noblo.cc/ (UK server) <br>
 https://uk2.noblo.cc/ (UK server) <br>
 https://us1.noblo.cc/ (US server) <br>
@@ -254,7 +266,7 @@ https://uk2.antiblocc.uk/ <br>
 https://us1.antiblocc.uk/ <br>
 https://est1.antiblocc.uk/ <br>
 
-### Incognito (other):
+### Incognito (Other):
 https://incognito-3.spamz0.repl.co/ <br>
 https://moist.vercel.app/ <br>
 https://incognito-static-version.pages.dev/ <br>
@@ -293,7 +305,7 @@ https://busy-pink-lamb-hose.cyclic.app/ [OLD] <br>
 https://the-new-holy-unblxckerr.jacoblopez25.repl.co/ [DEV] <br>
 https://aio-fowntain.koyeb.app/ [DEV] <br>
 
-### Emerald (THE GREAT RETURN): (has ads)
+### Emerald (THE GREAT RETURN): (HAS ADS)
 https://emerald.pluh.site/ <br>
 https://emerald2.pluh.site/ <br>
 https://emerald-is-very-cool-if-this-works.aigame.biz/ <br>
@@ -347,28 +359,15 @@ https://gooogle.williamzimmerm4.repl.co/ <br>
 ### Page Sandbox:
 https://io.sqeven.workers.dev/ <br>
 
-### Ballbang:
-#### Normal:
-https://mathclass.ballbang.wiki/ <br>
-https://mathclass.ballbang.xyz/ <br>
-https://ballbang.motox3m.info/ <br>
-https://mathclass.unblocked-games.lol/ <br>
-https://scpwolfpro.ballbang.fun/ <br>
-https://avocadoarcade.lockthebook.com/ <br>
-### Click the ( Button on the calculators for these:
-https://scpwolf.ballbang1.com/ <br>
-https://scpwolf.motox3m.info/ <br>
-https://scpwolf.ballbang.fun/ <br>
-
 ### Ducky (Terbium):
 https://terbium1.pages.dev/ <br>
 
 ### Terbium:
-https://terbium-46q.pages.dev/ <br>
+https://terbium-46q.pages.dev/ (most current) <br>
 https://tbx.blackxfiied.xyz/ <br>
-https://test-youtube.jacoblopez25.repl.co/ <br>
+https://test-youtube.jacoblopez25.repl.co/ (slow) <br>
 
-### Astroid: (click any button on the fake mathsisfun page for it) (can be cloaked)
+### Astroid: Click any button on the fake MathsIsFun page for it (can be cloaked)
 https://astroid.gg/ <br>
 https://compscirules.sen.org.nz/ <br>
 https://maths.hs.vc/ <br>
@@ -387,7 +386,7 @@ https://english.jumpingcrab.com/ <br>
 https://learning.sailtheuniverse.com/ <br>
 https://division.danielwilkins.org/ <br>
 
-### Shadow Browser: (has ads)
+### Shadow Browser: (HAS ADS) (can be cloaked and about:blanked)
 https://math.madroid.design <br>
 https://edu.madroidmathlearning.online/ <br>
 https://shadow.msg.boats/ <br>
@@ -409,10 +408,9 @@ https://riptide.quart2629.repl.co/ <br>
 https://riptide.greydog123.repl.co/ <br>
 https://riptide--bnon590.repl.co/ <br>
 
-### ByeBlocker:
+### ByeBlocker: 
 #### Normal:
 https://chic-kashata-e4cec3.netlify.app/ <br>
-
 #### Click the Info button in these then click proxy:
 https://password-protection.netlify.app/ <br>
 
@@ -434,7 +432,7 @@ https://cheapclass.co/ <br>
 https://learn2invest.info/ <br>
 https://tutors4cheap.co/ <br>
 
-### Doge Unblocker:
+### Doge Unblocker: (can be cloaked)
 https://photography.lystrup.org/app <br>
 https://geoquiz.mji.ro/app <br>
 https://district.clarksvilletix.com/app <br>
@@ -484,7 +482,7 @@ https://3651dade.sodium-5h8.pages.dev/welcome <br>
 https://sodium.onrender.com/welcome.html <br>
 https://beta.sodium-5h8.pages.dev/welcome <br>
 https://3ab2b22a.sodium-5h8.pages.dev/welcome <br>
-https://sodium-5h8.pages.dev/ <br>
+https://sodium-5h8.pages.dev/welcome <br>
 https://7d90cd1f.sodium-5h8.pages.dev/welcome <br>
 https://d628312e.sodium-5h8.pages.dev/welcome <br>
 
