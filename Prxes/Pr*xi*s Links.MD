@@ -31,17 +31,17 @@ https://the-new-holy-unblxckerr.jacoblopez25.repl.co/ [DEV] <br>
 https://aio-fowntain.koyeb.app/ [DEV] <br>
 
 ### Emerald (THE GREAT RETURN): (has ads)
-https://auth.reves.cl/ <br>
-https://restaurant.giftofappetite.com/ <br>
-https://emerald-is-very-cool-if-this-works.aigame.biz/ <br>
 https://emerald.pluh.site/ <br>
 https://emerald2.pluh.site/ <br>
+https://emerald-is-very-cool-if-this-works.aigame.biz/ <br>
+https://auth.reves.cl/ <br>
+https://edu.reves.cl/ <br>
+https://restaurant.giftofappetite.com/ <br>
 https://pluh.tantrum.org/ <br>
 https://friedthe-chickenman.home.kg/ <br>
 https://history.centuriontel.com/ <br>
 https://destination.routesmaps.com/ <br>
 https://planterbound.5thaurora.com/ <br>
-https://edu.reves.cl/ <br>
 
 ### Tinf0il (like Artclass): (can be cloaked and about:blanked)
 https://staff.greenvilleducation.tk/ <br>
@@ -50,10 +50,10 @@ https://f0lga.tech/ <br>
 https://calculusproblems.online/ <br>
 
 ### Incognito(NOBLO):
-https://uk1.noblo.cc/ (united kingdom) <br>
-https://uk2.noblo.cc/ (united kingdom) <br>
-https://us1.noblo.cc/ (united states) <br>
-https://est1.noblo.cc/ (estonian) <br>
+https://uk1.noblo.cc/ (UK server) <br>
+https://uk2.noblo.cc/ (UK server) <br>
+https://us1.noblo.cc/ (US server) <br>
+https://est1.noblo.cc/ (Estonian server) <br>
 https://uk1.phantomcaravan.uk/ <br>
 https://uk2.phantomcaravan.uk/ <br>
 https://us1.phantomcaravan.uk/ <br>
@@ -82,6 +82,9 @@ https://gointerstellar.xyz <br>
 https://v4.wiki/ <br>
 https://vercel.wiki/ <br>
 https://khanacademy.me/ <br>
+https://bubbo.dev/ <br>
+https://desmos.me/ <br>
+https://dominos.buzz/ <br>
 https://beesliketo.buzz/ <br>
 https://earth.skytourtw.com/ <br>
 https://nimbuss.cloud/ <br>
@@ -94,22 +97,19 @@ https://lightsped.hop.sh/ <br>
 https://isaac-scar-12-smells.hop.sh/ <br>
 https://these-goofy-goobers.hop.sh/ <br>
 https://my-last-link-for-a-while.hop.sh/ <br>
+https://reading-is-cool.hop.sh/ <br>
 https://you-silly-fool.hop.sh/ <br>
 https://reading.hop.sh/ <br>
 https://financial-literacy.fedea.com.ar/ <br>
-https://test.lightbrownwolfl.repl.co/ [OLD] <br>
-https://testing.grobby.repl.co/ [OLD] <br>
-https://bubbo.dev/ <br>
 https://thanksgiving.tscng.org/ <br>
 https://education.sciencevictory.org/ <br>
-https://desmos.me/ <br>
-https://dominos.buzz/ <br>
-https://reading-is-cool.hop.sh/ <br>
+https://educational.naming-schemes.org/ <br>
+https://world-news.inthepress.org/ <br>
 https://wiki.stofcheck-ballinger.com/ <br>
 https://electronics.open-autonomy.com/ <br>
-https://world-news.inthepress.org/ <br>
 https://about-us.nuggetgarage.com/ <br>
-https://educational.naming-schemes.org/ <br>
+https://test.lightbrownwolfl.repl.co/ [OLD] <br>
+https://testing.grobby.repl.co/ [OLD] <br>
 
 ### Rammerhead: (can be cloaked, tabs can be opened as an about:blank)
 
