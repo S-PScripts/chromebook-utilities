@@ -180,6 +180,9 @@ https://mathtestaxamschool.zcvx.cf/ <br>
 https://canvas.lnstructure.cf/ <br>
 https://amplifyscience.cf/ <br>
 https://theplan.planb.gq/ <br>
+https://chrome.lhost.dev/ <br>
+https://blocked.lhost.dev/ <br>
+https://tabs.lhost.dev/ <br>
 https://www.pleaseinput.html-5.me/ <br>
 https://oh-no.kayroscloud.tk/ <br>
 https://oreo-8.1.irc6.cf/ <br>
