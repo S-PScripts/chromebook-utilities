@@ -332,7 +332,7 @@ https://terbium1.pages.dev/ <br>
 ### Ultraviolet (BruhProx):
 https://bruhprox.pages.dev/ <br>
 
-### Ultraviolet (Misc.):
+### Ultraviolet (Other 2):
 https://wicked-gray-gharial.cyclic.app/ <br>
 
 ### Astroid: (click any button on the fake mathsisfun page for it) (can be cloaked)
