@@ -514,7 +514,7 @@ https://instructure.pro/ <br>
 ### Unblocked Cave:
 https://misterfonka.github.io/ <br>
 https://deft-travesseiro-e4bb56.netlify.app/ <br>
-https://jocular-selkie-093f6f.netlify.app/ (old?) <br>
+https://jocular-selkie-093f6f.netlify.app/ (OLD) <br>
 
 ### UBG US:
 https://classroom.ubgusa.com/apps/google <br>
@@ -556,7 +556,7 @@ https://palladium-1.maddoxhyttinen.repl.co/ <br>
 https://palladiumv2.r480github.repl.co/ <br>
 https://palladium-1.r480github.repl.co/ <br>
 
-### General Mathematics (WHAT IT'S STILL HERE?):
+### General Mathematics (WHAT IT'S STILL HERE? Don't ask why I said that...):
 https://d.josephampiah.repl.co/ <br>
 https://liam.calvingstattenb.repl.co/ <br>
 https://totallylegit.diamondbroplayzfr.repl.co/ <br>
@@ -607,7 +607,6 @@ https://irunblocked.xyz/ <br>
 
 ### Removed:
 TIW (broken) <br>
-Anonymous (ended) <br>
 Hypersite V2 (broken) <br>
 Rogue (ended) <br>
 Taco Proxy (ended) <br>
