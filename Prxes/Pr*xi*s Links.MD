@@ -29,6 +29,7 @@ https://terriblestories.org/ <br>
 https://totalmathway.com/ <br>
 https://busy-pink-lamb-hose.cyclic.app/ [OLD] <br>
 https://the-new-holy-unblxckerr.jacoblopez25.repl.co/ [DEV] <br>
+https://aio-fowntain.koyeb.app/ [DEV] <br>
 
 ### Emerald (THE GREAT RETURN): (has ads)
 https://auth.reves.cl/ <br>
@@ -70,6 +71,10 @@ https://uk1.tanner502.uk/ <br>
 https://uk2.tanner502.uk/ <br>
 https://us1.tanner502.uk/ <br>
 https://est1.tanner502.uk/ <br>
+https://uk1.antiblocc.uk/ <br>
+https://uk2.antiblocc.uk/ <br>
+https://us1.antiblocc.uk/ <br>
+https://est1.antiblocc.uk/ <br>
 
 ### Interstellar: (opens in about:blank, can be cloaked) [HAS ADS]
 #### [WARNING: SINCE IT WORKS WITH CLOUDFLARE, IT CAN SOMETIMES BE DOWN!]
@@ -195,7 +200,6 @@ https://tips.bitesmagazine.com/ <br>
 https://biographyhelp.sciencesimplified.pro/ <br>
 https://freenomisratelimitingme.cf/ <br>
 https://yomom.cpasociados.net/ <br>
-https://joyridearoundthepark.5inas.cf/ <br>
 https://lizzyyy.bgg.cl/ <br>
 https://another.theeduweb.com/ <br>
 https://1.containersarelinux.net/ <br>
@@ -211,6 +215,7 @@ https://shouldiboosttherammerheadserver.gq/ <br>
 https://www.coremathlessons.xyz/ <br>
 https://www.onspotify.xyz/ <br>
 https://k12-fl.k12sciencemuseum.org/ <br>
+https://k12.studybetter.xyz/ <br>
 
 ### Metallic: (can be cloaked)
 https://metallic.eu.org/ <br>
@@ -271,6 +276,7 @@ https://tutorsharp.com/ <br>
 https://learnbiology.quest/ <br>
 https://tutorcenter.quest/ <br>
 https://cleverutopia.com/ <br>
+https://utopiaunblocker.com/ <br>
 
 ### Elixir:
 https://elixirofficial.com <br>
@@ -406,6 +412,7 @@ https://incognito-1.seanisgoated.repl.co/ <br>
 https://brothereistoomuchtopnotch.onrender.com/ <br>
 https://lightspeed-is-bad-at-blocking.onrender.com/ <br>
 https://topnotchtopnotchtopnotchtopnotchtopnotch.onrender.com/ <br>
+https://topnotchsupasecretwebsearcher.onrender.com/ <br>
 
 ### Doge Unblocker:
 https://photography.lystrup.org/app <br>
@@ -548,6 +555,7 @@ https://www.harysutrisno.site/ <br>
 
 ### Ehab Games:
 https://play.ehabnow.com/ <br>
+https://school.pgatsby.dev/ <br>
 
 ### SurfTheWeb:
 https://surfthewebv3.glitch.me/ <br>
@@ -574,6 +582,7 @@ https://rusty-asf.funnigamer.repl.co/
 
 ### Tsunami:
 https://fognetwork.github.io/Tsunami-Lite/
+https://imfasterthanseth.grobby.repl.co/ <br>
 
 ### IR Unblocked:
 https://irunblocked.xyz/
