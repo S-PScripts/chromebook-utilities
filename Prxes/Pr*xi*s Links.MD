@@ -268,6 +268,7 @@ https://mathclass.ballbang.xyz/ <br>
 https://ballbang.motox3m.info/ <br>
 https://mathclass.unblocked-games.lol/ <br>
 https://scpwolfpro.ballbang.fun/ <br>
+https://avocadoarcade.lockthebook.com/ <br>
 
 ### Click the ( Button on the calculators for these:
 https://scpwolf.ballbang1.com/ <br>
@@ -305,6 +306,9 @@ https://astroid.jib.ar/ <br>
 https://mathematics.soon.it/ <br>
 https://english.pii.at/ <br>
 https://mathstudy.fivepals.com/ <br>
+https://study.sailtheuniverse.com/ <br>
+https://mathisfun.hec.to/ <br>
+https://english.jumpingcrab.com/ <br>
 
 ### Shadow Browser: (has ads)
 https://math.madroid.design <br>
@@ -388,6 +392,11 @@ https://birdfood.gq/ <br>
 https://degeneracy--jaydenpepin-ta1.repl.co/ <br>
 https://degeneracy.masoneubanks01.repl.co/ <br>
 https://easy-bake-oven--gavindeluna.repl.co/ <br>
+https://degeneracy.brydinbeall.repl.co/ <br>
+https://degeneracy.ashtonaksu.repl.co/ <br>
+
+### AnuraOS: CLICK NORMAL USER
+https://anura.mercurywork.shop/
 
 ### Kazwire:
 https://math.chaintrust.com/ <br>
@@ -445,10 +454,14 @@ https://classroom.ubgusa.com/apps/google <br>
 
 ### Vapor:
 https://vapor.uavwzecan48kbut.repl.co/ <br>
+https://vapor-1.justjxrdannnnnxn.repl.co/ <br>
 
 ### "Google" (like Ultraviolet): (wait for it to load)
 https://beta101-1.jacoblopez25.repl.co/ <br>
 https://google7-1.jacoblopez25.repl.co/ <br>
+
+### Galaxy:
+https://real-galaxy-frfr.vercel.app/
 
 ### Plexile Arcade:
 https://plexile-arcade-2.glitch.me/home.html <br>
@@ -488,6 +501,8 @@ https://haven.proxyhaven.repl.co <br>
 
 ### Novogames:
 https://keyofgreatness.ignorelist.com/ <br>
+https://novogames.twilightparadox.com/index.html <br>
+https://wtfnovogames.crabdance.com/ <br>
 
 ### Removed:
 TIW (broken) <br>
