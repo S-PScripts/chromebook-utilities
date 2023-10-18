@@ -1,11 +1,11 @@
 i fricked up, wasted 30 mins and accidently did a bad c+v
-finish next week
+f*ck github for not having a undo button
 
 # DO NOT STEAL THIS DOCUMENT AND PASS IT OFF AS ALL OF YOUR WORK.
 Note: The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy and many others.
 There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it?
 
-## CURRENTLY BEING REVAMPED! 200 LINKS LEFT TO ADD, WILL BE FINISHED ON WEDNESDAY :D
+## CURRENTLY BEING REVAMPED! 200 LINKS LEFT TO ADD, WILL BE FINISHED ON WEDNESDAY evening :(
 ### Holy Unblocker: (can be cloaked)
 https://guidetoivyplants.com/ <br>
 https://whackylightbulb.org/<br>
