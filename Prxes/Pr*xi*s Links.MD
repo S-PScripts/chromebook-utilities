@@ -1,11 +1,9 @@
-i fricked up, wasted 30 mins and accidently did a bad c+v
-f*ck github for not having a undo button
-
 # DO NOT STEAL THIS DOCUMENT AND PASS IT OFF AS ALL OF YOUR WORK.
 Note: The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy and many others.
 There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it?
 
-## CURRENTLY BEING REVAMPED! 200 LINKS LEFT TO ADD, WILL BE FINISHED ON WEDNESDAY evening :(
+## HUNDREDS OF NEW LINKS ADDED!
+
 ### Holy Unblocker: (can be cloaked)
 https://guidetoivyplants.com/ <br>
 https://whackylightbulb.org/<br>
@@ -17,6 +15,7 @@ https://mathematicalsols.org/<br>
 https://historicalanime.org<br>
 https://colpsk12.org/<br>
 https://boiledeggs.org<br>
+https://magicboomrang.org/ <br>
 https://ur2ndlibrary.com/<br>
 https://englishology.org/<br>
 https://terrariaisgreat.com/<br>
@@ -199,6 +198,7 @@ https://war.entraide.cf/ <br>
 https://tips.bitesmagazine.com/ <br>
 https://biographyhelp.sciencesimplified.pro/ <br>
 https://freenomisratelimitingme.cf/ <br>
+https://membean.cf/ <br>
 https://yomom.cpasociados.net/ <br>
 https://lizzyyy.bgg.cl/ <br>
 https://another.theeduweb.com/ <br>
@@ -275,8 +275,11 @@ https://major.education/ <br>
 https://tutorsharp.com/ <br>
 https://learnbiology.quest/ <br>
 https://tutorcenter.quest/ <br>
+https://iloveeducation.vipers.design/ <br>
 https://cleverutopia.com/ <br>
 https://utopiaunblocker.com/ <br>
+https://howtomath.org/ <br>
+https://eduverse.wiki/ <br>
 
 ### Elixir:
 https://elixirofficial.com <br>
@@ -286,6 +289,7 @@ https://gooogle.williamzimmerm4.repl.co/ <br>
 
 ### Ultraviolet (Other):
 https://google7-1.jacoblopez25.repl.co/ <br>
+https://ultraiolet-node2-4.jacoblopez25.repl.co/ <br>
 
 ### Node Unblocker: (shows as dangerous, broke)
 https://t-self.vercel.app <br>
@@ -309,15 +313,20 @@ https://scpwolf.motox3m.info/ <br>
 https://scpwolf.ballbang.fun/ <br>
 
 ### Moss News: Click “Why the U.S. Government has banned TikTok” then click the word misleading or viewing; you will get redirected to an about:blank with stuff on it. Click “503 page”.
+
+#### LONG VERSION:
 https://media.exid.me/ <br>
 https://fishme.me/ <br>
 https://foxmoss.com/ <br>
 https://fox.artclass.site/ <br>
+https://securly.com.foxmoss.com/
+https://mossnews.mathtutoringwithlove.info/ <br>
 https://mediaology.mediaology.com/ (note that mediaology.com redirects to https://fishme.me/) <br>
 
-### Ultraviolet (Medialogy):
+#### INSTANT REDIRECT Ultraviolet (Medialogy):
 https://mossnews.mathtutoringwithlove.info/uv/ <br>
 https://securly.com.foxmoss.com/uv/ <br>
+https://fishme.me/uv/ <br>
 
 ### Ducky (Terbium):
 https://terbium1.pages.dev/ <br>
@@ -339,11 +348,13 @@ https://he-just.farted.net/ <br>
 https://astroid.jib.ar/ <br>
 https://mathematics.soon.it/ <br>
 https://english.pii.at/ <br>
+https://mathematics.port0.org/ <br>
 https://mathstudy.fivepals.com/ <br>
 https://study.sailtheuniverse.com/ <br>
 https://mathisfun.hec.to/ <br>
 https://english.jumpingcrab.com/ <br>
 https://learning.sailtheuniverse.com/ <br>
+https://division.danielwilkins.org/ <br>
 
 ### Shadow Browser: (has ads)
 https://math.madroid.design <br>
@@ -351,6 +362,7 @@ https://edu.madroidmathlearning.online/ <br>
 https://shadow.msg.boats/ <br>
 https://phantom.lol/ <br>
 https://shadowis.super-cool.app/ <br>
+https://shadow.isreallycool.lol/ <br>
 https://ima.mctwisted.pro/ <br>
 https://edu.elevatecorp.xyz/ <br>
 https://ila.jswords.xyz/ <br>
@@ -400,6 +412,7 @@ https://tristanschools.co/ <br>
 https://tutors4u.net/ <br>
 https://cheapclass.co/ <br>
 https://learn2invest.info/ <br>
+https://tutors4cheap.co/ <br>
 
 ### Incognito (other):
 https://incognito-3.spamz0.repl.co/ <br>
@@ -431,6 +444,8 @@ https://skybright.art/ <br>
 https://science4noobs.co/ <br>
 https://silvereen.org/ <br>
 https://thelandofreading.com/ <br>
+https://mathland.wiki/ <br>
+https://onedomain.info/ <br>
 
 ### Cobalt:
 https://birdfood.gq/ <br>
@@ -466,6 +481,7 @@ https://bitmath.xyz/ <br>
 
 ### Noctura:
 https://noctura.tech/ <br>
+https://noctura.app/ <br>
 
 ### Sodium:
 https://3651dade.sodium-5h8.pages.dev/welcome <br>
@@ -517,11 +533,14 @@ https://google7-1.jacoblopez25.repl.co/ <br>
 https://beta100.jacoblopez25.repl.co/ <br>
 https://roogle.jacoblopez25.repl.co/ <br>
 https://google17.jacoblopez25.repl.co/ <br>
+https://google11-1.jacoblopez25.repl.co/ <br>
 https://yea-1.jacoblopez25.repl.co/ <br>
+https://youtube-like-and-sub.jacoblopez25.repl.co/ <br>
 
 ### Galaxy:
-https://real-galaxy-frfr.vercel.app/
-https://galaxy-is-cool.vercel.app/
+https://real-galaxy-frfr.vercel.app/ <br>
+https://galaxy-is-cool.vercel.app/ <br>
+https://galaxy-two-taupe.vercel.app/ <br>
 
 ### Plexile Arcade:
 https://plexile-arcade-2.glitch.me/home.html <br>
@@ -560,6 +579,7 @@ https://school.pgatsby.dev/ <br>
 ### SurfTheWeb:
 https://surfthewebv3.glitch.me/ <br>
 https://surfthewebv3.netlify.app/ <br>
+https://galacticnetwork.github.io/SurfTheWeb-V3/ <br>
 
 ### Ruby Education: Unclear how this works, join the DSC server maybe?
 https://ruby.jundy.org/ <br>
@@ -575,17 +595,17 @@ https://novogames.twilightparadox.com/index.html <br>
 https://wtfnovogames.crabdance.com/ <br>
 
 ### Rusty:
-https://rustyv2.r480github.repl.co/
-https://rusty.r480github.repl.co/
-https://rusty.grobby.repl.co/
-https://rusty-asf.funnigamer.repl.co/
+https://rustyv2.r480github.repl.co/ <br>
+https://rusty.r480github.repl.co/ <br>
+https://rusty.grobby.repl.co/ <br>
+https://rusty-asf.funnigamer.repl.co/ <br>
 
 ### Tsunami:
-https://fognetwork.github.io/Tsunami-Lite/
+https://fognetwork.github.io/Tsunami-Lite/ <br>
 https://imfasterthanseth.grobby.repl.co/ <br>
 
 ### IR Unblocked:
-https://irunblocked.xyz/
+https://irunblocked.xyz/ <br>
 
 ### Removed:
 TIW (broken) <br>
