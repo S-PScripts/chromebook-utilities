@@ -36,10 +36,16 @@ https://emerald.pluh.site/ <br>
 https://emerald2.pluh.site/ <br>
 https://pluh.tantrum.org/ <br>
 https://friedthe-chickenman.home.kg/ <br>
+https://history.centuriontel.com/ <br>
+https://destination.routesmaps.com/ <br>
+https://planterbound.5thaurora.com/ <br>
+https://edu.reves.cl/ <br>
 
 ### Tinf0il (like Artclass): (can be cloaked and about:blanked)
 https://staff.greenvilleducation.tk/ <br>
 https://commanders.design/ <br>
+https://f0lga.tech/ <br>
+https://calculusproblems.online/ <br>
 
 ### Incognito(NOBLO):
 https://uk1.noblo.cc/ (united kingdom) <br>
@@ -54,6 +60,14 @@ https://uk1.cookiesfor.me/ <br>
 https://uk2.cookiesfor.me/ <br>
 https://us1.cookiesfor.me/ <br>
 https://est1.cookiesfor.me/ <br>
+https://uk1.noblocc.me/ <br>
+https://uk2.noblocc.me/ <br>
+https://us1.noblocc.me/ <br>
+https://est1.noblocc.me/ <br>
+https://uk1.tanner502.uk/ <br>
+https://uk2.tanner502.uk/ <br>
+https://us1.tanner502.uk/ <br>
+https://est1.tanner502.uk/ <br>
 
 ### Interstellar: (opens in about:blank, can be cloaked) [HAS ADS]
 #### [WARNING: SINCE IT WORKS WITH CLOUDFLARE, IT CAN SOMETIMES BE DOWN!]
@@ -64,9 +78,11 @@ https://vercel.wiki/ <br>
 https://khanacademy.me/ <br>
 https://beesliketo.buzz/ <br>
 https://photography.ryanandjen.org/ <br>
+https://recycling.shekinahphotography.com/ <br>
 https://about.computers-science.org/ <br>
 https://soccer.mikedoland.com/ <br>
 https://lightsped.hop.sh/ <br>
+https://isaac-scar-12-smells.hop.sh/ <br>
 https://these-goofy-goobers.hop.sh/ <br>
 https://my-last-link-for-a-while.hop.sh/ <br>
 https://you-silly-fool.hop.sh/ <br>
@@ -250,6 +266,7 @@ https://cleverutopia.com/ <br>
 https://elixirofficial.com <br>
 https://cerryx.net/ <br>
 https://drab-gold-mackerel-robe.cyclic.app/ <br>
+https://gooogle.williamzimmerm4.repl.co/ <br>
 
 ### Ultraviolet (Other):
 https://google7-1.jacoblopez25.repl.co/ <br>
@@ -322,6 +339,8 @@ https://ila.jswords.xyz/ <br>
 https://glueon.hotglue.click/ <br>
 https://mathedu.scay.net/ <br>
 https://phantomnetwork.cloud/ <br>
+https://priv.peaks-a.pro/ <br>
+https://math.centraloff.org/ <br>
 
 ### Freedom Project (like Ultraviolet):
 https://hx.illuminx.live/ <br>
@@ -331,6 +350,8 @@ https://xs.xenol.life/ <br>
 https://fr.provend.tech/ <br>
 https://xs.xenol.cloud/ <br>
 https://ln.xenol.one/ <br>
+https://xn.xenol.life/ <br>
+https://fr.illuminx.live/ <br>
 
 ### Riptide:
 https://riptide.fognetwork.repl.co/ <br>
@@ -357,6 +378,7 @@ https://englishdata.co/ <br>
 https://creativeclassroom.co/ <br>
 https://tristanschools.co/ <br>
 https://tutors4u.net/ <br>
+https://cheapclass.co/ <br>
 
 ### Incognito (other):
 https://incognito-3.spamz0.repl.co/ <br>
@@ -384,6 +406,8 @@ https://long-stockings-duck.cyclic.app/ (V2) <br>
 https://greenreading.info/ <br>
 https://skybright.art/ <br>
 https://science4noobs.co/ <br>
+https://silvereen.org/ <br>
+https://thelandofreading.com/ <br>
 
 ### Cobalt:
 https://birdfood.gq/ <br>
@@ -404,6 +428,7 @@ https://computers.ourupgrade.com/ <br>
 https://science.aquaflo.net/ <br>
 https://business.arslaniz.biz/ <br>
 https://info.ajalo.com/ <br>
+https://park.tallison.com/ <br>
 
 ### Terbium:
 https://terbium-46q.pages.dev/ <br>
@@ -451,6 +476,8 @@ https://jocular-selkie-093f6f.netlify.app/ (old?) <br>
 
 ### UBG US:
 https://classroom.ubgusa.com/apps/google <br>
+https://ubgusa.com/ <br>
+https://geometry.ubgusa.com/ <br>
 
 ### Vapor:
 https://vapor.uavwzecan48kbut.repl.co/ <br>
@@ -459,6 +486,10 @@ https://vapor-1.justjxrdannnnnxn.repl.co/ <br>
 ### "Google" (like Ultraviolet): (wait for it to load)
 https://beta101-1.jacoblopez25.repl.co/ <br>
 https://google7-1.jacoblopez25.repl.co/ <br>
+https://beta100.jacoblopez25.repl.co/ <br>
+https://roogle.jacoblopez25.repl.co/ <br>
+https://google17.jacoblopez25.repl.co/ <br>
+https://yea-1.jacoblopez25.repl.co/ <br>
 
 ### Galaxy:
 https://real-galaxy-frfr.vercel.app/
@@ -468,14 +499,22 @@ https://plexile-arcade-2.glitch.me/home.html <br>
 https://3ez-math-w0rksheets.glitch.me/home.html <br>
 https://plexile-arcade.glitch.me/home.html <br>
 https://33-ezschoolmath-problems.glitch.me/home.html <br>
-https://plexile-arcade.jesusclapsu.repl.co/home.html (old?) <br>
+https://cool-math-stuff4school.glitch.me/home.html <br>
+https://schhooolis-s0f--un.glitch.me/home.html <br>
+https://plexile-arcade.glitch.me/home.html <br>
+https://plexile-arcade.jesusclapsu.repl.co/home.html (OLD) <br>
 
 ### Palladium:
 https://palladium-1.deku22wes.repl.co/ <br>
+https://palladium-1.maddoxhyttinen.repl.co/ <br>
+https://palladiumv2.r480github.repl.co/ <br>
+https://palladium-1.r480github.repl.co/ <br>
 
 ### General Mathematics (WHAT IT'S STILL HERE?):
 https://d.josephampiah.repl.co/ <br>
 https://liam.calvingstattenb.repl.co/ <br>
+https://totallylegit.diamondbroplayzfr.repl.co/ <br>
+https://forchase.jashaltforschoo.repl.co/ <br>
 
 ### Snorlax's Cave:
 https://snorlax-ep62.onrender.com/ <br>
@@ -503,6 +542,15 @@ https://haven.proxyhaven.repl.co <br>
 https://keyofgreatness.ignorelist.com/ <br>
 https://novogames.twilightparadox.com/index.html <br>
 https://wtfnovogames.crabdance.com/ <br>
+
+### Rusty:
+https://rustyv2.r480github.repl.co/
+https://rusty.r480github.repl.co/
+https://rusty.grobby.repl.co/
+https://rusty-asf.funnigamer.repl.co/
+
+### Tsunami:
+https://fognetwork.github.io/Tsunami-Lite/
 
 ### Removed:
 TIW (broken) <br>
