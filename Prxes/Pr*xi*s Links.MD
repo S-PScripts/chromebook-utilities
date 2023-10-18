@@ -420,7 +420,7 @@ https://classroom.ubgusa.com/apps/google <br>
 ### Vapor:
 https://vapor.uavwzecan48kbut.repl.co/ <br>
 
-### ???: (I don't know how these work)
+### "Google" (like Ultraviolet): (wait for it to load)
 https://beta101-1.jacoblopez25.repl.co/ <br>
 https://google7-1.jacoblopez25.repl.co/ <br>
 
