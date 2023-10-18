@@ -20,11 +20,13 @@ https://boiledeggs.org<br>
 https://ur2ndlibrary.com/<br>
 https://englishology.org/<br>
 https://terrariaisgreat.com/<br>
+https://televisionrepair.us/ <br>
 https://thechefmethod.com/<br>
 https://getbackmath.com/<br>
 https://empressoflightnohit.com/<br>
 https://cheapdogs.org/ <br>
 https://terriblestories.org/ <br>
+https://totalmathway.com/ <br>
 https://busy-pink-lamb-hose.cyclic.app/ [OLD] <br>
 https://the-new-holy-unblxckerr.jacoblopez25.repl.co/ [DEV] <br>
 
@@ -77,6 +79,9 @@ https://v4.wiki/ <br>
 https://vercel.wiki/ <br>
 https://khanacademy.me/ <br>
 https://beesliketo.buzz/ <br>
+https://earth.skytourtw.com/ <br>
+https://nimbuss.cloud/ <br>
+https://geographytips.org/ <br>
 https://photography.ryanandjen.org/ <br>
 https://recycling.shekinahphotography.com/ <br>
 https://about.computers-science.org/ <br>
@@ -88,6 +93,7 @@ https://my-last-link-for-a-while.hop.sh/ <br>
 https://you-silly-fool.hop.sh/ <br>
 https://reading.hop.sh/ <br>
 https://financial-literacy.fedea.com.ar/ <br>
+https://test.lightbrownwolfl.repl.co/ [OLD] <br>
 https://testing.grobby.repl.co/ [OLD] <br>
 https://bubbo.dev/ <br>
 https://thanksgiving.tscng.org/ <br>
@@ -186,6 +192,7 @@ https://howtomath.theeduweb.com/ <br>
 https://math4kids.containersarelinux.net/ <br>
 https://war.entraide.cf/ <br>
 https://tips.bitesmagazine.com/ <br>
+https://biographyhelp.sciencesimplified.pro/ <br>
 https://freenomisratelimitingme.cf/ <br>
 https://yomom.cpasociados.net/ <br>
 https://joyridearoundthepark.5inas.cf/ <br>
@@ -207,6 +214,7 @@ https://k12-fl.k12sciencemuseum.org/ <br>
 
 ### Metallic: (can be cloaked)
 https://metallic.eu.org/ <br>
+https://usemetallic.com/ <br>
 
 ### Ultraviolet (TBG):
 https://gafiradar.com/ <br>
@@ -230,6 +238,8 @@ https://sub.sushiprosi.com/ <br>
 
 ### Supernova (like Ultraviolet):
 https://supernova-v2--jonathanevans7.repl.co/ <br>
+https://supernova-v2.calebolveraboni.repl.co/ <br>
+https://supernova-v2.ashtenpride.repl.co/ <br>
 
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ <br>
@@ -301,6 +311,7 @@ https://mediaology.mediaology.com/ (note that mediaology.com redirects to https:
 
 ### Ultraviolet (Medialogy):
 https://mossnews.mathtutoringwithlove.info/uv/ <br>
+https://securly.com.foxmoss.com/uv/ <br>
 
 ### Ducky (Terbium):
 https://terbium1.pages.dev/ <br>
@@ -326,6 +337,7 @@ https://mathstudy.fivepals.com/ <br>
 https://study.sailtheuniverse.com/ <br>
 https://mathisfun.hec.to/ <br>
 https://english.jumpingcrab.com/ <br>
+https://learning.sailtheuniverse.com/ <br>
 
 ### Shadow Browser: (has ads)
 https://math.madroid.design <br>
@@ -372,6 +384,8 @@ https://genarcy.watercdn.gq/proxy/index.html <br>
 ### Solar:
 https://womginx.r480github.repl.co/ <br>
 https://womginx.nicolaspichavan.repl.co/ <br>
+https://womginx.solarontop.repl.co/ <br>
+https://womginx-2.09sharkboyroger.repl.co/ <br>
 
 ### Shuttle: (HAS ADS) (OPENS IN ABOUT:BLANK)
 https://englishdata.co/ <br>
@@ -379,6 +393,7 @@ https://creativeclassroom.co/ <br>
 https://tristanschools.co/ <br>
 https://tutors4u.net/ <br>
 https://cheapclass.co/ <br>
+https://learn2invest.info/ <br>
 
 ### Incognito (other):
 https://incognito-3.spamz0.repl.co/ <br>
@@ -395,6 +410,7 @@ https://topnotchtopnotchtopnotchtopnotchtopnotch.onrender.com/ <br>
 ### Doge Unblocker:
 https://photography.lystrup.org/app <br>
 https://geoquiz.mji.ro/app <br>
+https://district.clarksvilletix.com/app <br>
 https://students.amorins.org/app <br>
 https://study.helixarcade.space/app <br>
 https://p-vedah38711.b4a.run/app (V3) <br>
@@ -422,6 +438,9 @@ https://degeneracy.ashtonaksu.repl.co/ <br>
 ### AnuraOS: CLICK NORMAL USER
 https://anura.mercurywork.shop/
 
+### DuckOS: CLICK DUCKOS THEN BOOT DUCKOS
+https://skyhax.xyz/
+
 ### Kazwire:
 https://math.chaintrust.com/ <br>
 https://computers.ourupgrade.com/ <br>
@@ -448,6 +467,7 @@ https://beta.sodium-5h8.pages.dev/welcome <br>
 https://3ab2b22a.sodium-5h8.pages.dev/welcome <br>
 https://sodium-5h8.pages.dev/ <br>
 https://7d90cd1f.sodium-5h8.pages.dev/welcome <br>
+https://d628312e.sodium-5h8.pages.dev/welcome <br>
 
 ### Typeist:
 https://typeist.lat/ <br>
@@ -459,6 +479,7 @@ https://anonymous-static.qlock.repl.co/ <br>
 https://whitespider.pages.dev/ <br>
 https://whitespider.gq/ <br>
 https://whitespider.cf/ <br>
+https://wsug.gq/ <br>
 
 ### Outred:
 https://outredlatest.idek29879890.repl.co/ <br>
@@ -493,6 +514,7 @@ https://yea-1.jacoblopez25.repl.co/ <br>
 
 ### Galaxy:
 https://real-galaxy-frfr.vercel.app/
+https://galaxy-is-cool.vercel.app/
 
 ### Plexile Arcade:
 https://plexile-arcade-2.glitch.me/home.html <br>
@@ -534,6 +556,7 @@ https://surfthewebv3.netlify.app/ <br>
 ### Ruby Education: Unclear how this works, join the DSC server maybe?
 https://ruby.jundy.org/ <br>
 https://client.homeplex.org/ <br>
+https://clients.republicofgamers.net/ <br>
 
 ### Aero:
 https://haven.proxyhaven.repl.co <br>
@@ -551,6 +574,9 @@ https://rusty-asf.funnigamer.repl.co/
 
 ### Tsunami:
 https://fognetwork.github.io/Tsunami-Lite/
+
+### IR Unblocked:
+https://irunblocked.xyz/
 
 ### Removed:
 TIW (broken) <br>
