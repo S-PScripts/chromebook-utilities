@@ -186,7 +186,6 @@ https://reading.englishpapers.online/ <br>
 https://oh-hell-nah.5inas.cf/ <br>
 https://search.mugmovies.pics/ <br>
 https://sso.prodigygame.online/ <br>
-https://valow.gq/ <br>
 https://fun1.frostbite.cc/ <br>
 https://gabeisagoober.bluepill.ml/ <br>
 https://1il1liillliii1lli1.nya.pub/ <br>
@@ -207,7 +206,6 @@ https://rammer.rude.li/ <br>
 https://googlesclassroom.gq <br>
 https://houydabeast.redpill.ml/ <br>
 https://joyridearoundthepark.5inas.cf/ <br>
-https://fun1.frostbite.cc/ <br>
 https://shouldiboosttherammerheadserver.tk/ <br>
 https://shouldiboosttherammerheadserver.gq/ <br>
 
