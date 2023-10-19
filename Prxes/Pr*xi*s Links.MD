@@ -232,6 +232,10 @@ https://geographytips.org/ <br>
 https://photography.ryanandjen.org/ <br>
 https://recycling.shekinahphotography.com/ <br>
 https://about.computers-science.org/ <br>
+https://thanksgiving.tscng.org/ <br>
+https://education.sciencevictory.org/ <br>
+https://educational.naming-schemes.org/ <br>
+https://world-news.inthepress.org/ <br>
 https://soccer.mikedoland.com/ <br>
 https://lightsped.hop.sh/ <br>
 https://isaac-scar-12-smells.hop.sh/ <br>
@@ -241,10 +245,6 @@ https://reading-is-cool.hop.sh/ <br>
 https://you-silly-fool.hop.sh/ <br>
 https://reading.hop.sh/ <br>
 https://financial-literacy.fedea.com.ar/ <br>
-https://thanksgiving.tscng.org/ <br>
-https://education.sciencevictory.org/ <br>
-https://educational.naming-schemes.org/ <br>
-https://world-news.inthepress.org/ <br>
 https://wiki.stofcheck-ballinger.com/ <br>
 https://electronics.open-autonomy.com/ <br>
 https://about-us.nuggetgarage.com/ <br>
