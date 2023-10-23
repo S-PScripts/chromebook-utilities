@@ -7,9 +7,6 @@ There may be links that do work for you but I haven’t put them here. I want to
 
 ### Tinf0il (like Artclass): (can be cloaked and about:blanked)
 https://staff.greenvilleducation.tk/ <br>
-https://commanders.design/ <br>
-https://f0lga.tech/ <br>
-https://calculusproblems.online/ <br>
 
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ <br>
