@@ -304,7 +304,6 @@ https://empressoflightnohit.com/<br>
 https://cheapdogs.org/ <br>
 https://terriblestories.org/ <br>
 https://totalmathway.com/ <br>
-https://busy-pink-lamb-hose.cyclic.app/ [OLD] <br>
 https://the-new-holy-unblxckerr.jacoblopez25.repl.co/ [DEV] <br>
 https://aio-fowntain.koyeb.app/ [DEV] <br>
 
