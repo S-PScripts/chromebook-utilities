@@ -576,11 +576,6 @@ https://surfthewebv3.glitch.me/ <br>
 https://surfthewebv3.netlify.app/ <br>
 https://galacticnetwork.github.io/SurfTheWeb-V3/ <br>
 
-### Ruby Education: Unclear how this works, join the DSC server maybe?
-https://ruby.jundy.org/ <br>
-https://client.homeplex.org/ <br>
-https://clients.republicofgamers.net/ <br>
-
 ### Aero:
 https://haven.proxyhaven.repl.co <br>
 
@@ -623,5 +618,6 @@ Plooshi Docs (down) <br>
 Hyper Tabs (ended) <br>
 Ludicrous (broken) <br>
 Node Unblocker (broken) <br>
+Ruby Education (down)
 
 Thanks c0nstantly for the new formatting.
