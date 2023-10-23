@@ -589,10 +589,6 @@ https://rusty.r480github.repl.co/ <br>
 https://rusty.grobby.repl.co/ <br>
 https://rusty-asf.funnigamer.repl.co/ <br>
 
-### Tsunami:
-https://fognetwork.github.io/Tsunami-Lite/ <br>
-https://imfasterthanseth.grobby.repl.co/ <br>
-
 ### IR Unblocked:
 https://irunblocked.xyz/ <br>
 
@@ -618,5 +614,6 @@ Hyper Tabs (ended) <br>
 Ludicrous (broken) <br>
 Node Unblocker (broken) <br>
 Ruby Education (down)
+Tsunami (broken)
 
 Thanks c0nstantly for the new formatting.
