@@ -280,10 +280,7 @@ https://clever-bee-tiara.cyclic.app/ <br>
 https://incognito-1.seanisgoated.repl.co/ <br>
 
 ### Sp0ck (Incognito):
-https://brothereistoomuchtopnotch.onrender.com/ <br>
-https://lightspeed-is-bad-at-blocking.onrender.com/ <br>
 https://topnotchtopnotchtopnotchtopnotchtopnotch.onrender.com/ <br>
-https://topnotchsupasecretwebsearcher.onrender.com/ <br>
 
 ### Holy Unblocker: (can be cloaked)
 https://guidetoivyplants.com/ <br>
