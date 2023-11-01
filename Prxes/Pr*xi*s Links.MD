@@ -273,29 +273,18 @@ https://incognito-1.seanisgoated.repl.co/ <br>
 https://topnotchtopnotchtopnotchtopnotchtopnotch.onrender.com/ <br>
 
 ### Holy Unblocker: (can be cloaked)
-https://guidetoivyplants.com/ <br>
-https://whackylightbulb.org/<br>
 https://python3langdocs.net/<br>
-https://emeraldiswack.com/<br>
 https://campusdirections.org/<br>
 https://thattrevorproject.com/<br>
-https://mathematicalsols.org/<br>
-https://historicalanime.org<br>
 https://colpsk12.org/<br>
 https://boiledeggs.org<br>
-https://magicboomrang.org/ <br>
 https://ur2ndlibrary.com/<br>
 https://englishology.org/<br>
-https://terrariaisgreat.com/<br>
 https://televisionrepair.us/ <br>
 https://thechefmethod.com/<br>
 https://getbackmath.com/<br>
-https://empressoflightnohit.com/<br>
 https://cheapdogs.org/ <br>
-https://terriblestories.org/ <br>
 https://totalmathway.com/ <br>
-https://the-new-holy-unblxckerr.jacoblopez25.repl.co/ [DEV] <br>
-https://aio-fowntain.koyeb.app/ [DEV] <br>
 
 ### Emerald (THE GREAT RETURN): (HAS ADS)
 https://emerald.pluh.site/ <br>
@@ -602,4 +591,7 @@ Node Unblocker (broken) <br>
 Ruby Education (down) <br>
 Tsunami (broken) <br>
 Tinf0il (school having beef with it but not art class?) <br>
-Thanks c0nstantly for the new formatting.
+
+Thanks c0nstantly for the new formatting. <br>
+
+PS: rip https://historicalanime.org/ it was my first holy unblocker twt since july 2022 <br>
