@@ -22,13 +22,11 @@ https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://sub.ar
 https://mathnotes.help (you can add ANYTHING before mathnotes, e.g. https://sub.mathnotes.help/) <br>
 Note: You can add ANYTHING before artclass.site (e.g. https://subscribe.artclass.site/) <br>
 
-### Ultraviolet (TBG):
+### TBG95 (Ultraviolet):
 https://gafiradar.com/ <br>
 https://ny.gafiradar.com/ <br>
-https://qag99.online/ <br>
-https://class.qag99.one/ <br>
 
-### Ultraviolet (WolfUnblock):
+### topVAZ games (Ultraviolet):
 https://sub.topicademy.com/ <br>
 https://sub.sashimimi.com/ <br>
 https://sub.promathclass.com/ <br>
@@ -38,21 +36,21 @@ https://sub.23azoshooting.com/ <br>
 https://sub.sushiprosi.com/ <br>
 #### Add ANYTHING before topicademy, sashimimi, promathclass etc.
 
-### TopVAZ (like Ultraviolet): You need to click the M- button on the calculator. It will open as an about:blank.
+### TopVAZ (Ultraviolet): You need to click the M- button on the calculator. It will open as an about:blank.
 https://blog.mathblogs.online/ <br>
 https://school.mathblogs.online/ <br>
 https://math.geometrytip.online/ <br>
 
-### Supernova (like Ultraviolet):
+### Supernova (Ultraviolet):
 https://supernova-v2--jonathanevans7.repl.co/ <br>
 https://supernova-v2.calebolveraboni.repl.co/ <br>
 https://supernova-v2.ashtenpride.repl.co/ <br>
 
-### Ultraviolet (Other):
-https://google7-1.jacoblopez25.repl.co/ <br>
+### Ultraviolet (Canvas):
 https://ultraiolet-node2-4.jacoblopez25.repl.co/ <br>
+https://wicked-gray-gharial.cyclic.app/ <br>
 
-### Ballbang (like Ultraviolet):
+### Ballbang (Ultraviolet):
 #### Normal:
 https://mathclass.ballbang.wiki/ <br>
 https://mathclass.ballbang.xyz/ <br>
@@ -80,13 +78,10 @@ https://mossnews.mathtutoringwithlove.info/uv/ <br>
 https://securly.com.foxmoss.com/uv/ <br>
 https://fishme.me/uv/ <br>
 
-### Ultraviolet (BruhProx):
+### BruhProx (Ultraviolet):
 https://bruhprox.pages.dev/ <br>
 
-### Ultraviolet (Other 2):
-https://wicked-gray-gharial.cyclic.app/ <br>
-
-### Freedom Project (like Ultraviolet):
+### Freedom Project (Ultraviolet):
 https://hx.illuminx.live/ <br>
 https://news.provend.tech/ <br>
 https://xs.xenol.one/ <br>
@@ -97,7 +92,7 @@ https://ln.xenol.one/ <br>
 https://xn.xenol.life/ <br>
 https://fr.illuminx.live/ <br>
 
-### "Google" (like Ultraviolet): (wait for it to load)
+### "Google" (Ultraviolet): (wait for it to load)
 https://beta101-1.jacoblopez25.repl.co/ <br>
 https://google7-1.jacoblopez25.repl.co/ <br>
 https://beta100.jacoblopez25.repl.co/ <br>
