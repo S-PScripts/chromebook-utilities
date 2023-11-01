@@ -56,7 +56,6 @@ https://ultraiolet-node2-4.jacoblopez25.repl.co/ <br>
 #### Normal:
 https://mathclass.ballbang.wiki/ <br>
 https://mathclass.ballbang.xyz/ <br>
-https://ballbang.motox3m.info/ <br>
 https://mathclass.unblocked-games.lol/ <br>
 https://scpwolfpro.ballbang.fun/ <br>
 https://avocadoarcade.lockthebook.com/ <br>
