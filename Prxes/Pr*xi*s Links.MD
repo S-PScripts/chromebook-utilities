@@ -58,7 +58,7 @@ https://mathclass.unblocked-games.lol/ <br>
 https://scpwolfpro.ballbang.fun/ <br>
 https://avocadoarcade.lockthebook.com/ <br>
 
-### Click the ( Button on the calculators for these: (Ballbang opens as about:blank)
+#### Click the ( Button on the calculators for these: (Ballbang opens as about:blank)
 https://scpwolf.ballbang1.com/ <br>
 https://scpwolf.ballbang.fun/ <br>
 
@@ -476,11 +476,22 @@ https://typeist.lat/ <br>
 ### Anonymous:
 https://anonymous-static.qlock.repl.co/ <br>
 
-### WhiteSpider:
+### WhiteSpider: Click Unblocker
+#### Normal:
 https://whitespider.pages.dev/ <br>
 https://whitespider.gq/ <br>
 https://whitespider.cf/ <br>
 https://wsug.gq/ <br>
+
+#### Embeds:
+https://sites.google.com/view/whitespider <br>
+https://sites.google.com/view/white-spider <br>
+https://sites.google.com/view/whitespi <br>
+https://sites.google.com/view/wsunbl <br>
+https://sites.google.com/view/wsug <br>
+https://sites.google.com/view/x999 <br>
+https://sites.google.com/view/gainforschool <br>
+https://sites.google.com/view/theunlockedbay <br>
 
 ### Outred:
 https://outredlatest.idek29879890.repl.co/ <br>
@@ -496,15 +507,14 @@ https://misterfonka.github.io/ <br>
 https://deft-travesseiro-e4bb56.netlify.app/ <br>
 https://jocular-selkie-093f6f.netlify.app/ (OLD) <br>
 
-### UBG US:
-https://classroom.ubgusa.com/apps/google <br>
+### UBG US: Click Browse Now
+https://classroom.ubgusa.com/ <br>
 https://ubgusa.com/ <br>
 https://geometry.ubgusa.com/ <br>
 
 ### Vapor:
 https://vapor.uavwzecan48kbut.repl.co/ <br>
 https://vapor-1.justjxrdannnnnxn.repl.co/ <br>
-
 
 ### Galaxy:
 https://real-galaxy-frfr.vercel.app/ <br>
@@ -527,23 +537,12 @@ https://palladium-1.maddoxhyttinen.repl.co/ <br>
 https://palladiumv2.r480github.repl.co/ <br>
 https://palladium-1.r480github.repl.co/ <br>
 
-### General Mathematics (WHAT IT'S STILL HERE? Don't ask why I said that...):
-https://d.josephampiah.repl.co/ <br>
-https://liam.calvingstattenb.repl.co/ <br>
-https://totallylegit.diamondbroplayzfr.repl.co/ <br>
-https://forchase.jashaltforschoo.repl.co/ <br>
-
 ### Snorlax's Cave:
 https://snorlax-ep62.onrender.com/ <br>
 
-### Websites like CroxyProxy:
+### CroxyProxy clones:
 https://www.urmom.gq/ <br>
 https://www.binomosignal.com/ <br>
-https://www.harysutrisno.site/ <br>
-
-### Ehab Games:
-https://play.ehabnow.com/ <br>
-https://school.pgatsby.dev/ <br>
 
 ### SurfTheWeb:
 https://surfthewebv3.glitch.me/ <br>
@@ -591,6 +590,8 @@ Node Unblocker (broken) <br>
 Ruby Education (down) <br>
 Tsunami (broken) <br>
 Tinf0il (school having beef with it but not art class?) <br>
+General Mathematics (ended, haha bye again you trashy proxy) <br>
+Ehab Games (banned)
 
 Thanks c0nstantly for the new formatting. <br>
 
