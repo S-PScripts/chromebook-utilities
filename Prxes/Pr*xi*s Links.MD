@@ -39,7 +39,6 @@ https://sub.sushiprosi.com/ <br>
 #### Add ANYTHING before topicademy, sashimimi, promathclass etc.
 
 ### TopVAZ (like Ultraviolet): You need to click the M- button on the calculator. It will open as an about:blank.
-https://blog.geometrytip.online/ <br>
 https://blog.mathblogs.online/ <br>
 https://school.mathblogs.online/ <br>
 https://math.geometrytip.online/ <br>
