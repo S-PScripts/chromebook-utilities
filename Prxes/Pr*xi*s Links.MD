@@ -5,9 +5,6 @@ There may be links that do work for you but I haven’t put them here. I want to
 # REPL LINKS ARE SLOW
 ## HUNDREDS OF NEW LINKS ADDED!
 
-### Tinf0il (like Artclass): (can be cloaked and about:blanked)
-https://staff.greenvilleducation.tk/ <br>
-
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ <br>
 https://ixl.plus/ <br>
@@ -609,7 +606,7 @@ Plooshi Docs (down) <br>
 Hyper Tabs (ended) <br>
 Ludicrous (broken) <br>
 Node Unblocker (broken) <br>
-Ruby Education (down)
-Tsunami (broken)
-
+Ruby Education (down) <br>
+Tsunami (broken) <br>
+Tinf0il (school having beef with it but not art class?) <br>
 Thanks c0nstantly for the new formatting.
