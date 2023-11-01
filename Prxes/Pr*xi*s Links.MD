@@ -287,10 +287,7 @@ https://cheapdogs.org/ <br>
 https://totalmathway.com/ <br>
 
 ### Emerald (THE GREAT RETURN): (HAS ADS)
-https://emerald.pluh.site/ <br>
-https://emerald2.pluh.site/ <br>
 https://emerald-is-very-cool-if-this-works.aigame.biz/ <br>
-https://auth.reves.cl/ <br>
 https://edu.reves.cl/ <br>
 https://restaurant.giftofappetite.com/ <br>
 https://pluh.tantrum.org/ <br>
@@ -303,7 +300,6 @@ https://planterbound.5thaurora.com/ <br>
 https://www.coremathlessons.xyz/ <br>
 https://www.onspotify.xyz/ <br>
 https://k12-fl.k12sciencemuseum.org/ <br>
-https://k12.studybetter.xyz/ <br>
 
 ### Metallic: (can be cloaked)
 https://metallic.eu.org/ <br>
@@ -312,7 +308,7 @@ https://usemetallic.com/ <br>
 ### Galaxy (Metallic version):
 https://geoquiz.gq/ <br>
 
-### TBG (click Google):
+### TBG: Click Google
 https://sio.birdriver.org/ <br>
 https://sio.sentinam.io/ <br>
 
@@ -401,10 +397,8 @@ https://password-protection.netlify.app/ <br>
 ### Genoxy:
 https://genarcy.watercdn.gq/proxy/index.html <br>
 
-### Solar:
-https://womginx.r480github.repl.co/ <br>
+### Solar/Wombat:
 https://womginx.nicolaspichavan.repl.co/ <br>
-https://womginx.solarontop.repl.co/ <br>
 https://womginx-2.09sharkboyroger.repl.co/ <br>
 
 ### Shuttle: (HAS ADS) (OPENS IN ABOUT:BLANK)
@@ -430,8 +424,6 @@ https://long-stockings-duck.cyclic.app/ (V2) <br>
 ### Moonlight:
 https://greenreading.info/ <br>
 https://skybright.art/ <br>
-https://science4noobs.co/ <br>
-https://silvereen.org/ <br>
 https://thelandofreading.com/ <br>
 https://mathland.wiki/ <br>
 https://onedomain.info/ <br>
@@ -454,7 +446,7 @@ https://business.arslaniz.biz/ <br>
 https://info.ajalo.com/ <br>
 https://park.tallison.com/ <br>
 
-### Gallium:
+### Gallium: Click Browse Now
 https://bitmath.xyz/ <br>
 
 ### Noctura:
