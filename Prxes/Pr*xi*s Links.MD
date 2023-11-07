@@ -1,5 +1,5 @@
 # LIST CREATED BY S-PSCRIPTS ON GITHUB. DO NOT STEAL THIS DOCUMENT AND PASS IT OFF AS ALL OF YOUR WORK.
-## Note: The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it? 
+## Note: The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy, Ghosted and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it? 
 ## REPL LINKS ARE SLOW. DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT.
 
 ### Art Class: (can be cloaked and about:blanked)
@@ -13,6 +13,12 @@ https://v4-git-main-artclass.vercel.app/ <br>
 https://v4-snowy.vercel.app/ <br>
 https://v4-artclass.vercel.app/ <br>
 https://smellypay.isreally.pro/ <br>
+https://smellyal.isreally.pro/
+https://math.isreally.pro/ 
+https://stuffyschicken.isreallycool.lol/ <br>
+https://fair-gray-turkey-cuff.cyclic.app/ (OLD) <br>
+https://nervous-pocket-eel.cyclic.app/ (OLD) <br>
+https://subscribe.mathlearning.tech/ (add ANYTHING before math) <br>
 https://subscribe.mathhelpnow.site (add ANYTHING before math) <br>
 https://subscribe.sciencesimplified.pro (add ANYTHING before science) <br>
 https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://sub.artclass.lol/) <br>
@@ -203,7 +209,14 @@ https://gointerstellar.xyz <br>
 https://v4.wiki/ <br>
 https://vercel.wiki/ <br>
 https://khanacademy.me/ <br>
+https://mathway.cloud/  <br>
+https://roundrockisd.online/ <br>
 https://bubbo.dev/ <br>
+https://interstellar.lol/ <br>
+https://interstellar.titaniumnetwork.co/ <br>
+https://canvasinfrastructure.onrender.com/ <br>
+https://whatwha.onrender.com/ <br>
+https://business.youramys.com/ <br>
 https://desmos.me/ <br>
 https://dominos.buzz/ <br>
 https://beesliketo.buzz/ <br>
@@ -212,6 +225,9 @@ https://nimbuss.cloud/ <br>
 https://geographytips.org/ <br>
 https://photography.ryanandjen.org/ <br>
 https://recycling.shekinahphotography.com/ <br>
+https://educational-photos.shekinahphotography.com/  <br>
+https://edu.algebraxyz.com/ <br>
+https://computer-science.keecha.com/ <br>
 https://about.computers-science.org/ <br>
 https://thanksgiving.tscng.org/ <br>
 https://education.sciencevictory.org/ <br>
@@ -219,6 +235,8 @@ https://educational.naming-schemes.org/ <br>
 https://world-news.inthepress.org/ <br>
 https://coaching.garmanage.com/ <br>
 https://soccer.mikedoland.com/ <br>
+https://interstellarnetwork-interstellar22-hw4v.vercel.app/ <br>
+https://grassosisthebest.onrender.com/ <br>
 https://lightsped.hop.sh/ <br>
 https://isaac-scar-12-smells.hop.sh/ <br>
 https://these-goofy-goobers.hop.sh/ <br>
@@ -236,6 +254,10 @@ https://uk1.noblo.cc/ (UK server) <br>
 https://uk2.noblo.cc/ (UK server) <br>
 https://us1.noblo.cc/ (US server) <br>
 https://est1.noblo.cc/ (Estonian server) <br>
+https://uk1.coccblocc.men/ <br>
+https://uk2.coccblocc.men/ <br>
+https://us1.coccblocc.men/ <br>
+https://est1.coccblocc.men/ <br>
 https://uk1.phantomcaravan.uk/ <br>
 https://uk2.phantomcaravan.uk/ <br>
 https://us1.phantomcaravan.uk/ <br>
@@ -248,6 +270,14 @@ https://uk1.noblocc.me/ <br>
 https://uk2.noblocc.me/ <br>
 https://us1.noblocc.me/ <br>
 https://est1.noblocc.me/ <br>
+https://uk1.unblocc.co.uk/ <br>
+https://uk2.unblocc.co.uk/ <br>
+https://us1.unblocc.co.uk/ <br>
+https://est1.unblocc.co.uk/ <br>
+https://uk1.deblocc.uk/ <br>
+https://uk2.deblocc.uk/ <br>
+https://us1.deblocc.uk/ <br>
+https://est1.deblocc.uk/ <br>
 https://uk1.tanner502.uk/ <br>
 https://uk2.tanner502.uk/ <br>
 https://us1.tanner502.uk/ <br>
@@ -256,6 +286,8 @@ https://uk1.antiblocc.uk/ <br>
 https://uk2.antiblocc.uk/ <br>
 https://us1.antiblocc.uk/ <br>
 https://est1.antiblocc.uk/ <br>
+
+and there is now a US2 but HAHAH IM NOT ADDING IT (yet)
 
 ### Incognito (Other):
 https://incognito-3.spamz0.repl.co/ <br>
@@ -273,6 +305,8 @@ https://campusdirections.org/<br>
 https://thattrevorproject.com/<br>
 https://colpsk12.org/<br>
 https://boiledeggs.org<br>
+https://huanacademy.org/ <br>
+https://12gft.xyz/ <br>
 https://ur2ndlibrary.com/<br>
 https://englishology.org/<br>
 https://televisionrepair.us/ <br>
@@ -280,6 +314,8 @@ https://thechefmethod.com/<br>
 https://getbackmath.com/<br>
 https://cheapdogs.org/ <br>
 https://totalmathway.com/ <br>
+https://website-aio-unblockersreuploaded.koyeb.app/ <br> [Dev]
+https://holy.mathtutoringwithlove.info/ <br> [Dev]
 
 ### Emerald (THE GREAT RETURN): (HAS ADS)
 https://emerald-is-very-cool-if-this-works.aigame.biz/ <br>
@@ -295,6 +331,14 @@ https://planterbound.5thaurora.com/ <br>
 https://www.coremathlessons.xyz/ <br>
 https://www.onspotify.xyz/ <br>
 https://k12-fl.k12sciencemuseum.org/ <br>
+https://schoolplanning.xyz/ <br>
+https://www.mathhog.xyz/ <br>
+https://scary-vestments-bee.cyclic.app/ <br>
+https://camerons-homework.glitch.me/ <br>
+https://20mathtime.com/ <br>
+https://math4kids.xyz/ <br>
+https://interactive.kydana.art/ <br>
+https://tobi.gifts/ <br>
 
 ### Metallic: (can be cloaked)
 https://metallic.eu.org/ <br>
@@ -548,8 +592,12 @@ https://rusty.r480github.repl.co/ <br>
 https://rusty.grobby.repl.co/ <br>
 https://rusty-asf.funnigamer.repl.co/ <br>
 
+### HyperTabs:
+https://hypertabs-10.elijahsocool.repl.co/ <br>
+
 ### IR Unblocked:
 https://irunblocked.xyz/ <br>
+https://irgames.net/ <br>
 
 ### AnuraOS: CLICK NORMAL USER
 https://anura.mercurywork.shop/ <br>
@@ -569,7 +617,6 @@ Glype (banned) <br>
 Totally Science (banned) <br>
 DM Unbl0cker (banned) <br>
 Plooshi Docs (down) <br>
-Hyper Tabs (ended) <br>
 Ludicrous (broken) <br>
 Node Unblocker (broken) <br>
 Ruby Education (down) <br>
