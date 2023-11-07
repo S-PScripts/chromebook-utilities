@@ -43,8 +43,6 @@ https://math.geometrytip.online/ <br>
 
 ### Supernova (Ultraviolet):
 https://supernova-v2--jonathanevans7.repl.co/ <br>
-https://supernova-v2.calebolveraboni.repl.co/ <br>
-https://supernova-v2.ashtenpride.repl.co/ <br>
 
 ### Ultraviolet (Canvas):
 https://ultraiolet-node2-4.jacoblopez25.repl.co/ <br>
