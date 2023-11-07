@@ -1,5 +1,5 @@
 # LIST CREATED BY S-PSCRIPTS ON GITHUB. DO NOT STEAL THIS DOCUMENT AND PASS IT OFF AS ALL OF YOUR WORK.
-## Note: The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy, Ghosted and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it? 
+## Note: The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy, GhostedZoomer77 and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it? 
 ## REPL LINKS ARE SLOW. DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT.
 
 ### Art Class: (can be cloaked and about:blanked)
@@ -63,20 +63,6 @@ https://scpwolf.ballbang1.com/ <br>
 https://scpwolf.ballbang.fun/ <br>
 
 ### Moss News: Click “Why the U.S. Government has banned TikTok” then click the word misleading or viewing; you will get redirected to an about:blank with stuff on it. Click “503 page”.
-
-#### LONG VERSION:
-https://media.exid.me/ <br>
-https://fishme.me/ <br>
-https://foxmoss.com/ <br>
-https://fox.artclass.site/ <br>
-https://securly.com.foxmoss.com/ <br>
-https://mossnews.mathtutoringwithlove.info/ <br>
-https://mediaology.mediaology.com/ (note that mediaology.com redirects to https://fishme.me/) <br>
-
-#### INSTANT REDIRECT Ultraviolet (Medialogy):
-https://mossnews.mathtutoringwithlove.info/uv/ <br>
-https://securly.com.foxmoss.com/uv/ <br>
-https://fishme.me/uv/ <br>
 
 ### BruhProx (Ultraviolet):
 https://bruhprox.pages.dev/ <br>
@@ -358,10 +344,16 @@ https://learningprep.xyz/ <br>
 https://khanacademy.buzz/ <br>
 https://smartacademy.buzz/ <br>
 https://studyingmath.org/ <br>
+https://ancienthistory.website/ <br>
+https://utopia.uhdfuifdhgu.repl.co/ (opens in about:blank, old) <br>
 https://wiseteaching.cfd/ <br>
 https://major.education/ <br>
+https://facts.education/ <br>
+https://academichelp.xyz/ <br>
 https://tutorsharp.com/ <br>
+https://vastknowledge.quest/ <br>
 https://learnbiology.quest/ <br>
+https://acutemath.quest/ <br>
 https://tutorcenter.quest/ <br>
 https://iloveeducation.vipers.design/ <br>
 https://cleverutopia.com/ <br>
@@ -604,6 +596,12 @@ https://anura.mercurywork.shop/ <br>
 
 ### DuckOS: CLICK DUCKOS THEN BOOT DUCKOS
 https://skyhax.xyz/ <br>
+https://duckos.site/ <br>
+https://mesmerizing.skin/ <br>
+https://studyclub.biz/ <br>
+https://skyhax.online/ <br>
+https://duckos.pages.dev/ <br>
+https://takesomeclasses.click/ (unsecure) <br>
 
 ### Removed:
 TIW (broken) <br>
@@ -624,7 +622,9 @@ Tsunami (broken) <br>
 Tinf0il (school having beef with it but not art class?) <br>
 General Mathematics (ended, haha bye again you trashy proxy) <br>
 Ehab Games (banned)
+Moss News (dead)
 
 Thanks c0nstantly for the new formatting. <br>
+Thanks to Ghosted for his massive list. Could've not done this without him. https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/
 
 PS: rip https://historicalanime.org/ it was my first holy unblocker twt since july 2022 <br>
