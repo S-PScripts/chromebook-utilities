@@ -45,7 +45,6 @@ https://math.geometrytip.online/ <br>
 https://supernova-v2--jonathanevans7.repl.co/ <br>
 
 ### Ultraviolet (Canvas):
-https://ultraiolet-node2-4.jacoblopez25.repl.co/ <br>
 https://wicked-gray-gharial.cyclic.app/ <br>
 
 ### Ballbang (Ultraviolet):
@@ -332,7 +331,6 @@ https://eduverse.wiki/ <br>
 https://elixirofficial.com <br>
 https://cerryx.net/ <br>
 https://drab-gold-mackerel-robe.cyclic.app/ <br>
-https://gooogle.williamzimmerm4.repl.co/ <br>
 
 ### Page Sandbox:
 https://io.sqeven.workers.dev/ <br>
@@ -416,7 +414,6 @@ https://students.amorins.org/app <br>
 https://study.helixarcade.space/app <br>
 https://p-vedah38711.b4a.run/app (V3) <br>
 https://education-gefyopudra.b4a.run/app (V3) <br>
-https://dogeunblocker.derpmans.repl.co/app (V2) <br>
 https://long-stockings-duck.cyclic.app/ (V2) <br>
 
 ### Moonlight:
@@ -484,7 +481,7 @@ https://sites.google.com/view/gainforschool <br>
 https://sites.google.com/view/theunlockedbay <br>
 
 ### Outred:
-https://outredlatest.idek29879890.repl.co/ <br>
+https://outredlatest.idek29879890.repl.co/ (slow) <br>
 https://goguardian.online/ <br>
 https://outreds.world/ <br>
 https://geometry-help.mathtutorials.app/ <br>
