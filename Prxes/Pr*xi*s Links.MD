@@ -1,9 +1,6 @@
-# LIST CREATED BY S-PSCRIPTS ON GITHUB
-# DO NOT STEAL THIS DOCUMENT AND PASS IT OFF AS ALL OF YOUR WORK.
-Note: The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy and many others.
-There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it?
-# REPL LINKS ARE SLOW
-## HUNDREDS OF NEW LINKS ADDED!
+# LIST CREATED BY S-PSCRIPTS ON GITHUB. DO NOT STEAL THIS DOCUMENT AND PASS IT OFF AS ALL OF YOUR WORK.
+## Note: The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it? 
+## REPL LINKS ARE SLOW. DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT.
 
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ <br>
@@ -220,6 +217,7 @@ https://thanksgiving.tscng.org/ <br>
 https://education.sciencevictory.org/ <br>
 https://educational.naming-schemes.org/ <br>
 https://world-news.inthepress.org/ <br>
+https://coaching.garmanage.com/ <br>
 https://soccer.mikedoland.com/ <br>
 https://lightsped.hop.sh/ <br>
 https://isaac-scar-12-smells.hop.sh/ <br>
