@@ -1,6 +1,7 @@
 # LIST CREATED BY S-PSCRIPTS ON GITHUB. DO NOT STEAL THIS DOCUMENT AND PASS IT OFF AS ALL OF YOUR WORK.
 ### Note: The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy, GhostedZoomer77 and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it? 
 #### REPL LINKS ARE SLOW. DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT.
+i will add more kazwire and shuttle soon
 
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ <br>
@@ -44,6 +45,9 @@ https://blog.mathblogs.online/ <br>
 https://school.mathblogs.online/ <br>
 https://math.geometrytip.online/ <br>
 
+### TopVAZ but it's called proxy:
+https://mathclass.gameubg.com/ <br>
+
 ### Supernova (Ultraviolet):
 https://supernova-v2--jonathanevans7.repl.co/ <br>
 
@@ -54,13 +58,20 @@ https://wicked-gray-gharial.cyclic.app/ <br>
 #### Normal:
 https://mathclass.ballbang.wiki/ <br>
 https://mathclass.ballbang.xyz/ <br>
+https://mathclass.ballbang.cc/ <br>
+https://mathclass.ballbang.fun/ <br>
 https://mathclass.unblocked-games.lol/ <br>
 https://scpwolfpro.ballbang.fun/ <br>
+https://scpwolfpro.ballbang.cc/ <br>
 https://avocadoarcade.lockthebook.com/ <br>
 
 #### Click the ( Button on the calculators for these: (Ballbang opens as about:blank)
 https://scpwolf.ballbang1.com/ <br>
 https://scpwolf.ballbang.fun/ <br>
+https://calc.ballbang.fun/ <br>
+https://calc.ballbang.xyz/ <br>
+https://calc.ballbang.cc/ <br>
+https://calc.gameubg.com/ <br>
 
 ### Moss News: Click “Why the U.S. Government has banned TikTok” then click the word misleading or viewing; you will get redirected to an about:blank with stuff on it. Click “503 page”.
 
@@ -344,6 +355,8 @@ https://tobi.gifts/ <br>
 ### Metallic: (can be cloaked)
 https://metallic.eu.org/ <br>
 https://usemetallic.com/ <br>
+https://metallic.xyz.wf/ <br>
+https://metalli.zc.al/ <br>
 
 ### Galaxy (Metallic version):
 https://geoquiz.gq/ <br>
@@ -379,7 +392,6 @@ https://eduverse.wiki/ <br>
 ### Elixir:
 https://elixirofficial.com <br>
 https://cerryx.net/ <br>
-https://drab-gold-mackerel-robe.cyclic.app/ <br>
 
 ### Page Sandbox:
 https://io.sqeven.workers.dev/ <br>
@@ -551,6 +563,8 @@ https://geometry.ubgusa.com/ <br>
 ### Vapor:
 https://vapor.uavwzecan48kbut.repl.co/ <br>
 https://vapor-1.justjxrdannnnnxn.repl.co/ <br>
+https://vapor.luketrim1.repl.co/ <br>
+https://vapor.by1egend251.repl.co/ <br>
 
 ### Galaxy:
 https://real-galaxy-frfr.vercel.app/ <br>
@@ -575,6 +589,10 @@ https://palladium-1.r480github.repl.co/ <br>
 
 ### Snorlax's Cave:
 https://snorlax-ep62.onrender.com/ <br>
+https://design.showmyhomes.com/ <br>
+https://tracking.cylone.net/ <br>
+https://snorlaxscave.iiiii.info/ <br>
+https://biology.prs7.org/ <br>
 
 ### CroxyProxy clones:
 https://www.urmom.gq/ <br>
@@ -582,8 +600,12 @@ https://www.binomosignal.com/ <br>
 
 ### SurfTheWeb:
 https://surfthewebv3.glitch.me/ <br>
+https://surftheweb-v3.netlify.app/ <br>
 https://surfthewebv3.netlify.app/ <br>
 https://galacticnetwork.github.io/SurfTheWeb-V3/ <br>
+https://stw.thebesthistoryhelp.tk/ <br>
+https://stw.teerthsblog.me/ <br>
+https://stw.tethersmathwebsite.app/ <br>
 
 ### Aero:
 https://haven.proxyhaven.repl.co <br>
