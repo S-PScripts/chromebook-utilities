@@ -13,8 +13,8 @@ https://v4-git-main-artclass.vercel.app/ <br>
 https://v4-snowy.vercel.app/ <br>
 https://v4-artclass.vercel.app/ <br>
 https://smellypay.isreally.pro/ <br>
-https://smellyal.isreally.pro/
-https://math.isreally.pro/ 
+https://smellyal.isreally.pro/ <br>
+https://math.isreally.pro/ <br>
 https://stuffyschicken.isreallycool.lol/ <br>
 https://fair-gray-turkey-cuff.cyclic.app/ (OLD) <br>
 https://nervous-pocket-eel.cyclic.app/ (OLD) <br>
@@ -63,6 +63,20 @@ https://scpwolf.ballbang1.com/ <br>
 https://scpwolf.ballbang.fun/ <br>
 
 ### Moss News: Click “Why the U.S. Government has banned TikTok” then click the word misleading or viewing; you will get redirected to an about:blank with stuff on it. Click “503 page”.
+
+#### LONG VERSION:
+https://media.exid.me/ <br>
+https://fishme.me/ <br>
+https://foxmoss.com/ <br>
+https://fox.artclass.site/ <br>
+https://securly.com.foxmoss.com/ <br>
+https://mossnews.mathtutoringwithlove.info/ <br>
+https://mediaology.mediaology.com/ (note that mediaology.com redirects to https://fishme.me/) <br>
+
+#### INSTANT REDIRECT Ultraviolet (Medialogy):
+https://mossnews.mathtutoringwithlove.info/uv/ <br>
+https://securly.com.foxmoss.com/uv/ <br>
+https://fishme.me/uv/ <br>
 
 ### BruhProx (Ultraviolet):
 https://bruhprox.pages.dev/ <br>
@@ -621,10 +635,9 @@ Ruby Education (down) <br>
 Tsunami (broken) <br>
 Tinf0il (school having beef with it but not art class?) <br>
 General Mathematics (ended, haha bye again you trashy proxy) <br>
-Ehab Games (banned)
-Moss News (dead)
+Ehab Games (banned) <br>
 
 Thanks c0nstantly for the new formatting. <br>
-Thanks to Ghosted for his massive list. Could've not done this without him. https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/
+Thanks to Ghosted for his massive list. Could've not done this without him. https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/ <br>
 
 PS: rip https://historicalanime.org/ it was my first holy unblocker twt since july 2022 <br>
