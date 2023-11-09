@@ -29,6 +29,7 @@ Note: You can add ANYTHING before artclass.site (e.g. https://subscribe.artclass
 ### TBG95 (Ultraviolet):
 https://gafiradar.com/ <br>
 https://ny.gafiradar.com/ <br>
+https://education-live.fun/ <br>
 
 ### topVAZ games (Ultraviolet):
 https://sub.topicademy.com/ <br>
@@ -444,6 +445,7 @@ https://riptide.fognetwork.repl.co/ <br>
 https://riptide.quart2629.repl.co/ <br>
 https://riptide.greydog123.repl.co/ <br>
 https://riptide--bnon590.repl.co/ <br>
+https://kpyu3.sse.codesandbox.io/ <br>
 
 ### ByeBlocker: 
 #### Normal:
@@ -454,9 +456,13 @@ https://password-protection.netlify.app/ <br>
 ### Genoxy:
 https://genarcy.watercdn.gq/proxy/index.html <br>
 
+### Space Proxy:
+https://spacesite.jaydentucker.repl.co/ <br>
+
 ### Solar/Wombat:
 https://womginx.nicolaspichavan.repl.co/ <br>
 https://womginx-2.09sharkboyroger.repl.co/ <br>
+https://communism.95792348709187287.repl.co/ <br>
 
 ### Shuttle: (HAS ADS) (OPENS IN ABOUT:BLANK)
 https://englishdata.co/ <br>
@@ -470,6 +476,23 @@ https://tutors4cheap.co/ <br>
 ### Doge Unblocker: (can be cloaked)
 https://photography.lystrup.org/app <br>
 https://geoquiz.mji.ro/app <br>
+https://dashboard.worksheetsforteachers.org/app <br>
+https://geometry.pualo.com/app  <br>
+https://nasa.rocketsfall.net/app  <br>
+https://dogesurf.app/app <br>
+https://geography.kaspichan.org/app  <br>
+https://grades.plgsync.com/app <br>
+https://heart.healthlink-test.ch/app <br>
+https://library.itparadiis.eu/app <br>
+https://business.titanides.es/app  <br>
+https://read.nigelupchurch.com/app <br>
+https://history.pereras.eu/app <br>
+https://news.suncube.de/app <br>
+https://gaysex.surfdoge.pro/app  <br>
+https://geometry.solar-energy.cl/app  <br>
+https://study.helixarcade.space/app <br>
+https://education-gefyopudra.b4a.run/app  <br>
+https://p-vedah38711.b4a.run/app  <br>
 https://district.clarksvilletix.com/app <br>
 https://students.amorins.org/app <br>
 https://study.helixarcade.space/app <br>
@@ -488,7 +511,7 @@ https://onedomain.info/ <br>
 https://birdfood.gq/ <br>
 
 ### Degeneracy:
-https://degeneracy--jaydenpepin-ta1.repl.co/ <br>
+https://degeneracy--jaydenpepin-ta1.repl.co/ (shows as dangerous) <br>
 https://degeneracy.masoneubanks01.repl.co/ <br>
 https://easy-bake-oven--gavindeluna.repl.co/ <br>
 https://degeneracy.brydinbeall.repl.co/ <br>
@@ -542,8 +565,8 @@ https://sites.google.com/view/gainforschool <br>
 https://sites.google.com/view/theunlockedbay <br>
 
 ### Outred:
-https://outredlatest.idek29879890.repl.co/ (slow) <br>
-https://goguardian.online/ <br>
+https://outredlatest.idek29879890.repl.co/ <br>
+https://outredlatest-1.raygameshype.repl.co/ <br>
 https://outreds.world/ <br>
 https://geometry-help.mathtutorials.app/ <br>
 https://schoology.pro/ <br>
@@ -555,7 +578,7 @@ https://misterfonka.github.io/ <br>
 https://deft-travesseiro-e4bb56.netlify.app/ <br>
 https://jocular-selkie-093f6f.netlify.app/ (OLD) <br>
 
-### UBG US: Click Browse Now
+### UBG US: Click Browse Now - ALSO THEY BANNED UBGUS.NET BUT NOT UGBUS.COM :SKULL:
 https://classroom.ubgusa.com/ <br>
 https://ubgusa.com/ <br>
 https://geometry.ubgusa.com/ <br>
@@ -578,7 +601,6 @@ https://plexile-arcade.glitch.me/home.html <br>
 https://33-ezschoolmath-problems.glitch.me/home.html <br>
 https://cool-math-stuff4school.glitch.me/home.html <br>
 https://schhooolis-s0f--un.glitch.me/home.html <br>
-https://plexile-arcade.glitch.me/home.html <br>
 https://plexile-arcade.jesusclapsu.repl.co/home.html (OLD) <br>
 
 ### Palladium:
