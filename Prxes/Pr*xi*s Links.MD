@@ -215,7 +215,7 @@ https://shouldiboosttherammerheadserver.tk/ <br>
 https://shouldiboosttherammerheadserver.gq/ <br>
 
 ### Interstellar: (opens in about:blank, can be cloaked) (HAS ADS)
-#### [WARNING: SINCE IT WORKS WITH CLOUDFLARE, IT CAN SOMETIMES BE DOWN!]
+#### If you want me to, I might seperate the hop links from the others!
 https://gointerstellar.app <br>
 https://gointerstellar.xyz <br>
 https://v4.wiki/ <br>
@@ -260,6 +260,68 @@ https://financial-literacy.fedea.com.ar/ <br>
 https://wiki.stofcheck-ballinger.com/ <br>
 https://electronics.open-autonomy.com/ <br>
 https://about-us.nuggetgarage.com/ <br>
+https://hopshhopsh.hop.sh/ <br>
+https://oceania.sen.org.nz/ <br>
+https://recipe.cooking.youramys.com/ <br>
+https://benjamin.hop.sh/ <br>
+https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ 
+https://jamakinmonkeys.hop.sh/ <br>
+https://nightlessishot-1.hop.sh/ <br>
+https://technology.linuxd1.com/   <br>
+https://a.ryanbauman.com/ <br>
+https://canva-a409.onrender.com/
+https://mackenviaofficial.onrender.com/ <br>
+https://anintertellarlink-dev-ggrg.2.us-1.fl0.io/ <br>
+https://grassosisthebest.onrender.com/ <br>
+https://mathematics.0000004.xyz/ <br>
+https://navy.0000004.xyz/ <br>
+https://no.plus90.com/ <br>
+https://pox.annaffiare.org/ <br>
+https://shop.tripreceipts.com/ <br>
+https://student-teachers.math-solver.com/ <br>
+https://t.d.d.isageek.net/ <br>
+https://jonahisfatasfuk.hop.sh/  <br>
+https://thefunnymaniscoming.vercel.app/ <br>
+https://thinkabout.thinksnow.net/ <br>
+https://twagner-25-onrender.onrender.com/ <br>
+https://vcz.vicinanza.org/ <br>
+https://whatwha.onrender.com/ <br>
+https://why.math-solver.com/ <br>
+https://xn--p28h.math-solver.com/ <br>
+https://xpz.largent.org/ <br>
+https://roundrockisd.online/ <br>
+https://notintersteller.hop.sh/ <br>
+https://blockthisifurhomophobic.gay/ <br>
+https://nationalgeographic.wiki/  <br>
+https://solutions.abatek.com/  <br>
+https://robotics-class.robot-armies.com/ <br>
+https://algebra.creery.org/ <br>
+https://our-history.guild-site.com/ <br>
+https://educational.moonangel.com/ <br>
+https://space.hop.sh/ <br>
+https://abuse.hop.sh/ <br>
+https://im-running-out.hop.sh/  <br>
+https://grandcanyonmuseum.website/ <br>
+https://outerspace.pics/  <br>
+https://xn--vuq.math-solver.com/ <br>
+https://unblock.hop.sh/ <br>
+https://unblocked.hop.sh/  <br>
+https://xn--2da.math-solver.com/  <br>
+https://really.hop.sh/  <br>
+https://wild.hop.sh/  <br>
+https://bro.hop.sh/ <br>
+https://geography.hop.sh/ <br>
+https://of.hop.sh/ <br>
+https://spam.hop.sh/ <br>
+https://music.hop.sh/ <br>
+https://www.algebraxyz.com/ <br>
+https://us.hop.sh/ <br>
+https://asked.hop.sh/ <br>
+https://our-religion.tomahawkchurch.org/ <br>
+https://national.localghost.org/ <br>
+https://earth.skytourtw.com/ <br>
+https://fbi.hop.sh/ <br>
+https://login.math-solver.com/ <br>
 
 ### Incognito (NOBLO):
 https://uk1.noblo.cc/ (UK server) <br>
@@ -326,8 +388,8 @@ https://thechefmethod.com/<br>
 https://getbackmath.com/<br>
 https://cheapdogs.org/ <br>
 https://totalmathway.com/ <br>
-https://website-aio-unblockersreuploaded.koyeb.app/ <br> [Dev]
-https://holy.mathtutoringwithlove.info/ <br> [Dev]
+https://website-aio-unblockersreuploaded.koyeb.app/ [DEV] <br>
+https://holy.mathtutoringwithlove.info/ [DEV} <br>
 
 ### Emerald (THE GREAT RETURN): (HAS ADS)
 https://emerald-is-very-cool-if-this-works.aigame.biz/ <br>
@@ -405,6 +467,7 @@ https://tbx.blackxfiied.xyz/ <br>
 https://test-youtube.jacoblopez25.repl.co/ (slow) <br>
 
 ### Astroid: Click any button on the fake MathsIsFun page for it (can be cloaked)
+### There are actually a bucketload of astroids, similar to rammerhead. You can find the rest yourself.
 https://astroid.gg/ <br>
 https://compscirules.sen.org.nz/ <br>
 https://maths.hs.vc/ <br>
