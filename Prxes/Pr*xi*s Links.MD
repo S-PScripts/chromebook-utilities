@@ -809,6 +809,15 @@ https://exploits.pages.dev <br>
 https://55gms.lol <br>
 https://rednotsus.me <br>
 
+### Windows 11 in React:
+https://windows11.pages.dev/ <br>
+https://win11.blueedge.me/ <br>
+https://windows11-react.vercel.app/ <br>
+https://win11ui.netlify.app/ (this one may look better) <br>
+
+### Microsoft Labs (credits to 3kh0/ext-remover):
+https://github.com/S-PScripts/chromebook-utilities/blob/main/Hubs/Microsoft%20Labs
+
 ### Removed:
 TIW (broken) <br>
 Hypersite V2 (broken) <br>
