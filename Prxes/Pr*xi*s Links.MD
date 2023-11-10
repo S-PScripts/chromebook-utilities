@@ -503,6 +503,11 @@ https://mathedu.scay.net/ <br>
 https://phantomnetwork.cloud/ <br>
 https://priv.peaks-a.pro/ <br>
 https://math.centraloff.org/ <br>
+https://schoolrelatedarts.supermario.gq/ <br>
+https://playon.nowgg.wtf/ <br>
+https://manynotes.dcmusic.ca/ <br>
+https://learnreligionat.tomahawkchurch.org/ <br>
+https://mathedu.privatedns.org/ <br>
 
 ### Riptide:
 https://riptide.fognetwork.repl.co/ <br>
@@ -757,6 +762,9 @@ https://skyhax.online/ <br>
 https://duckos.pages.dev/ <br>
 https://takesomeclasses.click/ (unsecure) <br>
 
+### General Mathematics (DON'T USE THIS, THE OWNERS ARE SCUMMY):
+https://general-mathematics-beta-3.jaidapope.repl.co/ <br>
+
 ### Removed:
 TIW (broken) <br>
 Hypersite V2 (broken) <br>
@@ -774,7 +782,6 @@ Node Unblocker (broken) <br>
 Ruby Education (down) <br>
 Tsunami (broken) <br>
 Tinf0il (school having beef with it but not art class?) <br>
-General Mathematics (ended, haha bye again you trashy proxy) <br>
 Ehab Games (banned) <br>
 
 Thanks c0nstantly for the new formatting. <br>
