@@ -1,7 +1,6 @@
 # LIST CREATED BY S-PSCRIPTS ON GITHUB. DO NOT STEAL THIS DOCUMENT AND PASS IT OFF AS ALL OF YOUR WORK.
 ### Note: The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy, GhostedZoomer77 and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it? 
 #### REPL LINKS ARE SLOW. DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT.
-i will add more kazwire and shuttle soon
 
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ <br>
@@ -464,7 +463,7 @@ https://womginx.nicolaspichavan.repl.co/ <br>
 https://womginx-2.09sharkboyroger.repl.co/ <br>
 https://communism.95792348709187287.repl.co/ <br>
 
-### Shuttle: (HAS ADS) (OPENS IN ABOUT:BLANK)
+### Shuttle: (HAS ADS) (MOST OF THEM OPEN IN ABOUT:BLANK)
 https://englishdata.co/ <br>
 https://creativeclassroom.co/ <br>
 https://tristanschools.co/ <br>
@@ -472,6 +471,26 @@ https://tutors4u.net/ <br>
 https://cheapclass.co/ <br>
 https://learn2invest.info/ <br>
 https://tutors4cheap.co/ <br>
+https://search.uwuugle.com/ <br>
+https://schoolstudies.hop.sh/  <br>
+https://findmytutor.info/ <br>
+https://www.webapplication.design/  <br>
+https://codingwizard.org/  <br>
+https://sciencemaster.co/ <br>
+https://eduhelper.co/  <br>
+https://shuttleproxy.hop.sh/ <br>
+https://teachersearcher.co/ <br>
+https://mathhelper.co/ <br>
+https://physicprofession.org/ <br>
+https://exploreshuttle.xyz/ <br>
+https://schoolstudies.hop.sh/ <br>
+https://spanishlearnolgy.co <br>
+https://tutors4u.net/ <br>
+https://artmastery.guru/ <br>
+https://learn.autismawareness.design/  <br>
+https://tutors4u.co/  <br>
+https://learnsmartly.org/ <br>
+https://edu.primemath.lol/ <br>
 
 ### Doge Unblocker: (can be cloaked)
 https://photography.lystrup.org/app <br>
