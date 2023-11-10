@@ -468,6 +468,7 @@ https://test-youtube.jacoblopez25.repl.co/ (slow) <br>
 
 ### Astroid: Click any button on the fake MathsIsFun page for it (can be cloaked)
 ### There are actually a bucketload of astroids, similar to rammerhead. You can find the rest yourself.
+### The reason why I'm not categorising them is because I'm bored and don't have time to check if each one works and if there are duplicates.
 https://astroid.gg/ <br>
 https://compscirules.sen.org.nz/ <br>
 https://maths.hs.vc/ <br>
@@ -485,6 +486,7 @@ https://mathisfun.hec.to/ <br>
 https://english.jumpingcrab.com/ <br>
 https://learning.sailtheuniverse.com/ <br>
 https://division.danielwilkins.org/ <br>
+rest of them here: https://docs.google.com/document/d/1YxCUOYlS8Qj3eU1F7VSMdHp09mSnPy0oMOEHIddhza4/edit
 
 ### Shadow Browser: (HAS ADS) (can be cloaked and about:blanked)
 https://math.madroid.design <br>
