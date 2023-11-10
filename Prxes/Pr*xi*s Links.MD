@@ -1,6 +1,7 @@
 # LIST CREATED BY S-PSCRIPTS ON GITHUB. DO NOT STEAL THIS DOCUMENT AND PASS IT OFF AS ALL OF YOUR WORK.
-### Note: The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy, GhostedZoomer77 and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it? 
-#### REPL LINKS ARE SLOW. DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT.
+## Note: The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy, GhostedZoomer77 and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it? 
+### REPL LINKS ARE SLOW. DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT.
+### warning! this document may get LOCKED since it has a LOT of links!
 
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ <br>
@@ -467,8 +468,8 @@ https://tbx.blackxfiied.xyz/ <br>
 https://test-youtube.jacoblopez25.repl.co/ (slow) <br>
 
 ### Astroid: Click any button on the fake MathsIsFun page for it (can be cloaked)
-### There are actually a bucketload of astroids, similar to rammerhead. You can find the rest yourself.
-### The reason why I'm not categorising them is because I'm bored and don't have time to check if each one works and if there are duplicates.
+#### There are actually a bucketload of astroids, similar to rammerhead. You can find the rest yourself.
+#### The reason why I'm not categorising them is because I'm bored and don't have time to check if each one works and if there are duplicates.
 https://astroid.gg/ <br>
 https://compscirules.sen.org.nz/ <br>
 https://maths.hs.vc/ <br>
@@ -522,7 +523,7 @@ https://chic-kashata-e4cec3.netlify.app/ <br>
 #### Click the Info button in these then click proxy:
 https://password-protection.netlify.app/ <br>
 
-### Genoxy:
+### Genoxy (can be opened as about:blank):
 https://genarcy.watercdn.gq/proxy/index.html <br>
 
 ### Space Proxy:
@@ -716,9 +717,19 @@ https://tracking.cylone.net/ <br>
 https://snorlaxscave.iiiii.info/ <br>
 https://biology.prs7.org/ <br>
 
-### CroxyProxy clones:
-https://www.urmom.gq/ <br>
-https://www.binomosignal.com/ <br>
+### CroxyProxy clones/Reflect4:
+https://www.myturtle.net/<br>
+https://www.springuides.com/ <br>
+https://www.juvenilegzkun9763.com/ <br>
+https://www.thebean.cf/ <br>
+https://www.yymmpro.net/ <br>
+https://www.mitsustudy.com/ <br>
+https://www.0ldschool.online/ <br>
+https://www.freewebforall.online/ <br> 
+https://www.darkfat.com/ <br>
+https://www.shflora.com/ <br>
+https://www.binomosignal.com/ 
+https://www.urmom.gq/  <br>
 
 ### SurfTheWeb:
 https://surfthewebv3.glitch.me/ <br>
@@ -764,6 +775,39 @@ https://takesomeclasses.click/ (unsecure) <br>
 
 ### General Mathematics (DON'T USE THIS, THE OWNERS ARE SCUMMY):
 https://general-mathematics-beta-3.jaidapope.repl.co/ <br>
+
+### Surfskip:
+https://surfskip.com/ <br>
+
+### Osmium (proxy isn't about:blank at first until you click the button!):
+https://osmium.ech0.dev/ <br>
+
+### WebToppings:
+#### This one is EXCELLENT for links! (but unfortunately only links, not just words in google)
+https://webtoppings.bar/ <br>
+
+### LTBPEM:
+https://www.ltbpem.gq/ <br>
+https://example.readinghelper.online/ <br>
+https://spreading.autismawareness.design/ <br>
+
+### Deblok: 
+#### For this one, you'll need make an account. You need discord.
+#### Go to another proxy/device, join deblok's discord server and make an account.
+#### Then log in to the proxy site!
+https://deblok.me/ <br>
+https://deblok.pages.dev/ <br>
+https://s-deblok.rare1k.space/ <br>
+https://s-deblok.rare1k.dev/ <br>
+https://d.nick2116.media/ <br>
+https://dblok.scmtstore.com/ <br>
+
+### Red's Exploit Corner:
+https://55gms.me <br>
+https://mathlearning.top <br>
+https://exploits.pages.dev <br>
+https://55gms.lol <br>
+https://rednotsus.me <br>
 
 ### Removed:
 TIW (broken) <br>
