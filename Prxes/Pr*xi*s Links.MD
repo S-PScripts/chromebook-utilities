@@ -224,8 +224,6 @@ https://roundrockisd.online/ <br>
 https://bubbo.dev/ <br>
 https://interstellar.lol/ <br>
 https://interstellar.titaniumnetwork.co/ <br>
-https://canvasinfrastructure.onrender.com/ <br>
-https://whatwha.onrender.com/ <br>
 https://business.youramys.com/ <br>
 https://desmos.me/ <br>
 https://dominos.buzz/ <br>
