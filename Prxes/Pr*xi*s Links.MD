@@ -537,7 +537,7 @@ https://makeanmcserverfr.mywire.org/ <br>
 https://spreadingpropagandathroughlinks.mywire.org/ <br>
 https://probability.adipur.com  <br>
 https://geometryproofs.claudiogatica.cl <br>
-https//graphingcalculators.gnutella2.info <br>
+https://graphingcalculators.gnutella2.info <br>
 https://arithmetic.datemyfamily.tv <br>
 https://educationalmathapps.melissaanddougcoop.com  <br>
 https://subtraction.desario.com.br <br>
