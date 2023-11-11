@@ -623,6 +623,7 @@ https://womginx-2.09sharkboyroger.repl.co/ <br>
 https://communism.95792348709187287.repl.co/ <br>
 
 ### Shuttle: (HAS ADS) (MOST OF THEM OPEN IN ABOUT:BLANK)
+#### USES CLOUDFLARE, DOWN!
 https://englishdata.co/ <br>
 https://creativeclassroom.co/ <br>
 https://tristanschools.co/ <br>
