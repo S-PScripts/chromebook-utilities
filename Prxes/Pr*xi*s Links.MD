@@ -264,10 +264,7 @@ https://jamakinmonkeys.hop.sh/ <br>
 https://nightlessishot-1.hop.sh/ <br>
 https://technology.linuxd1.com/   <br>
 https://a.ryanbauman.com/ <br>
-https://canva-a409.onrender.com/
-https://mackenviaofficial.onrender.com/ <br>
 https://anintertellarlink-dev-ggrg.2.us-1.fl0.io/ <br>
-https://grassosisthebest.onrender.com/ <br>
 https://mathematics.0000004.xyz/ <br>
 https://navy.0000004.xyz/ <br>
 https://no.plus90.com/ <br>
@@ -278,9 +275,7 @@ https://t.d.d.isageek.net/ <br>
 https://jonahisfatasfuk.hop.sh/  <br>
 https://thefunnymaniscoming.vercel.app/ <br>
 https://thinkabout.thinksnow.net/ <br>
-https://twagner-25-onrender.onrender.com/ <br>
 https://vcz.vicinanza.org/ <br>
-https://whatwha.onrender.com/ <br>
 https://why.math-solver.com/ <br>
 https://xn--p28h.math-solver.com/ <br>
 https://xpz.largent.org/ <br>
@@ -728,7 +723,7 @@ https://bitmath.xyz/ <br>
 https://noctura.tech/ <br>
 https://noctura.app/ <br>
 
-### Sodium:
+### Sodium: Click Skip or go to Bing in Apps (icon with 3 squares and plus)
 https://3651dade.sodium-5h8.pages.dev/welcome <br>
 https://sodium.onrender.com/welcome.html <br>
 https://beta.sodium-5h8.pages.dev/welcome <br>
@@ -806,7 +801,6 @@ https://palladiumv2.r480github.repl.co/ <br>
 https://palladium-1.r480github.repl.co/ <br>
 
 ### Snorlax's Cave:
-https://snorlax-ep62.onrender.com/ <br>
 https://design.showmyhomes.com/ <br>
 https://tracking.cylone.net/ <br>
 https://snorlaxscave.iiiii.info/ <br>
