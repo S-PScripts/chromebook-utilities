@@ -770,7 +770,7 @@ https://misterfonka.github.io/ <br>
 https://deft-travesseiro-e4bb56.netlify.app/ <br>
 https://jocular-selkie-093f6f.netlify.app/ (OLD) <br>
 
-### UBG US: Click Browse Now - ALSO THEY BANNED UBGUS.NET BUT NOT UGBUS.COM :SKULL:
+### UBG US: Click Browse Now - ALSO THEY BANNED UBGUS.NET BUT NOT UGBUSA.COM :SKULL:
 https://classroom.ubgusa.com/ <br>
 https://ubgusa.com/ <br>
 https://geometry.ubgusa.com/ <br>
@@ -874,7 +874,7 @@ https://surfskip.com/ <br>
 https://osmium.ech0.dev/ <br>
 
 ### WebToppings:
-#### This one is EXCELLENT for links! (but unfortunately only links, not just words in google)
+#### This one is EXCELLENT for links! (but unfortunately only links, no searching :P)
 https://webtoppings.bar/ <br>
 
 ### LTBPEM:
@@ -883,9 +883,7 @@ https://example.readinghelper.online/ <br>
 https://spreading.autismawareness.design/ <br>
 
 ### Deblok: 
-#### For this one, you'll need make an account. You need discord.
-#### Go to another proxy/device, join deblok's discord server and make an account.
-#### Then log in to the proxy site!
+#### For this one, you'll need make an account. You need discord. Go to another proxy/device, join deblok's discord server and make an account. Then log in to the proxy site!
 https://deblok.me/ <br>
 https://deblok.pages.dev/ <br>
 https://s-deblok.rare1k.space/ <br>
@@ -920,7 +918,7 @@ Illusive (ended) <br>
 Glype (banned) <br>
 Totally Science (banned) <br>
 DM Unbl0cker (banned) <br>
-Plooshi Docs (down) <br>
+Plooshi Docs (ended) <br>
 Ludicrous (broken) <br>
 Node Unblocker (broken) <br>
 Ruby Education (down) <br>
