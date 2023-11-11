@@ -14,8 +14,6 @@ https://smellypay.isreally.pro/ <br>
 https://smellyal.isreally.pro/ <br>
 https://math.isreally.pro/ <br>
 https://stuffyschicken.isreallycool.lol/ <br>
-https://fair-gray-turkey-cuff.cyclic.app/ (OLD) <br>
-https://nervous-pocket-eel.cyclic.app/ (OLD) <br>
 https://subscribe.mathlearning.tech/ (add ANYTHING before math) <br>
 https://subscribe.mathhelpnow.site (add ANYTHING before math) <br>
 https://subscribe.sciencesimplified.pro (add ANYTHING before science) <br>
