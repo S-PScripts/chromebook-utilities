@@ -210,7 +210,7 @@ https://joyridearoundthepark.5inas.cf/ <br>
 https://shouldiboosttherammerheadserver.tk/ <br>
 https://shouldiboosttherammerheadserver.gq/ <br>
 
-### Interstellar: (opens in about:blank, can be cloaked) (HAS ADS)
+### Interstellar: (opens in about:blank, can be cloaked)
 #### If you want me to, I might seperate the hop links from the others!
 https://gointerstellar.app <br>
 https://gointerstellar.xyz <br>
@@ -242,13 +242,6 @@ https://world-news.inthepress.org/ <br>
 https://coaching.garmanage.com/ <br>
 https://soccer.mikedoland.com/ <br>
 https://interstellarnetwork-interstellar22-hw4v.vercel.app/ <br>
-https://lightsped.hop.sh/ <br>
-https://isaac-scar-12-smells.hop.sh/ <br>
-https://these-goofy-goobers.hop.sh/ <br>
-https://my-last-link-for-a-while.hop.sh/ <br>
-https://reading-is-cool.hop.sh/ <br>
-https://you-silly-fool.hop.sh/ <br>
-https://reading.hop.sh/ <br>
 https://financial-literacy.fedea.com.ar/ <br>
 https://wiki.stofcheck-ballinger.com/ <br>
 https://electronics.open-autonomy.com/ <br>
@@ -279,6 +272,7 @@ https://xn--p28h.math-solver.com/ <br>
 https://xpz.largent.org/ <br>
 https://roundrockisd.online/ <br>
 https://notintersteller.hop.sh/ <br>
+https://signup.nigelupchurch.com/ <br>
 https://blockthisifurhomophobic.gay/ <br>
 https://nationalgeographic.wiki/  <br>
 https://solutions.abatek.com/  <br>
@@ -286,29 +280,14 @@ https://robotics-class.robot-armies.com/ <br>
 https://algebra.creery.org/ <br>
 https://our-history.guild-site.com/ <br>
 https://educational.moonangel.com/ <br>
-https://space.hop.sh/ <br>
-https://abuse.hop.sh/ <br>
-https://im-running-out.hop.sh/  <br>
 https://grandcanyonmuseum.website/ <br>
 https://outerspace.pics/  <br>
 https://xn--vuq.math-solver.com/ <br>
-https://unblock.hop.sh/ <br>
-https://unblocked.hop.sh/  <br>
 https://xn--2da.math-solver.com/  <br>
-https://really.hop.sh/  <br>
-https://wild.hop.sh/  <br>
-https://bro.hop.sh/ <br>
-https://geography.hop.sh/ <br>
-https://of.hop.sh/ <br>
-https://spam.hop.sh/ <br>
-https://music.hop.sh/ <br>
 https://www.algebraxyz.com/ <br>
-https://us.hop.sh/ <br>
-https://asked.hop.sh/ <br>
 https://our-religion.tomahawkchurch.org/ <br>
 https://national.localghost.org/ <br>
 https://earth.skytourtw.com/ <br>
-https://fbi.hop.sh/ <br>
 https://login.math-solver.com/ <br>
 
 ### Incognito (Noblo Version):
@@ -623,7 +602,7 @@ https://womginx-2.09sharkboyroger.repl.co/ <br>
 https://communism.95792348709187287.repl.co/ <br>
 
 ### Shuttle: (HAS ADS) (MOST OF THEM OPEN IN ABOUT:BLANK)
-#### USES CLOUDFLARE, DOWN!
+#### SOME USE CLOUDFLARE!
 https://englishdata.co/ <br>
 https://creativeclassroom.co/ <br>
 https://tristanschools.co/ <br>
