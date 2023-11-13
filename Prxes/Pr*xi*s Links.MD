@@ -426,8 +426,8 @@ https://howtomath.org/ <br>
 https://eduverse.wiki/ <br>
 
 ### Elixir:
-https://elixirofficial.com <br>
 https://cerryx.net/ <br>
+https://ill-tan-adder-tutu.cyclic.app/ <br>
 
 ### Page Sandbox:
 https://io.sqeven.workers.dev/ <br>
