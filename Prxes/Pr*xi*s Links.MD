@@ -69,9 +69,8 @@ https://calc.ballbang.xyz/ <br>
 https://calc.ballbang.cc/ <br>
 https://calc.gameubg.com/ <br>
 
-### Moss News: Click “Why the U.S. Government has banned TikTok” then click the word misleading or viewing; you will get redirected to an about:blank with stuff on it. Click “503 page”.
-
-#### LONG VERSION:
+### Moss News: 
+#### LONG VERSION: Click “Why the U.S. Government has banned TikTok” then click the word misleading or viewing; you will get redirected to an about:blank with stuff on it. Click “503 page”.
 https://media.exid.me/ <br>
 https://fishme.me/ <br>
 https://foxmoss.com/ <br>
@@ -211,7 +210,7 @@ https://shouldiboosttherammerheadserver.tk/ <br>
 https://shouldiboosttherammerheadserver.gq/ <br>
 
 ### Interstellar: (opens in about:blank, can be cloaked)
-#### If you want me to, I might seperate the hop links from the others!
+#### Some use cloudflare so might be down.
 https://gointerstellar.app <br>
 https://gointerstellar.xyz <br>
 https://v4.wiki/ <br>
@@ -365,7 +364,7 @@ https://totalmathway.com/ <br>
 https://website-aio-unblockersreuploaded.koyeb.app/ [DEV] <br>
 https://holy.mathtutoringwithlove.info/ [DEV] <br>
 
-### Emerald (THE GREAT RETURN): (HAS ADS)
+### Emerald: (HAS ADS)
 https://emerald-is-very-cool-if-this-works.aigame.biz/ <br>
 https://edu.reves.cl/ <br>
 https://restaurant.giftofappetite.com/ <br>
@@ -409,7 +408,6 @@ https://khanacademy.buzz/ <br>
 https://smartacademy.buzz/ <br>
 https://studyingmath.org/ <br>
 https://ancienthistory.website/ <br>
-https://utopia.uhdfuifdhgu.repl.co/ (opens in about:blank, old) <br>
 https://wiseteaching.cfd/ <br>
 https://major.education/ <br>
 https://facts.education/ <br>
@@ -424,6 +422,7 @@ https://cleverutopia.com/ <br>
 https://utopiaunblocker.com/ <br>
 https://howtomath.org/ <br>
 https://eduverse.wiki/ <br>
+https://utopia.uhdfuifdhgu.repl.co/ (opens in about:blank, old) <br>
 
 ### Elixir:
 https://cerryx.net/ <br>
@@ -432,10 +431,8 @@ https://ill-tan-adder-tutu.cyclic.app/ <br>
 ### Page Sandbox:
 https://io.sqeven.workers.dev/ <br>
 
-### Ducky (Terbium):
-https://terbium1.pages.dev/ <br>
-
 ### Terbium:
+#### Click the 9 dots icon and click the planet icon
 https://terbium-46q.pages.dev/ (most current) <br>
 https://tbx.blackxfiied.xyz/ <br>
 https://test-youtube.jacoblopez25.repl.co/ (slow) <br>
@@ -602,7 +599,7 @@ https://womginx-2.09sharkboyroger.repl.co/ <br>
 https://communism.95792348709187287.repl.co/ <br>
 
 ### Shuttle: (HAS ADS) (MOST OF THEM OPEN IN ABOUT:BLANK)
-#### SOME USE CLOUDFLARE!
+#### Some use cloudflare so might be down.
 https://englishdata.co/ <br>
 https://creativeclassroom.co/ <br>
 https://tristanschools.co/ <br>
@@ -649,13 +646,9 @@ https://news.suncube.de/app <br>
 https://gaysex.surfdoge.pro/app  <br>
 https://geometry.solar-energy.cl/app  <br>
 https://study.helixarcade.space/app <br>
-https://education-gefyopudra.b4a.run/app  <br>
-https://p-vedah38711.b4a.run/app  <br>
-https://district.clarksvilletix.com/app <br>
 https://students.amorins.org/app <br>
 https://study.helixarcade.space/app <br>
 https://p-vedah38711.b4a.run/app (V3) <br>
-https://education-gefyopudra.b4a.run/app (V3) <br>
 https://long-stockings-duck.cyclic.app/ (V2) <br>
 
 ### Moonlight:
@@ -669,7 +662,6 @@ https://onedomain.info/ <br>
 https://birdfood.gq/ <br>
 
 ### Degeneracy:
-https://degeneracy--jaydenpepin-ta1.repl.co/ (shows as dangerous) <br>
 https://degeneracy.masoneubanks01.repl.co/ <br>
 https://easy-bake-oven--gavindeluna.repl.co/ <br>
 https://degeneracy.brydinbeall.repl.co/ <br>
@@ -712,9 +704,6 @@ https://d628312e.sodium-5h8.pages.dev/welcome <br>
 
 ### Typeist:
 https://typeist.lat/ <br>
-
-### Anonymous:
-https://anonymous-static.qlock.repl.co/ <br>
 
 ### WhiteSpider: Click Unblocker
 #### Normal:
@@ -829,7 +818,7 @@ https://hypertabs-10.elijahsocool.repl.co/ <br>
 https://irunblocked.xyz/ <br>
 https://irgames.net/ <br>
 
-### AnuraOS: CLICK NORMAL USER
+### AnuraOS: CLICK NORMAL USER AND WAIT FOR IT TO BOOT
 https://anura.mercurywork.shop/ <br>
 
 ### DuckOS: CLICK DUCKOS THEN BOOT DUCKOS
@@ -844,7 +833,7 @@ https://takesomeclasses.click/ (unsecure) <br>
 ### General Mathematics (DON'T USE THIS, THE OWNERS ARE SCUMMY):
 https://general-mathematics-beta-3.jaidapope.repl.co/ <br>
 
-### Surfskip:
+### Surfskip: CLick Google
 https://surfskip.com/ <br>
 
 ### Osmium (proxy isn't about:blank at first until you click the button!):
@@ -900,6 +889,7 @@ Ludicrous (broken) <br>
 Node Unblocker (broken) <br>
 Ruby Education (down) <br>
 Tsunami (broken) <br>
+Anonymouse (broken) <br>
 Tinf0il (school having beef with it but not art class?) <br>
 Ehab Games (banned) <br>
 
@@ -908,7 +898,9 @@ Notes: <br>
 Credits: <br>
 Thanks c0nstantly for the new formatting. <br>
 Thanks to Ghosted for his massive list. Could've not done this without him. https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/ <br>
+The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy, GhostedZoomer77 and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it?  <br>
 
-Note: The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy, GhostedZoomer77 and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it?  <br>
-REPL LINKS ARE SLOW. DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT. <br>
+REMEMBER: <br>
+REPL LINKS ARE SLOW. <br>
+DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT. <br>
 This list may get LOCKED since it has a LOT of links! <br>
