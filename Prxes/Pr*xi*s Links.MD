@@ -868,7 +868,7 @@ https://rednotsus.me <br>
 https://windows11.pages.dev/ <br>
 https://win11.blueedge.me/ <br>
 https://windows11-react.vercel.app/ <br>
-https://win11ui.netlify.app/ (this one may look better) <br>
+https://win11ui.netlify.app/ <br>
 
 ### Microsoft Labs (credits to 3kh0/ext-remover):
 https://github.com/S-PScripts/chromebook-utilities/blob/main/Hubs/Microsoft%20Labs
