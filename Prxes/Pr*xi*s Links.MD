@@ -759,9 +759,6 @@ https://physicsbutfun.com/ <br>
 https://geography.ariela.info/ <br>
 https://history.keaz.net/ <br>
 
-### Gallium: Click Browse Now
-https://bitmath.xyz/ <br>
-
 ### Noctura:
 https://noctura.tech/ <br>
 https://noctura.app/ <br>
