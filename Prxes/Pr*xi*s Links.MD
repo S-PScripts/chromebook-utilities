@@ -945,7 +945,7 @@ https://windows11-react.vercel.app/ <br>
 https://win11ui.netlify.app/ <br>
 
 ### Microsoft Labs (credits to 3kh0/ext-remover):
-https://github.com/S-PScripts/chromebook-utilities/blob/main/Hubs/Microsoft%20Labs
+https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Microsoft%20Labs
 
 ### Removed:
 TIW (broken) <br>
