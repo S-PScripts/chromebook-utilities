@@ -1,2 +1,3 @@
 This is a collection of chromebook utilities.
-Credits in the pr*xy folder.
+Credits to Titanium Network, Mercury Workshop, 3kh0 and more.
+(Art Class, Shuttle, Interstellar, Nebula, Rammerhead)
