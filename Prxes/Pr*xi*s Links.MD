@@ -900,6 +900,9 @@ https://skyhax.online/ <br>
 https://duckos.pages.dev/ <br>
 https://takesomeclasses.click/ (unsecure) <br>
 
+### Clockwork: CLICK WANT TO TRY IT OUT THEN ABOUT:BLANKER
+https://clockwork-os.vercel.app/ <br>
+
 ### General Mathematics (DON'T USE THIS, THE OWNERS ARE SCUMMY):
 https://general-mathematics-beta-3.jaidapope.repl.co/ <br>
 
