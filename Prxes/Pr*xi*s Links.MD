@@ -240,18 +240,12 @@ https://educational.naming-schemes.org/ <br>
 https://world-news.inthepress.org/ <br>
 https://coaching.garmanage.com/ <br>
 https://soccer.mikedoland.com/ <br>
-https://interstellarnetwork-interstellar22-hw4v.vercel.app/ (old) <br>
 https://financial-literacy.fedea.com.ar/ <br>
 https://wiki.stofcheck-ballinger.com/ <br>
 https://electronics.open-autonomy.com/ <br>
 https://about-us.nuggetgarage.com/ <br>
-https://hopshhopsh.hop.sh/ <br>
 https://oceania.sen.org.nz/ <br>
 https://recipe.cooking.youramys.com/ <br>
-https://benjamin.hop.sh/ <br>
-https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old) <br>
-https://jamakinmonkeys.hop.sh/ <br>
-https://nightlessishot-1.hop.sh/ <br>
 https://technology.linuxd1.com/   <br>
 https://a.ryanbauman.com/ <br>
 https://anintertellarlink-dev-ggrg.2.us-1.fl0.io/ <br>
@@ -262,12 +256,10 @@ https://pox.annaffiare.org/ <br>
 https://shop.tripreceipts.com/ <br>
 https://student-teachers.math-solver.com/ <br>
 https://t.d.d.isageek.net/ <br>
-https://jonahisfatasfuk.hop.sh/  <br>
 https://thefunnymaniscoming.vercel.app/ <br>
 https://thinkabout.thinksnow.net/ <br>
 https://vcz.vicinanza.org/ <br>
 https://why.math-solver.com/ <br>
-https://xn--p28h.math-solver.com/ <br>
 https://xpz.largent.org/ <br>
 https://roundrockisd.online/ <br>
 https://notintersteller.hop.sh/ <br>
@@ -281,13 +273,13 @@ https://our-history.guild-site.com/ <br>
 https://educational.moonangel.com/ <br>
 https://grandcanyonmuseum.website/ <br>
 https://outerspace.pics/  <br>
-https://xn--vuq.math-solver.com/ <br>
-https://xn--2da.math-solver.com/  <br>
 https://www.algebraxyz.com/ <br>
 https://our-religion.tomahawkchurch.org/ <br>
 https://national.localghost.org/ <br>
 https://earth.skytourtw.com/ <br>
 https://login.math-solver.com/ <br>
+https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old) <br>
+https://interstellarnetwork-interstellar22-hw4v.vercel.app/ (old) <br>
 
 ### Incognito (Noblo Version):
 #### Go to these links and select:
@@ -687,12 +679,10 @@ https://www.webapplication.design/  <br>
 https://codingwizard.org/  <br>
 https://sciencemaster.co/ <br>
 https://eduhelper.co/  <br>
-https://shuttleproxy.hop.sh/ <br>
 https://teachersearcher.co/ <br>
 https://mathhelper.co/ <br>
 https://physicprofession.org/ <br>
 https://exploreshuttle.xyz/ <br>
-https://schoolstudies.hop.sh/ <br>
 https://spanishlearnolgy.co <br>
 https://tutors4u.net/ <br>
 https://artmastery.guru/ <br>
@@ -700,6 +690,7 @@ https://learn.autismawareness.design/  <br>
 https://tutors4u.co/  <br>
 https://learnsmartly.org/ <br>
 https://edu.primemath.lol/ <br>
+https://shuttleproxy.hop.sh/ (OLD) <br>
 
 ### Doge Unblocker: (can be cloaked)
 https://photography.lystrup.org/app <br>
