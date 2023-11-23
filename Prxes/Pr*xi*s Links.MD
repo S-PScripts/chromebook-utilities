@@ -894,9 +894,6 @@ https://takesomeclasses.click/ (unsecure) <br>
 ### FlowOS: Click the icon in the top left corner and then click Browser
 https://mathchamps.me/ <br>
 
-### Abyss:
-https://intoabyss.org/ <br>
-
 ### Clockwork: CLICK WANT TO TRY IT OUT THEN ABOUT:BLANKER
 https://clockwork-os.vercel.app/ <br>
 
@@ -964,8 +961,9 @@ Node Unblocker (broken) <br>
 Ruby Education (down) <br>
 Tsunami (broken) <br>
 Anonymouse (broken) <br>
-Tinf0il (school having beef with it but not art class?) <br>
+Tinf0il (school banned it but not art class?) <br>
 Ehab Games (banned) <br>
+Abyss (banned) <br>
 
 
 Notes: <br>
