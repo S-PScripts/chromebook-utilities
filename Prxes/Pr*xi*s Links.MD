@@ -47,9 +47,6 @@ https://mathclass.gameubg.com/ <br>
 ### Supernova (Ultraviolet):
 https://supernova-v2--jonathanevans7.repl.co/ <br>
 
-### Ultraviolet (Canvas):
-https://wicked-gray-gharial.cyclic.app/ <br>
-
 ### Ballbang (Ultraviolet):
 #### Normal:
 https://mathclass.ballbang.wiki/ <br>
@@ -262,7 +259,6 @@ https://vcz.vicinanza.org/ <br>
 https://why.math-solver.com/ <br>
 https://xpz.largent.org/ <br>
 https://roundrockisd.online/ <br>
-https://notintersteller.hop.sh/ <br>
 https://signup.nigelupchurch.com/ <br>
 https://blockthisifurhomophobic.gay/ <br>
 https://nationalgeographic.wiki/  <br>
@@ -413,7 +409,6 @@ https://est1.stopblocc.uk/ <br>
 https://incognito-3.spamz0.repl.co/ <br>
 https://moist.vercel.app/ <br>
 https://incognito-static-version.pages.dev/ <br>
-https://clever-bee-tiara.cyclic.app/ <br>
 https://incognito-1.seanisgoated.repl.co/ <br>
 
 ### Holy Unblocker: (can be cloaked)
@@ -450,8 +445,6 @@ https://www.onspotify.xyz/ <br>
 https://k12-fl.k12sciencemuseum.org/ <br>
 https://schoolplanning.xyz/ <br>
 https://www.mathhog.xyz/ <br>
-https://scary-vestments-bee.cyclic.app/ <br>
-https://camerons-homework.glitch.me/ <br>
 https://20mathtime.com/ <br>
 https://math4kids.xyz/ <br>
 https://interactive.kydana.art/ <br>
@@ -496,7 +489,6 @@ https://utopia.uhdfuifdhgu.repl.co/ (opens in about:blank, old) <br>
 
 ### Elixir:
 https://cerryx.net/ <br>
-https://ill-tan-adder-tutu.cyclic.app/ <br>
 
 ### Page Sandbox:
 https://io.sqeven.workers.dev/ <br>
@@ -718,7 +710,6 @@ https://study.helixarcade.space/app <br>
 https://students.amorins.org/app <br>
 https://study.helixarcade.space/app <br>
 https://p-vedah38711.b4a.run/app (V3) <br>
-https://long-stockings-duck.cyclic.app/ (V2) <br>
 
 ### Moonlight:
 https://greenreading.info/ <br>
@@ -820,12 +811,6 @@ https://galaxy-is-cool.vercel.app/ <br>
 https://galaxy-two-taupe.vercel.app/ <br>
 
 ### Plexile Arcade:
-https://plexile-arcade-2.glitch.me/home.html <br>
-https://3ez-math-w0rksheets.glitch.me/home.html <br>
-https://plexile-arcade.glitch.me/home.html <br>
-https://33-ezschoolmath-problems.glitch.me/home.html <br>
-https://cool-math-stuff4school.glitch.me/home.html <br>
-https://schhooolis-s0f--un.glitch.me/home.html <br>
 https://plexile-arcade.jesusclapsu.repl.co/home.html (OLD) <br>
 
 ### Palladium:
