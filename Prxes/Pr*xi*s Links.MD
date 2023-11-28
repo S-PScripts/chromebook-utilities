@@ -21,10 +21,22 @@ https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://sub.ar
 https://mathnotes.help (you can add ANYTHING before mathnotes, e.g. https://sub.mathnotes.help/) <br>
 Note: You can add ANYTHING before artclass.site (e.g. https://subscribe.artclass.site/) <br>
 
+### Tinf0il: (can be cloaked and about:blanked) (similar to old Art Class)
+https://tetheriscool.gq/ <br>
+https://tinfoil-is-ass.xyz/ <br>
+
 ### TBG95 (Ultraviolet):
 https://gafiradar.com/ <br>
 https://ny.gafiradar.com/ <br>
 https://education-live.fun/ <br>
+
+### Corrosion:
+https://corrosion.grobby.repl.co/ <br>
+https://nnn--devendhanantwar.repl.co/  <br>
+https://corrosion.wwmshax.repl.co/  <br>
+https://corrosion2.mistrix05.repl.co/  <br>
+https://corrosion2.mistrix05.repl.co/  <br>
+https://corrosion-1--nevaehmoore4.repl.co/  <br>
 
 ### topVAZ games (Ultraviolet):
 https://sub.topicademy.com/ <br>
@@ -53,7 +65,6 @@ https://mathclass.ballbang.wiki/ <br>
 https://mathclass.ballbang.xyz/ <br>
 https://mathclass.ballbang.cc/ <br>
 https://mathclass.ballbang.fun/ <br>
-https://mathclass.unblocked-games.lol/ <br>
 https://scpwolfpro.ballbang.fun/ <br>
 https://scpwolfpro.ballbang.cc/ <br>
 https://avocadoarcade.lockthebook.com/ <br>
@@ -496,7 +507,9 @@ https://cerryx.net/ <br>
 
 ### Page Sandbox:
 https://io.sqeven.workers.dev/ <br>
-https://j.xj2.workers.dev/ (we found the long lost brother) <br>
+https://j.xj2.workers.dev/ <br>
+https://loli.xianyu1.workers.dev/ <br>
+https://little-credit-fc7d.sfzanghao.workers.dev/ <br>
 
 ### Terbium:
 #### Click the 9 dots icon and click the planet icon
@@ -790,6 +803,7 @@ https://instructure.pro/ <br>
 
 ### Unblocked Cave:
 https://misterfonka.github.io/ <br>
+https://crisisapple89.github.io/ <br>
 https://deft-travesseiro-e4bb56.netlify.app/ <br>
 https://jocular-selkie-093f6f.netlify.app/ (OLD) <br>
 
@@ -891,8 +905,11 @@ https://clockwork-os.vercel.app/ <br>
 ### General Mathematics (DON'T USE THIS, THE OWNERS ARE SCUMMY):
 https://general-mathematics-beta-3.jaidapope.repl.co/ <br>
 
-### Surfskip: CLick Google
+### Surfskip: Click Google
 https://surfskip.com/ <br>
+https://1win-creator.com/app <br>
+https://splashtoyshop.com/app <br>
+http://65.103.160.34.bc.googleusercontent.com/app (not secure) <br>
 
 ### Osmium (proxy isn't about:blank at first until you click the button!):
 https://osmium.ech0.dev/ <br>
@@ -951,8 +968,7 @@ Ludicrous (broken) <br>
 Node Unblocker (broken) <br>
 Ruby Education (down) <br>
 Tsunami (broken) <br>
-Anonymouse (broken) <br>
-Tinf0il (school banned it but not art class?) <br>
+Anonymous (broken) <br>
 Ehab Games (banned) <br>
 Abyss (banned) <br>
 
