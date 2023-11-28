@@ -535,14 +535,14 @@ https://j.xj2.workers.dev/ <br>
 https://loli.xianyu1.workers.dev/ <br>
 https://little-credit-fc7d.sfzanghao.workers.dev/ <br>
 
-### Terbium:
-#### Click the 9 dots icon and click the planet icon
+### Terbium: Click the 9 dots icon and click the planet icon
 https://terbium-46q.pages.dev/ (most current) <br>
+https://terbium-c7h.pages.dev/ <br>
+https://terbium-old.johnglynn2.repl.co/ <br>
 https://tbx.blackxfiied.xyz/ <br>
 https://test-youtube.jacoblopez25.repl.co/ (slow) <br>
 
 ### Astroid: Click any button on the fake MathsIsFun page for it (can be cloaked)
-#### There are actually a bucketload of astroids.
 https://englishclass.us.to/ <br>
 https://mathsclass.youramys.com/ <br>
 https://maths.timekeeper.ro/ <br>
@@ -691,7 +691,7 @@ https://chic-kashata-e4cec3.netlify.app/ <br>
 #### Click the Info button in these then click proxy:
 https://password-protection.netlify.app/ <br>
 
-### Genoxy (can be opened as about:blank):
+### Genoxy: (can be opened as about:blank)
 https://genarcy.watercdn.gq/proxy/index.html <br>
 
 ### Space Proxy:
