@@ -504,6 +504,25 @@ https://utopia.uhdfuifdhgu.repl.co/ (opens in about:blank, old) <br>
 
 ### Elixir:
 https://cerryx.net/ <br>
+https://elixir-1.hop.sh/ <br>
+https://elixir-2.hop.sh/ <br>
+https://elixir-3.hop.sh/  <br>
+https://elixir-4.hop.sh/ <br>
+https://elixir-5.hop.sh/  <br>
+https://elixir-6.hop.sh/ <br>
+https://elixir-7.hop.sh/ <br>
+https://elixir-8.hop.sh/ <br>
+https://elixir-9.hop.sh/ <br>
+https://elixir-10.hop.sh/ <br>
+https://elixir-11.hop.sh/ <br>
+https://elixir-12.hop.sh/ <br>
+https://elixir-1.joshmatthew0603.repl.co/ <br>
+https://igltrey-1--jordanchavvarie.repl.co/ <br> 
+https://elixir-1.jessenicholson2.repl.co/  <br>
+
+### Orbital:
+https://cryztal.coolguysforev1.repl.co/  (opens in about:blank)
+https://orbitalnew--slimjim1.repl.co/ 
 
 ### Page Sandbox:
 https://io.sqeven.workers.dev/ <br>
@@ -957,6 +976,9 @@ https://ruby.rubynetwork.tech/ (no login) <br>
 https://clients.republicofgamers.net/ <br>
 https://client.homeplex.org/ <br>
 https://qwerty.zfppz.uk/ <br>
+
+### Annotate: (can be about:blanked)
+https://mathisfun.lol/ <br>
 
 ### Removed:
 TIW (broken) <br>
