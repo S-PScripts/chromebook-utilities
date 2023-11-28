@@ -228,6 +228,7 @@ https://geographytips.org/ <br>
 https://photography.ryanandjen.org/ <br>
 https://recycling.shekinahphotography.com/ <br>
 https://educational-photos.shekinahphotography.com/  <br>
+https://taking-link-requests.hop.sh/ <br>
 https://edu.algebraxyz.com/ <br>
 https://computer-science.keecha.com/ <br>
 https://about.computers-science.org/ <br>
@@ -450,14 +451,17 @@ https://math4kids.xyz/ <br>
 https://interactive.kydana.art/ <br>
 https://tobi.gifts/ <br>
 
-### Metallic: (can be cloaked)
+### Metallic (Cog Network): (can be cloaked)
 https://metallic.eu.org/ <br>
 https://usemetallic.com/ <br>
 https://metallic.xyz.wf/ <br>
 https://metalli.zc.al/ <br>
 
-### Galaxy (Metallic version):
+### Galaxy (Cog Network):
 https://geoquiz.gq/ <br>
+
+### Cobalt (Cog Network):
+https://birdfood.gq/ <br>
 
 ### TBG: Click Google
 https://sio.birdriver.org/ <br>
@@ -691,8 +695,6 @@ https://edu.primemath.lol/ <br>
 https://shuttleproxy.hop.sh/ (OLD) <br>
 
 ### Doge Unblocker: (can be cloaked)
-https://photography.lystrup.org/app <br>
-https://geoquiz.mji.ro/app <br>
 https://dashboard.worksheetsforteachers.org/app <br>
 https://geometry.pualo.com/app  <br>
 https://nasa.rocketsfall.net/app  <br>
@@ -710,7 +712,6 @@ https://geometry.solar-energy.cl/app  <br>
 https://study.helixarcade.space/app <br>
 https://students.amorins.org/app <br>
 https://study.helixarcade.space/app <br>
-https://p-vedah38711.b4a.run/app (V3) <br>
 
 ### Moonlight:
 https://greenreading.info/ <br>
@@ -718,9 +719,6 @@ https://skybright.art/ <br>
 https://thelandofreading.com/ <br>
 https://mathland.wiki/ <br>
 https://onedomain.info/ <br>
-
-### Cobalt:
-https://birdfood.gq/ <br>
 
 ### Degeneracy:
 https://degeneracy.masoneubanks01.repl.co/ <br>
@@ -840,7 +838,7 @@ https://www.shflora.com/ <br>
 https://www.binomosignal.com/ 
 https://www.urmom.gq/  <br>
 
-### SurfTheWeb:
+### SurfTheWeb: (can be about:blanked)
 https://surfthewebv3.glitch.me/ <br>
 https://surftheweb-v3.netlify.app/ <br>
 https://surfthewebv3.netlify.app/ <br>
@@ -859,6 +857,7 @@ https://wtfnovogames.crabdance.com/ <br>
 
 ### Rusty:
 https://rustyv2.r480github.repl.co/ <br>
+https://rusty.kagegwo.repl.co/ <br>
 https://rusty.r480github.repl.co/ <br>
 https://rusty.grobby.repl.co/ <br>
 https://rusty-asf.funnigamer.repl.co/ <br>
@@ -884,6 +883,7 @@ https://takesomeclasses.click/ (unsecure) <br>
 
 ### FlowOS: Click the icon in the top left corner and then click Browser
 https://mathchamps.me/ <br>
+https://www.flow-works.me/ <br>
 
 ### Clockwork: CLICK WANT TO TRY IT OUT THEN ABOUT:BLANKER
 https://clockwork-os.vercel.app/ <br>
@@ -898,7 +898,7 @@ https://surfskip.com/ <br>
 https://osmium.ech0.dev/ <br>
 
 ### WebToppings:
-#### This one is EXCELLENT for links! (but unfortunately only links, no searching :P)
+#### This one is EXCELLENT!!
 https://webtoppings.bar/ <br>
 
 ### LTBPEM:
