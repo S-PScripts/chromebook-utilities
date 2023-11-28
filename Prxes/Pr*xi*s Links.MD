@@ -952,13 +952,18 @@ https://win11ui.netlify.app/ <br>
 ### Microsoft Labs (credits to 3kh0/ext-remover):
 https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Microsoft%20Labs
 
+### Ruby: Username and Password is ruby.
+https://ruby.rubynetwork.tech/ (no login) <br>
+https://clients.republicofgamers.net/ <br>
+https://client.homeplex.org/ <br>
+https://qwerty.zfppz.uk/ <br>
+
 ### Removed:
 TIW (broken) <br>
 Hypersite V2 (broken) <br>
 Rogue (ended) <br>
-Taco Proxy (ended) <br>
+Taco Proxy (banned) <br>
 The Universal Proxy (ended) <br>
-Croxy Proxy (banned) <br>
 Illusive (ended) <br>
 Glype (banned) <br>
 Totally Science (banned) <br>
@@ -966,7 +971,6 @@ DM Unbl0cker (banned) <br>
 Plooshi Docs (ended) <br>
 Ludicrous (broken) <br>
 Node Unblocker (broken) <br>
-Ruby Education (down) <br>
 Tsunami (broken) <br>
 Anonymous (broken) <br>
 Ehab Games (banned) <br>
