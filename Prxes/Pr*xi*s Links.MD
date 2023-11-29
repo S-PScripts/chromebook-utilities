@@ -776,9 +776,15 @@ https://study.helixarcade.space/app <br>
 https://students.amorins.org/app <br>
 https://study.helixarcade.space/app <br>
 
+### Galactic:
+https://galactic.hop.sh/  <br>
+
 ### Moonlight:
 https://greenreading.info/ <br>
 https://skybright.art/ <br>
+https://science4noobs.co/ <br>
+https://dreamboxmath.org/ <br>
+https://silvereen.org/ <br>
 https://thelandofreading.com/ <br>
 https://mathland.wiki/ <br>
 https://onedomain.info/ <br>
