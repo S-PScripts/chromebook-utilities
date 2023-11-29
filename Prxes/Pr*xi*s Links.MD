@@ -806,7 +806,6 @@ https://typeist.lat/ <br>
 
 ### WhiteSpider: Click Unblocker
 #### Normal:
-https://tiww.pages.dev/ (new) <br>
 https://whitespider.pages.dev/ <br>
 https://whitespider.gq/ <br>
 https://whitespider.cf/ <br>
