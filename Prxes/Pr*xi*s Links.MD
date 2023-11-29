@@ -689,6 +689,7 @@ https://kpyu3.sse.codesandbox.io/ <br>
 #### Normal:
 https://chic-kashata-e4cec3.netlify.app/ <br>
 #### Click the Info button in these then click proxy:
+##### Can be about:blanked (click More...)
 https://password-protection.netlify.app/ <br>
 
 ### Genoxy: (can be opened as about:blank)
