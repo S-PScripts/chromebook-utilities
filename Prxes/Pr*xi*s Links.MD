@@ -446,13 +446,10 @@ https://incognito-1.seanisgoated.repl.co/ <br>
 https://python3langdocs.net/<br>
 https://campusdirections.org/<br>
 https://thattrevorproject.com/<br>
-https://colpsk12.org/<br>
-https://boiledeggs.org<br>
+https://colpsk12.org/ <br>
+https://boiledeggs.org <br>
 https://huanacademy.org/ <br>
-https://12gft.xyz/ <br>
-https://ur2ndlibrary.com/<br>
 https://englishology.org/<br>
-https://televisionrepair.us/ <br>
 https://thechefmethod.com/<br>
 https://getbackmath.com/<br>
 https://cheapdogs.org/ <br>
