@@ -1027,9 +1027,6 @@ https://1win-creator.com/app <br>
 https://splashtoyshop.com/app <br>
 http://65.103.160.34.bc.googleusercontent.com/app (not secure) <br>
 
-### Osmium (proxy isn't about:blank at first until you click the button!):
-https://osmium.ech0.dev/ <br>
-
 ### WebToppings:
 #### This one is EXCELLENT!!
 https://webtoppings.bar/ <br>
@@ -1097,6 +1094,7 @@ Anonymous (broken) <br>
 Ehab Games (banned) <br>
 Galaxy (banned) <br>
 Aero (broken) <br>
+Osmium (banned) <br>
 
 Notes: <br>
 Credits: <br>
