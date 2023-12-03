@@ -11,7 +11,6 @@ https://sail.msg.boats <br>
 https://v4-git-main-artclass.vercel.app/ <br>
 https://v4-snowy.vercel.app/ <br>
 https://v4-artclass.vercel.app/ <br>
-https://v4-kohl.vercel.app/ <br>
 https://dattebayonig.vercel.app/ <br>
 https://schoolscience.vercel.app/ <br>
 https://kohlsisbadlmaoo.vercel.app/ <br>
@@ -22,8 +21,8 @@ https://stuffyschicken.isreallycool.lol/ <br>
 https://subscribe.mathlearning.tech/ (add ANYTHING before math) <br>
 https://subscribe.mathhelpnow.site (add ANYTHING before math) <br>
 https://subscribe.sciencesimplified.pro (add ANYTHING before science) <br>
-https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://sub.artclass.lol/) <br>
-https://mathnotes.help (you can add ANYTHING before mathnotes, e.g. https://sub.mathnotes.help/) <br>
+https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://subscribe.artclass.lol/) <br>
+https://mathnotes.help (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.help/) <br>
 Note: You can add ANYTHING before artclass.site (e.g. https://subscribe.artclass.site/) <br>
 
 ### Tinf0il: (can be cloaked and about:blanked) (similar to old Art Class)
@@ -47,32 +46,34 @@ https://corrosion-1--nevaehmoore4.repl.co/  <br>
 https://sub.topicademy.com/ <br>
 https://sub.sashimimi.com/ <br>
 https://sub.promathclass.com/ <br>
+https://sub.sushiprosi.com/ <br>
+#### Add ANYTHING before topicademy, sashimimi, promathclass and sushiprosi.
+
+### 23azo (Ultraviolet)
 https://sub.23azorun.com/ <br>
 https://sub.23azosports.com/ <br>
 https://sub.23azoshooting.com/ <br>
-https://sub.sushiprosi.com/ <br>
-#### Add ANYTHING before topicademy, sashimimi, promathclass etc.
+#### Add ANYTHING before 23azorun, 23azosports and 23azoshooting.
 
-### TopVAZ (Ultraviolet): You need to click the M- button on the calculator. It will open as an about:blank.
+### topVAZ (Ultraviolet): You need to click the M- button on the calculator. It will open as an about:blank.
 https://blog.mathblogs.online/ <br>
 https://school.mathblogs.online/ <br>
 https://math.geometrytip.online/ <br>
 
-### TopVAZ but it's called proxy:
-https://mathclass.gameubg.com/ <br>
+### topVAZ but it's called Proxy:
+https://subscribe.gameubg.com/ (add anything before gameubg) <br>
 
 ### Supernova (Ultraviolet):
 https://supernova-v2--jonathanevans7.repl.co/ <br>
 
-### Ballbang (Ultraviolet):
+### BallBang (Ultraviolet):
 #### Normal:
-https://mathclass.ballbang.wiki/ <br>
-https://mathclass.ballbang.xyz/ <br>
-https://mathclass.ballbang.cc/ <br>
-https://mathclass.ballbang.fun/ <br>
-https://scpwolfpro.ballbang.fun/ <br>
-https://scpwolfpro.ballbang.cc/ <br>
-https://avocadoarcade.lockthebook.com/ <br>
+https://subscribe.ballbang.wiki/ <br>
+https://subscribe.ballbang.xyz/ <br>
+https://subscribe.ballbang.cc/ (add anything before ballbang) <br>
+https://subscribe.ballbang.fun/ (add anything before ballbang) <br>
+https://subscribe.ballbang1.com/ (add anything before ballbang) <br>
+https://subscribe.lockthebook.com/ (add anything before lockthebook) <br>
 
 #### Click the ( Button on the calculators for these: (Ballbang opens as about:blank)
 https://scpwolf.ballbang1.com/ <br>
@@ -81,6 +82,7 @@ https://calc.ballbang.fun/ <br>
 https://calc.ballbang.xyz/ <br>
 https://calc.ballbang.cc/ <br>
 https://calc.gameubg.com/ <br>
+https://calc.ballbang1.com/ <br>
 
 ### Moss News: 
 #### LONG VERSION: Click “Why the U.S. Government has banned TikTok” then click the word misleading or viewing; you will get redirected to an about:blank with stuff on it. Click “503 page”.
@@ -552,13 +554,6 @@ https://io.sqeven.workers.dev/ <br>
 https://j.xj2.workers.dev/ <br>
 https://loli.xianyu1.workers.dev/ <br>
 https://little-credit-fc7d.sfzanghao.workers.dev/ <br>
-
-### Terbium: Click the 9 dots icon and click the planet icon
-https://terbium-46q.pages.dev/ (most current) <br>
-https://terbium-c7h.pages.dev/ <br>
-https://terbium-old.johnglynn2.repl.co/ <br>
-https://tbx.blackxfiied.xyz/ <br>
-https://test-youtube.jacoblopez25.repl.co/ (slow) <br>
 
 ### Astroid: Click any button on the fake MathsIsFun page for it (can be cloaked)
 https://englishclass.us.to/ <br>
@@ -1092,6 +1087,7 @@ Ehab Games (banned) <br>
 Galaxy (banned) <br>
 Aero (broken) <br>
 Osmium (banned) <br>
+Terbium (broken) <br>
 
 Notes: <br>
 Credits: <br>
