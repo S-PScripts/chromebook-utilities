@@ -1087,9 +1087,6 @@ https://clients.republicofgamers.net/ <br>
 https://client.homeplex.org/ <br>
 https://qwerty.zfppz.uk/ <br>
 
-### Annotate: (can be about:blanked)
-https://mathisfun.lol/ <br>
-
 ### Removed:
 TIW (broken) <br>
 Hypersite V2 (broken) <br>
@@ -1111,6 +1108,7 @@ Aero (broken) <br>
 Osmium (banned) <br>
 Terbium (broken) <br>
 Tinf0il (banned... but not Art Class?) <br>
+Annotate (banned) <br>
 
 Notes: <br>
 Credits: <br>
