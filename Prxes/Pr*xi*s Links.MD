@@ -31,13 +31,6 @@ https://gafiradar.com/ <br>
 https://ny.gafiradar.com/ <br>
 https://education-live.fun/ <br>
 
-### Corrosion:
-https://corrosion.grobby.repl.co/ <br>
-https://nnn--devendhanantwar.repl.co/  <br>
-https://corrosion2.mistrix05.repl.co/  <br>
-https://corrosion2.mistrix05.repl.co/  <br>
-https://corrosion-1--nevaehmoore4.repl.co/  <br>
-
 ### topVAZ games (Ultraviolet):
 https://sub.topicademy.com/ <br>
 https://sub.sashimimi.com/ <br>
@@ -1082,6 +1075,7 @@ Tinf0il (banned... but not Art Class?) <br>
 Annotate (banned) <br>
 Noctura (broken) <br>
 Outred (broken) <br>
+Corrosion (broken) <br>
 
 Notes: <br>
 Credits: <br>
