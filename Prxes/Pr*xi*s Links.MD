@@ -5,6 +5,7 @@ https://artclass.site/ <br>
 https://ixl.plus/ <br>
 https://my.englishpapers.online/ <br>
 https://study.englishpapers.online/  <br>
+https://stufy.englishpapers.online/  <br>
 https://sutausfjsajfas.englishpapers.online/ <br>
 https://purchase-some.hotglue.click/ <br>
 https://sail.msg.boats <br>
@@ -248,6 +249,8 @@ https://business.youramys.com/ <br>
 https://desmos.me/ <br>
 https://dominos.buzz/ <br>
 https://beesliketo.buzz/ <br>
+https://recycleright.pro/ <br>
+https://algebraxyz.online/ <br>
 https://earth.skytourtw.com/ <br>
 https://nimbuss.cloud/ <br>
 https://geographytips.org/ <br>
@@ -452,7 +455,6 @@ https://cgzv1i.csb.app/ <br>
 https://8hujmi.csb.app/ <br>
 https://5.hop.sh/ <br>
 https://ezmathforyou.hop.sh/ <br>
-https://r0gu3h3h3h3.github.io/hehe/ <br>
 https://incognito-8.hop.sh/ <br>
 https://unblocker.netlify.app/ <br>
 https://moist.vercel.app/ <br>
@@ -732,7 +734,7 @@ https://womginx.nicolaspichavan.repl.co/ <br>
 https://womginx-2.09sharkboyroger.repl.co/ <br>
 https://communism.95792348709187287.repl.co/ <br>
 
-### Shuttle: (HAS ADS) (MOST OF THEM OPEN IN ABOUT:BLANK)
+### Shuttle: (HAS ADS) (opens in about:blank)
 #### Some use cloudflare so might be down.
 https://englishdata.co/ <br>
 https://creativeclassroom.co/ <br>
@@ -743,6 +745,8 @@ https://learn2invest.info/ <br>
 https://tutors4cheap.co/ <br>
 https://search.uwuugle.com/ <br>
 https://schoolstudies.hop.sh/  <br>
+https://beststudies.hop.sh/  <br>
+https://ihateschool.hop.sh/  <br>
 https://findmytutor.info/ <br>
 https://www.webapplication.design/  <br>
 https://codingwizard.org/  <br>
@@ -760,7 +764,6 @@ https://learn.autismawareness.design/  <br>
 https://tutors4u.co/  <br>
 https://learnsmartly.org/ <br>
 https://edu.primemath.lol/ <br>
-https://shuttleproxy.hop.sh/ (OLD) <br>
 
 ### Void:
 https://sf.owlpentest.com/ (as Starfield)
@@ -818,29 +821,8 @@ https://endinternetcensors.grobby.repl.co/ <br>
 https://endinternetcensorship.grobby.repl.co/ <br>
 
 ### Kazwire:
-https://math.chaintrust.com/ <br>
-https://computers.ourupgrade.com/ <br>
-https://science.aquaflo.net/ <br>
 https://mathiscoolandawsome.us.to/  <br>
 https://kazwiremath.us.to/  <br>
-https://business.arslaniz.biz/ <br>
-https://info.ajalo.com/ <br>
-https://park.tallison.com/ <br>
-https://laws.luwsnet.com/  <br>
-https://information.luxram.net/  <br>
-https://biography.timtung.com/  <br>
-https://science.mudchute.com/  <br>
-https://parks.ti68k.com/ <br>
-https://kaz.bbs.io/ <br>
-https://edu.srcsb.com/ <br>
-https://math.kellerz.com/ <br>
-https://physicsbutfun.com/ <br>
-https://geography.ariela.info/ <br>
-https://history.keaz.net/ <br>
-
-### Noctura:
-https://noctura.tech/ <br>
-https://noctura.app/ <br>
 
 ### Sodium: Click Skip or go to Bing in Apps (icon with 3 squares and plus)
 https://3651dade.sodium-5h8.pages.dev/welcome <br>
@@ -870,15 +852,6 @@ https://sites.google.com/view/wsug <br>
 https://sites.google.com/view/x999 <br>
 https://sites.google.com/view/gainforschool <br>
 https://sites.google.com/view/theunlockedbay <br>
-
-### Outred:
-https://outredlatest.idek29879890.repl.co/ <br>
-https://outredlatest-1.raygameshype.repl.co/ <br>
-https://outreds.world/ <br>
-https://geometry-help.mathtutorials.app/ <br>
-https://schoology.pro/ <br>
-https://aboutblank.pro/ <br>
-https://instructure.pro/ <br>
 
 ### Unblocked Cave:
 https://misterfonka.github.io/ <br>
@@ -1078,7 +1051,7 @@ https://windows11-react.vercel.app/ <br>
 https://win11ui.netlify.app/ <br>
 
 ### Microsoft Labs (credits to 3kh0/ext-remover):
-https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Microsoft%20Labs
+https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Microsoft%20Labs <br>
 
 ### Ruby: Username and Password is ruby.
 https://ruby.rubynetwork.tech/ (no login) <br>
@@ -1108,6 +1081,8 @@ Osmium (banned) <br>
 Terbium (broken) <br>
 Tinf0il (banned... but not Art Class?) <br>
 Annotate (banned) <br>
+Noctura (broken) <br>
+Outred (broken) <br>
 
 Notes: <br>
 Credits: <br>
