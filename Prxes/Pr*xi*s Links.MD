@@ -25,10 +25,6 @@ https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://subscr
 https://mathnotes.help (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.help/) <br>
 Note: You can add ANYTHING before artclass.site (e.g. https://subscribe.artclass.site/) <br>
 
-### Tinf0il: (can be cloaked and about:blanked) (similar to old Art Class)
-https://tetheriscool.gq/ <br>
-https://tinfoil-is-ass.xyz/ <br>
-
 ### TBG95 (Ultraviolet):
 https://gafiradar.com/ <br>
 https://ny.gafiradar.com/ <br>
@@ -1114,6 +1110,7 @@ Galaxy [Cog Network] (banned) <br>
 Aero (broken) <br>
 Osmium (banned) <br>
 Terbium (broken) <br>
+Tinf0il (banned... but not Art Class?) <br>
 
 Notes: <br>
 Credits: <br>
