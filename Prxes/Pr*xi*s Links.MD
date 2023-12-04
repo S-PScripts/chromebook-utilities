@@ -34,7 +34,6 @@ https://education-live.fun/ <br>
 ### Corrosion:
 https://corrosion.grobby.repl.co/ <br>
 https://nnn--devendhanantwar.repl.co/  <br>
-https://corrosion.wwmshax.repl.co/  <br>
 https://corrosion2.mistrix05.repl.co/  <br>
 https://corrosion2.mistrix05.repl.co/  <br>
 https://corrosion-1--nevaehmoore4.repl.co/  <br>
