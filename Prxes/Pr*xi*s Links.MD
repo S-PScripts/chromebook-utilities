@@ -29,7 +29,6 @@ Note: You can add ANYTHING before artclass.site (e.g. https://subscribe.artclass
 ### TBG95 (Ultraviolet):
 https://gafiradar.com/ <br>
 https://ny.gafiradar.com/ <br>
-https://education-live.fun/ <br>
 
 ### topVAZ games (Ultraviolet):
 https://sub.topicademy.com/ <br>
@@ -511,6 +510,7 @@ https://birdfood.gq/ <br>
 ### TBG: Click Google
 https://sio.birdriver.org/ <br>
 https://sio.sentinam.io/ <br>
+https://education-live.fun/ <br>
 
 ### Utopia: (can be cloaked and about:blanked)
 https://www.smartowls.tk/ <br>
