@@ -555,7 +555,7 @@ https://igltrey-1--jordanchavvarie.repl.co/ <br>
 https://elixir-1.jessenicholson2.repl.co/  <br>
 
 ### Orbital:
-https://cryztal.coolguysforev1.repl.co/  (opens in about:blank)
+https://cryztal.coolguysforev1.repl.co/ (opens in about:blank) <br>
 https://orbitalnew--slimjim1.repl.co/ 
 
 ### Page Sandbox:
@@ -565,6 +565,9 @@ https://loli.xianyu1.workers.dev/ <br>
 https://little-credit-fc7d.sfzanghao.workers.dev/ <br>
 
 ### Astroid: Click any button on the fake MathsIsFun page for it (can be cloaked)
+https://astroid.pro/ <br>
+https://astroid.gg/ <br>
+https://astroid.jib.ar/ <br>
 https://englishclass.us.to/ <br>
 https://mathsclass.youramys.com/ <br>
 https://maths.timekeeper.ro/ <br>
@@ -605,12 +608,9 @@ https://mathiswaytofun.us.to/ <br>
 https://geometry.argenterio.ar/ <br>
 https://new.easychargebatteries.com/ <br>
 https://kahoot.mine.bz/ <br>
-https://astroid.jib.ar/ <br>
 https://tim.sotna.org/ <br>
 https://fast.jbones.com/ <br>
 https://login.3play.cl/ <br>
-https://astroid.pro/ <br>
-https://astroid.gg/ <br>
 https://math.devcan.org/ <br>
 https://mathissofun.us.to/ <br>
 https://mathisfun.info.gf/ <br>
@@ -710,8 +710,8 @@ https://kpyu3.sse.codesandbox.io/ <br>
 ### ByeBlocker: 
 #### Normal:
 https://chic-kashata-e4cec3.netlify.app/ <br>
-#### Click the Info button in these then click proxy:
-##### Can be about:blanked (click More...)
+
+#### Click the Info button in these then click proxy: Can be about:blanked (click More...)
 https://password-protection.netlify.app/ <br>
 
 ### Genoxy: (can be opened as about:blank)
