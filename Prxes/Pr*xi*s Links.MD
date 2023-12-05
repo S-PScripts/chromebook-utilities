@@ -238,7 +238,6 @@ https://interstellar.lol/ <br>
 https://interstellar.titaniumnetwork.co/ <br>
 https://shot.photography.backriverphotography.com/  <br>
 https://business.youramys.com/ <br>
-https://desmos.me/ <br>
 https://dominos.buzz/ <br>
 https://beesliketo.buzz/ <br>
 https://recycleright.pro/ <br>
