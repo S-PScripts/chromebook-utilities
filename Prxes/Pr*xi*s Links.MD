@@ -231,7 +231,12 @@ https://v4.wiki/ <br>
 https://vercel.wiki/ <br>
 https://khanacademy.me/ <br>
 https://mathway.cloud/  <br>
+https://outerspace.pics/  <br>
 https://roundrockisd.online/ <br>
+https://1.hop.sh/  <br>
+https://4.hop.sh/ <br>
+https://axyzmadethis.hop.sh/  <br>
+
 https://bubbo.dev/ <br>
 https://interstellar.lol/ <br>
 https://interstellar.titaniumnetwork.co/ <br>
@@ -265,16 +270,7 @@ https://oceania.sen.org.nz/ <br>
 https://recipe.cooking.youramys.com/ <br>
 https://technology.linuxd1.com/   <br>
 https://a.ryanbauman.com/ <br>
-https://hi.hop.sh/  <br>
 https://login.computers-science.online/  <br>
-https://memorialhelicopter.hop.sh/ <br>
-https://inappropriatesustain.hop.sh/ <br>
-https://maximumrailcar.hop.sh/ <br>
-https://democraticmystery.hop.sh/ <br>
-https://behavioradventure.hop.sh/ <br>
-https://expectationsuppress.hop.sh/ <br>
-https://migrationcruelty.hop.sh/ <br>
-https://admissiongeneration.hop.sh/ <br>
 https://mathematics.0000004.xyz/ <br>
 https://navy.0000004.xyz/ <br>
 https://no.plus90.com/ <br>
@@ -282,7 +278,6 @@ https://pox.annaffiare.org/ <br>
 https://shop.tripreceipts.com/ <br>
 https://student-teachers.math-solver.com/ <br>
 https://t.d.d.isageek.net/ <br>
-https://thefunnymaniscoming.vercel.app/ <br>
 https://thinkabout.thinksnow.net/ <br>
 https://vcz.vicinanza.org/ <br>
 https://why.math-solver.com/ <br>
@@ -297,7 +292,6 @@ https://algebra.creery.org/ <br>
 https://our-history.guild-site.com/ <br>
 https://educational.moonangel.com/ <br>
 https://grandcanyonmuseum.website/ <br>
-https://outerspace.pics/  <br>
 https://our-religion.tomahawkchurch.org/ <br>
 https://national.localghost.org/ <br>
 https://earth.skytourtw.com/ <br>
@@ -971,14 +965,20 @@ https://irgames.net/ <br>
 ### AnuraOS: CLICK NORMAL USER AND WAIT FOR IT TO BOOT
 https://anura.mercurywork.shop/ <br>
 
-### DuckOS: CLICK DUCKOS THEN BOOT DUCKOS
+### DuckOS: CLICK DUCKOS THEN BOOT DUCKOS. CLICK THE GLOBE ICON THEN IMMORTAL
+#### Normal:
 https://skyhax.xyz/ <br>
 https://duckos.site/ <br>
 https://mesmerizing.skin/ <br>
 https://studyclub.biz/ <br>
 https://skyhax.online/ <br>
-https://duckos.pages.dev/ <br>
-https://takesomeclasses.click/ (unsecure) <br>
+
+#### Fast (Immortal):
+https://immortal.skyhax.xyz/ <br>
+https://immortal.duckos.site/ <br>
+https://immortal.mesmerizing.skin/ <br>
+https://immortal.studyclub.biz/ <br>
+https://immortal.skyhax.online/ <br>
 
 ### FlowOS: Click the icon in the top left corner and then click Browser
 https://mathchamps.me/ <br>
@@ -1085,6 +1085,6 @@ Thanks to Ghosted for his massive list. Could've not done this without him. http
 The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy, GhostedZoomer77 and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it?  <br>
 
 REMEMBER: <br>
-REPL LINKS ARE SLOW. <br>
 DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT. <br>
 This list may get LOCKED since it has a LOT of links! <br>
+IF YOU GET ERR_TUNNEL_CONNECTION_FAILED I CAN'T DO ANYTHING <BR>
