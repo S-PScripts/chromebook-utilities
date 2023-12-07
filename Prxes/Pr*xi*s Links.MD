@@ -12,9 +12,6 @@ https://sail.msg.boats <br>
 https://v4-git-main-artclass.vercel.app/ <br>
 https://v4-snowy.vercel.app/ <br>
 https://v4-artclass.vercel.app/ <br>
-https://dattebayonig.vercel.app/ <br>
-https://schoolscience.vercel.app/ <br>
-https://kohlsisbadlmaoo.vercel.app/ <br>
 https://smellypay.isreally.pro/ <br>
 https://smellyal.isreally.pro/ <br>
 https://math.isreally.pro/ <br>
@@ -236,7 +233,6 @@ https://roundrockisd.online/ <br>
 https://1.hop.sh/  <br>
 https://4.hop.sh/ <br>
 https://axyzmadethis.hop.sh/  <br>
-
 https://bubbo.dev/ <br>
 https://interstellar.lol/ <br>
 https://interstellar.titaniumnetwork.co/ <br>
@@ -296,11 +292,10 @@ https://our-religion.tomahawkchurch.org/ <br>
 https://national.localghost.org/ <br>
 https://earth.skytourtw.com/ <br>
 https://login.math-solver.com/ <br>
-https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old) <br>
+https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old, click proxy then go to v4) <br>
 
-### The Unblocked Hub: (like old interstellar)
-https://theunblockedhub.com/ <br>
-https://my.schoolscool.net/ <br>
+### The Unblocked Hub: (looks like old interstellar) (has ads)
+https://site.theunblockedhub.com/ <br>
 https://studyhard.sprk.lol/ <br>
 
 ### Incognito (Noblo Version):
@@ -528,7 +523,6 @@ https://cleverutopia.com/ <br>
 https://utopiaunblocker.com/ <br>
 https://howtomath.org/ <br>
 https://eduverse.wiki/ <br>
-https://utopia.uhdfuifdhgu.repl.co/ (opens in about:blank, old) <br>
 
 ### Elixir:
 https://cerryx.net/ <br>
@@ -861,11 +855,7 @@ https://galaxy-two-taupe.vercel.app/ <br>
 
 ### Plexile Arcade:
 https://plexilearcade.netlify.app/  <br>
-https://the-pa-system.vercel.app/  <br>
-https://plexilearcade.glitch.me/  <br>
 https://wplexilearcade.glitch.me/  <br>
-https://plexilearcade.onrender.com/  <br>
-https://pplexilearcade.onrender.com/ <br>
 https://plexile-arcade.jesusclapsu.repl.co/home.html (OLD) <br>
 
 ### Palladium:
