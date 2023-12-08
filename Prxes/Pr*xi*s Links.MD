@@ -319,11 +319,12 @@ https://eduhelp.uk <br>
 https://stopblocc.uk <br>
 
 #### Full list: (you need to access them from the links above!)
-https://uk1.noblo.cc/ (UK server) <br>
-https://uk2.noblo.cc/ (UK server) <br>
-https://us1.noblo.cc/ (US server) <br>
-https://us2.noblo.cc/ (US server) <br>
+https://uk1.noblo.cc/ (British server) <br>
+https://uk2.noblo.cc/ (British server) <br>
+https://us1.noblo.cc/ (American server) <br>
+https://us2.noblo.cc/ (American server) <br>
 https://est1.noblo.cc/ (Estonian server) <br>
+https://pl1.noblo.cc/ (Polish server) <br>
 
 https://uk1.noblocc.me/ <br>
 https://uk2.noblocc.me/ <br>
