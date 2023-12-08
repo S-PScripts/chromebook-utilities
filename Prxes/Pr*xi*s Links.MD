@@ -849,11 +849,6 @@ https://vapor.uavwzecan48kbut.repl.co/ <br>
 https://vapor.luketrim1.repl.co/ <br>
 https://vapor.by1egend251.repl.co/ <br>
 
-### Galaxy:
-https://real-galaxy-frfr.vercel.app/ <br>
-https://galaxy-is-cool.vercel.app/ <br>
-https://galaxy-two-taupe.vercel.app/ <br>
-
 ### Plexile Arcade:
 https://plexilearcade.netlify.app/  <br>
 https://wplexilearcade.glitch.me/  <br>
@@ -1068,6 +1063,7 @@ Tinf0il (banned... but not Art Class?) <br>
 Noctura (broken) <br>
 Outred (broken) <br>
 Corrosion (broken) <br>
+Galaxy (removed from vercel) <br>
 
 Notes: <br>
 Credits: <br>
