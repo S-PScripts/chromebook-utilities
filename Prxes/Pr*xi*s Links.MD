@@ -1036,9 +1036,6 @@ https://clients.republicofgamers.net/ <br>
 https://client.homeplex.org/ <br>
 https://qwerty.zfppz.uk/ <br>
 
-### Annotate: (can be about:blanked)
-https://mathspace.cc/  <br>
-
 ### Removed:
 TIW (broken) <br>
 Hypersite V2 (broken) <br>
@@ -1064,6 +1061,7 @@ Noctura (broken) <br>
 Outred (broken) <br>
 Corrosion (broken) <br>
 Galaxy (removed from vercel) <br>
+Annotate (banned) <br>
 
 Notes: <br>
 Credits: <br>
