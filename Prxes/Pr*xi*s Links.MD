@@ -3,7 +3,7 @@
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ <br>
 https://ixl.plus/ <br>
-https://my.englishpapers.online/ <br>
+https://education.englishpapers.online/  <br>
 https://study.englishpapers.online/  <br>
 https://stufy.englishpapers.online/  <br>
 https://sutausfjsajfas.englishpapers.online/ <br>
@@ -22,6 +22,10 @@ https://subscribe.sciencesimplified.pro (add ANYTHING before science) <br>
 https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://subscribe.artclass.lol/) <br>
 https://mathnotes.help (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.help/) <br>
 Note: You can add ANYTHING before artclass.site (e.g. https://subscribe.artclass.site/) <br>
+
+### ???: (opens in about:blank)
+I was thinking about what links for art class could work with englishpapers.online and accidentally found this... <br>
+https://english.englishpapers.online/ <br>
 
 ### TBG95 (Ultraviolet):
 https://gafiradar.com/ <br>
@@ -158,12 +162,14 @@ https://achievementnetwork.tk/ <br>
 https://r.achievementnetwork.tk/ <br>
 https://soraapp.gq/ <br>
 https://r.soraapp.gq/ <br>
+
 #### Below you cannot add r. before the links:
 https://education.mordeco.com/ <br>
 https://edu.mordeco.com/ <br>
 https://staff.mordeco.com/ <br>
 https://admin.mordeco.com/ <br>
 https://quantumphysics.sciencesimplified.pro/ <br>
+https://biographyhelp.sciencesimplified.pro/ <br>
 https://math.sciencesimplified.pro/ <br>
 https://login.googlesclassroom.gq/ <br>
 https://login.googlesclassroom.cf/ <br>
@@ -194,7 +200,6 @@ https://howtomath.theeduweb.com/ <br>
 https://math4kids.containersarelinux.net/ <br>
 https://war.entraide.cf/ <br>
 https://tips.bitesmagazine.com/ <br>
-https://biographyhelp.sciencesimplified.pro/ <br>
 https://freenomisratelimitingme.cf/ <br>
 https://membean.cf/ <br>
 https://membean.gq/ <br>
