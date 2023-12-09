@@ -433,7 +433,6 @@ https://incognito-9.spamz0.repl.co/ <br>
 https://incognito-10.spamz0.repl.co/ <br>
 https://cgzv1i.csb.app/ <br>
 https://8hujmi.csb.app/ <br>
-https://5.hop.sh/ <br>
 https://ezmathforyou.hop.sh/ <br>
 https://incognito-8.hop.sh/ <br>
 https://unblocker.netlify.app/ <br>
@@ -445,13 +444,10 @@ https://incognito-1.seanisgoated.repl.co/ <br>
 https://python3langdocs.net/<br>
 https://ur2ndlibrary.com/ <br>
 https://campusdirections.org/<br>
-https://thattrevorproject.com/<br>
 https://colpsk12.org/ <br>
 https://boiledeggs.org <br>
-https://huanacademy.org/ <br>
 https://englishology.org/<br>
 https://thechefmethod.com/<br>
-https://getbackmath.com/<br>
 https://cheapdogs.org/ <br>
 https://totalmathway.com/ <br>
 https://website-aio-unblockersreuploaded.koyeb.app/ [DEV] <br>
