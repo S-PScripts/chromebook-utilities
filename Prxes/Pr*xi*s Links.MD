@@ -467,7 +467,7 @@ https://sub.sushiprosi.com/ <br>
 https://mathblogs.online/ (you can add anything before mathblogs) <br>
 https://geometrytip.online/ (you can add anything before geometrytip) <br>
 
-For these ones, add anything before them - I already did for you:
+#### For these ones, add anything before them - I already did for you:
 https://subscribe.mathematicsblogs.site <br>
 https://subscribe.mathematicsblogs.online <br>
 
