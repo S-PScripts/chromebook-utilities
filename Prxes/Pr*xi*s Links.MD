@@ -58,6 +58,12 @@ Note: You can add ANYTHING before artclass.site (e.g. https://subscribe.artclass
 I was thinking about what links for art class could work with englishpapers.online and accidentally found this... <br>
 https://english.englishpapers.online/ <br>
 
+### Tinf0il: (can be about:blanked)
+https://webapplication.design/ <br>
+#### Uh...
+So this link was a shuttle. It had www before it. However, I realised that it didn't work. <br>
+I removed the www and it worked... but it was a TINF0IL! I have no clue how that happened... <br>
+
 ### Shuttle: (HAS ADS) (opens in about:blank)
 #### Some use cloudflare so might be down.
 https://englishdata.co/ <br>
@@ -72,7 +78,6 @@ https://schoolstudies.hop.sh/  <br>
 https://beststudies.hop.sh/  <br>
 https://ihateschool.hop.sh/  <br>
 https://findmytutor.info/ <br>
-https://www.webapplication.design/  <br>
 https://codingwizard.org/  <br>
 https://sciencemaster.co/ <br>
 https://eduhelper.co/  <br>
@@ -1011,7 +1016,6 @@ Galaxy [Cog Network] (banned) <br>
 Aero (broken) <br>
 Osmium (banned) <br>
 Terbium (broken) <br>
-Tinf0il (banned... but not Art Class?) <br>
 Noctura (broken) <br>
 Outred (broken) <br>
 Corrosion (broken) <br>
