@@ -15,6 +15,7 @@ https://dominos.buzz/ <br>
 https://beesliketo.buzz/ <br>
 https://1.hop.sh/  <br>
 https://4.hop.sh/ <br>
+https://wisdom.educational.sciencevictory.org/  <br>
 https://shot.photography.backriverphotography.com/  <br>
 https://illuminate.autumn.shekinahphotography.com/  <br>
 https://taking-link-requests.hop.sh/ <br>
