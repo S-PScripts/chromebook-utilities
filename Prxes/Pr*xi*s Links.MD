@@ -226,109 +226,108 @@ https://collagehelper.com <br>
 https://eduhelp.uk <br>
 https://stopblocc.uk <br>
 
-#### Full list: (you need to access them from the links above!)
+#### Full list: (you might need to access them from the links above!)
 https://uk1.noblo.cc/ (British server) <br>
 https://uk2.noblo.cc/ (British server) <br>
 https://us1.noblo.cc/ (American server) <br>
 https://us2.noblo.cc/ (American server) <br>
-https://est1.noblo.cc/ (Estonian server) <br>
 https://pl1.noblo.cc/ (Polish server) <br>
 
 https://uk1.noblocc.me/ <br>
 https://uk2.noblocc.me/ <br>
 https://us1.noblocc.me/ <br>
 https://us2.noblocc.me/ <br>
-https://est1.noblocc.me/ <br>
+https://pl1.noblocc.me/ <br>
 
 https://uk1.noblocc.uk/ <br>
 https://uk2.noblocc.uk/ <br>
 https://us1.noblocc.uk/ <br>
 https://us2.noblocc.uk/ <br>
-https://est1.noblocc.uk/ <br>
+https://pl1.noblocc.uk/ <br>
 
 https://uk1.noblocc.co.uk/ <br>
 https://uk2.noblocc.co.uk/ <br>
 https://us1.noblocc.co.uk/ <br>
 https://us2.noblocc.co.uk/ <br>
-https://est1.noblocc.co.uk/ <br>
+https://pl1.noblocc.co.uk/ <br>
 
 https://uk1.noblocc.com/ <br>
 https://uk2.noblocc.com/ <br>
 https://us1.noblocc.com/ <br>
 https://us2.noblocc.com/ <br>
-https://est1.noblocc.com/ <br>
+https://pl1.noblocc.com/ <br>
 
 https://uk1.coccblocc.men/ <br>
 https://uk2.coccblocc.men/ <br>
 https://us1.coccblocc.men/ <br>
 https://us2.coccblocc.men/ <br>
-https://est1.coccblocc.men/ <br>
+https://pl1.coccblocc.men/ <br>
 
 https://uk1.phantomcaravan.uk/ <br>
 https://uk2.phantomcaravan.uk/ <br>
 https://us1.phantomcaravan.uk/ <br>
 https://us2.phantomcaravan.uk/ <br>
-https://est1.phantomcaravan.uk/ <br>
+https://pl1.phantomcaravan.uk/ <br>
 
 https://uk1.cookiesfor.me/ <br>
 https://uk2.cookiesfor.me/ <br>
 https://us1.cookiesfor.me/ <br>
 https://us2.cookiesfor.me/ <br>
-https://est1.cookiesfor.me/ <br>
+https://pl1.cookiesfor.me/ <br>
 
 https://uk1.unblocc.uk/ <br>
 https://uk2.unblocc.uk/ <br>
 https://us1.unblocc.uk/ <br>
 https://us2.unblocc.uk/ <br>
-https://est1.unblocc.uk/ <br>
+https://pl1.unblocc.uk/ <br>
 
 https://uk1.unblocc.co.uk/ <br>
 https://uk2.unblocc.co.uk/ <br>
 https://us1.unblocc.co.uk/ <br>
 https://us2.unblocc.co.uk/ <br>
-https://est1.unblocc.co.uk/ <br>
+https://pl1.unblocc.co.uk/ <br>
 
 https://uk1.deblocc.uk/ <br>
 https://uk2.deblocc.uk/ <br>
 https://us1.deblocc.uk/ <br>
 https://us2.deblocc.uk/ <br>
-https://est1.deblocc.uk/ <br>
+https://pl1.deblocc.uk/ <br>
 
 https://uk1.tanner502.uk/ <br>
 https://uk2.tanner502.uk/ <br>
 https://us1.tanner502.uk/ <br>
 https://us2.tanner502.uk/ <br>
-https://est1.tanner502.uk/ <br>
+https://pl1.tanner502.uk/ <br>
 
 https://uk1.antiblocc.uk/ <br>
 https://uk2.antiblocc.uk/ <br>
 https://us1.antiblocc.uk/ <br>
 https://us2.antiblocc.uk/ <br>
-https://est1.antiblocc.uk/ <br>
+https://pl1.antiblocc.uk/ <br>
 
 https://uk1.antiblocc.co.uk/ <br>
 https://uk2.antiblocc.co.uk/ <br>
 https://us1.antiblocc.co.uk/ <br>
 https://us2.antiblocc.co.uk/ <br>
-https://est1.antiblocc.co.uk/ <br>
+https://pl1.antiblocc.co.uk/ <br>
 
 https://uk1.collagehelper.com/ <br>
 https://uk2.collagehelper.com/ <br>
 https://us1.collagehelper.com/ <br>
 https://us2.collagehelper.com/ <br>
-https://est1.collagehelper.com/ <br>
+https://pl1.collagehelper.com/ <br>
 
 https://uk1.eduhelp.uk/ <br>
 https://uk2.eduhelp.uk/ <br>
 https://us1.eduhelp.uk/ <br>
 https://us2.eduhelp.uk/ <br>
-https://est1.eduhelp.uk/ <br>
+https://pl1.eduhelp.uk/ <br>
 
 https://uk1.stopblocc.uk/ <br>
 https://uk2.stopblocc.uk/ <br>
 https://us1.stopblocc.uk/ <br>
 https://us2.stopblocc.uk/ <br>
-https://est1.stopblocc.uk/ <br>
+https://pl1.stopblocc.uk/ <br>
 
 ### Incognito (Other):
 https://incognito-3.spamz0.repl.co/ <br>
