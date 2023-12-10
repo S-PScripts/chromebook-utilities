@@ -1,5 +1,34 @@
 # LIST CREATED BY S-PSCRIPTS ON GITHUB. DO NOT STEAL THIS DOCUMENT AND PASS IT OFF AS ALL OF YOUR WORK.
 
+### Interstellar: (opens in about:blank, can be cloaked)
+#### Some use cloudflare so might be down.
+https://gointerstellar.app <br>
+https://gointerstellar.xyz <br>
+https://login.thegalleryofart.info/  <br>
+https://bubbo.dev/ <br>
+https://v4.wiki/ <br>
+https://vercel.wiki/ <br>
+https://mathway.cloud/  <br>
+https://outerspace.pics/  <br>
+https://roundrockisd.online/ <br>
+https://geographytips.org/ <br>
+https://dominos.buzz/ <br>
+https://beesliketo.buzz/ <br>
+https://1.hop.sh/  <br>
+https://4.hop.sh/ <br>
+https://shot.photography.backriverphotography.com/  <br>
+https://illuminate.autumn.shekinahphotography.com/  <br>
+https://taking-link-requests.hop.sh/ <br>
+https://edu.algebraxyz.com/ <br>
+https://about.computers-science.org/ <br>
+https://recipe.cooking.youramys.com/ <br>
+https://login.computers-science.online/  <br>
+https://blockthisifurhomophobic.gay/ <br>
+https://nationalgeographic.wiki/  <br>
+https://grandcanyonmuseum.website/ <br>
+https://our-religion.tomahawkchurch.org/ <br>
+https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old, click proxy then go to v4) <br>
+
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ <br>
 https://ixl.plus/ <br>
@@ -8,6 +37,7 @@ https://study.englishpapers.online/  <br>
 https://stufy.englishpapers.online/  <br>
 https://sutausfjsajfas.englishpapers.online/ <br>
 https://purchase-some.hotglue.click/ <br>
+https://artprojects.vercel.app/ <br>
 https://sail.msg.boats <br>
 https://v4-git-main-artclass.vercel.app/ <br>
 https://v4-snowy.vercel.app/ <br>
@@ -20,6 +50,7 @@ https://subscribe.mathlearning.tech/ (add ANYTHING before math) <br>
 https://subscribe.mathhelpnow.site (add ANYTHING before math) <br>
 https://subscribe.sciencesimplified.pro (add ANYTHING before science) <br>
 https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://subscribe.artclass.lol/) <br>
+https://mathnotes.icu/ (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.icu/)  <br>
 https://mathnotes.help (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.help/) <br>
 Note: You can add ANYTHING before artclass.site (e.g. https://subscribe.artclass.site/) <br>
 
@@ -27,90 +58,36 @@ Note: You can add ANYTHING before artclass.site (e.g. https://subscribe.artclass
 I was thinking about what links for art class could work with englishpapers.online and accidentally found this... <br>
 https://english.englishpapers.online/ <br>
 
-### TBG95 (Ultraviolet):
-https://gafiradar.com/ <br>
-https://ny.gafiradar.com/ <br>
-
-### topVAZ games (Ultraviolet):
-https://sub.topicademy.com/ <br>
-https://sub.sashimimi.com/ <br>
-https://sub.promathclass.com/ <br>
-https://sub.sushiprosi.com/ <br>
-#### Add ANYTHING before topicademy, sashimimi, promathclass and sushiprosi.
-
-### 23azo (Ultraviolet)
-https://sub.23azorun.com/ <br>
-https://sub.23azosports.com/ <br>
-https://sub.23azoshooting.com/ <br>
-#### Add ANYTHING before 23azorun, 23azosports and 23azoshooting.
-
-### topVAZ (Ultraviolet): You need to click the M- button on the calculator. It will open as an about:blank.
-https://blog.mathblogs.online/ <br>
-https://school.mathblogs.online/ <br>
-https://math.geometrytip.online/ <br>
-
-### topVAZ but it's called Proxy:
-https://subscribe.gameubg.com/ (add anything before gameubg) <br>
-
-### Supernova (Ultraviolet):
-https://supernova-v2--jonathanevans7.repl.co/ <br>
-
-### BallBang (Ultraviolet):
-#### Normal:
-https://subscribe.ballbang.wiki/ <br>
-https://subscribe.ballbang.xyz/ <br>
-https://subscribe.ballbang.cc/ (add anything before ballbang) <br>
-https://subscribe.ballbang.fun/ (add anything before ballbang) <br>
-https://subscribe.ballbang1.com/ (add anything before ballbang) <br>
-https://subscribe.lockthebook.com/ (add anything before lockthebook) <br>
-
-#### Click the ( Button on the calculators for these: (Ballbang opens as about:blank)
-https://scpwolf.ballbang1.com/ <br>
-https://scpwolf.ballbang.fun/ <br>
-https://calc.ballbang.fun/ <br>
-https://calc.ballbang.xyz/ <br>
-https://calc.ballbang.cc/ <br>
-https://calc.gameubg.com/ <br>
-https://calc.ballbang1.com/ <br>
-
-### Moss News: 
-#### LONG VERSION: Click “Why the U.S. Government has banned TikTok” then click the word misleading or viewing; you will get redirected to an about:blank with stuff on it. Click “503 page”.
-https://media.exid.me/ <br>
-https://fishme.me/ <br>
-https://foxmoss.com/ <br>
-https://fox.artclass.site/ <br>
-https://securly.com.foxmoss.com/ <br>
-https://mossnews.mathtutoringwithlove.info/ <br>
-https://mediaology.mediaology.com/ (note that mediaology.com redirects to https://fishme.me/) <br>
-
-#### INSTANT REDIRECT Ultraviolet (Medialogy):
-https://mossnews.mathtutoringwithlove.info/uv/ <br>
-https://securly.com.foxmoss.com/uv/ <br>
-https://fishme.me/uv/ <br>
-
-### BruhProx (Ultraviolet):
-https://bruhprox.pages.dev/ <br>
-
-### Freedom Project (Ultraviolet):
-https://hx.illuminx.live/ <br>
-https://news.provend.tech/ <br>
-https://xs.xenol.one/ <br>
-https://xs.xenol.life/ <br>
-https://fr.provend.tech/ <br>
-https://xs.xenol.cloud/ <br>
-https://ln.xenol.one/ <br>
-https://xn.xenol.life/ <br>
-https://fr.illuminx.live/ <br>
-
-### "Google" (Ultraviolet): (wait for it to load)
-https://beta101-1.jacoblopez25.repl.co/ <br>
-https://google7-1.jacoblopez25.repl.co/ <br>
-https://beta100.jacoblopez25.repl.co/ <br>
-https://roogle.jacoblopez25.repl.co/ <br>
-https://google17.jacoblopez25.repl.co/ <br>
-https://google11-1.jacoblopez25.repl.co/ <br>
-https://yea-1.jacoblopez25.repl.co/ <br>
-https://youtube-like-and-sub.jacoblopez25.repl.co/ <br>
+### Shuttle: (HAS ADS) (opens in about:blank)
+#### Some use cloudflare so might be down.
+https://englishdata.co/ <br>
+https://creativeclassroom.co/ <br>
+https://tristanschools.co/ <br>
+https://tutors4u.net/ <br>
+https://cheapclass.co/ <br>
+https://learn2invest.info/ <br>
+https://tutors4cheap.co/ <br>
+https://search.uwuugle.com/ <br>
+https://schoolstudies.hop.sh/  <br>
+https://beststudies.hop.sh/  <br>
+https://ihateschool.hop.sh/  <br>
+https://findmytutor.info/ <br>
+https://www.webapplication.design/  <br>
+https://codingwizard.org/  <br>
+https://sciencemaster.co/ <br>
+https://eduhelper.co/  <br>
+https://edurelief.co/  <br>
+https://teachersearcher.co/ <br>
+https://mathhelper.co/ <br>
+https://physicprofession.org/ <br>
+https://exploreshuttle.xyz/ <br>
+https://spanishlearnolgy.co <br>
+https://tutors4u.net/ <br>
+https://artmastery.guru/ <br>
+https://learn.autismawareness.design/  <br>
+https://tutors4u.co/  <br>
+https://learnsmartly.org/ <br>
+https://edu.primemath.lol/ <br>
 
 ### Rammerhead: (can be cloaked, tabs can be opened as an about:blank)
 #### For these ones you can add r. before the links (I've already done it for you):
@@ -225,35 +202,7 @@ https://joyridearoundthepark.5inas.cf/ <br>
 https://shouldiboosttherammerheadserver.tk/ <br>
 https://shouldiboosttherammerheadserver.gq/ <br>
 
-### Interstellar: (opens in about:blank, can be cloaked)
-#### Some use cloudflare so might be down.
-https://gointerstellar.app <br>
-https://gointerstellar.xyz <br>
-https://bubbo.dev/ <br>
-https://v4.wiki/ <br>
-https://vercel.wiki/ <br>
-https://mathway.cloud/  <br>
-https://outerspace.pics/  <br>
-https://roundrockisd.online/ <br>
-https://geographytips.org/ <br>
-https://dominos.buzz/ <br>
-https://beesliketo.buzz/ <br>
-https://1.hop.sh/  <br>
-https://4.hop.sh/ <br>
-https://shot.photography.backriverphotography.com/  <br>
-https://illuminate.autumn.shekinahphotography.com/  <br>
-https://taking-link-requests.hop.sh/ <br>
-https://edu.algebraxyz.com/ <br>
-https://about.computers-science.org/ <br>
-https://recipe.cooking.youramys.com/ <br>
-https://login.computers-science.online/  <br>
-https://blockthisifurhomophobic.gay/ <br>
-https://nationalgeographic.wiki/  <br>
-https://grandcanyonmuseum.website/ <br>
-https://our-religion.tomahawkchurch.org/ <br>
-https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old, click proxy then go to v4) <br>
-
-### The Unblocked Hub: (looks like old interstellar) (has ads)
+### The Unblocked Hub: (looks like old interstellar, opens in about:blank) (has ads)
 https://site.theunblockedhub.com/ <br>
 https://studyhard.sprk.lol/ <br>
 
@@ -498,6 +447,88 @@ https://elixir-1.joshmatthew0603.repl.co/ <br>
 https://igltrey-1--jordanchavvarie.repl.co/ <br> 
 https://elixir-1.jessenicholson2.repl.co/  <br>
 
+### TBG95 (Ultraviolet):
+https://gafiradar.com/ <br>
+https://ny.gafiradar.com/ <br>
+
+### topVAZ games (Ultraviolet):
+https://sub.topicademy.com/ <br>
+https://sub.sashimimi.com/ <br>
+https://sub.promathclass.com/ <br>
+https://sub.sushiprosi.com/ <br>
+#### Add ANYTHING before topicademy, sashimimi, promathclass and sushiprosi.
+
+### 23azo (Ultraviolet)
+https://sub.23azorun.com/ <br>
+https://sub.23azosports.com/ <br>
+https://sub.23azoshooting.com/ <br>
+#### Add ANYTHING before 23azorun, 23azosports and 23azoshooting.
+
+### topVAZ (Ultraviolet): You need to click the M- button on the calculator. It will open as an about:blank.
+https://blog.mathblogs.online/ <br>
+https://school.mathblogs.online/ <br>
+https://math.geometrytip.online/ <br>
+
+### topVAZ but it's called Proxy:
+https://subscribe.gameubg.com/ (add anything before gameubg) <br>
+
+### Supernova (Ultraviolet):
+https://supernova-v2--jonathanevans7.repl.co/ <br>
+
+### BallBang (Ultraviolet):
+#### Normal:
+https://subscribe.ballbang.wiki/ <br>
+https://subscribe.ballbang.xyz/ <br>
+https://subscribe.ballbang.cc/ (add anything before ballbang) <br>
+https://subscribe.ballbang.fun/ (add anything before ballbang) <br>
+https://subscribe.ballbang1.com/ (add anything before ballbang) <br>
+https://subscribe.lockthebook.com/ (add anything before lockthebook) <br>
+
+#### Click the ( Button on the calculators for these: (Ballbang opens as about:blank)
+https://scpwolf.ballbang1.com/ <br>
+https://scpwolf.ballbang.fun/ <br>
+https://calc.ballbang.fun/ <br>
+https://calc.ballbang.xyz/ <br>
+https://calc.ballbang.cc/ <br>
+https://calc.gameubg.com/ <br>
+https://calc.ballbang1.com/ <br>
+
+### Moss News: 
+#### LONG VERSION: Click “Why the U.S. Government has banned TikTok” then click the word misleading or viewing; you will get redirected to an about:blank with stuff on it. Click “503 page”.
+https://media.exid.me/ <br>
+https://fishme.me/ <br>
+https://foxmoss.com/ <br>
+https://fox.artclass.site/ <br>
+https://securly.com.foxmoss.com/ <br>
+https://mossnews.mathtutoringwithlove.info/ <br>
+https://mediaology.mediaology.com/ (note that mediaology.com redirects to https://fishme.me/) <br>
+
+#### INSTANT REDIRECT Ultraviolet (Medialogy):
+https://mossnews.mathtutoringwithlove.info/uv/ <br>
+https://securly.com.foxmoss.com/uv/ <br>
+https://fishme.me/uv/ <br>
+
+### BruhProx (Ultraviolet):
+https://bruhprox.pages.dev/ <br>
+
+### Freedom Project (Ultraviolet):
+https://hx.illuminx.live/ <br>
+https://news.provend.tech/ <br>
+https://fr.provend.tech/ <br>
+https://fr.illuminx.live/ <br>
+https://login.edulastic.one/ <br>
+https://materials.edulastic.one/ <br>
+
+### "Google" (Ultraviolet): (wait for it to load)
+https://beta101-1.jacoblopez25.repl.co/ <br>
+https://google7-1.jacoblopez25.repl.co/ <br>
+https://beta100.jacoblopez25.repl.co/ <br>
+https://roogle.jacoblopez25.repl.co/ <br>
+https://google17.jacoblopez25.repl.co/ <br>
+https://google11-1.jacoblopez25.repl.co/ <br>
+https://yea-1.jacoblopez25.repl.co/ <br>
+https://youtube-like-and-sub.jacoblopez25.repl.co/ <br>
+
 ### Orbital:
 https://cryztal.coolguysforev1.repl.co/ (opens in about:blank) <br>
 https://orbitalnew--slimjim1.repl.co/ 
@@ -669,39 +700,8 @@ https://womginx.nicolaspichavan.repl.co/ <br>
 https://womginx-2.09sharkboyroger.repl.co/ <br>
 https://communism.95792348709187287.repl.co/ <br>
 
-### Shuttle: (HAS ADS) (opens in about:blank)
-#### Some use cloudflare so might be down.
-https://englishdata.co/ <br>
-https://creativeclassroom.co/ <br>
-https://tristanschools.co/ <br>
-https://tutors4u.net/ <br>
-https://cheapclass.co/ <br>
-https://learn2invest.info/ <br>
-https://tutors4cheap.co/ <br>
-https://search.uwuugle.com/ <br>
-https://schoolstudies.hop.sh/  <br>
-https://beststudies.hop.sh/  <br>
-https://ihateschool.hop.sh/  <br>
-https://findmytutor.info/ <br>
-https://www.webapplication.design/  <br>
-https://codingwizard.org/  <br>
-https://sciencemaster.co/ <br>
-https://eduhelper.co/  <br>
-https://edurelief.co/  <br>
-https://teachersearcher.co/ <br>
-https://mathhelper.co/ <br>
-https://physicprofession.org/ <br>
-https://exploreshuttle.xyz/ <br>
-https://spanishlearnolgy.co <br>
-https://tutors4u.net/ <br>
-https://artmastery.guru/ <br>
-https://learn.autismawareness.design/  <br>
-https://tutors4u.co/  <br>
-https://learnsmartly.org/ <br>
-https://edu.primemath.lol/ <br>
-
 ### Void:
-https://sf.owlpentest.com/ (as Starfield)
+https://sf.owlpentest.com/ (as Starfield) <br>
 
 ### Doge Unblocker: (can be cloaked)
 https://dashboard.worksheetsforteachers.org/app <br>
@@ -727,12 +727,6 @@ https://history.pereras.eu/app <br>
 https://news.suncube.de/app <br>
 https://gaysex.surfdoge.pro/app  <br>
 https://geometry.solar-energy.cl/app  <br>
-https://study.helixarcade.space/app <br>
-https://students.amorins.org/app <br>
-https://study.helixarcade.space/app <br>
-
-### Galactic:
-https://galactic.hop.sh/  <br>
 
 ### Moonlight:
 https://greenreading.info/ <br>
@@ -928,9 +922,6 @@ https://www.flow-works.me/ <br>
 ### Clockwork: CLICK WANT TO TRY IT OUT THEN ABOUT:BLANKER
 https://clockwork-os.vercel.app/ <br>
 
-### General Mathematics (DON'T USE THIS, THE OWNERS ARE SCUMMY):
-https://general-mathematics-beta-3.jaidapope.repl.co/ <br>
-
 ### Surfskip: Click Google
 #### Normal:
 https://surfskip.com/app <br>
@@ -948,11 +939,6 @@ https://192.184.128.34.bc.googleusercontent.com/app <br>
 ### WebToppings:
 #### This one is EXCELLENT!!
 https://webtoppings.bar/ <br>
-
-### LTBPEM:
-https://www.ltbpem.gq/ <br>
-https://example.readinghelper.online/ <br>
-https://spreading.autismawareness.design/ <br>
 
 ### Deblok: 
 #### For this one, you'll need make an account. You need discord. Go to another proxy/device, join deblok's discord server and make an account. Then log in to the proxy site!
@@ -976,17 +962,10 @@ https://mathlearning.top <br>
 https://exploits.pages.dev <br>
 https://rednotsus.me <br>
 
-### Windows 11 in React:
-https://windows11.pages.dev/ <br>
-https://win11.blueedge.me/ <br>
-https://windows11-react.vercel.app/ <br>
-https://win11ui.netlify.app/ <br>
-
 ### Microsoft Labs (credits to 3kh0/ext-remover):
 https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Microsoft%20Labs <br>
 
 ### Ruby: Username and Password is ruby.
-https://ruby.rubynetwork.tech/ (no login) <br>
 https://clients.republicofgamers.net/ <br>
 https://client.homeplex.org/ <br>
 https://qwerty.zfppz.uk/ <br>
@@ -1015,8 +994,12 @@ Tinf0il (banned... but not Art Class?) <br>
 Noctura (broken) <br>
 Outred (broken) <br>
 Corrosion (broken) <br>
-Galaxy (removed from vercel) <br>
+Galaxy (removed) <br>
 Annotate (banned) <br>
+Galactic (broken) <br>
+LTBPEM (removed) <br>
+Windows 11 React (broken) <br>
+General Mathematics (broken, GOOD RIDDANCE)
 
 Notes: <br>
 Credits: <br>
