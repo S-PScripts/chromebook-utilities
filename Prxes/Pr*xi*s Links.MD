@@ -1,7 +1,6 @@
 # LIST CREATED BY S-PSCRIPTS ON GITHUB. DO NOT STEAL THIS DOCUMENT AND PASS IT OFF AS ALL OF YOUR WORK.
 
 ### Interstellar: (opens in about:blank, can be cloaked)
-#### Some use cloudflare so might be down.
 https://gointerstellar.app <br>
 https://gointerstellar.xyz <br>
 https://login.thegalleryofart.info/  <br>
@@ -39,9 +38,6 @@ https://sutausfjsajfas.englishpapers.online/ <br>
 https://purchase-some.hotglue.click/ <br>
 https://artprojects.vercel.app/ <br>
 https://sail.msg.boats <br>
-https://v4-git-main-artclass.vercel.app/ <br>
-https://v4-snowy.vercel.app/ <br>
-https://v4-artclass.vercel.app/ <br>
 https://smellypay.isreally.pro/ <br>
 https://smellyal.isreally.pro/ <br>
 https://math.isreally.pro/ <br>
@@ -64,8 +60,7 @@ https://webapplication.design/ <br>
 So this link was a shuttle. It had www before it. However, I realised that it didn't work. <br>
 I removed the www and it worked... but it was a TINF0IL! I have no clue how that happened... <br>
 
-### Shuttle: (HAS ADS) (opens in about:blank)
-#### Some use cloudflare so might be down.
+### Shuttle: (opens in about:blank)
 https://englishdata.co/ <br>
 https://creativeclassroom.co/ <br>
 https://tristanschools.co/ <br>
@@ -74,9 +69,6 @@ https://cheapclass.co/ <br>
 https://learn2invest.info/ <br>
 https://tutors4cheap.co/ <br>
 https://search.uwuugle.com/ <br>
-https://schoolstudies.hop.sh/  <br>
-https://beststudies.hop.sh/  <br>
-https://ihateschool.hop.sh/  <br>
 https://findmytutor.info/ <br>
 https://codingwizard.org/  <br>
 https://sciencemaster.co/ <br>
@@ -89,7 +81,6 @@ https://exploreshuttle.xyz/ <br>
 https://spanishlearnolgy.co <br>
 https://tutors4u.net/ <br>
 https://artmastery.guru/ <br>
-https://learn.autismawareness.design/  <br>
 https://tutors4u.co/  <br>
 https://learnsmartly.org/ <br>
 https://edu.primemath.lol/ <br>
@@ -382,17 +373,6 @@ https://friedthe-chickenman.home.kg/ <br>
 https://history.centuriontel.com/ <br>
 https://destination.routesmaps.com/ <br>
 https://planterbound.5thaurora.com/ <br>
-
-### Nebula: (can be cloaked)
-https://www.coremathlessons.xyz/ <br>
-https://www.onspotify.xyz/ <br>
-https://k12-fl.k12sciencemuseum.org/ <br>
-https://schoolplanning.xyz/ <br>
-https://www.mathhog.xyz/ <br>
-https://20mathtime.com/ <br>
-https://math4kids.xyz/ <br>
-https://interactive.kydana.art/ <br>
-https://tobi.gifts/ <br>
 
 ### Metallic (Cog Network): (can be cloaked)
 https://metallic.eu.org/ <br>
@@ -1027,6 +1007,7 @@ Windows 11 React (broken) <br>
 General Mathematics (broken, GOOD RIDDANCE) <br>
 DuckOS (ended) <br>
 BruhProx (broken) <br>
+Nebula (broken) <br>
 
 Notes: <br>
 Credits: <br>
