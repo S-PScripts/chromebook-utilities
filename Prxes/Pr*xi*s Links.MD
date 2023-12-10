@@ -435,8 +435,8 @@ https://sub.sushiprosi.com/ <br>
 #### Add ANYTHING before topicademy, sashimimi, promathclass and sushiprosi.
 
 ### topVAZ (Ultraviolet): You need to click the M- button on the calculator. It will open as an about:blank.
-https://mathblogs.online/ (you can add anything before mathblogs) <br>
-https://geometrytip.online/ (you can add anything before geometrytip) <br>
+https://mathblogs.online/ (you can add anything before mathblogs, e.g. https://subscribe.mathblogs.online) <br>
+https://geometrytip.online/ (you can add anything before geometrytip, e.g. https://subscribe.geometrytip.online) <br>
 
 #### For these ones, add anything before them - I already did for you:
 https://subscribe.mathematicsblogs.site <br>
@@ -542,6 +542,31 @@ https://fr.provend.tech/ <br>
 https://fr.illuminx.live/ <br>
 https://login.edulastic.one/ <br>
 https://materials.edulastic.one/ <br>
+
+### Versatile:
+https://missions.nasatech.space/  <br>
+https://hubble.nasatech.space/  <br>
+https://marsrover.nasatech.space/  <br>
+https://exoplanets.nasatech.space/  <br>
+https://issmonitor.nasatech.space/  <br>
+https://stellerexplorer.nasatech.space/  <br>
+https://nebulaobservatory.nasatech.space/  <br>
+https://astronauttraining.nasatech.space/  <br>
+https://rocketlaunchs.nasatech.space/  <br>
+https://interstellercomms.nasatech.space/  <br>
+https://lunarbase.nasatech.space/  <br>
+
+https://uploadpictures.beautifulscenery.click/ <br>
+https://panoramicviews.beautifulscenery.click/ <br>
+https://bestspots.gallery.beautifulscenery.click/ <br>
+https://scenicwonders.beautifulscenery.click/ <br>
+https://breathtakingcaptures.beautifulscenery.click/ <br>
+https://hiddengetaways.beautifulscenery.click/ <br>
+https://naturephotography.beautifulscenery.click/ <br>
+https://pictureperfectspots.beautifulscenery.click/ <br>
+https://explorebeauty.beautifulscenery.click/ <br>
+
+https://homelist.gianthomesforsale.homes/
 
 ### Page Sandbox: Most pages work (not Discord :P)
 https://io.sqeven.workers.dev/ <br>
