@@ -957,13 +957,6 @@ https://1win-creator.com/app <br>
 https://splashtoyshop.com/app <br>
 https://lovedrink69.com/app <br>
 
-#### GOOGLEUSERCONTENT (SPECIAL):
-https://51.24.190.35.bc.googleusercontent.com/app <br>
-https://205.93.36.34.bc.googleusercontent.com/app <br>
-https://65.103.160.34.bc.googleusercontent.com/app <br>
-https://199.188.117.34.bc.googleusercontent.com/app <br>
-https://192.184.128.34.bc.googleusercontent.com/app <br>
-
 ### WebToppings:
 #### This one is EXCELLENT!!
 https://webtoppings.bar/ <br>
