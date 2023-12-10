@@ -900,21 +900,6 @@ https://irgames.net/ <br>
 ### AnuraOS: CLICK NORMAL USER AND WAIT FOR IT TO BOOT
 https://anura.mercurywork.shop/ <br>
 
-### DuckOS: CLICK DUCKOS THEN BOOT DUCKOS. CLICK THE GLOBE ICON THEN IMMORTAL
-#### Normal:
-https://skyhax.xyz/ <br>
-https://duckos.site/ <br>
-https://mesmerizing.skin/ <br>
-https://studyclub.biz/ <br>
-https://skyhax.online/ <br>
-
-#### Fast (Immortal):
-https://immortal.skyhax.xyz/ <br>
-https://immortal.duckos.site/ <br>
-https://immortal.mesmerizing.skin/ <br>
-https://immortal.studyclub.biz/ <br>
-https://immortal.skyhax.online/ <br>
-
 ### FlowOS: Click the icon in the top left corner and then click Browser
 https://mathchamps.me/ <br>
 https://www.flow-works.me/ <br>
@@ -999,7 +984,8 @@ Annotate (banned) <br>
 Galactic (broken) <br>
 LTBPEM (removed) <br>
 Windows 11 React (broken) <br>
-General Mathematics (broken, GOOD RIDDANCE)
+General Mathematics (broken, GOOD RIDDANCE) <br>
+DuckOS (ended) <br>
 
 Notes: <br>
 Credits: <br>
