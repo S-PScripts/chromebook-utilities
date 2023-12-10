@@ -429,9 +429,6 @@ https://elixir-9.hop.sh/ <br>
 https://elixir-10.hop.sh/ <br>
 https://elixir-11.hop.sh/ <br>
 https://elixir-12.hop.sh/ <br>
-https://elixir-1.joshmatthew0603.repl.co/ <br>
-https://igltrey-1--jordanchavvarie.repl.co/ <br> 
-https://elixir-1.jessenicholson2.repl.co/  <br>
 
 ### TBG95 (Ultraviolet):
 https://gafiradar.com/ <br>
@@ -519,9 +516,6 @@ https://subscribe.tvazgeometry.online/ <br>
 https://subscribe.gameubg.com/ (add anything before gameubg) <br>
 https://subscribe.topvazgame.online/ (add anything before topvazgame) <br>
 https://subscribe.topvazmath.online/ (add anything before topvazmath) <br>
-
-### Supernova (Ultraviolet):
-https://supernova-v2--jonathanevans7.repl.co/ <br>
 
 ### BallBang (Ultraviolet):
 #### Normal:
@@ -1010,6 +1004,7 @@ General Mathematics (broken, GOOD RIDDANCE) <br>
 DuckOS (ended) <br>
 BruhProx (broken) <br>
 Nebula (broken) <br>
+Supernova (broken) <br>
 
 Notes: <br>
 Credits: <br>
