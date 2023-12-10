@@ -329,22 +329,8 @@ https://us2.stopblocc.uk/ <br>
 https://pl1.stopblocc.uk/ <br>
 
 ### Incognito (Other):
-https://incognito-3.spamz0.repl.co/ <br>
-https://incognito-4.spamz0.repl.co/ <br>
-https://incognito-5.spamz0.repl.co/ <br>
-https://incognito-6.spamz0.repl.co/ <br>
-https://incognito-7.spamz0.repl.co/ <br>
-https://incognito-8.spamz0.repl.co/ <br>
-https://incognito-9.spamz0.repl.co/ <br>
-https://incognito-10.spamz0.repl.co/ <br>
-https://cgzv1i.csb.app/ <br>
-https://8hujmi.csb.app/ <br>
 https://ezmathforyou.hop.sh/ <br>
 https://incognito-8.hop.sh/ <br>
-https://unblocker.netlify.app/ <br>
-https://moist.vercel.app/ <br>
-https://incognito-static-version.pages.dev/ <br>
-https://incognito-1.seanisgoated.repl.co/ <br>
 
 ### Holy Unblocker: (can be cloaked)
 https://python3langdocs.net/<br>
@@ -557,21 +543,7 @@ https://fr.illuminx.live/ <br>
 https://login.edulastic.one/ <br>
 https://materials.edulastic.one/ <br>
 
-### "Google" (Ultraviolet): (wait for it to load)
-https://beta101-1.jacoblopez25.repl.co/ <br>
-https://google7-1.jacoblopez25.repl.co/ <br>
-https://beta100.jacoblopez25.repl.co/ <br>
-https://roogle.jacoblopez25.repl.co/ <br>
-https://google17.jacoblopez25.repl.co/ <br>
-https://google11-1.jacoblopez25.repl.co/ <br>
-https://yea-1.jacoblopez25.repl.co/ <br>
-https://youtube-like-and-sub.jacoblopez25.repl.co/ <br>
-
-### Orbital:
-https://cryztal.coolguysforev1.repl.co/ (opens in about:blank) <br>
-https://orbitalnew--slimjim1.repl.co/ 
-
-### Page Sandbox:
+### Page Sandbox: Most pages work (not Discord :P)
 https://io.sqeven.workers.dev/ <br>
 https://j.xj2.workers.dev/ <br>
 https://loli.xianyu1.workers.dev/ <br>
@@ -700,13 +672,6 @@ https://manynotes.dcmusic.ca/ <br>
 https://learnreligionat.tomahawkchurch.org/ <br>
 https://mathedu.privatedns.org/ <br>
 
-### Riptide:
-https://riptide.fognetwork.repl.co/ <br>
-https://riptide.quart2629.repl.co/ <br>
-https://riptide.greydog123.repl.co/ <br>
-https://riptide--bnon590.repl.co/ <br>
-https://kpyu3.sse.codesandbox.io/ <br>
-
 ### ByeBlocker: 
 #### Normal:
 https://chic-kashata-e4cec3.netlify.app/ <br>
@@ -716,14 +681,6 @@ https://password-protection.netlify.app/ <br>
 
 ### Genoxy: (can be opened as about:blank)
 https://genarcy.watercdn.gq/proxy/index.html <br>
-
-### Space Proxy:
-https://spacesite.jaydentucker.repl.co/ <br>
-
-### Solar/Wombat:
-https://womginx.nicolaspichavan.repl.co/ <br>
-https://womginx-2.09sharkboyroger.repl.co/ <br>
-https://communism.95792348709187287.repl.co/ <br>
 
 ### Void:
 https://sf.owlpentest.com/ (as Starfield) <br>
@@ -762,17 +719,6 @@ https://silvereen.org/ <br>
 https://thelandofreading.com/ <br>
 https://mathland.wiki/ <br>
 https://onedomain.info/ <br>
-
-### Degeneracy:
-https://degeneracy.masoneubanks01.repl.co/ <br>
-https://easy-bake-oven--gavindeluna.repl.co/ <br>
-https://degeneracy.brydinbeall.repl.co/ <br>
-https://degeneracy.ashtonaksu.repl.co/ <br>
-
-### EndInternetCensorship:
-https://endtheinternetbaby.grobby.repl.co/ <br>
-https://endinternetcensors.grobby.repl.co/ <br>
-https://endinternetcensorship.grobby.repl.co/ <br>
 
 ### Kazwire:
 https://mathiscoolandawsome.us.to/  <br>
@@ -818,24 +764,10 @@ https://classroom.ubgusa.com/ <br>
 https://ubgusa.com/ <br>
 https://geometry.ubgusa.com/ <br>
 
-### Vapor:
-https://vapor.uavwzecan48kbut.repl.co/ <br>
-https://vapor.luketrim1.repl.co/ <br>
-https://vapor.by1egend251.repl.co/ <br>
-
 ### Plexile Arcade:
 https://plexilearcade.netlify.app/  <br>
-https://wplexilearcade.glitch.me/  <br>
-https://plexile-arcade.jesusclapsu.repl.co/home.html (OLD) <br>
-
-### Palladium:
-https://palladium-1.deku22wes.repl.co/ <br>
-https://palladium-1.maddoxhyttinen.repl.co/ <br>
-https://palladiumv2.r480github.repl.co/ <br>
-https://palladium-1.r480github.repl.co/ <br>
 
 ### Snorlax's Cave:
-https://biology.prs7.org/ <br>
 https://celltheory.sciencevictory.org/  <br>
 https://aquatics.octopusbot.net/  <br>
 https://volleyball.sportgroup.cl/  <br>
@@ -857,19 +789,6 @@ https://heavy.octopusbot.net/ <br>
 https://gaffe.wombecology.com/ <br>
 https://tribe.neoneptune.com/ <br>
 
-### The Simple Unblocker: Set it to Rhodium
-https://simple-10.keel6215.repl.co/ <br>
-https://simp-10.armandojackson1.repl.co/ <br>
-https://simple.dojanakaver.repl.co/ <br>
-https://simple-10.elijahsocool.repl.co/ <br>
-https://simple-7.elijahsocool.repl.co/ <br>
-
-### Corrosion-Heroku:
-https://glue.triplejump.repl.co/  <br>
-https://corrosion-heroku--caingarland.repl.co/ <br> 
-https://corrosion-heroku-1.demonvibes.repl.co/ <br>
-https://corrosion-heroku-1.ethan-maxwellma.repl.co/  <br>
-
 ### CroxyProxy clones/Reflect4:
 https://www.myturtle.net/<br>
 https://www.springuides.com/ <br>
@@ -890,33 +809,9 @@ https://surftheweb-v3.netlify.app/ <br>
 https://surfthewebv3.netlify.app/ <br>
 https://galacticnetwork.github.io/SurfTheWeb-V3/ <br>
 https://stw.thebesthistoryhelp.tk/ <br>
-https://stw.teerthsblog.me/ <br>
-https://stw.tethersmathwebsite.app/ <br>
 
 ### Novogames:
-https://keyofgreatness.ignorelist.com/ <br>
 https://novogames.twilightparadox.com/index.html <br>
-https://wtfnovogames.crabdance.com/ <br>
-
-### Rusty:
-https://rustyv2.r480github.repl.co/ <br>
-https://rusty.kagegwo.repl.co/ <br>
-https://rusty.r480github.repl.co/ <br>
-https://rusty.grobby.repl.co/ <br>
-https://rusty-asf.funnigamer.repl.co/ <br>
-
-### HyperTabs-EX:
-https://hypertabs-ex-heroku.bt724.repl.co/  <br>
-https://hypertabs-ex-heroku-6.nobody111.repl.co/  <br>
-https://hypertabs-ex-heroku-6--gunsaclackin.repl.co/  <br>
-https://hypertabs-11.gettingoverschool.repl.co/  <br>
-https://hypertabs-10--wyadai9995.repl.co/  <br>
-https://hypertabs-10-1.keel6215.repl.co/  <br>
-https://hypertabs-10.calebirvin.repl.co/  <br>
-https://hypertabs-10.ivanrivera-fuen.repl.co/  <br>
-https://hypertabs-10.eatitlikeitsho1.repl.co/  <br>
-https://hypertabs-10.elijahsocool.repl.co/  <br>
-https://vpn-for-monkies.zestyman.repl.co/  <br>
 
 ### IR Unblocked:
 https://irunblocked.xyz/ <br>
@@ -1006,6 +901,19 @@ DuckOS (ended) <br>
 BruhProx (broken) <br>
 Nebula (broken) <br>
 Supernova (broken) <br>
+The Simple Unblocker (SLOW) <br>
+Orbital (SLOW) <br>
+Corrsion-Heroku (SLOW) <br>
+Rusty (SLOW) <br>
+"Google" (SLOW) <br>
+Riptide (SLOW) <br>
+Space Proxy (SLOW) <br>
+Solar|Wombat (SLOW) <br>
+Degeneracy (SLOW) <br>
+EndInternetCensorship (SLOW) <br>
+Vapor (broken) <br>
+Palladium (broken) <br>
+HyperTabs-EX (SLOW) <br>
 
 Notes: <br>
 Credits: <br>
@@ -1014,6 +922,8 @@ Thanks to Ghosted for his massive list. Could've not done this without him. http
 The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy, GhostedZoomer77 and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it?  <br>
 
 REMEMBER: <br>
+REPL LINKS WILL NOT BE INCLUDED AS THEY ARE EXTREMELY SLOW.
+ALL SLOW PROXIES ARE NOT INCLUDED.
 DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT. <br>
 This list may get LOCKED since it has a LOT of links! <br>
 IF YOU GET ERR_TUNNEL_CONNECTION_FAILED I CAN'T DO ANYTHING <BR>
