@@ -9,3 +9,6 @@ https://github.com/Minesraft2/Blooket-gui
 How to use:
 If you want to use the GUIs (purple boxes), drag the boxes into your bookmark bar.
 Click the orange boxes for parts of game modes to use.
+
+WARNING: THIS WILL NOT WORK ON MANAGED CHROMEBOOKS ANYMORE UNLESS YOU DOWNGRADE TO A VERSION
+THAT LETS THEM WORK (JAVASCRIPT BOOKMARKLETS WERE PATCHED)
