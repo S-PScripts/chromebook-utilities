@@ -450,6 +450,12 @@ https://elixir-1.jessenicholson2.repl.co/  <br>
 https://gafiradar.com/ <br>
 https://ny.gafiradar.com/ <br>
 
+### 23azo (Ultraviolet)
+https://sub.23azorun.com/ <br>
+https://sub.23azosports.com/ <br>
+https://sub.23azoshooting.com/ <br>
+#### Add ANYTHING before 23azorun, 23azosports and 23azoshooting.
+
 ### topVAZ games (Ultraviolet):
 https://sub.topicademy.com/ <br>
 https://sub.sashimimi.com/ <br>
@@ -457,40 +463,94 @@ https://sub.promathclass.com/ <br>
 https://sub.sushiprosi.com/ <br>
 #### Add ANYTHING before topicademy, sashimimi, promathclass and sushiprosi.
 
-### 23azo (Ultraviolet)
-https://sub.23azorun.com/ <br>
-https://sub.23azosports.com/ <br>
-https://sub.23azoshooting.com/ <br>
-#### Add ANYTHING before 23azorun, 23azosports and 23azoshooting.
-
 ### topVAZ (Ultraviolet): You need to click the M- button on the calculator. It will open as an about:blank.
-https://blog.mathblogs.online/ <br>
-https://school.mathblogs.online/ <br>
-https://math.geometrytip.online/ <br>
+https://mathblogs.online/ (you can add anything before mathblogs) <br>
+https://geometrytip.online/ (you can add anything before geometrytip) <br>
+
+For these ones, add anything before them - I already did for you:
+https://subscribe.mathematicsblogs.site <br>
+https://subscribe.mathematicsblogs.online <br>
+
+https://subscribe.vaztop.site <br>
+https://subscribe.vaztop.online <br>
+
+https://subscribe.topva.site <br>
+https://subscribe.topva.online <br>
+
+https://subscribe.tvaz.site <br>
+https://subscribe.tvaz.online <br>
+
+https://subscribe.topvazg1.site <br>
+https://subscribe.topvazg1.online <br>
+
+https://subscribe.topvzmath.site  <br>
+https://subscribe.topvzmath.online  <br>
+
+https://subscribe.topvz.site  <br>
+https://subscribe.topvz.online  <br>
+
+https://subscribe.tvazmath.site  <br>
+https://subscribe.tvazmath.online  <br>
+
+https://subscribe.greatmathblogs.site  <br>
+https://subscribe.greatmathblogs.online  <br>
+
+https://subscribe.topvaz1.site/ <br>
+https://subscribe.topvaz1.online <br>
+
+https://subscribe.topvazmathblog.site <br>
+https://subscribe.topvazmathblogs.online <br>
+https://subscribe.tvazmathblog.site <br>
+
+https://subscribe.topvazmath.site <br>
+https://subscribe.topvazgame.site <br>
+
+### topVAZ but it's called Premium Proxy: You need to click the M- button on the calculator. It will open as an about:blank.
+#### Add anything before the words - I already did it for you:
+https://subscribe.mathematicstopvaz.site <br>
+https://subscribe.mathematicstopvaz.online <br>
+
+https://subscribe.mathsblog.site <br>
+https://subscribe.mathsblog.online <br>
+
+https://subscribe.geometrytopvaz.site <br>
+https://subscribe.geometrytopvaz.online <br>
+
+https://subscribe.tvazgeo.site <br>
+https://subscribe.tvazgeo.online <br>
+
+https://subscribe.topvazgeo.site <br>
+https://subscribe.topvazgeo.online <br>
+
+https://blog1205.topvazgeometry.site/ <br>
+https://blog1205.topvazgeometry.online/ <br>
+
+https://subscribe.mathcalculators.site <br>
+https://subscribe.tvazgeometry.online/ <br>
 
 ### topVAZ but it's called Proxy:
 https://subscribe.gameubg.com/ (add anything before gameubg) <br>
+https://subscribe.topvazgame.online/ (add anything before topvazgame) <br>
+https://subscribe.topvazmath.online/ (add anything before topvazmath) <br>
 
 ### Supernova (Ultraviolet):
 https://supernova-v2--jonathanevans7.repl.co/ <br>
 
 ### BallBang (Ultraviolet):
 #### Normal:
-https://subscribe.ballbang.wiki/ <br>
-https://subscribe.ballbang.xyz/ <br>
 https://subscribe.ballbang.cc/ (add anything before ballbang) <br>
 https://subscribe.ballbang.fun/ (add anything before ballbang) <br>
 https://subscribe.ballbang1.com/ (add anything before ballbang) <br>
 https://subscribe.lockthebook.com/ (add anything before lockthebook) <br>
 
 #### Click the ( Button on the calculators for these: (Ballbang opens as about:blank)
+https://calc.ballbang.cc/ <br>
+https://calc.ballbang.fun/ <br>
+https://calc.ballbang1.com/ <br>
+https://calc.ballbang.xyz/ <br>
+https://calc.gameubg.com/ <br>
 https://scpwolf.ballbang1.com/ <br>
 https://scpwolf.ballbang.fun/ <br>
-https://calc.ballbang.fun/ <br>
-https://calc.ballbang.xyz/ <br>
-https://calc.ballbang.cc/ <br>
-https://calc.gameubg.com/ <br>
-https://calc.ballbang1.com/ <br>
 
 ### Moss News: 
 #### LONG VERSION: Click “Why the U.S. Government has banned TikTok” then click the word misleading or viewing; you will get redirected to an about:blank with stuff on it. Click “503 page”.
@@ -506,9 +566,6 @@ https://mediaology.mediaology.com/ (note that mediaology.com redirects to https:
 https://mossnews.mathtutoringwithlove.info/uv/ <br>
 https://securly.com.foxmoss.com/uv/ <br>
 https://fishme.me/uv/ <br>
-
-### BruhProx (Ultraviolet):
-https://bruhprox.pages.dev/ <br>
 
 ### Freedom Project (Ultraviolet):
 https://hx.illuminx.live/ <br>
@@ -557,7 +614,6 @@ https://learning.sailtheuniverse.com/ <br>
 https://division.danielwilkins.org/ <br>
 https://work.frostbite.cc/ <br>
 https://compscirules.sen.org.nz/ <br>
-https://acme.soundar.net/ <br>
 https://mathsisfun.link/   <br>
 https://group.luxflow.net/ <br>
 https://home.guessthispic.com/ <br>
@@ -570,7 +626,6 @@ https://login.tomahawkchurch.org/ <br>
 https://idk.361grade.ro/  <br>
 https://cdn.tomahawkchurch.org/ <br>
 https://manface.kjgom.net/ <br>
-https://mathisamazing.info/ <br>
 https://helpat.mcsoft.org/  <br>
 https://classroom.us.to <br>
 https://coolschoolwork.us.to <br>
@@ -579,7 +634,6 @@ https://english.info.gf/ <br>
 https://socialstudies.twilightparadox.com/ <br>
 https://us.epim.ar/ <br>
 https://mathiswaytofun.us.to/ <br>
-https://geometry.argenterio.ar/ <br>
 https://new.easychargebatteries.com/ <br>
 https://kahoot.mine.bz/ <br>
 https://tim.sotna.org/ <br>
@@ -589,7 +643,6 @@ https://math.devcan.org/ <br>
 https://mathissofun.us.to/ <br>
 https://mathisfun.info.gf/ <br>
 https://workindhardfor.mcsoft.org <br>
-https://find.sportseducationinstructors.org <br>
 https://best.airlinemeals.net/ <br>
 https://networkhelp.networkoutpost.com/ <br>
 https://whatarethe.100mountain.com  <br>
@@ -608,19 +661,15 @@ https://spreadingpropagandathroughlinks.mywire.org/ <br>
 https://probability.adipur.com  <br>
 https://geometryproofs.claudiogatica.cl <br>
 https://graphingcalculators.gnutella2.info <br>
-https://arithmetic.datemyfamily.tv <br>
 https://educationalmathapps.melissaanddougcoop.com  <br>
 https://subtraction.desario.com.br <br>
 https://algebraicequations.surukle.me <br>
 https://statistics.thelmadejager.co.za  <br>
 https://integralcalculus.vidaprimaria.cl <br>
 https://analyticgeometry.fletesymudanzas.cl <br>
-https://matrices.behroast.ir <br>
 https://division.lovele.ro  <br>
-https://analyticgeometry.freonlinux.com <br>
 https://linearalgebra.thaiopenscada.com  <br>
 https://fractions.receitasdaelaine.com.br  <br>
-https://differentialequations.felixtw.tw <br>
 https://orderofoperations.basiclue.com <br>
 https://wordproblems.teranlera.com.ar <br>
 https://percentages.bot.nu <br>
@@ -633,23 +682,18 @@ https://integralcalculus.tatuarte.cl <br>
 https://complexnumbers.uno-tec.tk <br>
 https://educationalmathapps.shredsurf.com <br>
 https://mathworksheets.adipeq.cl <br>
-https://statisticsanddataanalysis.mariborairport.si <br>
 https://orderofoperations.ikrastev.net  <br>
 https://differentialequations.renmarkholidayhome.info <br>
 https://linearalgebra.carroriopreto.com.br  <br>
 https://educationalmathapps.dmdistribution.net  <br>
 https://integralcalculus.asirargentina.com.ar <br>
-https://athtextbooks.ngumbarcrita.com <br>
-https://ultiplication.bernhard-rau.de <br>
 https://pedrotrabalhodecasa123.com.cbu.net/ <br>
-https://pedroestudandonaomeatrapalhe.custom-gaming.net/ <br>
 https://pedrocolandonaprova.ignorelist.com/ <br>
 https://login.bestprograms4kids.com.au/ <br>
 https://classlink.wagenaarpcs.nl/ <br>
 https://theories.twilightparadox.com/ <br>
 https://lets.fapp.in/ <br>
 https://fast.jbones.com/   <br>
-https://this-is-not-a.hackquest.com/  <br>
 https://statistics.geyikler.com/ <br>
 https://algebraicequations.mark-hansen.com/  <br>
 
@@ -985,6 +1029,7 @@ LTBPEM (removed) <br>
 Windows 11 React (broken) <br>
 General Mathematics (broken, GOOD RIDDANCE) <br>
 DuckOS (ended) <br>
+BruhProx (broken) <br>
 
 Notes: <br>
 Credits: <br>
