@@ -765,7 +765,7 @@ https://irgames.net/ <br>
 ### AnuraOS: CLICK NORMAL USER AND WAIT FOR IT TO BOOT
 https://anura.mercurywork.shop/ <br>
 
-### FlowOS: Click the icon in the top left corner and then click Browser
+### FlowOS: Click the icon in the bottom left corner and then click Browser
 https://mathchamps.me/ <br>
 https://www.flow-works.me/ <br>
 
