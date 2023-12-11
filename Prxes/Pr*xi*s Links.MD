@@ -372,32 +372,28 @@ https://m.hop.sh/ <br>
 ### Cobalt (Cog Network):
 https://birdfood.gq/ <br>
 
-### TBG: Click Google
+### TBG: Click Google - IT IS IN DUTCH!
 https://sio.birdriver.org/ <br>
 https://sio.sentinam.io/ <br>
 https://education-live.fun/ <br>
 
 ### Utopia: (can be cloaked and about:blanked)
-https://www.smartowls.tk/ <br>
-https://supreme.education/ <br>
 https://learningprep.xyz/ <br>
+https://academichelp.xyz/ <br>
 https://khanacademy.buzz/ <br>
 https://smartacademy.buzz/ <br>
-https://studyingmath.org/ <br>
 https://ancienthistory.website/ <br>
-https://wiseteaching.cfd/ <br>
 https://major.education/ <br>
 https://facts.education/ <br>
-https://academichelp.xyz/ <br>
-https://tutorsharp.com/ <br>
 https://vastknowledge.quest/ <br>
 https://learnbiology.quest/ <br>
 https://acutemath.quest/ <br>
 https://tutorcenter.quest/ <br>
-https://iloveeducation.vipers.design/ <br>
+https://studyingmath.org/ <br>
+https://howtomath.org/ <br>
+https://tutorsharp.com/ <br>
 https://cleverutopia.com/ <br>
 https://utopiaunblocker.com/ <br>
-https://howtomath.org/ <br>
 https://eduverse.wiki/ <br>
 
 ### Elixir:
@@ -750,18 +746,21 @@ https://tribe.neoneptune.com/ <br>
 ### CroxyProxy clones/Reflect4: (WEIRD AHH ADS DON'T USE THIS)
 https://www.binomosignal.com/ <br>
 
-### SurfTheWeb: (can be about:blanked)
+### SurfTheWeb: Click Normal, Unblock, Proxies then Rammeread
+## About:blank doesn't work:
 https://surfthewebv3.glitch.me/ <br>
-https://surftheweb-v3.netlify.app/ <br>
 https://surfthewebv3.netlify.app/ <br>
 https://galacticnetwork.github.io/SurfTheWeb-V3/ <br>
+
+## About:blank works:
+https://surftheweb-v3.netlify.app/ <br>
 https://stw.thebesthistoryhelp.tk/ <br>
 
 ### Novogames:
 https://novogames.twilightparadox.com/index.html <br>
 
-### IR Unblocked (proxies from here):
-https://irunblocked.xyz/ <br>
+### IR Unblocked: (proxies from here) 
+https://irunblocked.xyz/ - .com is banned but not .xyz <br>
 https://irgames.net/ <br>
 
 ### AnuraOS: CLICK NORMAL USER AND WAIT FOR IT TO BOOT
@@ -775,7 +774,6 @@ https://www.flow-works.me/ <br>
 https://clockwork-os.vercel.app/ <br>
 
 ### Surfskip: Click Google
-#### Normal:
 https://surfskip.com/app <br>
 https://1win-creator.com/app <br>
 https://splashtoyshop.com/app <br>
