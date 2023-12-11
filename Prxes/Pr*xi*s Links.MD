@@ -168,6 +168,8 @@ https://oh-hell-nah.5inas.cf/ <br>
 https://search.mugmovies.pics/ <br>
 https://sso.prodigygame.online/ <br>
 https://fun1.frostbite.cc/ <br>
+https://signup.soapclient.com/ <br>
+https://fair.hashable.org/ <br>
 https://gabeisagoober.bluepill.ml/ <br>
 https://1il1liillliii1lli1.nya.pub/ <br>
 https://shivamsmom.stuns.org/ <br>
