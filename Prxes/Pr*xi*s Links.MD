@@ -139,12 +139,15 @@ https://achievementnetwork.tk/ <br>
 https://r.achievementnetwork.tk/ <br>
 https://soraapp.gq/ <br>
 https://r.soraapp.gq/ <br>
+https://platform.everfi.gq/ <br>
+https://r.platform.everfi.gq/ <br>
 
 #### Below you cannot add r. before the links:
 https://education.mordeco.com/ <br>
 https://edu.mordeco.com/ <br>
 https://staff.mordeco.com/ <br>
 https://admin.mordeco.com/ <br>
+https://sentry.soraapp.gq/ <br>
 https://quantumphysics.sciencesimplified.pro/ <br>
 https://biographyhelp.sciencesimplified.pro/ <br>
 https://math.sciencesimplified.pro/ <br>
@@ -152,6 +155,7 @@ https://login.googlesclassroom.gq/ <br>
 https://login.googlesclassroom.cf/ <br>
 https://login.achievementnetwork.cf/ <br>
 https://login.achievementnetwork.gq/ <br>
+https://reading.englishpapers.online/ <br>
 https://mathtestaxamschool.zcvx.cf/ <br>
 https://canvas.lnstructure.cf/ <br>
 https://amplifyscience.cf/ <br>
@@ -162,8 +166,11 @@ https://tabs.lhost.dev/ <br>
 https://www.pleaseinput.html-5.me/ <br>
 https://oh-no.kayroscloud.tk/ <br>
 https://oreo-8.1.irc6.cf/ <br>
+https://r.outschool.tk/ <br>
+https://r.outschool.gq/ <br>
+https://learner.outschool.tk/ <br>
+https://learner.outschool.gq/ <br>
 https://slape3.zwanenwater48.nl/ <br>
-https://reading.englishpapers.online/ <br>
 https://oh-hell-nah.5inas.cf/ <br>
 https://search.mugmovies.pics/ <br>
 https://sso.prodigygame.online/ <br>
@@ -171,10 +178,8 @@ https://fun1.frostbite.cc/ <br>
 https://signup.soapclient.com/ <br>
 https://fair.hashable.org/ <br>
 https://gabeisagoober.bluepill.ml/ <br>
-https://1il1liillliii1lli1.nya.pub/ <br>
 https://shivamsmom.stuns.org/ <br>
 https://rammerhead.ind.st/ <br>
-https://learner.outschool.gq/ <br>
 https://howtomath.theeduweb.com/ <br>
 https://math4kids.containersarelinux.net/ <br>
 https://war.entraide.cf/ <br>
@@ -190,6 +195,7 @@ https://error418.cobos.mx/ <br>
 https://mr.claybert.com/ <br>
 https://jeo2.goldsoft.rs/  <br>
 https://jeo3.todotrabajo.ar/ <br>
+https://reading-helper.gq/ <br>
 https://platform.manoahinvest.com/  <br>
 https://email.manoahinvest.com/  <br>
 https://yomom.cpasociados.net/ <br>
