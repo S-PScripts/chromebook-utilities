@@ -26,7 +26,7 @@ https://nationalgeographic.wiki/  <br>
 https://grandcanyonmuseum.website/ <br>
 https://our-religion.tomahawkchurch.org/ <br>
 https://taking-link-requests.hop.sh/ (a bit old) <br>
-https://4.hop.sh/ (a bi old) <br>
+https://4.hop.sh/ (a bit old) <br>
 https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old, click proxy then go to v4) <br>
 
 ### Art Class: (can be cloaked and about:blanked)
