@@ -554,6 +554,7 @@ https://loli.xianyu1.workers.dev/ <br>
 https://little-credit-fc7d.sfzanghao.workers.dev/ <br>
 
 ### Astroid: Click any button on the fake MathsIsFun page for it (can be cloaked)
+#### There are more astroids than this but I AIN'T CHECKING THEM ALL
 https://astroid.pro/ <br>
 https://astroid.gg/ <br>
 https://astroid.jib.ar/ <br>
