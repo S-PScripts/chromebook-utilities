@@ -14,11 +14,9 @@ https://geographytips.org/ <br>
 https://dominos.buzz/ <br>
 https://beesliketo.buzz/ <br>
 https://1.hop.sh/  <br>
-https://4.hop.sh/ <br>
 https://wisdom.educational.sciencevictory.org/  <br>
 https://shot.photography.backriverphotography.com/  <br>
 https://illuminate.autumn.shekinahphotography.com/  <br>
-https://taking-link-requests.hop.sh/ <br>
 https://edu.algebraxyz.com/ <br>
 https://about.computers-science.org/ <br>
 https://recipe.cooking.youramys.com/ <br>
@@ -27,6 +25,8 @@ https://blockthisifurhomophobic.gay/ <br>
 https://nationalgeographic.wiki/  <br>
 https://grandcanyonmuseum.website/ <br>
 https://our-religion.tomahawkchurch.org/ <br>
+https://taking-link-requests.hop.sh/ (a bit old) <br>
+https://4.hop.sh/ (a bi old) <br>
 https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old, click proxy then go to v4) <br>
 
 ### Art Class: (can be cloaked and about:blanked)
@@ -57,6 +57,7 @@ https://english.englishpapers.online/ <br>
 
 ### Tinf0il: (can be about:blanked)
 https://webapplication.design/ <br>
+
 #### Uh...
 So this link was a shuttle. It had www before it. However, I realised that it didn't work. <br>
 I removed the www and it worked... but it was a TINF0IL! I have no clue how that happened... <br>
@@ -201,7 +202,7 @@ https://joyridearoundthepark.5inas.cf/ <br>
 https://shouldiboosttherammerheadserver.tk/ <br>
 https://shouldiboosttherammerheadserver.gq/ <br>
 
-### The Unblocked Hub: (looks like old interstellar, opens in about:blank) (has ads)
+### The Unblocked Hub: (looks like old interstellar, opens in about:blank) (HAS ADS)
 https://site.theunblockedhub.com/ <br>
 https://studyhard.sprk.lol/ <br>
 
@@ -342,11 +343,8 @@ https://englishology.org/<br>
 https://thechefmethod.com/<br>
 https://cheapdogs.org/ <br>
 https://totalmathway.com/ <br>
-https://website-aio-unblockersreuploaded.koyeb.app/ [DEV] <br>
-https://holy.mathtutoringwithlove.info/ [DEV] <br>
 
 ### Emerald: (HAS ADS)
-https://emerald-is-very-cool-if-this-works.aigame.biz/ <br>
 https://edu.reves.cl/ <br>
 https://mathisforlosers.ctx.cl/ <br>
 https://mathisforteachers.ctx.cl/ <br>
@@ -520,21 +518,6 @@ https://calc.gameubg.com/ <br>
 https://scpwolf.ballbang1.com/ <br>
 https://scpwolf.ballbang.fun/ <br>
 
-### Moss News: 
-#### LONG VERSION: Click “Why the U.S. Government has banned TikTok” then click the word misleading or viewing; you will get redirected to an about:blank with stuff on it. Click “503 page”.
-https://media.exid.me/ <br>
-https://fishme.me/ <br>
-https://foxmoss.com/ <br>
-https://fox.artclass.site/ <br>
-https://securly.com.foxmoss.com/ <br>
-https://mossnews.mathtutoringwithlove.info/ <br>
-https://mediaology.mediaology.com/ (note that mediaology.com redirects to https://fishme.me/) <br>
-
-#### INSTANT REDIRECT Ultraviolet (Medialogy):
-https://mossnews.mathtutoringwithlove.info/uv/ <br>
-https://securly.com.foxmoss.com/uv/ <br>
-https://fishme.me/uv/ <br>
-
 ### Freedom Project (Ultraviolet):
 https://hx.illuminx.live/ <br>
 https://news.provend.tech/ <br>
@@ -676,38 +659,19 @@ https://fast.jbones.com/   <br>
 https://statistics.geyikler.com/ <br>
 https://algebraicequations.mark-hansen.com/  <br>
 
-### Shadow Browser: (HAS ADS) (can be cloaked and about:blanked)
-https://math.madroid.design <br>
-https://edu.madroidmathlearning.online/ <br>
-https://shadow.msg.boats/ <br>
+### Shadow Browser: (can be cloaked and about:blanked) (HAS ADS)
 https://phantom.lol/ <br>
-https://shadowis.super-cool.app/ <br>
-https://shadow.isreallycool.lol/ <br>
-https://ima.mctwisted.pro/ <br>
-https://edu.elevatecorp.xyz/ <br>
-https://ila.jswords.xyz/ <br>
-https://glueon.hotglue.click/ <br>
-https://mathedu.scay.net/ <br>
 https://phantomnetwork.cloud/ <br>
 https://priv.peaks-a.pro/ <br>
-https://math.centraloff.org/ <br>
-https://schoolrelatedarts.supermario.gq/ <br>
-https://playon.nowgg.wtf/ <br>
-https://manynotes.dcmusic.ca/ <br>
-https://learnreligionat.tomahawkchurch.org/ <br>
-https://mathedu.privatedns.org/ <br>
 
-### ByeBlocker: 
+### ByeBlocker: Youtube is in French... you might get stuck on "Enregistrement de votre choix…"
 #### Normal:
 https://chic-kashata-e4cec3.netlify.app/ <br>
 
 #### Click the Info button in these then click proxy: Can be about:blanked (click More...)
 https://password-protection.netlify.app/ <br>
 
-### Genoxy: (can be opened as about:blank)
-https://genarcy.watercdn.gq/proxy/index.html <br>
-
-### Void:
+### Void: Opens links in about:blank
 https://sf.owlpentest.com/ (as Starfield) <br>
 
 ### Doge Unblocker: (can be cloaked)
@@ -715,7 +679,6 @@ https://dashboard.worksheetsforteachers.org/app <br>
 https://geometry.pualo.com/app  <br>
 https://nasa.rocketsfall.net/app  <br>
 https://doctors.orientretreatwellness.com/app <br>
-https://dogesurf.app/app <br>
 https://geography.kaspichan.org/app  <br>
 https://grades.plgsync.com/app <br>
 https://education.raidjunior.ro/app <br>
@@ -735,16 +698,6 @@ https://news.suncube.de/app <br>
 https://gaysex.surfdoge.pro/app  <br>
 https://geometry.solar-energy.cl/app  <br>
 
-### Moonlight:
-https://greenreading.info/ <br>
-https://skybright.art/ <br>
-https://science4noobs.co/ <br>
-https://dreamboxmath.org/ <br>
-https://silvereen.org/ <br>
-https://thelandofreading.com/ <br>
-https://mathland.wiki/ <br>
-https://onedomain.info/ <br>
-
 ### Kazwire:
 https://mathiscoolandawsome.us.to/  <br>
 https://kazwiremath.us.to/  <br>
@@ -752,6 +705,7 @@ https://kazwiremath.us.to/  <br>
 ### Sodium: Click Skip or go to Bing in Apps (icon with 3 squares and plus)
 https://sodium-5h8.pages.dev/welcome <br>
 https://sodium.onrender.com/welcome.html <br>
+
 #### Older Links:
 https://beta.sodium-5h8.pages.dev/welcome <br>
 https://3ab2b22a.sodium-5h8.pages.dev/welcome <br>
@@ -761,23 +715,6 @@ https://3651dade.sodium-5h8.pages.dev/welcome <br>
 
 ### Typeist:
 https://typeist.lat/ <br>
-
-### WhiteSpider: Click Unblocker
-#### Normal:
-https://whitespider.pages.dev/ <br>
-https://whitespider.gq/ <br>
-https://whitespider.cf/ <br>
-https://wsug.gq/ <br>
-
-#### Embeds:
-https://sites.google.com/view/whitespider <br>
-https://sites.google.com/view/white-spider <br>
-https://sites.google.com/view/whitespi <br>
-https://sites.google.com/view/wsunbl <br>
-https://sites.google.com/view/wsug <br>
-https://sites.google.com/view/x999 <br>
-https://sites.google.com/view/gainforschool <br>
-https://sites.google.com/view/theunlockedbay <br>
 
 ### Unblocked Cave: (might be slow)
 https://crisisapple89.github.io/ <br>
@@ -809,24 +746,14 @@ https://design.showmyhomes.com/  <br>
 https://unity.karenbuzzard.com/ <br>
 https://write.karenbuzzard.com/ <br>
 https://groan.karenbuzzard.com/ <br>
+
 https://intoabyss.org/  <br>
 https://heavy.octopusbot.net/ <br>
 https://gaffe.wombecology.com/ <br>
 https://tribe.neoneptune.com/ <br>
 
-### CroxyProxy clones/Reflect4:
-https://www.myturtle.net/<br>
-https://www.springuides.com/ <br>
-https://www.juvenilegzkun9763.com/ <br>
-https://www.thebean.cf/ <br>
-https://www.yymmpro.net/ <br>
-https://www.mitsustudy.com/ <br>
-https://www.0ldschool.online/ <br>
-https://www.freewebforall.online/ <br> 
-https://www.darkfat.com/ <br>
-https://www.shflora.com/ <br>
+### CroxyProxy clones/Reflect4: (WEIRD AHH ADS DON'T USE THIS)
 https://www.binomosignal.com/ <br>
-https://www.urmom.gq/  <br>
 
 ### SurfTheWeb: (can be about:blanked)
 https://surfthewebv3.glitch.me/ <br>
@@ -939,6 +866,9 @@ EndInternetCensorship (SLOW) <br>
 Vapor (broken) <br>
 Palladium (broken) <br>
 HyperTabs-EX (SLOW) <br>
+Moonlight (the search part is banned) <br>
+Genoxy (banned) <br>
+Moss News (broken) <br>
 
 Notes: <br>
 Credits: <br>
@@ -949,6 +879,7 @@ The links I have have been taken from many sources. These include Discord server
 REMEMBER: <br>
 REPL LINKS WILL NOT BE INCLUDED AS THEY ARE EXTREMELY SLOW.
 ALL SLOW PROXIES ARE NOT INCLUDED.
+PROXIES THAT DON'T WORK WITH LINKS ARE NOT INCLUDED (E.G. WHITESPIDER)
 DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT. <br>
 This list may get LOCKED since it has a LOT of links! <br>
 IF YOU GET ERR_TUNNEL_CONNECTION_FAILED I CAN'T DO ANYTHING <BR>
