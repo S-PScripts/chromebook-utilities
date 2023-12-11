@@ -792,20 +792,6 @@ https://s-deblok.rare1k.dev/ <br>
 https://d.nick2116.media/ <br>
 https://dblok.scmtstore.com/ <br>
 
-### Red's Exploit Corner: (HAS ADS)
-https://55gms.com/  <br>
-https://55gms.org/ <br>
-https://55gms.de <br>
-https://55gms.us <br>
-https://55gms.xyz <br>
-https://55gms.pro <br>
-https://55gms.me <br>
-https://55gms.lol <br>
-https://mathlearning.top <br>
-https://exploits.pages.dev <br>
-https://rednotsus.me <br>
-https://v6.wiki <br>
-
 ### Microsoft Labs (credits to 3kh0/ext-remover):
 https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Microsoft%20Labs <br>
 
@@ -864,6 +850,7 @@ Moonlight (the search part is banned) <br>
 Genoxy (banned) <br>
 Moss News (broken) <br>
 Shadow Browser (SLOW) <br>
+Red's Exploit Corner (broken) <br>
 
 Notes: <br>
 Credits: <br>
