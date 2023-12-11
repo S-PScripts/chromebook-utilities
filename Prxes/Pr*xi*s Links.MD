@@ -59,7 +59,7 @@ https://english.englishpapers.online/ <br>
 https://webapplication.design/ <br>
 
 #### Uh...
-So this link was a shuttle. It had www before it. However, I realised that it didn't work. <br>
+So this link was a shuttle (I think). It had www before it. However, I realised that it didn't work. <br>
 I removed the www and it worked... but it was a TINF0IL! I have no clue how that happened... <br>
 
 ### Shuttle: (opens in about:blank)
@@ -75,7 +75,6 @@ https://findmytutor.info/ <br>
 https://codingwizard.org/  <br>
 https://sciencemaster.co/ <br>
 https://eduhelper.co/  <br>
-https://edurelief.co/  <br>
 https://teachersearcher.co/ <br>
 https://geometry.hacknperl.com/  <br>
 https://literature.tscng.org/  <br>
@@ -87,7 +86,6 @@ https://tutors4u.net/ <br>
 https://artmastery.guru/ <br>
 https://tutors4u.co/  <br>
 https://learnsmartly.org/ <br>
-https://edu.primemath.lol/ <br>
 
 ### Rammerhead: (can be cloaked, tabs can be opened as an about:blank)
 #### For these ones you can add r. before the links (I've already done it for you):
@@ -334,13 +332,13 @@ https://ezmathforyou.hop.sh/ <br>
 https://incognito-8.hop.sh/ <br>
 
 ### Holy Unblocker: (can be cloaked)
-https://python3langdocs.net/<br>
+https://python3langdocs.net/ <br>
 https://ur2ndlibrary.com/ <br>
-https://campusdirections.org/<br>
+https://campusdirections.org/ <br>
 https://colpsk12.org/ <br>
 https://boiledeggs.org <br>
-https://englishology.org/<br>
-https://thechefmethod.com/<br>
+https://englishology.org/ <br>
+https://thechefmethod.com/ <br>
 https://cheapdogs.org/ <br>
 https://totalmathway.com/ <br>
 
@@ -659,11 +657,6 @@ https://fast.jbones.com/   <br>
 https://statistics.geyikler.com/ <br>
 https://algebraicequations.mark-hansen.com/  <br>
 
-### Shadow Browser: (can be cloaked and about:blanked) (HAS ADS)
-https://phantom.lol/ <br>
-https://phantomnetwork.cloud/ <br>
-https://priv.peaks-a.pro/ <br>
-
 ### ByeBlocker: Youtube is in French... you might get stuck on "Enregistrement de votre choix…"
 #### Normal:
 https://chic-kashata-e4cec3.netlify.app/ <br>
@@ -765,7 +758,7 @@ https://stw.thebesthistoryhelp.tk/ <br>
 ### Novogames:
 https://novogames.twilightparadox.com/index.html <br>
 
-### IR Unblocked:
+### IR Unblocked (proxies from here):
 https://irunblocked.xyz/ <br>
 https://irgames.net/ <br>
 
@@ -799,7 +792,7 @@ https://s-deblok.rare1k.dev/ <br>
 https://d.nick2116.media/ <br>
 https://dblok.scmtstore.com/ <br>
 
-### Red's Exploit Corner:
+### Red's Exploit Corner: (HAS ADS)
 https://55gms.com/  <br>
 https://55gms.org/ <br>
 https://55gms.de <br>
@@ -811,6 +804,7 @@ https://55gms.lol <br>
 https://mathlearning.top <br>
 https://exploits.pages.dev <br>
 https://rednotsus.me <br>
+https://v6.wiki <br>
 
 ### Microsoft Labs (credits to 3kh0/ext-remover):
 https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Microsoft%20Labs <br>
@@ -869,6 +863,7 @@ HyperTabs-EX (SLOW) <br>
 Moonlight (the search part is banned) <br>
 Genoxy (banned) <br>
 Moss News (broken) <br>
+Shadow Browser (SLOW) <br>
 
 Notes: <br>
 Credits: <br>
