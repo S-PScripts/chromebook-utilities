@@ -1,6 +1,7 @@
 # LIST CREATED BY S-PSCRIPTS ON GITHUB. DO NOT STEAL THIS DOCUMENT AND PASS IT OFF AS ALL OF YOUR WORK.
 
 ### Interstellar: (opens in about:blank, can be cloaked)
+#### Normal:
 https://gointerstellar.app <br>
 https://gointerstellar.xyz <br>
 https://login.thegalleryofart.info/  <br>
@@ -29,6 +30,13 @@ https://taking-link-requests.hop.sh/ (a bit old) <br>
 https://4.hop.sh/ (a bit old) <br>
 https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old, click proxy then go to v4) <br>
 
+#### Embeds (by webstarlinks):
+https://sites.google.com/view/ysYjvS2nuk (wide screen)
+https://sites.google.com/view/2989x072/am9
+https://sites.google.com/view/iqophrt3scegq36u/w37
+https://sites.google.com/view/3gpw2z/8ak
+https://sites.google.com/view/rbsny2/8ak (OLD)
+
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ <br>
 https://ixl.plus/ <br>
@@ -53,14 +61,8 @@ Note: You can add ANYTHING before artclass.site (e.g. https://subscribe.artclass
 
 ### ???: (opens in about:blank)
 I was thinking about what links for art class could work with englishpapers.online and accidentally found this... <br>
+It's broken but the search does work... <br>
 https://english.englishpapers.online/ <br>
-
-### Tinf0il: (can be about:blanked)
-https://webapplication.design/ <br>
-
-#### Uh...
-So this link was a shuttle (I think). It had www before it. However, I realised that it didn't work. <br>
-I removed the www and it worked... but it was a TINF0IL! I have no clue how that happened... <br>
 
 ### Shuttle: (opens in about:blank)
 https://englishdata.co/ <br>
@@ -851,6 +853,7 @@ Genoxy (banned) <br>
 Moss News (broken) <br>
 Shadow Browser (SLOW) <br>
 Red's Exploit Corner (broken) <br>
+Tinf0il (broken... again) <br>
 
 Notes: <br>
 Credits: <br>
