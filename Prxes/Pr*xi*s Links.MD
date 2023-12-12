@@ -31,11 +31,11 @@ https://4.hop.sh/ (a bit old) <br>
 https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old, click proxy then go to v4) <br>
 
 #### Embeds (by webstarlinks):
-https://sites.google.com/view/ysYjvS2nuk (wide screen)
-https://sites.google.com/view/2989x072/am9
-https://sites.google.com/view/iqophrt3scegq36u/w37
-https://sites.google.com/view/3gpw2z/8ak
-https://sites.google.com/view/rbsny2/8ak (OLD)
+https://sites.google.com/view/ysYjvS2nuk (wide screen) <br>
+https://sites.google.com/view/2989x072/am9 <br>
+https://sites.google.com/view/iqophrt3scegq36u/w37 <br>
+https://sites.google.com/view/3gpw2z/8ak <br>
+https://sites.google.com/view/rbsny2/8ak (OLD) <br>
 
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ <br>
