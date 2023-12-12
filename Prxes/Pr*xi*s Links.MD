@@ -783,10 +783,17 @@ https://www.flow-works.me/ <br>
 https://clockwork-os.vercel.app/ <br>
 
 ### Surfskip: Click Google
-https://surfskip.com/app <br>
+#### Normal:
+https://surfskip.com/app - THEY BANNED .SHOP BUT NOT .COM XD <br>
 https://1win-creator.com/app <br>
 https://splashtoyshop.com/app <br>
 https://lovedrink69.com/app <br>
+
+#### Special:
+https://175.135.128.34.bc.googleusercontent.com   <br>
+https://100.87.111.34.bc.googleusercontent.com  <br>
+https://116.137.128.34.bc.googleusercontent.com <br>
+https://133.139.110.34.bc.googleusercontent.com <br>
 
 ### WebToppings:
 #### This one is EXCELLENT!!
