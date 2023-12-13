@@ -71,6 +71,7 @@ https://english.englishpapers.online/ <br>
 https://webapplication.design/ <br>
 
 ### Shuttle: (opens in about:blank, can be cloaked)
+#### just broke again as i'm editing this
 https://englishdata.co/ <br>
 https://creativeclassroom.co/ <br>
 https://tristanschools.co/ <br>
@@ -884,7 +885,6 @@ Genoxy (banned) <br>
 Moss News (broken) <br>
 Shadow Browser (SLOW) <br>
 Red's Exploit Corner (broken) <br>
-Tinf0il (broken... again) <br>
 
 Notes: <br>
 Credits: <br>
