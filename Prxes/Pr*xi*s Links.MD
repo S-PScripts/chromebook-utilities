@@ -67,7 +67,10 @@ I was thinking about what links for art class could work with englishpapers.onli
 It's broken but the search does work... <br>
 https://english.englishpapers.online/ <br>
 
-### Shuttle: (opens in about:blank)
+### Tinfoil: (similar to old art class, can be opened in about:blank and cloaked)
+https://webapplication.design/ <br>
+
+### Shuttle: (opens in about:blank, can be cloaked)
 https://englishdata.co/ <br>
 https://creativeclassroom.co/ <br>
 https://tristanschools.co/ <br>
