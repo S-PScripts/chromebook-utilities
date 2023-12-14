@@ -14,10 +14,10 @@ https://roundrockisd.online/ <br>
 https://geographytips.org/ <br>
 https://dominos.buzz/ <br>
 https://beesliketo.buzz/ <br>
-https://1.hop.sh/  <br>
 https://wisdom.educational.sciencevictory.org/  <br>
 https://shot.photography.backriverphotography.com/  <br>
 https://illuminate.autumn.shekinahphotography.com/  <br>
+https://adsadkjsadjksakldjxx.math-solver.online/  <br>
 https://edu.algebraxyz.com/ <br>
 https://about.computers-science.org/ <br>
 https://recipe.cooking.youramys.com/ <br>
@@ -26,9 +26,7 @@ https://blockthisifurhomophobic.gay/ <br>
 https://nationalgeographic.wiki/  <br>
 https://grandcanyonmuseum.website/ <br>
 https://our-religion.tomahawkchurch.org/ <br>
-https://taking-link-requests.hop.sh/ (a bit old) <br>
-https://4.hop.sh/ (a bit old) <br>
-https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old, click proxy then go to v4) <br>
+https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old, click proxy then go to v4 - it's https://v4.wiki) <br>
 
 #### Embeds (by webstarlinks):
 https://sites.google.com/view/ysYjvS2nuk (wide screen) <br>
@@ -71,7 +69,6 @@ https://english.englishpapers.online/ <br>
 https://webapplication.design/ <br>
 
 ### Shuttle: (opens in about:blank, can be cloaked)
-#### just broke again as i'm editing this
 https://englishdata.co/ <br>
 https://creativeclassroom.co/ <br>
 https://tristanschools.co/ <br>
@@ -355,20 +352,9 @@ https://us1.stopblocc.uk/ <br>
 https://us2.stopblocc.uk/ <br>
 https://pl1.stopblocc.uk/ <br>
 
-### Incognito (Other):
+### Incognito (Amethyst Network):
 https://ezmathforyou.hop.sh/ <br>
 https://incognito-8.hop.sh/ <br>
-
-### Holy Unblocker: (can be cloaked)
-https://python3langdocs.net/ <br>
-https://ur2ndlibrary.com/ <br>
-https://campusdirections.org/ <br>
-https://colpsk12.org/ <br>
-https://boiledeggs.org <br>
-https://englishology.org/ <br>
-https://thechefmethod.com/ <br>
-https://cheapdogs.org/ <br>
-https://totalmathway.com/ <br>
 
 ### Emerald: (HAS ADS)
 https://edu.reves.cl/ <br>
@@ -392,8 +378,8 @@ https://metallic.eu.org/ <br>
 https://usemetallic.com/ <br>
 https://metallic.xyz.wf/ <br>
 https://metalli.zc.al/ <br>
-https://metallic.hop.sh/ <br>
 https://m.hop.sh/ <br>
+https://metallic.hop.sh/ (bit old) <br>
 
 ### Cobalt (Cog Network):
 https://birdfood.gq/ <br>
@@ -548,31 +534,6 @@ https://fr.illuminx.live/ <br>
 https://login.edulastic.one/ <br>
 https://materials.edulastic.one/ <br>
 
-### Versatile:
-https://missions.nasatech.space/  <br>
-https://hubble.nasatech.space/  <br>
-https://marsrover.nasatech.space/  <br>
-https://exoplanets.nasatech.space/  <br>
-https://issmonitor.nasatech.space/  <br>
-https://stellerexplorer.nasatech.space/  <br>
-https://nebulaobservatory.nasatech.space/  <br>
-https://astronauttraining.nasatech.space/  <br>
-https://rocketlaunchs.nasatech.space/  <br>
-https://interstellercomms.nasatech.space/  <br>
-https://lunarbase.nasatech.space/  <br>
-
-https://uploadpictures.beautifulscenery.click/ <br>
-https://panoramicviews.beautifulscenery.click/ <br>
-https://bestspots.gallery.beautifulscenery.click/ <br>
-https://scenicwonders.beautifulscenery.click/ <br>
-https://breathtakingcaptures.beautifulscenery.click/ <br>
-https://hiddengetaways.beautifulscenery.click/ <br>
-https://naturephotography.beautifulscenery.click/ <br>
-https://pictureperfectspots.beautifulscenery.click/ <br>
-https://explorebeauty.beautifulscenery.click/ <br>
-
-https://homelist.gianthomesforsale.homes/
-
 ### Page Sandbox: Most pages work (not Discord :P)
 https://io.sqeven.workers.dev/ <br>
 https://j.xj2.workers.dev/ <br>
@@ -692,30 +653,6 @@ https://password-protection.netlify.app/ <br>
 ### Void: Opens links in about:blank
 https://sf.owlpentest.com/ (as Starfield) <br>
 
-### Doge Unblocker: (can be cloaked)
-https://dashboard.worksheetsforteachers.org/app <br>
-https://geometry.pualo.com/app  <br>
-https://nasa.rocketsfall.net/app  <br>
-https://doctors.orientretreatwellness.com/app <br>
-https://geography.kaspichan.org/app  <br>
-https://grades.plgsync.com/app <br>
-https://education.raidjunior.ro/app <br>
-https://edu.mazovec.ru/app <br>
-https://students.apostolof.org/app <br>
-https://research.shulihua.cn/app <br>
-https://chemistry.nevuer.com/app <br>
-https://careerpath.ub7.org/app <br>
-https://garden.elioteverdeen.com/app <br>
-https://heart.healthlink-test.ch/app <br>
-https://library.itparadiis.eu/app <br>
-https://worksheets.hidict.cn/app <br>
-https://business.titanides.es/app  <br>
-https://read.nigelupchurch.com/app <br>
-https://history.pereras.eu/app <br>
-https://news.suncube.de/app <br>
-https://gaysex.surfdoge.pro/app  <br>
-https://geometry.solar-energy.cl/app  <br>
-
 ### Kazwire:
 https://mathiscoolandawsome.us.to/  <br>
 https://kazwiremath.us.to/  <br>
@@ -733,11 +670,6 @@ https://3651dade.sodium-5h8.pages.dev/welcome <br>
 
 ### Typeist:
 https://typeist.lat/ <br>
-
-### Unblocked Cave: (might be slow)
-https://crisisapple89.github.io/ <br>
-https://deft-travesseiro-e4bb56.netlify.app/ <br>
-https://jocular-selkie-093f6f.netlify.app/ (OLD) <br>
 
 ### UBG US: Click Browse Now - ALSO THEY BANNED UBGUS.NET BUT NOT UGBUSA.COM :SKULL:
 https://classroom.ubgusa.com/ <br>
@@ -797,7 +729,11 @@ https://anura.mercurywork.shop/ <br>
 https://mathchamps.me/ <br>
 https://www.flow-works.me/ <br>
 
-### Clockwork: CLICK WANT TO TRY IT OUT THEN ABOUT:BLANKER
+### Clockwork: CLICK GET STARTED THEN ABOUT:BLANKER
+1. Click Clockwork and follow the instructions <br>
+2. Click the bag icon.
+3. Install Sodium (dog is new, broken icon is old) OR Utopia
+4. Click the icon for it in the bar
 https://clockwork-os.vercel.app/ <br>
 
 ### Surfskip: Click Google
@@ -818,7 +754,11 @@ https://133.139.110.34.bc.googleusercontent.com <br>
 https://webtoppings.bar/ <br>
 
 ### Deblok: 
-#### For this one, you'll need make an account. You need discord. Go to another proxy/device, join deblok's discord server and make an account. Then log in to the proxy site!
+#### For this one, you'll need to make an account. You need Discord. 
+1. Go to another proxy/device and open Discord. Log in or make an Discord account.
+2. Join Deblok's discord server. (https://discord.gg/826NSCyFSy)
+4. Go to the #botcmds channel and run the /signup command to make an account.
+3. Log in to one of the proxy sites below!
 https://deblok.me/ <br>
 https://deblok.pages.dev/ <br>
 https://s-deblok.rare1k.space/ <br>
@@ -885,6 +825,10 @@ Genoxy (banned) <br>
 Moss News (broken) <br>
 Shadow Browser (SLOW) <br>
 Red's Exploit Corner (broken) <br>
+Doge Unblocker (broken) <br>
+Versatile (broken) <br>
+Unblocked Cave (slow) <br>
+Holy Unblocker (broken) <br>
 
 Notes: <br>
 Credits: <br>
