@@ -65,7 +65,7 @@ I was thinking about what links for art class could work with englishpapers.onli
 It's broken but the search does work... <br>
 https://english.englishpapers.online/ <br>
 
-### Tinfoil: (similar to old art class, can be opened in about:blank and cloaked)
+### Tinf0il: (similar to old art class, can be opened in about:blank and cloaked)
 https://webapplication.design/ <br>
 
 ### Shuttle: (opens in about:blank, can be cloaked)
@@ -229,7 +229,7 @@ https://shouldiboosttherammerheadserver.gq/ <br>
 https://site.theunblockedhub.com/ <br>
 https://studyhard.sprk.lol/ <br>
 
-### Incognito (Noblo Version):
+### Incognito: (Noblo Version)
 #### Go to these links and select:
 https://noblo.cc <br>
 https://noblocc.uk <br>
@@ -357,7 +357,6 @@ https://ezmathforyou.hop.sh/ <br>
 https://incognito-8.hop.sh/ <br>
 
 ### Emerald: (HAS ADS)
-https://edu.reves.cl/ <br>
 https://mathisforlosers.ctx.cl/ <br>
 https://mathisforteachers.ctx.cl/ <br>
 https://schoolswithteachers.iii.cl/  <br>
@@ -843,9 +842,10 @@ Holy Unblocker (broken) <br>
 
 Notes: <br>
 Credits: <br>
-Thanks c0nstantly for the new formatting. <br>
-Thanks to Ghosted for his massive list. Could've not done this without him. https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/ <br>
-The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy, GhostedZoomer77 and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it?  <br>
+-> Thanks c0nstantly for the new formatting. <br>
+-> Thanks to Ghosted for his massive list. Could've not done this without him. https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/ <br>
+-> Note that I check the links far more often than him, don't think I'm copying. <br>
+-> The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy, GhostedZoomer77 and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it?  <br>
 
 REMEMBER: <br>
 - ALL SLOW PROXIES ARE NOT INCLUDED (THESE ARE MOSTLY REPLS). <br>
