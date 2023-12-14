@@ -705,7 +705,7 @@ https://tribe.neoneptune.com/ <br>
 ### CroxyProxy clones/Reflect4: (WEIRD AHH ADS DON'T USE THIS)
 https://www.binomosignal.com/ <br>
 
-### SurfTheWeb: Click Normal, Unblock, Proxies then Rammeread
+### SurfTheWeb: Click Normal, Unblock, Proxies then Rammerhead
 #### About:blank doesn't work:
 https://surfthewebv3.glitch.me/ <br>
 https://surfthewebv3.netlify.app/ <br>
@@ -770,6 +770,7 @@ https://dblok.scmtstore.com/ <br>
 https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Microsoft%20Labs <br>
 
 ### Ruby: Username and Password is ruby.
+https://ruby.rubynetwork.tech/ - No login <br>
 https://clients.republicofgamers.net/ <br>
 https://client.homeplex.org/ <br>
 https://qwerty.zfppz.uk/ <br>
