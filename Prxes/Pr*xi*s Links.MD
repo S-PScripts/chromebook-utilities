@@ -527,10 +527,11 @@ https://scpwolf.ballbang1.com/ <br>
 https://scpwolf.ballbang.fun/ <br>
 
 ### Freedom Project (Ultraviolet):
-https://hx.illuminx.live/ <br>
-https://news.provend.tech/ <br>
-https://fr.provend.tech/ <br>
+#### Home Page: https://0xdc.icu/ 
 https://fr.illuminx.live/ <br>
+https://hx.illuminx.live/ <br>
+https://fr.provend.tech/ <br>
+https://news.provend.tech/ <br>
 https://login.edulastic.one/ <br>
 https://materials.edulastic.one/ <br>
 
@@ -541,7 +542,7 @@ https://loli.xianyu1.workers.dev/ <br>
 https://little-credit-fc7d.sfzanghao.workers.dev/ <br>
 
 ### Astroid: Click any button on the fake MathsIsFun page for it (can be cloaked)
-#### There are more astroids than this but I AIN'T CHECKING THEM ALL
+#### There are a CRAP load of astroids than this but I AIN'T CHECKING THEM ALL!
 https://astroid.pro/ <br>
 https://astroid.gg/ <br>
 https://astroid.jib.ar/ <br>
@@ -656,6 +657,16 @@ https://sf.owlpentest.com/ (as Starfield) <br>
 ### Kazwire:
 https://mathiscoolandawsome.us.to/  <br>
 https://kazwiremath.us.to/  <br>
+https://art.mightypants.org/ <br>
+https://art.enemyterritory.org/ <br>
+https://english.ragtopvintage.com/ <br>
+https://history.grantmaskell.com/ <br>
+https://history.totomul.com.ar/ <br>
+https://history.unixr.org/ <br>
+https://math.pittaro.com.ar/ <br>
+https://music.hn-mes.com/ <br>
+https://music.aohao.org/ <br>
+https://science.fsagc.org/ <br>
 
 ### Sodium: Click Skip or go to Bing in Apps (icon with 3 squares and plus)
 https://sodium-5h8.pages.dev/welcome <br>
@@ -709,11 +720,7 @@ https://www.binomosignal.com/ <br>
 #### About:blank doesn't work:
 https://surfthewebv3.glitch.me/ <br>
 https://surfthewebv3.netlify.app/ <br>
-https://galacticnetwork.github.io/SurfTheWeb-V3/ <br>
-
-#### About:blank works:
-https://surftheweb-v3.netlify.app/ <br>
-https://stw.thebesthistoryhelp.tk/ <br>
+https://galacticnetwork.github.io/SurfTheWeb-V3/ (buggy) <br>
 
 ### Novogames:
 https://novogames.twilightparadox.com/index.html <br>
