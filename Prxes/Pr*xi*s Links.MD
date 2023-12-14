@@ -703,6 +703,9 @@ https://snorlaxscave.iiiii.info/  <br>
 https://tracking.cylone.net/  <br>
 https://design.showmyhomes.com/  <br>
 
+### Vortex:
+https://mathisthebest.xyz/ <br>
+
 ### Abyss:
 https://unity.karenbuzzard.com/ <br>
 https://write.karenbuzzard.com/ <br>
@@ -728,6 +731,12 @@ https://novogames.twilightparadox.com/index.html <br>
 ### IR Unblocked: (proxies from here) 
 https://irunblocked.xyz/ - .com is banned but not .xyz LOL <br>
 https://irgames.net/ <br>
+
+### Ruby: Username and Password is ruby.
+https://ruby.rubynetwork.tech/ - No login <br>
+https://clients.republicofgamers.net/ <br>
+https://client.homeplex.org/ <br>
+https://qwerty.zfppz.uk/ <br>
 
 ### AnuraOS: CLICK NORMAL USER AND WAIT FOR IT TO BOOT
 https://anura.mercurywork.shop/ <br>
@@ -775,12 +784,6 @@ https://dblok.scmtstore.com/ <br>
 
 ### Microsoft Labs (credits to 3kh0/ext-remover):
 https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Microsoft%20Labs <br>
-
-### Ruby: Username and Password is ruby.
-https://ruby.rubynetwork.tech/ - No login <br>
-https://clients.republicofgamers.net/ <br>
-https://client.homeplex.org/ <br>
-https://qwerty.zfppz.uk/ <br>
 
 ### Removed:
 TIW (broken) <br>
@@ -845,9 +848,9 @@ Thanks to Ghosted for his massive list. Could've not done this without him. http
 The links I have have been taken from many sources. These include Discord servers, Blazer, Milkyy Gamer, IrwinTech, Joe's Tech Lounge, Max ProTips, WolfUnblock, TigerFishy, GhostedZoomer77 and many others. There may be links that do work for you but I haven’t put them here. I want to put links that work for ME in case others might have the same filter. And anyway, this is a large collection, is it?  <br>
 
 REMEMBER: <br>
-REPL LINKS WILL NOT BE INCLUDED AS THEY ARE EXTREMELY SLOW.
-ALL SLOW PROXIES ARE NOT INCLUDED.
-PROXIES THAT DON'T WORK WITH LINKS ARE NOT INCLUDED (E.G. WHITESPIDER)
-DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT. <br>
-This list may get LOCKED since it has a LOT of links! <br>
-IF YOU GET ERR_TUNNEL_CONNECTION_FAILED I CAN'T DO ANYTHING <BR>
+- ALL SLOW PROXIES ARE NOT INCLUDED (THESE ARE MOSTLY REPLS). <br>
+- PROXIES THAT DON'T WORK WITH LINKS ARE NOT INCLUDED (E.G. WHITESPIDER) <br>
+- DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT. <br>
+- THIS LIST MAY GET LOCKED SINCE IT HAS A LOT OF LINKS! <br>
+- IF YOU GET ERR_TUNNEL_CONNECTION_FAILED I CAN'T DO ANYTHING <br>
+- DM ME ON TS2021 ON DISCORD FOR UPDATES (delete/add links)! <br>
