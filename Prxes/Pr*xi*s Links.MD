@@ -706,12 +706,12 @@ https://tribe.neoneptune.com/ <br>
 https://www.binomosignal.com/ <br>
 
 ### SurfTheWeb: Click Normal, Unblock, Proxies then Rammeread
-## About:blank doesn't work:
+#### About:blank doesn't work:
 https://surfthewebv3.glitch.me/ <br>
 https://surfthewebv3.netlify.app/ <br>
 https://galacticnetwork.github.io/SurfTheWeb-V3/ <br>
 
-## About:blank works:
+#### About:blank works:
 https://surftheweb-v3.netlify.app/ <br>
 https://stw.thebesthistoryhelp.tk/ <br>
 
@@ -719,7 +719,7 @@ https://stw.thebesthistoryhelp.tk/ <br>
 https://novogames.twilightparadox.com/index.html <br>
 
 ### IR Unblocked: (proxies from here) 
-https://irunblocked.xyz/ - .com is banned but not .xyz <br>
+https://irunblocked.xyz/ - .com is banned but not .xyz LOL <br>
 https://irgames.net/ <br>
 
 ### AnuraOS: CLICK NORMAL USER AND WAIT FOR IT TO BOOT
