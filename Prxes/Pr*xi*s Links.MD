@@ -737,10 +737,10 @@ https://mathchamps.me/ <br>
 https://www.flow-works.me/ <br>
 
 ### Clockwork: CLICK GET STARTED THEN ABOUT:BLANKER
-1. Click Clockwork and follow the instructions <br>
-2. Click the bag icon.
-3. Install Sodium (dog is new, broken icon is old) OR Utopia
-4. Click the icon for it in the bar
+1. Click Clockwork and follow the instructions. <br> <br>
+2. Click the bag icon. <br>
+3. Install Sodium (dog is new, broken icon is old) OR Utopia. <br>
+4. Click the icon for it in the bar. <br>
 https://clockwork-os.vercel.app/ <br>
 
 ### Surfskip: Click Google
@@ -762,10 +762,10 @@ https://webtoppings.bar/ <br>
 
 ### Deblok: 
 #### For this one, you'll need to make an account. You need Discord. 
-1. Go to another proxy/device and open Discord. Log in or make an Discord account.
-2. Join Deblok's discord server. (https://discord.gg/826NSCyFSy)
-4. Go to the #botcmds channel and run the /signup command to make an account.
-3. Log in to one of the proxy sites below!
+1. Go to another proxy/device and open Discord. Log in or make an Discord account. <br>
+2. Join Deblok's discord server. (https://discord.gg/826NSCyFSy) <br>
+3. Go to the #botcmds channel and run the /signup command to make an account. <br>
+4. Log in to one of the proxy sites below! <br>
 https://deblok.me/ <br>
 https://deblok.pages.dev/ <br>
 https://s-deblok.rare1k.space/ <br>
