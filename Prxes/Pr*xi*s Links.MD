@@ -109,64 +109,89 @@ https://exploreshuttle.xyz/ <br>
 https://artmastery.guru/ <br>
 https://link.embedding.mov/ <br>
 https://math.smelle.net/  <br>
+
 https://tutors4u.net/ <br>
 https://tutors4u.co/  <br>
 
 #### Ads/popups:
-https://beststudies.hop.sh/ 
-https://schoolstudies.hop.sh/ 
-https://ihateschool.hop.sh/ 
+https://beststudies.hop.sh/ <br>
+https://schoolstudies.hop.sh/  <br>
+https://ihateschool.hop.sh/  <br>
 
 ### Rammerhead: (can be cloaked, tabs can be opened as an about:blank)
 #### For these ones you can add r. before the links (I've already done it for you):
 https://britannica.cf/  <br>
 https://r.britannica.cf/ <br>
+
 https://britannica.gq/  <br>
 https://r.britannica.gq/ <br>
+
 https://codewars.cf/  <br>
 https://r.codewars.cf/ <br>
+
 https://codewars.gq/  <br>
 https://r.codewars.gq/ <br>
+
 https://pluralsight.cf/  <br>
 https://r.pluralsight.cf/ <br>
+
 https://pluralsight.gq/  <br>
 https://r.pluralsight.gq/ <br>
+
 https://flipgrid.cf/  <br>
 https://r.flipgrid.cf/ <br>
+
 https://flipgrid.gq/ <br>
 https://r.flipgrid.gq/ <br>
+
 https://flipgrid.tk/ <br>
 https://r.flipgrid.tk/ <br>
+
 https://coursera.cf/ <br>
 https://r.coursera.cf/ <br>
+
 https://coursera.gq/ <br>
 https://r.coursera.gq/ <br>
+
 https://sharkquiz.cf/ <br>
 https://r.sharkquiz.cf/ <br>
+
 https://sharkquiz.gq/ <br>
 https://r.sharkquiz.gq/ <br>
+
 https://monkeytype.cf/ <br>
 https://r.monkeytype.cf/ <br>
+
 https://monkeytype.gq/ <br>
 https://r.monkeytype.gq/ <br>
+
 https://monkeytype.tk/ <br>
 https://r.monkeytype.tk/ <br>
+
 https://quizlet.gq/ <br>
 https://r.quizlet.gq/ <br>
+
 https://typeracer.gq/ <br>
 https://r.typeracer.gq/ <br>
+
 https://freecodecamp.tk/ <br>
 https://r.freecodecamp.tk/ <br>
+
 https://freecodecamp.gq/ <br>
 https://r.freecodecamp.gq/ <br>
+
 https://achievementnetwork.gq/ <br>
 https://r.achievementnetwork.gq/ <br>
+
 https://achievementnetwork.cf/ <br>
 https://r.achievementnetwork.cf/ <br>
+
 https://achievementnetwork.tk/ <br>
 https://r.achievementnetwork.tk/ <br>
+
 https://soraapp.gq/ <br>
 https://r.soraapp.gq/ <br>
+
 https://platform.everfi.gq/ <br>
 https://r.platform.everfi.gq/ <br>
 
@@ -175,31 +200,57 @@ https://education.mordeco.com/ <br>
 https://edu.mordeco.com/ <br>
 https://staff.mordeco.com/ <br>
 https://admin.mordeco.com/ <br>
-https://sentry.soraapp.gq/ <br>
+
 https://quantumphysics.sciencesimplified.pro/ <br>
 https://biographyhelp.sciencesimplified.pro/ <br>
 https://math.sciencesimplified.pro/ <br>
+
 https://login.googlesclassroom.gq/ <br>
 https://login.googlesclassroom.cf/ <br>
+
 https://login.achievementnetwork.cf/ <br>
 https://login.achievementnetwork.gq/ <br>
+
+https://chrome.lhost.dev/ <br>
+https://blocked.lhost.dev/ <br>
+https://tabs.lhost.dev/ <br>
+
+https://r.outschool.tk/ <br>
+https://r.outschool.gq/ <br>
+
+https://learner.outschool.tk/ <br>
+https://learner.outschool.gq/ <br>
+
+https://membean.cf/ <br>
+https://membean.gq/ <br>
+
+https://lsmdm.tk/  <br>
+https://lsmdm.gq/  <br>
+https://lsmdm.cf/  <br>
+
+https://jeo2.goldsoft.rs/  <br>
+https://jeo3.goldsoft.rs/ <br>
+https://jeo4.goldsoft.rs/ <br>
+
+https://jeo2.todotrabajo.ar/ <br>
+https://jeo3.todotrabajo.ar/ <br>
+https://jeo4.todotrabajo.ar/ <br>
+
+https://jeo2.subcetatecity.ro/ <br>
+https://jeo3.subcetatecity.ro/ <br>
+https://jeo4.subcetatecity.ro/ <br>
+
 https://reading.englishpapers.online/ <br>
+https://sentry.soraapp.gq/ <br>
 https://mathtestaxamschool.zcvx.cf/ <br>
 https://canvas.lnstructure.cf/ <br>
 https://amplifyscience.cf/ <br>
 https://theplan.planb.gq/ <br>
-https://chrome.lhost.dev/ <br>
-https://blocked.lhost.dev/ <br>
-https://tabs.lhost.dev/ <br>
 https://whywhywhy.deleesportsmedicine.com/   <br>
 https://saltersforeheadhasa.shinylook.ro/  <br>
 https://rx.blackxfiied.xyz/  <br>
 https://best-pizza-is-whopper.adentse.com/ <br>
 https://www.pleaseinput.html-5.me/ <br>
-https://r.outschool.tk/ <br>
-https://r.outschool.gq/ <br>
-https://learner.outschool.tk/ <br>
-https://learner.outschool.gq/ <br>
 https://slape3.zwanenwater48.nl/ <br>
 https://oh-hell-nah.5inas.cf/ <br>
 https://search.mugmovies.pics/ <br>
@@ -212,29 +263,15 @@ https://howtomath.theeduweb.com/ <br>
 https://math4kids.containersarelinux.net/ <br>
 https://tips.bitesmagazine.com/ <br>
 https://freenomisratelimitingme.cf/ <br>
-https://membean.cf/ <br>
-https://membean.gq/ <br>
-https://booket.cf/  <br>
-https://lsmdm.tk/  <br>
-https://lsmdm.gq/  <br>
-https://lsmdm.cf/  <br>
 https://error418.cobos.mx/ <br>
 https://mr.claybert.com/ <br>
 https://jeo.robot-agachado.org/ <br>
-https://jeo2.goldsoft.rs/  <br>
-https://jeo3.goldsoft.rs/ <br>
-https://jeo4.goldsoft.rs/ <br>
-https://jeo2.todotrabajo.ar/ <br>
-https://jeo3.todotrabajo.ar/ <br>
-https://jeo4.todotrabajo.ar/ <br>
-https://jeo2.subcetatecity.ro/ <br>
-https://jeo3.subcetatecity.ro/ <br>
-https://jeo4.subcetatecity.ro/ <br>
 https://reading-helper.gq/ <br>
 https://beastacademy.gq/  <br>
 https://lizzyyy.bgg.cl/ <br>
 https://1.containersarelinux.net/ <br>
 https://rammer.rude.li/ <br>
+https://booket.cf/  <br>
 https://pxnguin.vlad.md/   <br>
 https://relay.lsaccess.cf/ <br>
 https://googlesclassroom.gq <br>
@@ -243,7 +280,7 @@ https://joyridearoundthepark.5inas.cf/ <br>
 https://shouldiboosttherammerheadserver.tk/ <br>
 https://shouldiboosttherammerheadserver.gq/ <br>
 
-### The Unblocked Hub: (looks like old interstellar, opens in about:blank) (HAS ADS)
+### The Unblocked Hub: (looks like old interstellar, opens in about:blank) (has ads)
 https://site.theunblockedhub.com/ <br>
 https://studyhard.sprk.lol/ <br>
 
@@ -374,11 +411,11 @@ https://pl1.stopblocc.uk/ <br>
 https://ezmathforyou.hop.sh/ <br>
 https://incognito-8.hop.sh/ <br>
 
-### Emerald: (HAS ADS)
+### Emerald: (has ads)
 https://mathisforlosers.ctx.cl/ <br>
 https://mathisforteachers.ctx.cl/ <br>
-https://schoolswithteachers.iii.cl/  <br>
 https://schoolfootballteams.ctx.cl/  <br>
+https://schoolswithteachers.iii.cl/  <br>
 https://enesbaba.oops.wtf/  <br>
 https://joshhatesmath7th.shekinahphotography.com/  <br>
 https://iboss.centuriontel.org/ <br>
@@ -386,13 +423,12 @@ https://history.centuriontel.com/  <br>
 https://restaurant.giftofappetite.com/ <br>
 https://pluh.tantrum.org/ <br>
 https://friedthe-chickenman.home.kg/ <br>
-https://history.centuriontel.com/ <br>
 https://destination.routesmaps.com/ <br>
 https://planterbound.5thaurora.com/ <br>
 
 ### Metallic (Cog Network): (can be cloaked)
-https://metallic.eu.org/ <br>
 https://usemetallic.com/ <br>
+https://metallic.eu.org/ <br>
 https://metallic.xyz.wf/ <br>
 https://metalli.zc.al/ <br>
 https://m.hop.sh/ <br>
@@ -559,7 +595,7 @@ https://loli.xianyu1.workers.dev/ <br>
 https://little-credit-fc7d.sfzanghao.workers.dev/ <br>
 
 ### Astroid: Click any button on the fake MathsIsFun page for it (can be cloaked)
-#### There are a CRAP load of astroids than this but I AIN'T CHECKING THEM ALL!
+#### There are far more astroids than this but I AIN'T CHECKING THEM ALL!
 https://astroid.pro/ <br>
 https://astroid.gg/ <br>
 https://astroid.jib.ar/ <br>
