@@ -43,10 +43,6 @@ https://study.englishpapers.online/  <br>
 https://stufy.englishpapers.online/  <br>
 https://sutausfjsajfas.englishpapers.online/ <br>
 https://purchase-some.hotglue.click/ <br>
-https://lbob2.vercel.app/ <br>
-https://vinosus-is-back.vercel.app/ <br>
-https://vino-is-still-sus.vercel.app/ <br>
-https://artprojects.vercel.app/ <br>
 https://sail.msg.boats <br>
 https://smellypay.isreally.pro/ <br>
 https://smellyal.isreally.pro/ <br>
@@ -384,7 +380,7 @@ https://metallic.hop.sh/ (bit old) <br>
 ### Cobalt (Cog Network):
 https://birdfood.gq/ <br>
 
-### TBG: Click Google - IT IS IN DUTCH!
+### TBG: Click Google - IT IS IN DUTCH! (can be cloaked)
 https://sio.birdriver.org/ <br>
 https://sio.sentinam.io/ <br>
 https://education-live.fun/ <br>
@@ -428,16 +424,16 @@ https://gafiradar.com/ <br>
 https://ny.gafiradar.com/ <br>
 
 ### 23azo (Ultraviolet)
-https://sub.23azorun.com/ <br>
-https://sub.23azosports.com/ <br>
-https://sub.23azoshooting.com/ <br>
+https://subscribe.23azorun.com/ <br>
+https://subscribe.23azosports.com/ <br>
+https://subscribe.23azoshooting.com/ <br>
 #### Add ANYTHING before 23azorun, 23azosports and 23azoshooting.
 
 ### topVAZ games (Ultraviolet):
-https://sub.topicademy.com/ <br>
-https://sub.sashimimi.com/ <br>
-https://sub.promathclass.com/ <br>
-https://sub.sushiprosi.com/ <br>
+https://subscribe.topicademy.com/ <br>
+https://subscribe.sashimimi.com/ <br>
+https://subscribe.promathclass.com/ <br>
+https://subscribe.sushiprosi.com/ <br>
 #### Add ANYTHING before topicademy, sashimimi, promathclass and sushiprosi.
 
 ### topVAZ (Ultraviolet): You need to click the M- button on the calculator. It will open as an about:blank.
@@ -648,7 +644,8 @@ https://algebraicequations.mark-hansen.com/  <br>
 #### Normal:
 https://chic-kashata-e4cec3.netlify.app/ <br>
 
-#### Click the Info button in these then click proxy: Can be about:blanked (click More...)
+#### Click the Info button in these then click proxy:
+This can be about:blanked (click More...) <br>
 https://password-protection.netlify.app/ <br>
 
 ### Void: Opens links in about:blank
@@ -690,19 +687,6 @@ https://geometry.ubgusa.com/ <br>
 ### Plexile Arcade:
 https://plexilearcade.netlify.app/  <br>
 
-### Snorlax's Cave:
-https://celltheory.sciencevictory.org/  <br>
-https://aquatics.octopusbot.net/  <br>
-https://volleyball.sportgroup.cl/  <br>
-https://snorlaxscave.xyz/  <br>
-https://bible.nigelupchurch.com/  <br>
-https://snorlaxscave.site/   <br>
-https://timezones.citytime.cl/  <br>
-https://world.peace.prayerforworldpeace.com/  <br>
-https://snorlaxscave.iiiii.info/  <br>
-https://tracking.cylone.net/  <br>
-https://design.showmyhomes.com/  <br>
-
 ### Vortex:
 https://mathisthebest.xyz/ <br>
 
@@ -718,6 +702,9 @@ https://tribe.neoneptune.com/ <br>
 
 ### CroxyProxy clones/Reflect4: (WEIRD AHH ADS DON'T USE THIS)
 https://www.binomosignal.com/ <br>
+
+### DM Unbl0cker: It's back! (has ads)
+https://cool.blinklab.com/ <br>
 
 ### SurfTheWeb: Click Normal, Unblock, Proxies then Rammerhead
 Note: About:blank doesn't work! <br>
@@ -794,7 +781,6 @@ The Universal Proxy (ended) <br>
 Illusive (ended) <br>
 Glype (banned) <br>
 Totally Science (banned) <br>
-DM Unbl0cker (banned) <br>
 Plooshi Docs (ended) <br>
 Ludicrous (broken) <br>
 Node Unblocker (broken) <br>
@@ -840,6 +826,7 @@ Doge Unblocker (broken) <br>
 Versatile (broken) <br>
 Unblocked Cave (slow) <br>
 Holy Unblocker (broken) <br>
+Snorlax's Cave (down) <br>
 
 Notes: <br>
 Credits: <br>
