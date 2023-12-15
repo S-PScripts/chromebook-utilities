@@ -801,16 +801,20 @@ https://clockwork-os.vercel.app/ <br>
 
 ### Surfskip: Click Google
 #### Normal:
-https://surfskip.com/app - THEY BANNED .SHOP BUT NOT .COM XD <br>
+https://surfskip.com/app - THEY BANNED THE .SHOP DOMAIN AND THE STATUS PAGE FOR IT BUT NOT THIS XD <br>
 https://1win-creator.com/app <br>
 https://splashtoyshop.com/app <br>
 https://lovedrink69.com/app <br>
 
 #### Special:
-https://175.135.128.34.bc.googleusercontent.com   <br>
+https://77.165.128.34.bc.googleusercontent.com/ - WILL STOP WORKING <br>
 https://100.87.111.34.bc.googleusercontent.com  <br>
+https://103.78.190.35.bc.googleusercontent.com/ - WILL STOP WORKING <br>
 https://116.137.128.34.bc.googleusercontent.com <br>
 https://133.139.110.34.bc.googleusercontent.com <br>
+https://175.135.128.34.bc.googleusercontent.com <br>
+https://205.196.110.34.bc.googleusercontent.com/app <br>
+https://243.203.227.35.bc.googleusercontent.com/app <br>
 
 ### WebToppings:
 #### This one is EXCELLENT!!
