@@ -11,8 +11,8 @@ https://vercel.wiki/ <br>
 https://dominos.buzz/ <br>
 https://beesliketo.buzz/ <br>
 
-https://login.thegalleryofart.info/  <br>
 https://bubbo.dev/ <br>
+https://login.thegalleryofart.info/  <br>
 https://mathway.cloud/  <br>
 https://outerspace.pics/  <br>
 https://roundrockisd.online/ <br>
@@ -22,11 +22,13 @@ https://blockthisifurhomophobic.gay/ <br>
 https://nationalgeographic.wiki/  <br>
 https://grandcanyonmuseum.website/ <br>
 
+https://learn.photography.backriverphotography.com/  <br>
 https://shot.photography.backriverphotography.com/  <br>
-https://adsadkjsadjksakldjxx.math-solver.online/  <br>
 
-https://login.computers-science.online/  <br>
-https://about.computers-science.org/ <br>
+https://subscribe.math-solver.online/ (add anything before math) <br>
+https://subscribe.math-solver.com/ (add anything before math) <br>
+https://subscribe.computers-science.online/ (add anything before computers) <br>
+https://subscribe.computers-science.org/ (add anything before computers) <br>
 
 https://recipe.cooking.youramys.com/ <br>
 https://artisan.cooking.youramys.com/ <br>
