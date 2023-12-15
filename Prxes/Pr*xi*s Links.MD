@@ -4,29 +4,51 @@
 #### Normal:
 https://gointerstellar.app <br>
 https://gointerstellar.xyz <br>
-https://login.thegalleryofart.info/  <br>
-https://bubbo.dev/ <br>
+
 https://v4.wiki/ <br>
 https://vercel.wiki/ <br>
+
+https://dominos.buzz/ <br>
+https://beesliketo.buzz/ <br>
+
+https://login.thegalleryofart.info/  <br>
+https://bubbo.dev/ <br>
 https://mathway.cloud/  <br>
 https://outerspace.pics/  <br>
 https://roundrockisd.online/ <br>
 https://geographytips.org/ <br>
-https://dominos.buzz/ <br>
-https://beesliketo.buzz/ <br>
-https://wisdom.educational.sciencevictory.org/  <br>
-https://shot.photography.backriverphotography.com/  <br>
-https://illuminate.autumn.shekinahphotography.com/  <br>
-https://adsadkjsadjksakldjxx.math-solver.online/  <br>
 https://edu.algebraxyz.com/ <br>
-https://about.computers-science.org/ <br>
-https://recipe.cooking.youramys.com/ <br>
-https://login.computers-science.online/  <br>
 https://blockthisifurhomophobic.gay/ <br>
 https://nationalgeographic.wiki/  <br>
 https://grandcanyonmuseum.website/ <br>
-https://our-religion.tomahawkchurch.org/ <br>
-https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old, click proxy then go to v4 - it's https://v4.wiki) <br>
+
+https://shot.photography.backriverphotography.com/  <br>
+https://adsadkjsadjksakldjxx.math-solver.online/  <br>
+
+https://login.computers-science.online/  <br>
+https://about.computers-science.org/ <br>
+
+https://recipe.cooking.youramys.com/ <br>
+https://artisan.cooking.youramys.com/ <br>
+
+https://enrich.autumn.shekinahphotography.com/ <br>
+https://illuminate.autumn.shekinahphotography.com/  <br>
+https://learn.autumn.shekinahphotography.com/ <br>
+https://skillset.autumn.shekinahphotography.com/ <br>
+https://wisdom.autumn.shekinahphotography.com/ <br>
+
+https://learn.organization.tomahawkchurch.org/ <br>
+https://study.organization.tomahawkchurch.org/ <br>
+https://training.organization.tomahawkchurch.org/ <br>
+https://wisdom.organization.tomahawkchurch.org/ <br>
+
+https://learn.educational.sciencevictory.org/  <br>
+https://study.educational.sciencevictory.org/ <br>
+https://training.educational.sciencevictory.org/ <br>
+https://wisdom.educational.sciencevictory.org/  <br>
+
+https://i-love-cars.vercel.app/ (a bit old) <br>
+https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old v3, click proxy then go to v4 - it's https://v4.wiki) <br>
 
 #### Embeds (by webstarlinks):
 https://sites.google.com/view/ysYjvS2nuk (wide screen) <br>
@@ -36,7 +58,13 @@ https://sites.google.com/view/3gpw2z/8ak <br>
 https://sites.google.com/view/rbsny2/8ak (OLD) <br>
 
 ### Art Class: (can be cloaked and about:blanked)
-https://artclass.site/ <br>
+https://artclass.site/ (you can add ANYTHING before artclass.site (e.g. https://subscribe.artclass.site/) <br>
+https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://subscribe.artclass.lol/) <br>
+https://mathnotes.icu/ (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.icu/)  <br>
+https://mathnotes.help (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.help/) <br>
+https://subscribe.mathlearning.tech/ (add ANYTHING before math) <br>
+https://subscribe.mathhelpnow.site (add ANYTHING before math) <br>
+https://subscribe.sciencesimplified.pro (add ANYTHING before science) <br>
 https://ixl.plus/ <br>
 https://education.englishpapers.online/  <br>
 https://study.englishpapers.online/  <br>
@@ -48,13 +76,6 @@ https://smellypay.isreally.pro/ <br>
 https://smellyal.isreally.pro/ <br>
 https://math.isreally.pro/ <br>
 https://stuffyschicken.isreallycool.lol/ <br>
-https://subscribe.mathlearning.tech/ (add ANYTHING before math) <br>
-https://subscribe.mathhelpnow.site (add ANYTHING before math) <br>
-https://subscribe.sciencesimplified.pro (add ANYTHING before science) <br>
-https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://subscribe.artclass.lol/) <br>
-https://mathnotes.icu/ (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.icu/)  <br>
-https://mathnotes.help (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.help/) <br>
-Note: You can add ANYTHING before artclass.site (e.g. https://subscribe.artclass.site/) <br>
 
 ### ???: (opens in about:blank)
 I was thinking about what links for art class could work with englishpapers.online and accidentally found this... <br>
