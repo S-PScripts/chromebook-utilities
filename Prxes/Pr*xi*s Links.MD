@@ -69,29 +69,36 @@ https://english.englishpapers.online/ <br>
 https://webapplication.design/ <br>
 
 ### Shuttle: (opens in about:blank, can be cloaked)
+#### No ads/popups:
 https://englishdata.co/ <br>
 https://creativeclassroom.co/ <br>
 https://tristanschools.co/ <br>
-https://tutors4u.net/ <br>
-https://cheapclass.co/ <br>
-https://learn2invest.info/ <br>
-https://tutors4cheap.co/ <br>
-https://search.uwuugle.com/ <br>
-https://findmytutor.info/ <br>
-https://codingwizard.org/  <br>
 https://sciencemaster.co/ <br>
-https://eduhelper.co/  <br>
-https://teachersearcher.co/ <br>
-https://geometry.hacknperl.com/  <br>
-https://literature.tscng.org/  <br>
+https://cheapclass.co/ <br>
 https://mathhelper.co/ <br>
+https://eduhelper.co/  <br>
+https://tutors4cheap.co/ <br>
+https://teachersearcher.co/ <br>
+https://spanishlearnolgy.co <br>
+https://learn2invest.info/ <br>
+https://findmytutor.info/ <br>
+https://search.uwuugle.com/ <br>
+https://geometry.hacknperl.com/  <br>
+https://codingwizard.org/  <br>
+https://learnsmartly.org/ <br>
+https://literature.tscng.org/  <br>
 https://physicprofession.org/ <br>
 https://exploreshuttle.xyz/ <br>
-https://spanishlearnolgy.co <br>
-https://tutors4u.net/ <br>
 https://artmastery.guru/ <br>
+https://link.embedding.mov/ <br>
+https://math.smelle.net/  <br>
+https://tutors4u.net/ <br>
 https://tutors4u.co/  <br>
-https://learnsmartly.org/ <br>
+
+#### Ads/popups:
+https://beststudies.hop.sh/ 
+https://schoolstudies.hop.sh/ 
+https://ihateschool.hop.sh/ 
 
 ### Rammerhead: (can be cloaked, tabs can be opened as an about:blank)
 #### For these ones you can add r. before the links (I've already done it for you):
@@ -172,8 +179,6 @@ https://saltersforeheadhasa.shinylook.ro/  <br>
 https://rx.blackxfiied.xyz/  <br>
 https://best-pizza-is-whopper.adentse.com/ <br>
 https://www.pleaseinput.html-5.me/ <br>
-https://oh-no.kayroscloud.tk/ <br>
-https://oreo-8.1.irc6.cf/ <br>
 https://r.outschool.tk/ <br>
 https://r.outschool.gq/ <br>
 https://learner.outschool.tk/ <br>
@@ -186,11 +191,8 @@ https://fun1.frostbite.cc/ <br>
 https://signup.soapclient.com/ <br>
 https://fair.hashable.org/ <br>
 https://gabeisagoober.bluepill.ml/ <br>
-https://shivamsmom.stuns.org/ <br>
-https://rammerhead.ind.st/ <br>
 https://howtomath.theeduweb.com/ <br>
 https://math4kids.containersarelinux.net/ <br>
-https://war.entraide.cf/ <br>
 https://tips.bitesmagazine.com/ <br>
 https://freenomisratelimitingme.cf/ <br>
 https://membean.cf/ <br>
@@ -213,7 +215,6 @@ https://jeo3.subcetatecity.ro/ <br>
 https://jeo4.subcetatecity.ro/ <br>
 https://reading-helper.gq/ <br>
 https://beastacademy.gq/  <br>
-https://yomom.cpasociados.net/ <br>
 https://lizzyyy.bgg.cl/ <br>
 https://1.containersarelinux.net/ <br>
 https://rammer.rude.li/ <br>
@@ -352,7 +353,7 @@ https://us1.stopblocc.uk/ <br>
 https://us2.stopblocc.uk/ <br>
 https://pl1.stopblocc.uk/ <br>
 
-### Incognito (Amethyst Network):
+### Incognito: (Amethyst Network)
 https://ezmathforyou.hop.sh/ <br>
 https://incognito-8.hop.sh/ <br>
 
@@ -719,7 +720,7 @@ https://tribe.neoneptune.com/ <br>
 https://www.binomosignal.com/ <br>
 
 ### SurfTheWeb: Click Normal, Unblock, Proxies then Rammerhead
-#### About:blank doesn't work:
+Note: About:blank doesn't work! <br>
 https://surfthewebv3.glitch.me/ <br>
 https://surfthewebv3.netlify.app/ <br>
 https://galacticnetwork.github.io/SurfTheWeb-V3/ (buggy) <br>
