@@ -579,8 +579,8 @@ https://calc.ballbang.fun/ <br>
 https://calc.ballbang1.com/ <br>
 https://calc.ballbang.xyz/ <br>
 https://calc.gameubg.com/ <br>
-https://scpwolf.ballbang1.com/ <br>
 https://scpwolf.ballbang.fun/ <br>
+https://scpwolf.ballbang1.com/ <br>
 
 ### Freedom Project (Ultraviolet):
 #### Home Page: https://0xdc.icu/ 
@@ -807,14 +807,12 @@ https://splashtoyshop.com/app <br>
 https://lovedrink69.com/app <br>
 
 #### Special:
-https://77.165.128.34.bc.googleusercontent.com/ - WILL STOP WORKING <br>
 https://100.87.111.34.bc.googleusercontent.com  <br>
-https://103.78.190.35.bc.googleusercontent.com/ - WILL STOP WORKING <br>
 https://116.137.128.34.bc.googleusercontent.com <br>
 https://133.139.110.34.bc.googleusercontent.com <br>
 https://175.135.128.34.bc.googleusercontent.com <br>
-https://205.196.110.34.bc.googleusercontent.com/app <br>
-https://243.203.227.35.bc.googleusercontent.com/app <br>
+https://205.196.110.34.bc.googleusercontent.com/app (EXPIRING...) <br>
+https://243.203.227.35.bc.googleusercontent.com/app (EXPIRING...) <br>
 
 ### WebToppings:
 #### This one is EXCELLENT!!
