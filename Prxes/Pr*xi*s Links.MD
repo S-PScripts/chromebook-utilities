@@ -781,6 +781,26 @@ https://surfthewebv3.glitch.me/ <br>
 https://surfthewebv3.netlify.app/ <br>
 https://galacticnetwork.github.io/SurfTheWeb-V3/ (buggy) <br>
 
+### WhiteSpider: Click Apps/Tools and use Puppeteer as the mode for the Unblocker
+This can be cloaked by doing CTRL+H. This can be exited with no history with CTRL+Q. <br>
+#### Normal: 
+https://whitespider.gq/ <br>
+https://whitespider.dev/ <br>
+https://whitespider.eu.org/ <br>
+
+#### Embeds:
+https://sites.google.com/view/whitespider <br>
+https://sites.google.com/view/white-spider <br>
+https://sites.google.com/view/whitespi <br>
+https://sites.google.com/view/wsunbl <br>
+https://sites.google.com/view/wsug <br>
+https://sites.google.com/view/x999  <br>
+https://sites.google.com/view/gainforschool <br>
+https://sites.google.com/view/theunlockedbay <br>
+
+#### Data URL:
+<link>
+
 ### Novogames:
 https://novogames.twilightparadox.com/index.html <br>
 
@@ -908,7 +928,7 @@ Credits: <br>
 
 REMEMBER: <br>
 - ALL SLOW PROXIES ARE NOT INCLUDED (THESE ARE MOSTLY REPLS). <br>
-- PROXIES THAT DON'T WORK WITH LINKS ARE NOT INCLUDED (E.G. WHITESPIDER) <br>
+- PROXIES THAT DON'T WORK WITH LINKS ARE NOT INCLUDED <br>
 - DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT. <br>
 - THIS LIST MAY GET LOCKED SINCE IT HAS A LOT OF LINKS! <br>
 - IF YOU GET ERR_TUNNEL_CONNECTION_FAILED I CAN'T DO ANYTHING <br>
