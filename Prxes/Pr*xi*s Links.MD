@@ -751,14 +751,23 @@ https://plexilearcade.netlify.app/  <br>
 https://mathisthebest.xyz/ <br>
 
 ### Abyss:
+https://intoabyss.org/  <br>
+
 https://unity.karenbuzzard.com/ <br>
 https://write.karenbuzzard.com/ <br>
 https://groan.karenbuzzard.com/ <br>
 
-https://intoabyss.org/  <br>
-https://heavy.octopusbot.net/ <br>
-https://gaffe.wombecology.com/ <br>
+https://stain.epitsfabol.hu/ <br>
+https://speed.epitsfabol.hu/ <br>
+
 https://tribe.neoneptune.com/ <br>
+https://doubt.neoneptune.com/ <br>
+
+https://gaffe.wombecology.com/ <br>
+https://carve.wombecology.com/ <br>
+
+https://enfix.aspirelactation.com.au/ <br>
+https://heavy.octopusbot.net/ <br>
 
 ### CroxyProxy clones/Reflect4: (WEIRD AHH ADS DON'T USE THIS)
 https://www.binomosignal.com/ <br>
