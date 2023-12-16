@@ -715,7 +715,6 @@ https://sf.owlpentest.com/ (as Starfield) <br>
 ### Kazwire:
 https://mathiscoolandawsome.us.to/  <br>
 https://kazwiremath.us.to/  <br>
-https://art.mightypants.org/ <br>
 https://art.enemyterritory.org/ <br>
 https://english.ragtopvintage.com/ <br>
 https://history.grantmaskell.com/ <br>
