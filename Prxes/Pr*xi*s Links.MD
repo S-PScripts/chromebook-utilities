@@ -50,14 +50,14 @@ https://training.educational.sciencevictory.org/ <br>
 https://wisdom.educational.sciencevictory.org/  <br>
 
 https://i-love-cars.vercel.app/ (a bit old) <br>
-https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old v3, click proxy then go to v4 - it's https://v4.wiki) <br>
+https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old v3, click proxy then go to v5 - it's https://v4.wiki) <br>
 
 #### Embeds (by webstarlinks):
 https://sites.google.com/view/ysYjvS2nuk (wide screen) <br>
 https://sites.google.com/view/2989x072/am9 <br>
 https://sites.google.com/view/iqophrt3scegq36u/w37 <br>
 https://sites.google.com/view/3gpw2z/8ak <br>
-https://sites.google.com/view/rbsny2/8ak (OLD) <br>
+https://sites.google.com/view/rbsny2/8ak (v4) <br>
 
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ (you can add ANYTHING before artclass.site (e.g. https://subscribe.artclass.site/) <br>
