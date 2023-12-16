@@ -51,6 +51,7 @@ https://wisdom.educational.sciencevictory.org/  <br>
 
 https://i-love-cars.vercel.app/ (a bit old) <br>
 https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old v3, click proxy then go to v5 - it's https://v4.wiki) <br>
+https://jubilant-capybara-px4x6pwvvg6c6w7r-8080.app.github.dev/ (my own!) <br>
 
 #### Embeds (by webstarlinks):
 https://sites.google.com/view/ysYjvS2nuk (wide screen) <br>
