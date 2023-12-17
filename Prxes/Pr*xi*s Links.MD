@@ -122,6 +122,8 @@ https://tutors4u.co/  <br>
 https://beststudies.hop.sh/ <br>
 https://schoolstudies.hop.sh/  <br>
 https://ihateschool.hop.sh/  <br>
+https://shuttle.hop.sh/  <br>
+https://daddy.hop.sh/  <br>
 
 ### Rammerhead: (can be cloaked, tabs can be opened as an about:blank)
 #### For these ones you can add r. before the links (I've already done it for you):
