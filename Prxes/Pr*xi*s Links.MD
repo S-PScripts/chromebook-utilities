@@ -449,10 +449,13 @@ https://metallic.hop.sh/ (bit old) <br>
 ### Cobalt (Cog Network):
 https://birdfood.gq/ <br>
 
-### TBG: Click Google - IT IS IN DUTCH! (can be cloaked)
+### TBG95: Click Google - IT IS IN DUTCH! (can be cloaked)
 https://sio.birdriver.org/ <br>
 https://sio.sentinam.io/ <br>
+
 https://education-live.fun/ <br>
+https://education-live.info/ <br>
+https://education-live.monster/ <br>
 
 ### Utopia: (can be cloaked and about:blanked)
 https://learningprep.xyz/ <br>
