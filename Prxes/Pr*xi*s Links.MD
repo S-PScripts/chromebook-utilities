@@ -3,7 +3,7 @@
 ### Interstellar: (opens in about:blank, can be cloaked)
 #### Normal:
 https://gointerstellar.app <br>
---> THEY BANNED .XYZ BUT NOT .APP LOL <-- <br>
+-> they banned .xyz but not .app XD <- <br>
 
 https://v4.wiki/ <br>
 https://vercel.wiki/ <br>
@@ -796,10 +796,11 @@ https://3651dade.sodium-5h8.pages.dev/welcome <br>
 ### Typeist:
 https://typeist.lat/ <br>
 
-### UBG US: Click Browse Now - ALSO THEY BANNED UBGUS.NET BUT NOT UGBUSA.COM :SKULL:
+### UBG US: Click Browse Now 
 https://classroom.ubgusa.com/ <br>
 https://ubgusa.com/ <br>
 https://geometry.ubgusa.com/ <br>
+--> THEY BANNED UBGUS.NET BUT NOT UGBUSA.COM XD <-- <br>
 
 ### Plexile Arcade:
 https://plexilearcade.netlify.app/  <br>
@@ -873,7 +874,8 @@ https://github.com/S-PScripts/chromebook-utilities/blob/main/Prxes/WS%20Data%20U
 https://novogames.twilightparadox.com/index.html <br>
 
 ### IR Unblocked: (proxies from here) 
-https://irunblocked.xyz/ - .com is banned but not .xyz LOL <br>
+https://irunblocked.xyz/
+-> they banned .com but not .xyz XD <- <br>
 https://irgames.net/ <br>
 
 ### Ruby: Username and Password is ruby.
@@ -898,7 +900,8 @@ https://clockwork-os.vercel.app/ <br>
 
 ### Surfskip: Click Google
 #### Normal:
-https://surfskip.com/app - THEY BANNED THE .SHOP DOMAIN AND THE STATUS PAGE FOR IT BUT NOT THIS XD <br>
+https://surfskip.com/app 
+--> THEY BANNED THE .SHOP DOMAIN AND THE STATUS PAGE FOR IT BUT NOT THIS XD <-- <br>
 https://1win-creator.com/app <br>
 https://splashtoyshop.com/app <br>
 https://lovedrink69.com/app <br>
