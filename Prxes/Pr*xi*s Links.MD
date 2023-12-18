@@ -760,6 +760,9 @@ https://password-protection.netlify.app/ <br>
 ### Void: Opens links in about:blank
 https://sf.owlpentest.com/ (as Starfield) <br>
 
+### Mocha:
+https://mocha.proudparrot2.tech/ <br>
+
 ### Kazwire:
 https://mathiscoolandawsome.us.to/  <br>
 https://kazwiremath.us.to/  <br>
