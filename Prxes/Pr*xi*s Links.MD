@@ -460,6 +460,13 @@ https://education-live.fun/ <br>
 https://education-live.info/ <br>
 https://education-live.monster/ <br>
 
+### Snorlax's Cave: You can only use URLS! Do not put https://! (can be about:blanked)
+https://snorlaxscave.xyz/ - the main link is unblocked XD <br>
+https://codeblocks.tantrum.org/ <br>
+https://design.showmyhomes.com/ <br>
+https://tracking.cylone.net/ <br>
+https://volleyball.sportgroup.cl/ <br>
+
 ### Utopia: (can be cloaked and about:blanked)
 https://learningprep.xyz/ <br>
 https://academichelp.xyz/ <br>
@@ -860,7 +867,7 @@ https://surfthewebv3.glitch.me/ <br>
 https://surfthewebv3.netlify.app/ <br>
 https://galacticnetwork.github.io/SurfTheWeb-V3/ (buggy) <br>
 
-### Taco Proxy: Only Links Work! - Also you'll get stuck on the accept all page on YT
+### Taco Proxy: Only URLS Work! - Also you'll get stuck on the accept all page on YT
 https://zowdl6.sse.codesandbox.io/ <br>
 https://u8lx6f.sse.codesandbox.io/ <br>
 https://woqdc9.sse.codesandbox.io/ <br>
@@ -871,24 +878,24 @@ https://dcqrmp.sse.codesandbox.io/ <br>
 https://f6gfz9.sse.codesandbox.io/ <br>
 https://ogtdrg.sse.codesandbox.io/ <br>
 
-### BlackWeb: Only Links Work! - Also you'll get stuck on the accept all page on YT
+### BlackWeb: Only URLS Work! - Also you'll get stuck on the accept all page on YT
 https://bzvih6.sse.codesandbox.io/ <br>
 https://ojgk6.sse.codesandbox.io/ <br>
 https://6u2bkn.sse.codesandbox.io/ <br>
 
-### LINC Unblocker: Only Links Work! - Also you'll get stuck on the accept all page on YT
+### LINC Unblocker: Only URLS Work! - Also you'll get stuck on the accept all page on YT
 https://yxyowj.sse.codesandbox.io/ (as Website unblocker 2.0) <br>
 https://qkjjgw.sse.codesandbox.io/ (as Website unblocker 2.0) <br>
 https://hx89zg.sse.codesandbox.io/ <br>
 https://cx79yo.sse.codesandbox.io/ <br>
 
-### Aero Proxy: Only Links Work! - Also you'll get stuck on the accept all page on YT
+### Aero Proxy: Only URLS Work! - Also you'll get stuck on the accept all page on YT
 https://wje63.sse.codesandbox.io/ <br>
 https://g3tlk.sse.codesandbox.io/ <br>
 https://0cgdkq.sse.codesandbox.io/ <br>
 https://y5szng.sse.codesandbox.io/ <br>
 
-### Alloy Proxy: Only Links Work! - Also you'll get stuck on the accept all page on YT
+### Alloy Proxy: Only URLS Work! - Also you'll get stuck on the accept all page on YT
 https://vtjp3.sse.codesandbox.io/ <br>
 https://u0p3r.sse.codesandbox.io/ <br>
 
