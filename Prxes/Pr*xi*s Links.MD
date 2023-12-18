@@ -20,6 +20,9 @@ https://edu.algebraxyz.com/ <br>
 https://blockthisifurhomophobic.gay/ <br>
 https://nationalgeographic.wiki/  <br>
 https://grandcanyonmuseum.website/ <br>
+https://business.titanides.es/ <br>
+--> This one was a doge unblocker but stopped working with /app after the link. <br>
+--> I remove it and it's an interstellar XD, same thing happened with tinf0il! <br>
 
 https://learn.photography.backriverphotography.com/  <br>
 https://shot.photography.backriverphotography.com/  <br>
@@ -711,7 +714,19 @@ https://fast.jbones.com/   <br>
 https://statistics.geyikler.com/ <br>
 https://algebraicequations.mark-hansen.com/  <br>
 
-### ByeBlocker: Youtube is in French... you might get stuck on "Enregistrement de votre choix…"
+### Doge Unblocker: 
+https://edu.mazovec.ru/app <br>
+https://education.ub7.org/app <br>
+https://careerpath.ub7.org/app <br>
+https://chemistry.nevuer.com/app <br>
+https://education.raidjunior.ro/app <br>
+https://geography.kaspichan.org/app <br>
+https://read.nigelupchurch.com/app <br>
+https://research.shulihua.cn/app <br>
+https://students.apostolof.org/app <br>
+https://worksheets.hidict.cn/app <br>
+
+### ByeBlocker: Youtube is in French...
 #### Normal:
 https://chic-kashata-e4cec3.netlify.app/ <br>
 
@@ -923,7 +938,6 @@ Genoxy (banned) <br>
 Moss News (broken) <br>
 Shadow Browser (SLOW) <br>
 Red's Exploit Corner (broken) <br>
-Doge Unblocker (broken) <br>
 Versatile (broken) <br>
 Unblocked Cave (slow) <br>
 Holy Unblocker (broken) <br>
