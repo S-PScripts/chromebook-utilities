@@ -441,11 +441,6 @@ https://friedthe-chickenman.home.kg/ <br>
 https://destination.routesmaps.com/ <br>
 https://planterbound.5thaurora.com/ <br>
 
-### BlackWeb: Only Links Work!
-https://bzvih6.sse.codesandbox.io/ <br>
-https://ojgk6.sse.codesandbox.io/ <br>
-https://6u2bkn.sse.codesandbox.io/ <br>
-
 ### Metallic (Cog Network): (can be cloaked)
 https://usemetallic.com/ <br>
 https://metallic.eu.org/ <br>
@@ -839,7 +834,7 @@ https://surfthewebv3.glitch.me/ <br>
 https://surfthewebv3.netlify.app/ <br>
 https://galacticnetwork.github.io/SurfTheWeb-V3/ (buggy) <br>
 
-### Taco Proxy: Only Links Work!
+### Taco Proxy: Only Links Work! - Also you'll get stuck on the accept all page on YT
 https://zowdl6.sse.codesandbox.io/ <br>
 https://u8lx6f.sse.codesandbox.io/ <br>
 https://woqdc9.sse.codesandbox.io/ <br>
@@ -849,6 +844,27 @@ https://dc8371.sse.codesandbox.io/ <br>
 https://dcqrmp.sse.codesandbox.io/ <br>
 https://f6gfz9.sse.codesandbox.io/ <br>
 https://ogtdrg.sse.codesandbox.io/ <br>
+
+### BlackWeb: Only Links Work! - Also you'll get stuck on the accept all page on YT
+https://bzvih6.sse.codesandbox.io/ <br>
+https://ojgk6.sse.codesandbox.io/ <br>
+https://6u2bkn.sse.codesandbox.io/ <br>
+
+### LINC Unblocker: Only Links Work! - Also you'll get stuck on the accept all page on YT
+https://yxyowj.sse.codesandbox.io/ (as Website unblocker 2.0) <br>
+https://qkjjgw.sse.codesandbox.io/ (as Website unblocker 2.0) <br>
+https://hx89zg.sse.codesandbox.io/ <br>
+https://cx79yo.sse.codesandbox.io/ <br>
+
+### Aero Proxy: Only Links Work! - Also you'll get stuck on the accept all page on YT
+https://wje63.sse.codesandbox.io/ <br>
+https://g3tlk.sse.codesandbox.io/ <br>
+https://0cgdkq.sse.codesandbox.io/ <br>
+https://y5szng.sse.codesandbox.io/ <br>
+
+### Alloy Proxy: Only Links Work! - Also you'll get stuck on the accept all page on YT
+https://vtjp3.sse.codesandbox.io/ <br>
+https://u0p3r.sse.codesandbox.io/ <br>
 
 ### WhiteSpider: Click Apps/Tools and use Puppeteer as the mode for the Unblocker
 This can be cloaked by doing CTRL+H. This can be exited with no history with CTRL+Q. <br>
