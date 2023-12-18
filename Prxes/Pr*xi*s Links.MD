@@ -715,27 +715,27 @@ https://statistics.geyikler.com/ <br>
 https://algebraicequations.mark-hansen.com/  <br>
 
 ### Versatile: (can be cloaked)
-https://missions.nasatech.space/ 
-https://hubble.nasatech.space/ 
-https://marsrover.nasatech.space/ 
-https://exoplanets.nasatech.space/ 
-https://issmonitor.nasatech.space/ 
-https://stellerexplorer.nasatech.space/ 
-https://nebulaobservatory.nasatech.space/ 
-https://astronauttraining.nasatech.space/ 
-https://rocketlaunchs.nasatech.space/ 
-https://interstellercomms.nasatech.space/ 
-https://lunarbase.nasatech.space/ 
+https://missions.nasatech.space/  <br>
+https://hubble.nasatech.space/  <br>
+https://marsrover.nasatech.space/  <br>
+https://exoplanets.nasatech.space/  <br>
+https://issmonitor.nasatech.space/  <br>
+https://stellerexplorer.nasatech.space/  <br>
+https://nebulaobservatory.nasatech.space/  <br>
+https://astronauttraining.nasatech.space/  <br>
+https://rocketlaunchs.nasatech.space/  <br>
+https://interstellercomms.nasatech.space/  <br>
+https://lunarbase.nasatech.space/  <br>
 
-https://uploadpictures.beautifulscenery.click/ 
-https://panoramicviews.beautifulscenery.click/ 
-https://bestspots.gallery.beautifulscenery.click/ 
-https://scenicwonders.beautifulscenery.click/ 
-https://breathtakingcaptures.beautifulscenery.click/ 
-https://hiddengetaways.beautifulscenery.click/ 
-https://naturephotography.beautifulscenery.click/ 
-https://pictureperfectspots.beautifulscenery.click/ 
-https://explorebeauty.beautifulscenery.click/ 
+https://uploadpictures.beautifulscenery.click/  <br>
+https://panoramicviews.beautifulscenery.click/  <br>
+https://bestspots.gallery.beautifulscenery.click/  <br>
+https://scenicwonders.beautifulscenery.click/  <br>
+https://breathtakingcaptures.beautifulscenery.click/ <br>
+https://hiddengetaways.beautifulscenery.click/  <br>
+https://naturephotography.beautifulscenery.click/  <br>
+https://pictureperfectspots.beautifulscenery.click/  <br>
+https://explorebeauty.beautifulscenery.click/  <br>
 
 ### Doge Unblocker: 
 https://edu.mazovec.ru/app <br>
