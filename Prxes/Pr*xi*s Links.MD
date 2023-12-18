@@ -761,7 +761,7 @@ https://password-protection.netlify.app/ <br>
 ### Void: Opens links in about:blank
 https://sf.owlpentest.com/ (as Starfield) <br>
 
-### Mocha:
+### Mocha: (can be cloaked)
 https://mocha.proudparrot2.tech/ <br>
 
 ### Kazwire:
@@ -776,6 +776,32 @@ https://math.pittaro.com.ar/ <br>
 https://music.hn-mes.com/ <br>
 https://music.aohao.org/ <br>
 https://science.fsagc.org/ <br>
+
+### Shadow Browser: (has ads)
+https://shadow.isreallycool.lol/ <br>
+https://phantom.lol/ <br>
+
+https://priv.peaks-a.pro/ <br>
+https://percentages.prettyweak.com/ <br>
+https://math.burpy.info/ <br>
+https://visitthe.nigelupchurch.com/ <br>
+https://educationalmathapps.esal.cl/ <br>
+
+https://ilovepoems.gurdit.com/ <br>
+https://readpoems2.gurdit.com/ <br>
+
+https://mathflashcards.superbmusic.com.np/ <br>
+https://mateocastillo.dcmusic.ca/ <br>
+https://azrielstudyforyourtest1.dcmusic.ca/ <br>
+https://imadethisdontbegpls.dcmusic.ca/ <br>
+https://azrielwashere6969azrielwashere6969azrielwashere6969.dcmusic.ca/ <br>
+https://yoursodumbyoucantreadthisfastenoughtcuzurnotsmartenough.dcmusic.ca/ <br>
+
+https://shadow.tlochsta.cloud/ <br>
+https://phantomnetwork.cloud/ <br>
+
+https://azrielmadethis.cheap-car-rental.com/ <br>
+https://multiplication.cheap-car-rental.com/ <br>
 
 ### Sodium: Click Skip or go to Bing in Apps (icon with 3 squares and plus)
 https://sodium-5h8.pages.dev/welcome <br>
@@ -997,7 +1023,6 @@ HyperTabs-EX (SLOW) <br>
 Moonlight (the search part is banned) <br>
 Genoxy (banned) <br>
 Moss News (broken) <br>
-Shadow Browser (SLOW) <br>
 Red's Exploit Corner (broken) <br>
 Unblocked Cave (slow) <br>
 Holy Unblocker (broken) <br>
