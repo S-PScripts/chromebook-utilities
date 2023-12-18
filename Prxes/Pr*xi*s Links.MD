@@ -3,7 +3,6 @@
 ### Interstellar: (opens in about:blank, can be cloaked)
 #### Normal:
 https://gointerstellar.app <br>
-https://gointerstellar.xyz <br>
 
 https://v4.wiki/ <br>
 https://vercel.wiki/ <br>
