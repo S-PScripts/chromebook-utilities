@@ -714,6 +714,29 @@ https://fast.jbones.com/   <br>
 https://statistics.geyikler.com/ <br>
 https://algebraicequations.mark-hansen.com/  <br>
 
+### Versatile: (can be cloaked)
+https://missions.nasatech.space/ 
+https://hubble.nasatech.space/ 
+https://marsrover.nasatech.space/ 
+https://exoplanets.nasatech.space/ 
+https://issmonitor.nasatech.space/ 
+https://stellerexplorer.nasatech.space/ 
+https://nebulaobservatory.nasatech.space/ 
+https://astronauttraining.nasatech.space/ 
+https://rocketlaunchs.nasatech.space/ 
+https://interstellercomms.nasatech.space/ 
+https://lunarbase.nasatech.space/ 
+
+https://uploadpictures.beautifulscenery.click/ 
+https://panoramicviews.beautifulscenery.click/ 
+https://bestspots.gallery.beautifulscenery.click/ 
+https://scenicwonders.beautifulscenery.click/ 
+https://breathtakingcaptures.beautifulscenery.click/ 
+https://hiddengetaways.beautifulscenery.click/ 
+https://naturephotography.beautifulscenery.click/ 
+https://pictureperfectspots.beautifulscenery.click/ 
+https://explorebeauty.beautifulscenery.click/ 
+
 ### Doge Unblocker: 
 https://edu.mazovec.ru/app <br>
 https://education.ub7.org/app <br>
@@ -938,7 +961,6 @@ Genoxy (banned) <br>
 Moss News (broken) <br>
 Shadow Browser (SLOW) <br>
 Red's Exploit Corner (broken) <br>
-Versatile (broken) <br>
 Unblocked Cave (slow) <br>
 Holy Unblocker (broken) <br>
 Snorlax's Cave (down) <br>
