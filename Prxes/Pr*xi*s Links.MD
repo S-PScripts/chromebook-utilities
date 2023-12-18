@@ -441,7 +441,7 @@ https://friedthe-chickenman.home.kg/ <br>
 https://destination.routesmaps.com/ <br>
 https://planterbound.5thaurora.com/ <br>
 
-### BlackWeb:
+### BlackWeb: Only Links Work!
 https://bzvih6.sse.codesandbox.io/ <br>
 https://ojgk6.sse.codesandbox.io/ <br>
 https://6u2bkn.sse.codesandbox.io/ <br>
@@ -838,6 +838,17 @@ https://surfthewebv3.glitch.me/ <br>
 https://surfthewebv3.netlify.app/ <br>
 https://galacticnetwork.github.io/SurfTheWeb-V3/ (buggy) <br>
 
+### Taco Proxy: Only Links Work!
+https://zowdl6.sse.codesandbox.io/ <br>
+https://u8lx6f.sse.codesandbox.io/ <br>
+https://woqdc9.sse.codesandbox.io/ <br>
+https://iwox73.sse.codesandbox.io/ <br>
+https://680gdw.sse.codesandbox.io/ <br>
+https://dc8371.sse.codesandbox.io/ <br>
+https://dcqrmp.sse.codesandbox.io/ <br>
+https://f6gfz9.sse.codesandbox.io/ <br>
+https://ogtdrg.sse.codesandbox.io/ <br>
+
 ### WhiteSpider: Click Apps/Tools and use Puppeteer as the mode for the Unblocker
 This can be cloaked by doing CTRL+H. This can be exited with no history with CTRL+Q. <br>
 #### Normal: 
@@ -924,7 +935,6 @@ https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Microsoft%
 TIW (broken) <br>
 Hypersite V2 (broken) <br>
 Rogue (ended) <br>
-Taco Proxy (banned) <br>
 The Universal Proxy (ended) <br>
 Illusive (ended) <br>
 Glype (banned) <br>
@@ -983,7 +993,6 @@ Credits: <br>
 
 REMEMBER: <br>
 - ALL SLOW PROXIES ARE NOT INCLUDED (THESE ARE MOSTLY REPLS). <br>
-- PROXIES THAT DON'T WORK WITH LINKS ARE NOT INCLUDED <br>
 - DO NOT PASTE THIS TO A SCHOOL ACCOUNT TO HOST. USE A HOME ACCOUNT. <br>
 - THIS LIST MAY GET LOCKED SINCE IT HAS A LOT OF LINKS! <br>
 - IF YOU GET ERR_TUNNEL_CONNECTION_FAILED I CAN'T DO ANYTHING <br>
