@@ -1,0 +1,10 @@
+How to quick deploy to GitHub Codespaces:
+1. Create a GitHub account if you haven't already.
+2. Go to https://github.com/InterstellarNetwork/Interstellar.
+3. Click the green "Code button and then click "Create Codespace on main".
+4. In the terminal on the bottom, paste "npm i && npm run start". (Ctrl + Shift + V)
+5. You'll see a popup on the corner about an application. Click "Make public".
+6. Go to the ports tab on the top (next to the terminal tab), and then click the website that appears on the list.
+7. For subsequent uses in the same codespace, just run "npm run start".
+
+(example: https://jubilant-capybara-px4x6pwvvg6c6w7r-8080.app.github.dev/ - this will NOT work)
