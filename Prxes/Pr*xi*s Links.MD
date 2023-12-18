@@ -3,6 +3,7 @@
 ### Interstellar: (opens in about:blank, can be cloaked)
 #### Normal:
 https://gointerstellar.app <br>
+--> THEY BANNED .XYZ BUT NOT .APP LOL <-- <br>
 
 https://v4.wiki/ <br>
 https://vercel.wiki/ <br>
