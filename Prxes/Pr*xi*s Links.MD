@@ -1,4 +1,4 @@
-# LIST CREATED BY S-PSCRIPTS ON GITHUB. DO NOT STEAL THIS DOCUMENT AND PASS IT OFF AS ALL OF YOUR WORK.
+# This list was created by S-PScripts on Github. Please do not steal it and pass it off as your own work.
 
 ### Interstellar: (opens in about:blank, can be cloaked)
 #### Normal:
