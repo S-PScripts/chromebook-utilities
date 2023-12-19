@@ -1028,7 +1028,7 @@ Palladium (broken) <br>
 HyperTabs-EX (SLOW) <br>
 Moonlight (the search part is banned) <br>
 Genoxy (banned) <br>
-Moss News (broken) <br>
+Moss News (broken) <br> -- update this works but no time to fix it rn! <br>
 Red's Exploit Corner (broken) <br>
 Unblocked Cave (slow) <br>
 Holy Unblocker (broken) <br>
