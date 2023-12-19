@@ -65,59 +65,75 @@ https://sites.google.com/view/rbsny2/8ak (v4) <br>
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ (you can add ANYTHING before artclass.site (e.g. https://subscribe.artclass.site/) <br>
 https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://subscribe.artclass.lol/) <br>
+
 https://mathnotes.icu/ (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.icu/)  <br>
 https://mathnotes.help (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.help/) <br>
+
 https://subscribe.mathlearning.tech/ (add ANYTHING before math) <br>
 https://subscribe.mathhelpnow.site (add ANYTHING before math) <br>
 https://subscribe.sciencesimplified.pro (add ANYTHING before science) <br>
+
 https://ixl.plus/ <br>
+https://purchase-some.hotglue.click/ <br>
+https://sail.msg.boats <br>
+
 https://education.englishpapers.online/  <br>
 https://my.englishpapers.online/ <br>
 https://study.englishpapers.online/  <br>
 https://stufy.englishpapers.online/  <br>
 https://sutausfjsajfas.englishpapers.online/ <br>
-https://purchase-some.hotglue.click/ <br>
-https://sail.msg.boats <br>
+
 https://smellypay.isreally.pro/ <br>
 https://smellyal.isreally.pro/ <br>
 https://math.isreally.pro/ <br>
+
 https://stuffyschicken.isreallycool.lol/ <br>
+
+https://hahahaha-mocha.vercel.app/  <br>
 
 ### ???: (opens in about:blank)
 I was thinking about what links for art class could work with englishpapers.online and accidentally found this... <br>
 It's broken but the search does work... <br>
 https://english.englishpapers.online/ <br>
 
-### Tinf0il: (similar to old art class, can be opened in about:blank and cloaked)
-https://webapplication.design/ <br>
-
 ### Shuttle: (opens in about:blank, can be cloaked)
 #### No ads/popups:
-https://englishdata.co/ <br>
-https://creativeclassroom.co/ <br>
-https://tristanschools.co/ <br>
-https://sciencemaster.co/ <br>
 https://cheapclass.co/ <br>
-https://mathhelper.co/ <br>
+https://creativeclassroom.co/ <br>
 https://eduhelper.co/  <br>
-https://tutors4cheap.co/ <br>
-https://teachersearcher.co/ <br>
+https://englishdata.co/ <br>
+https://mathhelper.co/ <br>
+https://sciencemaster.co/ <br>
 https://spanishlearnolgy.co <br>
-https://learn2invest.info/ <br>
+https://teachersearcher.co/ <br>
+https://tristanschools.co/ <br>
+https://tutors4cheap.co/ <br>
+
 https://findmytutor.info/ <br>
+https://learn2invest.info/ <br>
+
+https://science.pyramidish.com/  <br>
 https://search.uwuugle.com/ <br>
+https://tutor.phyorealty.com/ <br>
 https://geometry.hacknperl.com/  <br>
+
+https://www.webapplication.design/  <br>
+- So this was a shuttle but it stopped working. I removed www and it worked... but it was a tinf0il! <br>
+- Now this link works again and the tinf0il stops working. WEIRD! <br>
+
 https://codingwizard.org/  <br>
 https://learnsmartly.org/ <br>
 https://literature.tscng.org/  <br>
 https://physicprofession.org/ <br>
-https://exploreshuttle.xyz/ <br>
+
 https://artmastery.guru/ <br>
+https://exploreshuttle.xyz/ <br>
 https://link.embedding.mov/ <br>
 https://math.smelle.net/  <br>
+https://schooltech-joelwkwssd.koyeb.app/  <br>
 
-https://tutors4u.net/ <br>
 https://tutors4u.co/  <br>
+https://tutors4u.net/ <br>
 
 #### Ads/popups:
 https://beststudies.hop.sh/ <br>
@@ -1051,6 +1067,7 @@ Genoxy (banned) <br>
 Red's Exploit Corner (broken) <br>
 Unblocked Cave (slow) <br>
 Holy Unblocker (broken) <br>
+Tinf0il (broken) <br>
 
 Notes: <br>
 Credits: <br>
@@ -1065,3 +1082,5 @@ REMEMBER: <br>
 - THIS LIST MAY GET LOCKED SINCE IT HAS A LOT OF LINKS! <br>
 - IF YOU GET ERR_TUNNEL_CONNECTION_FAILED I CAN'T DO ANYTHING <br>
 - DM ME ON TS2021 ON DISCORD FOR UPDATES (delete/add links)! <br>
+- Onrender and hop links will often not work. <br>
+- Vercel links are now taken down often! <br>
