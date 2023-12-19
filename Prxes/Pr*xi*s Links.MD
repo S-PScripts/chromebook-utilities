@@ -444,7 +444,6 @@ https://planterbound.5thaurora.com/ <br>
 ### Metallic (Cog Network): (can be cloaked)
 https://usemetallic.com/ <br>
 https://metallic.eu.org/ <br>
-https://metallic.xyz.wf/ <br>
 https://metalli.zc.al/ <br>
 https://m.hop.sh/ <br>
 https://metallic.hop.sh/ (bit old) <br>
