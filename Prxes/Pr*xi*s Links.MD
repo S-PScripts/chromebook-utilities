@@ -62,6 +62,13 @@ https://sites.google.com/view/iqophrt3scegq36u/w37 <br>
 https://sites.google.com/view/3gpw2z/8ak <br>
 https://sites.google.com/view/rbsny2/8ak (v4) <br>
 
+#### Cosmic: (like interstellar v4)
+https://cosmic3-alphaotuken.koyeb.app/ <br>
+
+### The Unblocked Hub: (like interstellar v4) (has ads)
+https://site.theunblockedhub.com/ <br>
+https://studyhard.sprk.lol/ <br>
+
 ### Art Class: (can be cloaked and about:blanked)
 https://artclass.site/ (you can add ANYTHING before artclass.site (e.g. https://subscribe.artclass.site/) <br>
 https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://subscribe.artclass.lol/) <br>
@@ -304,9 +311,6 @@ https://joyridearoundthepark.5inas.cf/ <br>
 https://shouldiboosttherammerheadserver.tk/ <br>
 https://shouldiboosttherammerheadserver.gq/ <br>
 
-### The Unblocked Hub: (looks like old interstellar, opens in about:blank) (has ads)
-https://site.theunblockedhub.com/ <br>
-https://studyhard.sprk.lol/ <br>
 
 ### Incognito: (Noblocc Version)
 #### Go to these links and select:
