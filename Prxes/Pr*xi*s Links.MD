@@ -483,12 +483,9 @@ https://education-live.fun/ <br>
 https://education-live.info/ <br>
 https://education-live.monster/ <br>
 
-### Snorlax's Cave: You can only use URLS! Do not put https://! (can be about:blanked)
-https://snorlaxscave.xyz/ - the main link is unblocked XD <br>
-https://codeblocks.tantrum.org/ <br>
-https://design.showmyhomes.com/ <br>
-https://tracking.cylone.net/ <br>
-https://volleyball.sportgroup.cl/ <br>
+### Snorlax's Cave: Go to Apps and use Google (can be about:blanked)
+https://snorlaxs-cave-v1-6s8o.vercel.app/ <br>
+https://snorlaxs-cave-v1-2f2x.vercel.app/ <br>
 
 ### Utopia: (can be cloaked and about:blanked)
 https://learningprep.xyz/ <br>
