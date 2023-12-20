@@ -18,39 +18,16 @@ https://outerspace.pics/  <br>
 https://roundrockisd.online/ <br>
 https://geographytips.org/ <br>
 https://edu.algebraxyz.com/ <br>
+https://eduacation.lol  <br>
 https://blockthisifurhomophobic.gay/ <br>
 https://nationalgeographic.wiki/  <br>
 https://grandcanyonmuseum.website/ <br>
-https://business.titanides.es/ <br>
---> This one was a doge unblocker but stopped working with /app after the link. <br>
---> I remove it and it's an interstellar XD, same thing happened with tinf0il! <br>
 
-https://learn.photography.backriverphotography.com/  <br>
-https://shot.photography.backriverphotography.com/  <br>
 
 https://subscribe.math-solver.online/ (add anything before math) <br>
 https://subscribe.math-solver.com/ (add anything before math) <br>
 https://subscribe.computers-science.online/ (add anything before computers) <br>
 https://subscribe.computers-science.org/ (add anything before computers) <br>
-
-https://recipe.cooking.youramys.com/ <br>
-https://artisan.cooking.youramys.com/ <br>
-
-https://enrich.autumn.shekinahphotography.com/ <br>
-https://illuminate.autumn.shekinahphotography.com/  <br>
-https://learn.autumn.shekinahphotography.com/ <br>
-https://skillset.autumn.shekinahphotography.com/ <br>
-https://wisdom.autumn.shekinahphotography.com/ <br>
-
-https://learn.organization.tomahawkchurch.org/ <br>
-https://study.organization.tomahawkchurch.org/ <br>
-https://training.organization.tomahawkchurch.org/ <br>
-https://wisdom.organization.tomahawkchurch.org/ <br>
-
-https://learn.educational.sciencevictory.org/  <br>
-https://study.educational.sciencevictory.org/ <br>
-https://training.educational.sciencevictory.org/ <br>
-https://wisdom.educational.sciencevictory.org/  <br>
 
 https://i-love-cars.vercel.app/ (a bit old) <br>
 https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old v3, click proxy then go to v5 - it's https://v4.wiki) <br>
