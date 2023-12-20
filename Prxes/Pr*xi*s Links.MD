@@ -453,6 +453,7 @@ https://schoolfootballteams.ctx.cl/  <br>
 https://schoolswithteachers.iii.cl/  <br>
 https://enesbaba.oops.wtf/  <br>
 https://joshhatesmath7th.shekinahphotography.com/  <br>
+https://proj30.shekinahphotography.com <br>
 https://iboss.centuriontel.org/ <br>
 https://history.centuriontel.com/  <br>
 https://restaurant.giftofappetite.com/ <br>
@@ -460,6 +461,9 @@ https://pluh.tantrum.org/ <br>
 https://friedthe-chickenman.home.kg/ <br>
 https://destination.routesmaps.com/ <br>
 https://planterbound.5thaurora.com/ <br>
+https://englishpapers.fairuse.org/ <br>
+https://typeshityk.hbmc.net/ <br>
+https://tuff.hbmc.net/ <br>
 
 ### Metallic (Cog Network): (can be cloaked)
 https://usemetallic.com/ <br>
