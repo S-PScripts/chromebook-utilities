@@ -618,7 +618,7 @@ https://loli.xianyu1.workers.dev/ <br>
 https://little-credit-fc7d.sfzanghao.workers.dev/ <br>
 
 ### Astroid: Click any button on the fake MathsIsFun page for it (can be cloaked)
-#### All astroids: https://github.com/S-PScripts/chromebook-utilities/edit/main/Prxes/Full%20List%20Of%20Astroids
+#### All astroids: https://github.com/S-PScripts/chromebook-utilities/blob/main/Prxes/Full%20List%20Of%20Astroids
 https://astroid.gg/ <br>
 https://astroid.pro/ <br>
 https://astroid.jib.ar/ <br>
