@@ -1,1 +1,9 @@
-Work in progress.
+How to make art class links:
+1. Go to https://vercel.com/new/clone?repository-url=https://github.com/art-class/v4
+2. Click Github. Make sure you have a Github account and are not logged out.
+3. Enter any github repo name.
+4. Click Create.
+5. Go to the repo on github to find the link or just check the link in vercel.
+
+Notes:
+If you haven't used vercel before, you'll have to authorise the app.
