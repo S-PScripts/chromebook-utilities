@@ -622,103 +622,74 @@ https://little-credit-fc7d.sfzanghao.workers.dev/ <br>
 https://astroid.pro/ <br>
 https://astroid.gg/ <br>
 https://astroid.jib.ar/ <br>
-https://englishclass.us.to/ <br>
-https://mathsclass.youramys.com/ <br>
-https://maths.timekeeper.ro/ <br>
-https://he-just.farted.net/ <br>
-https://mathematics.soon.it/ <br>
-https://english.pii.at/ <br>
-https://mathematics.port0.org/ <br>
-https://mathstudy.fivepals.com/ <br>
-https://study.sailtheuniverse.com/ <br>
-https://mathisfun.hec.to/ <br>
-https://english.jumpingcrab.com/ <br>
-https://learning.sailtheuniverse.com/ <br>
-https://division.danielwilkins.org/ <br>
-https://work.frostbite.cc/ <br>
-https://compscirules.sen.org.nz/ <br>
-https://mathsisfun.link/   <br>
-https://group.luxflow.net/ <br>
-https://home.guessthispic.com/ <br>
-https://math.sics.ar/ <br>
-https://roblox.vyper.group/ <br>
-https://integrals.edumath.nl/ <br>
-https://science.skrypter.com/ <br>
-https://v3beta.flyawaybear.nl/ <br>
-https://login.tomahawkchurch.org/ <br>
-https://idk.361grade.ro/  <br>
-https://cdn.tomahawkchurch.org/ <br>
-https://manface.kjgom.net/ <br>
-https://helpat.mcsoft.org/  <br>
-https://classroom.us.to <br>
-https://coolschoolwork.us.to <br>
-https://mathisthebest.us.to  <br>
-https://english.info.gf/ <br>
-https://socialstudies.twilightparadox.com/ <br>
-https://us.epim.ar/ <br>
-https://mathiswaytofun.us.to/ <br>
-https://new.easychargebatteries.com/ <br>
-https://kahoot.mine.bz/ <br>
-https://tim.sotna.org/ <br>
-https://fast.jbones.com/ <br>
-https://login.3play.cl/ <br>
-https://math.devcan.org/ <br>
-https://mathissofun.us.to/ <br>
-https://mathisfun.info.gf/ <br>
-https://workindhardfor.mcsoft.org <br>
-https://best.airlinemeals.net/ <br>
-https://networkhelp.networkoutpost.com/ <br>
-https://whatarethe.100mountain.com  <br>
-https://mathwork.uk.to/ <br>
-https://mathisreallyfun.mooo.com/ <br>
-https://ura.bot.nu/ <br>
-https://learntomath.cbu.net/ <br>
-https://mathisfun.ecoeduc.cl/ <br>
-https://mathamatics.us.to/ <br>
-https://thisismathbecasueisaidsoplsimcoolandstuff.404.mn/ <br>
-https://broyouarewrong.mywire.org/ <br>
-https://homeworkhelper.mywire.org/ <br>
-https://schoolmastery.mywire.org/ <br>
-https://makeanmcserverfr.mywire.org/ <br>
-https://spreadingpropagandathroughlinks.mywire.org/ <br>
-https://probability.adipur.com  <br>
-https://geometryproofs.claudiogatica.cl <br>
-https://graphingcalculators.gnutella2.info <br>
-https://educationalmathapps.melissaanddougcoop.com  <br>
-https://subtraction.desario.com.br <br>
-https://algebraicequations.surukle.me <br>
-https://statistics.thelmadejager.co.za  <br>
-https://integralcalculus.vidaprimaria.cl <br>
-https://analyticgeometry.fletesymudanzas.cl <br>
-https://division.lovele.ro  <br>
-https://linearalgebra.thaiopenscada.com  <br>
-https://fractions.receitasdaelaine.com.br  <br>
-https://orderofoperations.basiclue.com <br>
-https://wordproblems.teranlera.com.ar <br>
-https://percentages.bot.nu <br>
-https://arithmetic.trisummerseries.co.za  <br>
-https://educationalmathapps.islam.cl <br>
-https://mathcompetitions.stahlnecker.net <br>
-https://probability.xn--fiqp3jtxe9n0a37aj1cr63a7x9c.tm <br>
-https://numbertheory.gfebio.com <br>
-https://integralcalculus.tatuarte.cl <br>
-https://complexnumbers.uno-tec.tk <br>
-https://educationalmathapps.shredsurf.com <br>
-https://mathworksheets.adipeq.cl <br>
-https://orderofoperations.ikrastev.net  <br>
-https://differentialequations.renmarkholidayhome.info <br>
-https://linearalgebra.carroriopreto.com.br  <br>
-https://educationalmathapps.dmdistribution.net  <br>
-https://integralcalculus.asirargentina.com.ar <br>
-https://pedrotrabalhodecasa123.com.cbu.net/ <br>
-https://pedrocolandonaprova.ignorelist.com/ <br>
-https://login.bestprograms4kids.com.au/ <br>
-https://classlink.wagenaarpcs.nl/ <br>
-https://theories.twilightparadox.com/ <br>
-https://lets.fapp.in/ <br>
-https://fast.jbones.com/   <br>
-https://statistics.geyikler.com/ <br>
-https://algebraicequations.mark-hansen.com/  <br>
+https://best.airlinemeals.net/
+https://broyouarewrong.mywire.org/
+https://cdn.tomahawkchurch.org/
+https://classlink.wagenaarpcs.nl/
+https://classroom.us.to
+https://compscirules.sen.org.nz/
+https://coolschoolwork.us.to
+https://division.danielwilkins.org/
+https://english.info.gf/
+https://english.jumpingcrab.com/
+https://english.pii.at/
+https://englishclass.us.to/
+https://fast.jbones.com/
+https://fast.jbones.com/
+https://group.luxflow.net/
+https://he-just.farted.net/
+https://helpat.mcsoft.org/
+https://home.guessthispic.com/
+https://homeworkhelper.mywire.org/
+https://idk.361grade.ro/
+https://integrals.edumath.nl/
+https://kahoot.mine.bz/
+https://learning.sailtheuniverse.com/
+https://learntomath.cbu.net/
+https://lets.fapp.in/
+https://login.3play.cl/
+https://login.bestprograms4kids.com.au/
+https://login.tomahawkchurch.org/
+https://makeanmcserverfr.mywire.org/
+https://manface.kjgom.net/
+https://math.devcan.org/
+https://math.sics.ar/
+https://mathamatics.us.to/
+https://mathematics.port0.org/
+https://mathematics.soon.it/
+https://mathisfun.ecoeduc.cl/
+https://mathisfun.hec.to/
+https://mathisfun.info.gf/
+https://mathisreallyfun.mooo.com/
+https://mathissofun.us.to/
+https://mathisthebest.us.to
+https://mathiswaytofun.us.to/
+https://maths.timekeeper.ro/
+https://mathsclass.youramys.com/
+https://mathsisfun.link/
+https://mathstudy.fivepals.com/
+https://mathwork.uk.to/
+https://networkhelp.networkoutpost.com/
+https://new.easychargebatteries.com/
+https://numbertheory.gfebio.com
+https://orderofoperations.ikrastev.net
+https://pedrocolandonaprova.ignorelist.com/
+https://pedrotrabalhodecasa123.com.cbu.net/
+https://roblox.vyper.group/
+https://schoolmastery.mywire.org/
+https://science.skrypter.com/
+https://socialstudies.twilightparadox.com/
+https://spreadingpropagandathroughlinks.mywire.org/
+https://study.sailtheuniverse.com/
+https://theories.twilightparadox.com/
+https://thisismathbecasueisaidsoplsimcoolandstuff.404.mn/
+https://tim.sotna.org/
+https://ura.bot.nu/
+https://us.epim.ar/
+https://v3beta.flyawaybear.nl/
+https://whatarethe.100mountain.com
+https://work.frostbite.cc/
+https://workindhardfor.mcsoft.org
 
 ### Moss News - Mediaology:
 1. Click “Why the U.S. Government has banned TikTok”. <br>
