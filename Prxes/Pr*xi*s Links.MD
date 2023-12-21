@@ -618,6 +618,7 @@ https://little-credit-fc7d.sfzanghao.workers.dev/ <br>
 
 ### Astroid: Click any button on the fake MathsIsFun page for it (can be cloaked)
 #### There are far more astroids than this but I AIN'T CHECKING THEM ALL!
+#### All astroids: https://github.com/S-PScripts/chromebook-utilities/edit/main/Prxes/Full%20List%20Of%20Astroids
 https://astroid.pro/ <br>
 https://astroid.gg/ <br>
 https://astroid.jib.ar/ <br>
