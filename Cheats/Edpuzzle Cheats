@@ -1,0 +1,21 @@
+Edpuzzle Cheats! This won't work on your chromebook if you are on a later version of chromeos that blocked javascript. However, you can probably use another device.
+
+BOOKMARK THIS:
+javascript: fetch("https://cdn.jsdelivr.net/gh/ading2210/edpuzzle-answers@latest/script.js").then(r => r.text()).then(r => eval(r))
+
+Features:
+1. Can fetch and display the multiple-choice answers for any Edpuzzle assignment
+2. Can automatically answer all the multiple-choice questions in an assignment
+3. Includes a video skipper which allows for arbitrary navigation within an assignment
+4. Has an option to prevent pausing the video when the tab is hidden
+5. Has a tool to change the video speed
+6. Shows various stats about the assignment
+7. Has a decent looking GUI
+8. No login or extension required
+9. Uses about:blank so it doesn't go into your browser history
+10. Works on private Edpuzzle videos
+11. Supports Edpuzzles embedded in Canvas and Schoology
+
+Credits: 
+https://github.com/ading2210/edpuzzle-answers (ading2210/vk6
+https://edpuzzle.hs.vc/
