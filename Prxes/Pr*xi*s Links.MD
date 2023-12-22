@@ -689,8 +689,6 @@ https://v3beta.flyawaybear.nl/ <br>
 https://whatarethe.100mountain.com <br>
 https://work.frostbite.cc/ <br>
 https://workindhardfor.mcsoft.org <br>
-https://gotothegalaxy.homeplex.org - my own! <br>
-https://jointhenebula.homeplex.org - my own! <br>
 
 ### Moss News - Mediaology:
 1. Click “Why the U.S. Government has banned TikTok”. <br>
