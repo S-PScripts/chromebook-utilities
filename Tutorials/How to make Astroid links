@@ -1,7 +1,7 @@
 -> A guide on how to BYOD (Bring Your Own Domain) to Astroid
 -> The guide below assumes you’re attempting to link a FreeDNS subdomain to Astroid.
 
-1. Open https://freedns.afraid.org and any temp mail provider (don't use gmail). For example, https://mail.tm.
+1. Open https://freedns.afraid.org and any temp mail provider. For example, https://mail.tm.
 2. Click on the generated email to copy it.
 3. Go back to FreeDNS and click "Sign Up Free".
 4. Fill out the required information. First and last name doesn't have to be real but make sure to enter a User ID and password you will remember. Agree to the terms and conditions and send the account activation email.
@@ -13,6 +13,10 @@
 10. Complete the captcha and save your changes.
 11. Wait a few minutes, then go to the subdomain you created.
 
+WARNING: Your link will stop working soon after as your account will be terminated.
+
 Credits: https://discord.gg/nowgg, airtag.
 
-Examples:
+Examples: 
+https://truetones.happyforever.com
+https://risingsun.happyforever.com
