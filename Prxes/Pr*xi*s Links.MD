@@ -42,7 +42,8 @@ https://sites.google.com/view/rbsny2/8ak (v4) <br>
 #### Cosmic: (like interstellar v4)
 https://cosmic3-alphaotuken.koyeb.app/ <br>
 
-### The Unblocked Hub: (like interstellar v4)
+### The Unblocked Hub: (like interstellar v4) 
+Sorry, this is down until January 2nd! <br>
 https://site.theunblockedhub.com/ <br>
 https://studyhard.sprk.lol/ <br>
 
