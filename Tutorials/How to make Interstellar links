@@ -1,3 +1,15 @@
+How to make Interstellar links (Vercel):
+1. Go to https://vercel.com/new/clone?repository-url=https://github.com/InterstellarNetwork/Interstellar-V3
+2. Click Github. Make sure you have a Github account and are not logged out.
+3. Enter any github repo name.
+4. Click Create.
+5. Go to the repo on github to find the link or just check the link in vercel.
+
+Notes:
+If you haven't used vercel before, you'll have to authorise the app.
+
+Example: https://bub-test.vercel.app/
+
 How to quick deploy to GitHub Codespaces:
 1. Create a GitHub account if you haven't already.
 2. Go to https://github.com/InterstellarNetwork/Interstellar.
