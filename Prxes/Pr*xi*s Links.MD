@@ -23,7 +23,6 @@ https://blockthisifurhomophobic.gay/ <br>
 https://nationalgeographic.wiki/  <br>
 https://grandcanyonmuseum.website/ <br>
 
-
 https://subscribe.math-solver.online/ (add anything before math) <br>
 https://subscribe.math-solver.com/ (add anything before math) <br>
 https://subscribe.computers-science.online/ (add anything before computers) <br>
@@ -31,6 +30,7 @@ https://subscribe.computers-science.org/ (add anything before computers) <br>
 
 https://i-love-cars.vercel.app/ (a bit old) <br>
 https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old v3, click proxy then go to v5 - it's https://v4.wiki) <br>
+https://bub-test.vercel.app/ (my own! old v3, click proxy then go to v5)
 
 #### Embeds (by webstarlinks):
 https://sites.google.com/view/ysYjvS2nuk (wide screen) <br>
@@ -75,7 +75,7 @@ https://math.isreally.pro/ <br>
 https://stuffyschicken.isreallycool.lol/ <br>
 
 https://hahahaha-mocha.vercel.app/  <br>
-https://ac-clone.vercel.app/ - My own! <br>
+https://ac-clone.vercel.app/ (my own!) <br>
 
 ### ???: (opens in about:blank)
 I was thinking about what links for art class could work with englishpapers.online and accidentally found this... <br>
@@ -754,7 +754,7 @@ https://read.nigelupchurch.com/app <br>
 https://research.shulihua.cn/app <br>
 https://students.apostolof.org/app <br>
 https://worksheets.hidict.cn/app <br>
-https://gentle-long-underwear-tuna.cyclic.app/app - My OWN! <br>
+https://gentle-long-underwear-tuna.cyclic.app/app (my own!) <br>
 
 ### ByeBlocker: Youtube is in French...
 #### Normal:
