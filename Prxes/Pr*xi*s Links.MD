@@ -5,23 +5,10 @@
 https://gointerstellar.app <br>
 -> they banned .xyz but not .app XD <- <br>
 
-https://v4.wiki/ <br>
-https://vercel.wiki/ <br>
-
-https://dominos.buzz/ <br>
-https://beesliketo.buzz/ <br>
-
-https://bubbo.dev/ <br>
-https://login.thegalleryofart.info/  <br>
-https://mathway.cloud/  <br>
-https://outerspace.pics/  <br>
-https://roundrockisd.online/ <br>
-https://geographytips.org/ <br>
-https://edu.algebraxyz.com/ <br>
-https://eduacation.lol  <br>
-https://blockthisifurhomophobic.gay/ <br>
-https://nationalgeographic.wiki/  <br>
-https://grandcanyonmuseum.website/ <br>
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
 
 https://i-love-cars.vercel.app/ (a bit old) <br>
 https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old v3, click proxy then go to v5 - it's https://v4.wiki) <br>
@@ -966,14 +953,11 @@ https://webtoppings.bar/ <br>
 4. Log in to one of the proxy sites below! <br>
 https://s-deblok.rare1k.space/ <br>
 https://s-deblok.rare1k.dev/ <br>
-https://d.nick2116.media/ <br>
-https://dblok.scmtstore.com/ <br>
-https://greenbean.im-def.gay/ <br>
-https://a.duckos.app/ <br>
-https://math.duckos.app/ <br>
-https://potato.basketcraft.net/ <br>
-https://potato.basketcraft.xyz/ <br>
-https://ramen.noodles.gq/ <br> 
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+
 
 ### Microsoft Labs (credits to 3kh0/ext-remover):
 https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Microsoft%20Labs <br>
