@@ -851,7 +851,7 @@ https://heavy.octopusbot.net/ <br>
 ### CroxyProxy clones/Reflect4: (WEIRD AHH ADS DON'T USE THIS)
 https://www.binomosignal.com/ <br>
 
-### DM Unbl0cker: It's back! (has ads)
+### DM Unbl0cker: (has ads)
 https://cool.blinklab.com/ <br>
 
 ### SurfTheWeb: Click Normal, Unblock, Proxies then Rammerhead
@@ -927,8 +927,8 @@ https://client.homeplex.org/ <br>
 https://qwerty.zfppz.uk/ <br>
 
 ### AnuraOS: CLICK NORMAL USER AND WAIT FOR IT TO BOOT
-https://anura.mercurywork.shop/ <br>
 https://anura.pro/ <br>
+https://anura.mercurywork.shop/ <br>
 
 ### FlowOS: Click the icon in the bottom left corner and then click Browser
 https://mathchamps.me/ <br>
@@ -1044,3 +1044,4 @@ REMEMBER: <br>
 - DM ME ON TS2021 ON DISCORD FOR UPDATES (delete/add links)! <br>
 - Onrender and hop links will often not work. <br>
 - Vercel links are now taken down often! <br>
+- I am in most of these proxies servers but I don't add links I find there. <br>
