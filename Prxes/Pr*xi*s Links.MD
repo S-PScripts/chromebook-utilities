@@ -23,11 +23,6 @@ https://blockthisifurhomophobic.gay/ <br>
 https://nationalgeographic.wiki/  <br>
 https://grandcanyonmuseum.website/ <br>
 
-https://subscribe.math-solver.online/ (add anything before math) <br>
-https://subscribe.math-solver.com/ (add anything before math) <br>
-https://subscribe.computers-science.online/ (add anything before computers) <br>
-https://subscribe.computers-science.org/ (add anything before computers) <br>
-
 https://i-love-cars.vercel.app/ (a bit old) <br>
 https://interstellar-v3-pv7vj7jfa-holycarrot6.vercel.app/ (old v3, click proxy then go to v5 - it's https://v4.wiki) <br>
 https://bub-test.vercel.app/ (my own! old v3, click proxy then go to v5)
