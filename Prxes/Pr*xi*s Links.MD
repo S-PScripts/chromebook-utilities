@@ -929,6 +929,7 @@ https://qwerty.zfppz.uk/ <br>
 
 ### AnuraOS: CLICK NORMAL USER AND WAIT FOR IT TO BOOT
 https://anura.mercurywork.shop/ <br>
+https://anura.pro/ <br>
 
 ### FlowOS: Click the icon in the bottom left corner and then click Browser
 https://mathchamps.me/ <br>
@@ -952,11 +953,7 @@ https://splashtoyshop.com/app <br>
 https://lovedrink69.com/app <br>
 
 #### Special:
-https://71.234.117.34.bc.googleusercontent.com <br>
-https://146.44.190.35.bc.googleusercontent.com <br>
-https://179.168.128.34.bc.googleusercontent.com <br>
-https://251.106.98.34.bc.googleusercontent.com <br>
-Created At: Tuesday (19/12/2023, around 6:00) <br>
+none! <br>
 
 ### WebToppings:
 #### This one is EXCELLENT!!
@@ -968,12 +965,16 @@ https://webtoppings.bar/ <br>
 2. Join Deblok's discord server. (https://discord.gg/826NSCyFSy) <br>
 3. Go to the #botcmds channel and run the /signup command to make an account. <br>
 4. Log in to one of the proxy sites below! <br>
-https://deblok.me/ <br>
-https://deblok.pages.dev/ <br>
 https://s-deblok.rare1k.space/ <br>
 https://s-deblok.rare1k.dev/ <br>
 https://d.nick2116.media/ <br>
 https://dblok.scmtstore.com/ <br>
+https://greenbean.im-def.gay/ <br>
+https://a.duckos.app/ <br>
+https://math.duckos.app/ <br>
+https://potato.basketcraft.net/ <br>
+https://potato.basketcraft.xyz/ <br>
+https://ramen.noodles.gq/ <br> 
 
 ### Microsoft Labs (credits to 3kh0/ext-remover):
 https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Microsoft%20Labs <br>
