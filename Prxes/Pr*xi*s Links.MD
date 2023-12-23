@@ -111,7 +111,6 @@ https://artmastery.guru/ <br>
 https://exploreshuttle.xyz/ <br>
 https://link.embedding.mov/ <br>
 https://math.smelle.net/  <br>
-https://schooltech-joelwkwssd.koyeb.app/  <br>
 
 https://tutors4u.co/  <br>
 https://tutors4u.net/ <br>
