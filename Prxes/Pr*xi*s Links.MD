@@ -37,6 +37,7 @@ I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
 I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
 I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+
 https://hahahaha-mocha.vercel.app/  <br>
 https://ac-clone.vercel.app/ (my own!) <br>
 
@@ -49,39 +50,11 @@ https://english.englishpapers.online/ <br>
 #### No ads/popups:
 https://cheapclass.co/ <br>
 https://creativeclassroom.co/ <br>
-https://eduhelper.co/  <br>
-https://englishdata.co/ <br>
-https://mathhelper.co/ <br>
-https://sciencemaster.co/ <br>
-https://spanishlearnolgy.co <br>
-https://teachersearcher.co/ <br>
-https://tristanschools.co/ <br>
-https://tutors4cheap.co/ <br>
 
-https://findmytutor.info/ <br>
-https://learn2invest.info/ <br>
-
-https://science.pyramidish.com/  <br>
-https://search.uwuugle.com/ <br>
-https://tutor.phyorealty.com/ <br>
-https://geometry.hacknperl.com/  <br>
-
-https://www.webapplication.design/  <br>
-- So this was a shuttle but it stopped working. I removed www and it worked... but it was a tinf0il! <br>
-- Now this link works again and the tinf0il stops working. WEIRD! <br>
-
-https://codingwizard.org/  <br>
-https://learnsmartly.org/ <br>
-https://literature.tscng.org/  <br>
-https://physicprofession.org/ <br>
-
-https://artmastery.guru/ <br>
-https://exploreshuttle.xyz/ <br>
-https://link.embedding.mov/ <br>
-https://math.smelle.net/  <br>
-
-https://tutors4u.co/  <br>
-https://tutors4u.net/ <br>
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
 
 #### Ads/popups:
 https://beststudies.hop.sh/ <br>
