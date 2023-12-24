@@ -3,6 +3,9 @@
 ### Interstellar: (opens in about:blank, can be cloaked)
 #### Normal:
 https://gointerstellar.app <br>
+https://vercel.wiki <br>
+https://v4.wiki <br>
+
 -> they banned .xyz but not .app XD <- <br>
 
 I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
