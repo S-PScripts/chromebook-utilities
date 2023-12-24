@@ -658,29 +658,6 @@ https://letslearn-math.xyz/ <br>
 
 https://math-orbit.com/ <br>
 
-### Versatile: (can be cloaked)
-https://missions.nasatech.space/  <br>
-https://hubble.nasatech.space/  <br>
-https://marsrover.nasatech.space/  <br>
-https://exoplanets.nasatech.space/  <br>
-https://issmonitor.nasatech.space/  <br>
-https://stellerexplorer.nasatech.space/  <br>
-https://nebulaobservatory.nasatech.space/  <br>
-https://astronauttraining.nasatech.space/  <br>
-https://rocketlaunchs.nasatech.space/  <br>
-https://interstellercomms.nasatech.space/  <br>
-https://lunarbase.nasatech.space/  <br>
-
-https://uploadpictures.beautifulscenery.click/  <br>
-https://panoramicviews.beautifulscenery.click/  <br>
-https://bestspots.gallery.beautifulscenery.click/  <br>
-https://scenicwonders.beautifulscenery.click/  <br>
-https://breathtakingcaptures.beautifulscenery.click/ <br>
-https://hiddengetaways.beautifulscenery.click/  <br>
-https://naturephotography.beautifulscenery.click/  <br>
-https://pictureperfectspots.beautifulscenery.click/  <br>
-https://explorebeauty.beautifulscenery.click/  <br>
-
 ### Doge Unblocker: 
 https://edu.mazovec.ru/app <br>
 https://education.ub7.org/app <br>
@@ -969,6 +946,7 @@ Red's Exploit Corner (broken) <br>
 Unblocked Cave (slow) <br>
 Holy Unblocker (broken) <br>
 Tinf0il (broken) <br>
+Versatile (ended) <br>
 
 Notes: <br>
 Credits: <br>
