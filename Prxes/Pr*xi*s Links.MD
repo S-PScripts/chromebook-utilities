@@ -1,5 +1,13 @@
 # This list was created by S-PScripts on Github. Please do not steal it and pass it off as your own work.
 
+# To everyone,
+This list will be gone soon. <br>
+I don't to be a narcassist bitch like how I once was. I don't want to be like GhostedZoomer77. <br>
+I already removed many proxies such as Shuttle, Art Class, Interstellar and Deblok because it seems <br>
+like if I add them I'll be blacklisted for life to all of the proxies. I don't really use discord <br>
+for the servers but it's still quite serious. I don't want my name going around for bad. <br>
+If you want your proxies to be removed, please ask me. I'm not like Grobby, I'll remove them permanently. <br>
+
 ### Interstellar: (opens in about:blank, can be cloaked)
 #### Normal:
 https://gointerstellar.app <br>
