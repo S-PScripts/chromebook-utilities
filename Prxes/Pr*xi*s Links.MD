@@ -33,29 +33,10 @@ https://studyhard.sprk.lol/ <br>
 https://artclass.site/ (you can add ANYTHING before artclass.site (e.g. https://subscribe.artclass.site/) <br>
 https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://subscribe.artclass.lol/) <br>
 
-https://mathnotes.icu/ (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.icu/)  <br>
-https://mathnotes.help (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.help/) <br>
-
-https://subscribe.mathlearning.tech/ (add ANYTHING before math) <br>
-https://subscribe.mathhelpnow.site (add ANYTHING before math) <br>
-https://subscribe.sciencesimplified.pro (add ANYTHING before science) <br>
-
-https://ixl.plus/ <br>
-https://purchase-some.hotglue.click/ <br>
-https://sail.msg.boats <br>
-
-https://education.englishpapers.online/  <br>
-https://my.englishpapers.online/ <br>
-https://study.englishpapers.online/  <br>
-https://stufy.englishpapers.online/  <br>
-https://sutausfjsajfas.englishpapers.online/ <br>
-
-https://smellypay.isreally.pro/ <br>
-https://smellyal.isreally.pro/ <br>
-https://math.isreally.pro/ <br>
-
-https://stuffyschicken.isreallycool.lol/ <br>
-
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
 https://hahahaha-mocha.vercel.app/  <br>
 https://ac-clone.vercel.app/ (my own!) <br>
 
