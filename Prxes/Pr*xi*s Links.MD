@@ -411,6 +411,8 @@ https://education-live.monster/ <br>
 ### Snorlax's Cave: Go to Apps and use Google (can be about:blanked)
 https://snorlaxs-cave-v1-6s8o.vercel.app/ <br>
 https://snorlaxs-cave-v1-2f2x.vercel.app/ <br>
+https://design.showmyhomes.com/ <br>
+Join the discord server for more! <br>
 
 ### Utopia: (can be cloaked and about:blanked)
 https://learningprep.xyz/ <br>
@@ -720,6 +722,7 @@ https://ilovepoems.gurdit.com/ <br>
 https://readpoems2.gurdit.com/ <br>
 
 https://mathflashcards.superbmusic.com.np/ <br>
+
 https://mateocastillo.dcmusic.ca/ <br>
 https://azrielstudyforyourtest1.dcmusic.ca/ <br>
 https://imadethisdontbegpls.dcmusic.ca/ <br>
