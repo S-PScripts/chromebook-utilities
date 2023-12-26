@@ -932,8 +932,16 @@ https://anura.pro/ <br>
 https://anura.mercurywork.shop/ <br>
 
 ### FlowOS: Click the icon in the bottom left corner and then click Browser
-https://mathchamps.me/ <br>
 https://www.flow-works.me/ <br>
+https://mathchamps.me/ <br>
+https://mathwhizz.me/ <br>
+https://flowos-1feo4j627-flow-works.vercel.app/  <br>
+https://flowos-2loz2h9m6-flow-works.vercel.app/   <br>
+https://flowos-32mpcwl01-flow-works.vercel.app/   <br>
+https://flowos-4aomvrpru-flow-works.vercel.app/   <br>
+https://flowos-74kfbg5o8-flow-works.vercel.app/   <br>
+https://flowos-h1g3zz808-flow-works.vercel.app/   <br>
+https://flowos-l8ys4zy1r-flow-works.vercel.app/   <br>
 
 ### Clockwork: CLICK GET STARTED THEN ABOUT:BLANKER
 1. Click Clockwork and follow the instructions. <br> <br>
