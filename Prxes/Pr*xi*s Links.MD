@@ -83,10 +83,11 @@ https://tutors4cheap.co/ <br>
 https://findmytutor.info/ <br>
 https://learn2invest.info/ <br>
 
-https://science.pyramidish.com/ <br>
+https://band.kuztsudio.com/ <br>
+https://edu.projectsioux.com/ <br>
 https://search.uwuugle.com/ <br>
+https://space.banquick.com/ <br>
 https://tutor.phyorealty.com/ <br>
-https://geometry.hacknperl.com/ <br>
 
 https://www.webapplication.design/ <br>
 
@@ -101,10 +102,37 @@ https://physicprofession.org/ <br>
 https://artmastery.guru/ <br>
 https://exploreshuttle.xyz/ <br>
 https://link.embedding.mov/ <br>
-https://math.smelle.net/ <br>
+https://servers.h-o-s-t.name/ <br>
 
 https://tutors4u.co/ <br>
 https://tutors4u.net/ <br>
+
+https://algebra.bransw.com/ <br>
+https://algebra.customintegrator.org/ <br> 
+https://algebra.feezor.net/ <br>
+https://algebra.hitekrecruiting.net/ <br> 
+https://algebra.hyrisoft.com/ <br>
+https://algebra.morrisis.net/ <br>
+https://algebra.sjtech.org/ <br>
+https://algebra.stickyricecakes.com/ <br> 
+https://algebra.videla.net/  <br>
+https://atutor.tien-shan.org/ <br>
+https://geometry.fernhamconsulting.net/ <br>
+https://geometry.hacknperl.com/ <br>
+https://geometry.precisewarehousing.com/  <br>
+https://math.abasma.com/ <br>
+https://math.ajatar.org/   <br>
+https://math.firerehab.org/ <br>
+https://math.jimayre.com/ <br>
+https://math.lexvoip.net/ <br>
+https://math.sociedadecirugialp.org/ <br>
+https://math.smelle.net/ <br>
+https://math.supplysolutionsmx.com/ <br>
+https://math.velkat.org/ <br>
+https://science.jrybb.com/ <br>
+https://science.kdense.com/ <br>
+https://science.paulmccune.com/ <br>
+https://science.pyramidish.com/ <br>
 
 #### Ads/popups:
 https://beststudies.hop.sh/ <br>
