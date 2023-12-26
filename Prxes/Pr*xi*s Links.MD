@@ -515,6 +515,20 @@ https://elixir-10.hop.sh/ <br>
 https://elixir-11.hop.sh/ <br>
 https://elixir-12.hop.sh/ <br>
 
+### Red's Exploit Corner:
+https://v6.wiki/ - The other links below rely on this Red link for Apps and Exploits! <br>
+https://55gms.com/   <br>
+https://55gms.de/  <br>
+https://55gms.lol/  <br>
+https://55gms.me/  <br>
+https://55gms.org/  <br>
+https://55gms.pro/  <br>
+https://55gms.us/  <br>
+https://55gms.xyz/  <br>
+https://exploits.pages.dev/ <br> 
+https://mathlearning.top/  <br>
+https://rednotsus.me/  <br>
+
 ### TBG95 (Ultraviolet):
 https://gafiradar.com/ <br>
 https://ny.gafiradar.com/ <br>
