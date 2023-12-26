@@ -1,12 +1,7 @@
 # This list was created by S-PScripts on Github. Please do not steal it and pass it off as your own work.
 
 # To everyone,
-This list will be gone soon. <br>
-I don't to be a narcassist bitch like how I once was. I don't want to be like GhostedZoomer77. <br>
-I already removed many proxies such as Shuttle, Art Class, Interstellar and Deblok because it seems <br>
-like if I add them I'll be blacklisted for life to all of the proxies. I don't really use discord <br>
-for the servers but it's still quite serious. I don't want my name going around for bad. <br>
-If you want your proxies to be removed, please ask me. I'm not like Grobby, I'll remove them permanently. <br>
+If you want your proxies to be removed, please ask me. <br>
 
 ### Interstellar: (opens in about:blank, can be cloaked)
 #### Normal:
@@ -16,9 +11,6 @@ https://v4.wiki <br>
 
 -> they banned .xyz but not .app XD <- <br>
 
-I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
-I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
-I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
 I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
 
 https://i-love-cars.vercel.app/ (a bit old) <br>
@@ -44,12 +36,30 @@ https://studyhard.sprk.lol/ <br>
 https://artclass.site/ (you can add ANYTHING before artclass.site (e.g. https://subscribe.artclass.site/) <br>
 https://artclass.lol/ (you can add ANYTHING before artclass, e.g. https://subscribe.artclass.lol/) <br>
 
-I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
-I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
-I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
-I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+https://mathnotes.icu/ (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.icu/) <br>
+https://mathnotes.help (you can add ANYTHING before mathnotes, e.g. https://subscribe.mathnotes.help/) <br>
 
-https://hahahaha-mocha.vercel.app/  <br>
+https://subscribe.mathlearning.tech/ (add ANYTHING before math) <br>
+https://subscribe.mathhelpnow.site (add ANYTHING before math) <br>
+https://subscribe.sciencesimplified.pro (add ANYTHING before science) <br>
+
+https://ixl.plus/ <br>
+https://purchase-some.hotglue.click/ <br>
+https://sail.msg.boats <br>
+
+https://education.englishpapers.online/ <br>
+https://my.englishpapers.online/ <br>
+https://study.englishpapers.online/ <br>
+https://stufy.englishpapers.online/ <br>
+https://sutausfjsajfas.englishpapers.online/ <br>
+
+https://smellypay.isreally.pro/ <br>
+https://smellyal.isreally.pro/ <br>
+https://math.isreally.pro/ <br>
+
+https://stuffyschicken.isreallycool.lol/ <br>
+
+https://hahahaha-mocha.vercel.app/ <br>
 https://ac-clone.vercel.app/ (my own!) <br>
 
 ### ???: (opens in about:blank)
@@ -59,13 +69,42 @@ https://english.englishpapers.online/ <br>
 
 ### Shuttle: (opens in about:blank, can be cloaked)
 #### No ads/popups:
-https://cheapclass.co/ <br>
+https://cheapclass.co/  <br>
 https://creativeclassroom.co/ <br>
+https://eduhelper.co/ <br>
+https://englishdata.co/ <br>
+https://mathhelper.co/ <br>
+https://sciencemaster.co/ <br>
+https://spanishlearnolgy.co <br>
+https://teachersearcher.co/ <br>
+https://tristanschools.co/ <br>
+https://tutors4cheap.co/ <br>
 
-I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
-I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
-I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
-I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
+https://findmytutor.info/ <br>
+https://learn2invest.info/ <br>
+
+https://science.pyramidish.com/ <br>
+https://search.uwuugle.com/ <br>
+https://tutor.phyorealty.com/ <br>
+https://geometry.hacknperl.com/ <br>
+
+https://www.webapplication.design/ <br>
+
+- So this was a shuttle but it stopped working. I removed www and it worked... but it was a tinf0il! <br>
+- Now this link works again and the tinf0il stops working. WEIRD! <br>
+
+https://codingwizard.org/ <br>
+https://learnsmartly.org/ <br>
+https://literature.tscng.org/ <br>
+https://physicprofession.org/ <br>
+
+https://artmastery.guru/ <br>
+https://exploreshuttle.xyz/ <br>
+https://link.embedding.mov/ <br>
+https://math.smelle.net/ <br>
+
+https://tutors4u.co/ <br>
+https://tutors4u.net/ <br>
 
 #### Ads/popups:
 https://beststudies.hop.sh/ <br>
@@ -919,10 +958,6 @@ https://webtoppings.bar/ <br>
 https://s-deblok.rare1k.space/ <br>
 https://s-deblok.rare1k.dev/ <br>
 I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
-I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
-I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
-I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
-
 
 ### Microsoft Labs (credits to 3kh0/ext-remover):
 https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Microsoft%20Labs <br>
