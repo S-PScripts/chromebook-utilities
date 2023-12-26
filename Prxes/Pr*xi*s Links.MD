@@ -6,10 +6,17 @@ If you want your proxies to be removed, please ask me. <br>
 ### Interstellar: (opens in about:blank, can be cloaked)
 #### Normal:
 https://gointerstellar.app <br>
+-> they banned .xyz but not .app XD <- <br>
+
 https://vercel.wiki <br>
 https://v4.wiki <br>
 
--> they banned .xyz but not .app XD <- <br>
+https://blockthisifurhomophobic.gay/ <br>
+https://eduacation.lol <br>
+https://grandcanyonmuseum.website/ <br>
+https://login.thegalleryofart.info/ <br>
+https://nationalgeographic.wiki/ <br>
+https://roundrockisd.online/  <br>
 
 I CANNOT REVEAL MORE LINKS JOIN THEIR DISCORD SERVER!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>
 
