@@ -9,7 +9,7 @@
 6. Open the email, copy the activation URL and paste it into a new tab.
 7. Click "Registry" on FreeDNS.
 8. Find a domain you want and click it.
-9. Make sure A is selected. For the subdomain, enter anything you want. This will be what's before the domain (subdomain.domain.com). The destination should be [TBA].
+9. Make sure A is selected. For the subdomain, enter anything you want. This will be what's before the domain (subdomain.domain.com). The destination should be 129.213.65.72.
 10. Complete the captcha and save your changes.
 11. Wait a few minutes, then go to the subdomain you created.
 
