@@ -6,3 +6,4 @@
 ### Supporters: https://github.com/S-PScripts/chromebook-utilities/stargazers
 
 ### i'm back (again)!
+### you can fork if you want to just don't say it's all your work thx
