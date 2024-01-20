@@ -1,0 +1,37 @@
+body {
+  font-family: "Noto Sans", "IBM Plex Sans", Verdana, sans-serif;
+}
+
+blockquote {
+  margin: 18px;
+  padding: 18px;
+  background-color: #000064;
+}
+
+.date {
+  font-style: italic;
+  font-size: 120%;
+}
+
+#toc {
+  margin: 8px;
+  padding: 8px;
+  background-color: #000064;
+  width: fit-content
+}
+
+.tocUl {
+  margin-left: 20px;
+  list-style-type: none;
+}
+
+table {
+  border-collapse: collapse;
+  background-color: #000000;
+}
+
+td, th {
+  border: 1px solid #ffffff;
+  text-align: left;
+  padding: 10px;
+}
