@@ -1,5 +1,5 @@
 # TAKEDOWN
-If you believe I have copyright infringed you, please contact me on Github (here). <br>
+If you believe that I have infringed on your copyright, please feel free to contact me here on Github. <br>
 
 How to ask me to take your stuff down: <br>
 1. Log in or create an account if you haven't already. <br>
