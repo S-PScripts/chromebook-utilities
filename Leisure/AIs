@@ -1,10 +1,17 @@
 AIs without logins!
 
-AIs: if they give limits reload
+AIs: If they give query limits, just reload.
 https://you.com/
 https://deepai.org/
 https://www.perplexity.ai/
 
-AI: Actual ChatGPT clones but there is no history :(.
+AIs: These are actual ChatGPT clones but it can't recall any messages. :(
 https://talkai.info
 https://chatgpt.bestim.org/
+
+AI Checkers:
+https://www.zerogpt.com/ [15,000 chars, better at detecting]
+https://writer.com/ai-content-detector/ [1,500 chars]
+
+Quillbot:
+https://quillbot.com/ [removes some plagiarism and ai generated content]
