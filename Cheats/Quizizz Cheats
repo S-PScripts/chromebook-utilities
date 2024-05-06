@@ -1,0 +1,16 @@
+Cheats for Quizizz:
+
+Instructions:
+Join the quizizz and go through the questions. When you are finished, press "Study Flashcards" and run the script.
+Then join the quizizz again or start another attempt. Run the script and you are done! 
+
+Bookmarklet Script:
+javascript:(function(){let l=document.createElement("script");l.src="https://undercovergoose.github.io/quizlet/quizizz/script.js";document.body.appendChild(l);}());void 0
+
+Alternate Script:
+javascript:(function(){let l=document.createElement("script");l.src="https://undercovermoose.github.io/quizizzjs/script.js";document.body.appendChild(l);}());void 0
+
+You can run the above scripts in the console/inspect element. Just remove the javascript: part and the void 0 part at the end.
+
+Credits:
+https://github.com/bob486/quizlet/blob/master/quizizz/README.md
