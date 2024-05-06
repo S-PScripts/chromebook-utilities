@@ -1,0 +1,17 @@
+Making links via Vercel:
+Link: https://vercel.com/new/clone?repositoryurl=`UNBLOCKERURL`
+
+1. Replace the filler with an unblocker repository.
+-> Interstellar: https://github.com/InterstellarNetwork/Interstellar
+-> Snorlax's Cave: https://github.com/Snorlaxs-Cave/Snorlaxs-Cave-v2
+-> Artclass: https://github.com/art-class/v4
+-> Utopia: https://github.com/UtopiaUnblocker/Utopia
+-> Abyss Web: https://github.com/AbyssServices/Abyss-Web
+-> Astroid: https://github.com/VyperGroup/astroidv3
+-> Shuttle: https://github.com/shuttlenetwork/shuttle
+-> Tinf0il: https://github.com/Aluminum-Depot/Tinf0il-new
+-> Shadow Tabbed: https://github.com/xnightless/Shadownetwork
+2. Log in to your vercel account with Github. Sign up if needed with Github (you will have to authorise).
+3. In the "Create Git Repository," enter the repository name that will be linked to your unblocker. It can be anything.
+4. Click "Create".
+5. After a few moments, go to the link that you just created. It should be (repositoryName).vercel.app.
