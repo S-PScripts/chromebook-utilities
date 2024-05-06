@@ -1,0 +1,11 @@
+Cheats for Gimkit:
+
+Bookmarklet:
+javascript:(function(){let l=document.createElement("script");l.src="https://undercovermoose.github.io/gimkitjs/gimkit.js";document.body.appendChild(l);}());void 0
+
+Console:
+function(){let l=document.createElement("script");l.src="https://undercovergoose.github.io/quizlet/gimkit/gimkit.js";document.body.appendChild(l);}();
+
+Credits: 
+Repository: https://github.com/bob486/quizlet/blob/master/gimkit/README.md
+Usage: https://github.com/bob486/quizlet/blob/master/gimkit/README.md#usage
