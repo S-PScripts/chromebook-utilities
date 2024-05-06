@@ -21,7 +21,7 @@ How to make Interstellar v5 links (GitHub Codespaces):
 
 (example: https://jubilant-capybara-px4x6pwvvg6c6w7r-8080.app.github.dev/ - this will NOT work)
 
-Method 2:
+How to make Interstellar links (BYOD):
 
 -> A guide on how to BYOD (Bring Your Own Domain) to Interstellar.
 -> The guide below assumes you’re attempting to link a FreeDNS subdomain to Interstellar.
