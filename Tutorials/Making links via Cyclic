@@ -1,0 +1,22 @@
+Making links via Cyclic:
+
+Preparation:
+Link: https://app.cyclic.sh/api/app/deploy/`repositoryname`
+The repository name filler should be replaced with one of the following of your choice (you can find your own too):
+-> Interstellar: InterstellarNetwork/Interstellar
+-> Snorlax's Cave: Snorlaxs-Cave/Snorlaxs-Cave-v2
+-> Art Class: art-class/v4
+-> Utopia: UtopiaUnblocker/Utopia
+-> Abyss Web: AbyssServices/Abyss-Web
+-> Astroid: VyperGroup/astroidv3
+-> Shuttle: shuttlenetwork/shuttle
+-> Tinf0il: Aluminum-Depot/Tinf0il-new
+-> Doge Unblocker: dogenetwork/v4
+-> Shadow Tabbed: https://github.com/xnightless/Shadownetwork
+
+1. Go to https://app.cyclic.sh/
+2. Login with Github, sign up with github if you don't have an account.
+3. Go to the link you created when preparing.
+4. Follow the instructions on the webpage. If it has the error "Unauthorised," make sure to sign in with github on step 1.
+5. Press "Connect". You will need to confirm it with github.
+6. Continue following the directions, it's pretty straightforward, and the deployed link will be at the bottom once you finish!
