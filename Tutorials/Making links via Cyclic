@@ -1,8 +1,7 @@
 Making links via Cyclic:
+Link: https://app.cyclic.sh/api/app/deploy/REPOSITORYNAME
 
-Preparation:
-Link: https://app.cyclic.sh/api/app/deploy/`repositoryname`
-The repository name filler should be replaced with one of the following of your choice (you can find your own too):
+1. Replace the filler with the unblocker repo name of your choosing. Here's some of the popular ones:
 -> Interstellar: InterstellarNetwork/Interstellar
 -> Snorlax's Cave: Snorlaxs-Cave/Snorlaxs-Cave-v2
 -> Art Class: art-class/v4
@@ -12,11 +11,13 @@ The repository name filler should be replaced with one of the following of your 
 -> Shuttle: shuttlenetwork/shuttle
 -> Tinf0il: Aluminum-Depot/Tinf0il-new
 -> Doge Unblocker: dogenetwork/v4
--> Shadow Tabbed: https://github.com/xnightless/Shadownetwork
+-> Shadow Tabbed: xnightless/Shadownetwork
 
-1. Go to https://app.cyclic.sh/
-2. Login with Github, sign up with github if you don't have an account.
-3. Go to the link you created when preparing.
-4. Follow the instructions on the webpage. If it has the error "Unauthorised," make sure to sign in with github on step 1.
-5. Press "Connect". You will need to confirm it with github.
-6. Continue following the directions, it's pretty straightforward, and the deployed link will be at the bottom once you finish!
+2. Once you've done this, keep it safe for now.
+3. Go to https://app.cyclic.sh/
+4. Login with Github. Sign up with GitHub if you don't have an account.
+5. Go to the link you created in Step 1.
+6. Follow the instructions on the webpage. If it has the error "Unauthorised," make sure that you logged in with Github on step 4.
+7. Press "Connect". You will need to confirm it with GitHub.
+8. Continue following the directions. It's pretty straightforward.
+9. Once you finish, the deployed link will be at the bottom!
