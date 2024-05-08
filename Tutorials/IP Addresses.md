@@ -34,8 +34,8 @@ Rammerhead: <br>
 Phantom Games: <br>
 109.122.46.55 <br>
 
-Selenite:
-5.161.118.69
+Selenite: <br>
+5.161.118.69 <br>
 
-Tinf0il:
-129.213.65.72
+Tinf0il: <br>
+129.213.65.72 <br>
