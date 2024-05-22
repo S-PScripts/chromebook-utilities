@@ -13,4 +13,4 @@ javascript:(function(){let l=document.createElement("script");l.src="https://und
 You can run the above scripts in the console/inspect element. Just remove the javascript: part and the void 0 part at the end.
 
 Credits:
-https://github.com/bob486/quizlet/blob/master/quizizz/README.md
+https://github.com/UndercoverGoose/classroom-cheats
