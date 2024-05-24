@@ -1,0 +1,13 @@
+These are some youtube video links that might be able to unblock restricted videos on your school account:
+
+VIDEOIDHERE should be the youtube video id, a 11 character string unique to every video that's the second half of all youtube links.
+
+Example:
+Here's the two main formats of youtube links...
+https://youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/dQw4w9WgXcQ
+In this case, the video id would be dQw4w9WgXcQ.
+
+Links:
+https://youtube.com/embed/VIDEOIDHERE
+https://www.youtube-nocookie.com/embed/VIDEOIDHERE
