@@ -3,3 +3,4 @@
 ### Check out the website I made for this repo:
 https://s-pscripts.github.io/chromebook-utilities/ <br>
 https://chromebook-utilities.netlify.app/ <br>
+https://chromebook-utilities.vercel.app/ <br>
