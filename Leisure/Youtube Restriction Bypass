@@ -10,6 +10,9 @@ Links:
 https://youtube.com/embed/VIDEOIDHERE
 https://www.youtube-nocookie.com/embed/VIDEOIDHERE
 
+Javascript version:
+javascript:(function () {if (window.location.toString().includes('www.youtube.com/watch?v%27)) { window.open(%27https://www.youtube-nocookie.com/embed/%27 + window.location.toString().split(%27=%27)[1]) }})()
+
 Example:
 https://youtube.com/watch?v=dQw4w9WgXcQ
 https://youtu.be/dQw4w9WgXcQ
