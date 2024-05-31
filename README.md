@@ -4,5 +4,5 @@
 https://s-pscripts.github.io/chromebook-utilities/ <br>
 https://chromebook-utilities.vercel.app/ <br>
 https://chromebook-utilities.netlify.app/ <br>
-https://chromebook-utilities.glitch.me/ <br>
-https://physical-houses-dreamy-airport-production.pipeops.app/ (PAID, EXPIRING NEXT MONTH) <br>
+https://chromebook-utilities.glitch.me/ [doesn't auto update] <br>
+https://physical-houses-dreamy-airport-production.pipeops.app/ [doesn't auto update] [expires soon] <br>
