@@ -1,4 +1,68 @@
 Here are some alternatives for Twitter (X)!
 
 Nitter:
-https://nitter.net/
+https://nitter.net/ 🇳🇱 Let's Encrypt
+
+https://github.com/zedeus/nitter/wiki/Instances - Instances
+https://status.d420.de/ - Instance uptime & health checks
+I've also included the list of instances here:
+
+❌¹ means the instance isn't online.
+❌² means the instance isn't working properly, mostly shows if an instance misses a vital change, e.g. timelines not loading.
+
+URL	Online¹	Working²	Country	Issuer & SSLLabs verification link
+
+https://nitter.poast.org	
+✅	✅	🇺🇸	Let's Encrypt
+
+https://nitter.privacydev.net	
+✅	✅	🇫🇷	Let's Encrypt
+
+https://xcancel.com	
+✅	✅	🇺🇸	Let's Encrypt
+
+https://nitter.kavin.rocks	
+✅	❌	🇮🇳	Let's Encrypt
+
+https://nitter.moomoo.me	
+✅	❌	🇺🇸	Let's Encrypt
+
+https://nitter.tiekoetter.com	
+✅	❌	🇩🇪	Let's Encrypt
+
+https://nitter.bird.froth.zone	
+✅	❌	🇨🇦	Let's Encrypt
+
+https://nitter.kylrth.com
+✅	❌	🇨🇦	Let's Encrypt
+
+https://nitter.qwik.space	
+✅	❌	🇸🇪	Let's Encrypt
+
+https://nitter.rawbit.ninja	
+✅	❌	🇺🇸	Cloudflare
+
+https://bird.habedieeh.re	
+✅	❌	🇨🇦	Let's Encrypt
+
+https://t.com.sb	
+✅	❌	🇪🇪	ZeroSSL
+
+https://nitter.lunar.icu	
+✅	❌	🇩🇪	Cloudflare
+
+https://nitter.io.lol	
+✅	❌	🇺🇸	Let's Encrypt
+
+https://n.populas.no	
+✅	❌	🇳🇴	Let's Encrypt
+
+https://nitter.holo-mix.com
+✅	❌	🇯🇵	Let's Encrypt + Cloudflare
+
+Third-party Nitter services:
+Twiiit - https://twiiit.com/
+Randomly picks a server from the instances list
+
+Farside - https://farside.link/
+Randomly picks a working instance for various frontends
