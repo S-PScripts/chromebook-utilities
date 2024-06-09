@@ -5,36 +5,39 @@ https://piped.video/
 https://piped.kavin.rocks/
 
 Invidious:
-yewtu.be 🇩🇪 - Source code/changes: https://github.com/yewtudotbe/invidious-custom
-vid.puffyan.us 🇺🇸
-yt.artemislena.eu 🇩🇪
-invidious.flokinet.to 🇷🇴
-invidious.privacydev.net 🇫🇷
-iv.melmac.space 🇩🇪
-iv.ggtyler.dev 🇺🇸
-invidious.lunar.icu 🇩🇪 (uses Cloudflare)
-inv.nadeko.net 🇨🇱
-inv.tux.pizza 🇺🇸
-invidious.protokolla.fi 🇩🇪
-iv.nboeck.de 🇩🇪
-invidious.private.coffee 🇦🇹
-yt.drgnz.club 🇨🇿
-iv.datura.network 🇫🇮
-invidious.fdn.fr 🇫🇷
-invidious.perennialte.ch 🇦🇺 (uses Cloudflare)
-yt.cdaut.de 🇩🇪
-invidious.drgns.space 🇺🇸
-inv.us.projectsegfau.lt 🇺🇸
-invidious.einfachzocken.eu 🇩🇪
-invidious.nerdvpn.de 🇺🇦
-invidious.jing.rocks 🇯🇵
-invidious.privacyredirect.com 🇫🇮
-invidious.reallyaweso.me 🇩🇪
-invidious.materialio.us 🇳🇿
-inv.in.projectsegfau.lt 🇮🇳
-invidious.incogniweb.net 🇺🇸
-invidious.darkness.services 🇺🇸
-invidious.yourdevice.ch 🇩🇪
+https://docs.invidious.io/instances/ - INSTANCES
+https://api.invidious.io/ - INSTANCES API
+
+Here's the list here too (I've added some small notes):
+https://inv.in.projectsegfau.lt 🇮🇳 [Project Segfault]
+https://inv.nadeko.net 🇨🇱 [black]
+https://inv.tux.pizza 🇺🇸 [tux.pizza]
+https://inv.us.projectsegfau.lt 🇺🇸 [Project Segfault]
+https://invidious.darkness.services 🇺🇸 [Darkness Services]
+https://invidious.drgns.space 🇺🇸
+https://invidious.einfachzocken.eu 🇩🇪 [einfachzocken]
+https://invidious.fdn.fr 🇫🇷
+https://invidious.flokinet.to 🇷🇴
+https://invidious.incogniweb.net 🇺🇸 [incogniweb.net]
+https://invidious.jing.rocks 🇯🇵
+https://invidious.lunar.icu 🇩🇪 (uses Cloudflare) [Maximilian Stumpf]
+https://invidious.materialio.us 🇳🇿
+https://invidious.perennialte.ch 🇦🇺 (uses Cloudflare) [perennialte.ch]
+https://invidious.privacydev.net 🇫🇷
+https://invidious.privacyredirect.com 🇫🇮 [privacyredirect]
+https://invidious.reallyaweso.me 🇩🇪
+https://invidious.private.coffee 🇦🇹
+https://invidious.protokolla.fi 🇩🇪
+https://invidious.yourdevice.ch 🇩🇪
+https://iv.datura.network 🇫🇮 [Datura Network]
+https://iv.ggtyler.dev 🇺🇸 [Tyler]
+https://iv.melmac.space 🇩🇪 [Gordon and Lucky]
+https://iv.nboeck.de 🇩🇪 [Youtube blocking]
+https://vid.puffyan.us 🇺🇸
+https://yewtu.be 🇩🇪 - Source code/changes: https://github.com/yewtudotbe/invidious-custom
+https://yt.artemislena.eu 🇩🇪 [Registrations closed]
+https://yt.cdaut.de 🇩🇪 [No feed]
+https://yt.drgnz.club 🇨🇿 [DrgnzClub]
 
 Clipzag:
 https://clipzag.com/
