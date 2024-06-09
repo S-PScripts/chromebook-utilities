@@ -1,4 +1,31 @@
 Here are some alternatives for Wikipedia!
 
 Wikiless:
-https://wikiless.org/
+https://wikiless.org/ (BROKEN)
+
+https://github.com/Metastem/wikiless/wiki/Instances - Instances
+
+I've also included the list of instances here:
+
+Clearnet Instances
+Domain - CDN/DDoS Protection - Provider - Country
+
+https://wikiless.tiekoetter.com
+No CDN/DDoS Protection	myVirtualserver	Germany
+
+https://wikiless.funami.tech
+No CDN/DDoS Protection	Oracle Corporation	Korea
+
+https://wiki.adminforge.de/
+https://wiki.adminforge.de/wiki/?lang=en (for English)
+No CDN/DDoS Protection	Hetzner	Germany
+
+https://wiki.owo.si
+No CDN/DDoS Protection	Contabo	Germany
+
+https://w.sneed.network
+Cloudflare	N/A	N/A
+
+https://wiki.nerdvpn.de
+https://wiki.nerdvpn.de/wiki/?lang=en (for English)
+No CDN/DDoS Protection	VSYS.Host	Ukraine
