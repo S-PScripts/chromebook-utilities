@@ -6,6 +6,7 @@
 https://s-pscripts.github.io/chromebook-utilities/ <br>
 
 #### Alternative websites:
+https://chromebook-utilities.pages.dev/ <br>
 https://chromebook-utilities.vercel.app/ <br>
 https://chromebook-utilities.netlify.app/ <br>
 
