@@ -9,7 +9,4 @@ https://s-pscripts.github.io/chromebook-utilities/ <br>
 https://chromebook-utilities.pages.dev/ <br>
 https://chromebook-utilities.vercel.app/ <br>
 https://chromebook-utilities.netlify.app/ <br>
-
-#### Extra websites:
-https://chromebook-utilities.glitch.me/ **[doesn't auto update]** <br>
-https://internal-volcano-dreamy-airport-production.pipeops.app/ **[doesn't auto update, expires soon]** <br>
+https://chromebook-utilities.github.io/ (SHOWS AS DANGEROUS, TYPE "thisisunsafe") <br>
