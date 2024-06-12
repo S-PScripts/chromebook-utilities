@@ -9,4 +9,4 @@ https://s-pscripts.github.io/chromebook-utilities/ <br>
 https://chromebook-utilities.pages.dev/ <br>
 https://chromebook-utilities.vercel.app/ <br>
 https://chromebook-utilities.netlify.app/ <br>
-https://chromebook-utilities.github.io/ (SHOWS AS DANGEROUS, TYPE "thisisunsafe") <br>
+https://chromebook-utilities.github.io/ (manually updated) <br>
