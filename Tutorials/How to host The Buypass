@@ -1,2 +1,59 @@
 By @Quartinal:
 https://github.com/Quartinal/exp-adder/blob/main/Tutorials/How%20to%20host%20The%20Buypass
+
+This tutorial covers everything you need to do (and know) to host your version of The Buypass.
+
+- What you need to know:
+
+  > First, you probably shouldn't host your version of The Buypass on Vercel 
+    (though it is very tempting).
+    To learn more, see https://github.com/bypassiwastaken/buypass/issues/11
+
+  > Potential drawbacks of The Buypass
+
+      *  It only lasts for 3 minutes!
+      *  Pages visited in this window will not be saved to your history, but their cookies will be saved.
+      *  You can right-click on the window to go back and forward.
+      *  There's no good way to make the text in the window larger.
+      *  This won't bypass network filters.
+      *  You can't log into non-school accounts.
+      *  It's completely possible that some filters could read and block the data sent within the window.
+
+- How to host your version:
+
+  > First, I recommend thoroughly reading the section that covers what you need to know.
+
+  > Second, log on to Replit or Netlify.
+    If you don't already have an account, create one.
+
+  > Third, open a new tab and type `view-source:` and then the URL of any fixed exploit.
+    Then, copy the HTML code.
+    To view fixed exploits, see https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/The%20Buypass
+
+  > Fourth, do these steps (please note that you would follow these URLs for your preferred fixed website):
+
+    *  First, you would download https://playful-meringue-fb58bc.netlify.app/favicon.ico
+    *  Second, you would copy the code from https://playful-meringue-fb58bc.netlify.app/style.css
+    *  Third, you would also copy the code from https://playful-meringue-fb58bc.netlify.app/script.js
+    *  Fourth, you would also copy the code from the following files:
+
+       ;  https://playful-meringue-fb58bc.netlify.app/payment-manifest.json
+       ;  https://playful-meringue-fb58bc.netlify.app/pay/pay.json
+       ;  https://playful-meringue-fb58bc.netlify.app/pay/sw.js
+       ;  view-source:https://playful-meringue-fb58bc.netlify.app/pay/navigate.html
+       ;  https://playful-meringue-fb58bc.netlify.app/pay/navigate.js
+
+    *  This would be the directory tree for you:
+
+       --- ./pay
+         > | pay.json
+         > | sw.js
+         > | navigate.html
+         > | navigate.js
+         | ./favicon.ico
+         | ./style.css
+         | ./script.js
+         | ./payment-manifest.json
+
+  > Fifth, create a GitHub repo with the above directory tree inside it (in that directory tree ./ means main root directory)
+    Then, deploy it to Netlify or Replit.
