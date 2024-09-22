@@ -15,4 +15,7 @@
 #### https://chromebook-utilities.netlify.app/ <br>
 #### https://chromebook-exploits.netlify.app/ <br>
 
+#### https://chromebook-utilities-fgyb.onrender.com/ <br>
+#### https://chromebook-exploits.onrender.com/ <br>
+
 #### https://chromebook-utilities.github.io/ (manually updated) <br>
