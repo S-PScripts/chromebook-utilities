@@ -24,5 +24,3 @@ For the most efficient and organized way to communicate about projects, please u
 - **GitHub Profile**: [S-PScripts on GitHub](https://github.com/S-PScripts)  
   *(Stay updated on my latest projects, contributions, and repositories!)*
   
-- **Discord Server**: *(Link your community or invite here if applicable)*  
-  *(Join the community for discussions, updates, and more!)*
