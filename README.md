@@ -45,7 +45,7 @@ Below are some sneak peeks of the **Chromebook Utility Hub** in action:
 For any feedback, contributions, or inquiries, you can reach out to the creators:
 
 - **S-PScripts**: [GitHub Profile](https://github.com/S-PScripts)
-- **Burnout**: [GitHub Profile](https://github.com/Burnout)
+- **Burnout (Bxqrn)**: [GitHub Profile](https://github.com/Bxqrn)
 
 ---
 
@@ -64,7 +64,7 @@ This project wouldn’t have been possible without the amazing open-source commu
 
 - **S-PScripts** – [GitHub Profile](https://github.com/S-PScripts)  
   1,708 commits, 30,779 additions, 23,154 deletions
-- **Bxqrn** – [GitHub Profile](https://github.com/Bxqrn)  
+- **Bxqrn (Burnout)** – [GitHub Profile](https://github.com/Bxqrn)  
   9 commits, 650 additions, 252 deletions
 - **HelloIloveGimkit2** – [GitHub Profile](https://github.com/HelloIloveGimkit2)  
   4 commits, 10 additions, 3 deletions
