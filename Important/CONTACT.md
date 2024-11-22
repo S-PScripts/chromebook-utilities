@@ -1,8 +1,28 @@
-# I recommend using Github Issues.
+## 🌐 **Contact Information**
 
-# EMAIL: 
-ts2021me@gmail.com (main) <br>
-ts2021me@outlook.com (github linked, I don't check this) <br>
+### 📧 **Email**:
+- **Main Contact (Primary)**:  
+  [ts2021me@gmail.com](mailto:ts2021me@gmail.com)  
+  *(This is the best way to reach me for urgent matters or personal communication)*
 
-# DISCORD:
-TS2021 (active on most days) <br>
+- **GitHub-Linked Email**:  
+  [ts2021me@outlook.com](mailto:ts2021me@outlook.com)  
+  *(Please note: I don't check this email regularly, so use the main one for quicker responses)*
+
+### 💬 **Discord**:
+- **Username**: **TS2021**  
+  *(I'm active on Discord most days, feel free to reach out for real-time conversations!)*
+
+---
+
+## 🚀 **Recommended for Project-Related Inquiries**:
+For the most efficient and organized way to communicate about projects, please use **[GitHub Issues](https://github.com/)**. It's the ideal platform for tracking tasks, bugs, and feature requests.
+
+---
+
+#### 🔗 **Follow & Connect**:
+- **GitHub Profile**: [S-PScripts on GitHub](https://github.com/S-PScripts)  
+  *(Stay updated on my latest projects, contributions, and repositories!)*
+  
+- **Discord Server**: *(Link your community or invite here if applicable)*  
+  *(Join the community for discussions, updates, and more!)*
