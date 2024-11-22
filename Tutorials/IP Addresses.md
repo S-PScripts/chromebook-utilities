@@ -1,41 +1,48 @@
-# IP Addresses
-These are the IP addresses for the FREEDNS tutorial. <br>
+# **IP Addresses for FREEDNS Tutorial**
 
-Abyss: <br>
-5.161.43.35 <br>
+Below is the list of IP addresses for various services covered in the FREEDNS tutorial:
 
-Astroid	Games: <br>
-5.161.68.227 <br>
+---
 
-Art Class: <br>
-193.26.115.218 <br>
+### **Abyss**
+- **IP Address**: 5.161.43.35
 
-Shadow: <br>
-104.243.38.18 <br>
+### **Astroid Games**
+- **IP Address**: 5.161.68.227
 
-Kitty Cat: <br>
-66.94.122.218 <br>
+### **Art Class**
+- **IP Address**: 193.26.115.218
 
-Kazwire: <br>
-209.222.97.244 <br>
+### **Shadow**
+- **IP Address**: 104.243.38.18
 
-Plexile Arcade: <br>
-216.24.57.1 <br>
+### **Kitty Cat**
+- **IP Address**: 66.94.122.218
 
-Doge Unblocker: <br>
-38.175.196.242 <br>
+### **Kazwire**
+- **IP Address**: 209.222.97.244
 
-Interstellar: <br>
-5.161.66.1 <br>
+### **Plexile Arcade**
+- **IP Address**: 216.24.57.1
 
-Rammerhead: <br>
-108.181.32.77 <br>
+### **Doge Unblocker**
+- **IP Address**: 38.175.196.242
 
-Phantom Games: <br>
-109.122.46.55 <br>
+### **Interstellar**
+- **IP Address**: 5.161.66.1
 
-Selenite: <br>
-5.161.118.69 <br>
+### **Rammerhead**
+- **IP Address**: 108.181.32.77
 
-Tinf0il: <br>
-129.213.65.72 <br>
+### **Phantom Games**
+- **IP Address**: 109.122.46.55
+
+### **Selenite**
+- **IP Address**: 5.161.118.69
+
+### **Tinf0il**
+- **IP Address**: 129.213.65.72
+
+---
+
+Feel free to refer to these IPs when working through the FREEDNS tutorial. Ensure you are following the instructions accurately to avoid issues with connectivity or configuration.
