@@ -1,28 +1,71 @@
-Original tutorial by @Quartinal: https://github.com/Quartinal/exp-adder/blob/main/Tutorials/How%20to%20host%20The%20Buypass
+# How to Host Your Own Version of **The Buypass**
 
-This tutorial covers everything you need to do (and know) to host your version of The Buypass.
- 
-What you need to know:
--> First, don't host your version of The Buypass on Vercel. It will not work.
--> Potential drawbacks of The Buypass
-   It only lasts for 3 minutes!
-   Pages visited in this window will not be saved to your history, but their cookies will be saved.
-   You can right-click on the window to go back and forward.
-   There's no good way to make the text in the window larger.
-   This won't bypass network filters.
-   You can't log into non-school accounts.
-   It's completely possible that some filters could read and block the data sent within the window.
+**Original Tutorial by [@Quartinal](https://github.com/Quartinal/exp-adder/blob/main/Tutorials/How%20to%20host%20The%20Buypass)**
 
-How to host your version:
-1. Log on to Netlify. If you don't already have an account, create one by logging in with Github.
-2. Go to this repo: https://github.com/S-PScripts/buypass
-3. Fork the repo.
-4. On Netlify, click on the sites section.
-5. Click the blue "Add new site" button.
-6. Click Import an existing project.
-7. On step 1, "Connect to Git provider", click Github. You will need to authorise the Netlify app if you've never used Netlify before.
-8. On step 2, "Select repository", find and select the repo you forked in the list.
-9. On step 3, "Configure site and deploy", scroll down to the bottom and click the blue "Deploy" button.
--> You can set the site name to anything you want (under the Team dropdown, you can put anything in the Site Name box. Once you've done this, check for availability and if it's available you're set!
-10. Wait until Netlify finishes deploying your site. If it doesn't end after a minute, reload and it should show as completed.
-11. You're done! Go to the new link you created. Here's one I made: https://the-buypass.netlify.app/
+This tutorial will walk you through everything you need to know in order to host your own version of **The Buypass**. Whether you're hosting it for personal use or sharing it with others, this guide covers all the steps, as well as important things to keep in mind during the process.
+
+---
+
+## **What You Need to Know Before You Begin**
+
+Before starting, there are some crucial points to keep in mind about **The Buypass**:
+
+### 1. **Don’t Use Vercel**
+- **Vercel** does **not** support The Buypass properly, and attempting to host it there may result in errors. For a smooth and reliable deployment, use **Netlify**.
+
+### 2. **Potential Drawbacks of The Buypass**
+While **The Buypass** can help bypass certain restrictions, it comes with its own limitations:
+- **Session Duration**: It only lasts for **3 minutes** before automatically expiring.
+- **Page History**: The pages you visit during the session won't be saved in your browsing history, though **cookies** will remain active.
+- **No History Navigation**: You can't go back or forward in the history beyond the current session.
+- **Limited Text Resize**: There's no straightforward method to adjust the text size within the window.
+- **No Network Filter Bypass**: The Buypass won’t bypass network-level filters (e.g., firewalls, DNS restrictions).
+- **No Login for Non-School Accounts**: Logging into non-school accounts (like Gmail, etc.) won't work.
+- **Data Blocking Risk**: Some filters could potentially read and block the data sent within the window.
+
+---
+
+## **How to Host Your Version of The Buypass**
+
+Follow these steps to get your very own instance of **The Buypass** up and running.
+
+### Step 1: **Log in to Netlify**
+- First, you'll need to log into **[Netlify](https://www.netlify.com/)**. If you don’t already have an account, create one by logging in using your **GitHub** account.
+
+### Step 2: **Fork the Repository**
+- Visit the following GitHub repository for **The Buypass**:  
+  [S-PScripts/Buypass Repository](https://github.com/S-PScripts/buypass)
+- **Fork** the repository to your GitHub account by clicking the "Fork" button at the top-right corner of the page.
+
+### Step 3: **Navigate to Netlify Dashboard**
+- Once logged in to Netlify, navigate to the **Sites** section of the dashboard.
+
+### Step 4: **Start a New Site**
+- Click the **"Add new site"** button.
+- Select **Import an existing project**.
+
+### Step 5: **Connect to GitHub**
+- In the **Connect to Git provider** section, click on **GitHub**.
+  - If you haven’t authorized Netlify to access your GitHub account before, you’ll be prompted to do so.
+
+### Step 6: **Select the Forked Repository**
+- In the **Select repository** step, find and select the repository you just forked from the list.
+
+### Step 7: **Configure and Deploy**
+- Scroll down and click the **"Deploy"** button.
+- **Configure Site Name**: You can choose a custom site name under the **Team** dropdown. Type your desired site name in the "Site Name" box and check for availability. If the name is available, you're ready to go!
+
+### Step 8: **Wait for Deployment**
+- Wait for Netlify to finish deploying your site. If it doesn’t complete in a minute or so, simply **reload** the page, and it should show as completed.
+
+### Step 9: **Visit Your Site**
+- Once deployed, visit your newly created site link. Here's an example of a working link:  
+  [https://the-buypass.netlify.app/](https://the-buypass.netlify.app/)
+
+You're all set! Enjoy hosting your own version of **The Buypass**.
+
+---
+
+## **Final Notes**
+- **Customization**: After deploying your site, feel free to make any customizations to the project. You can edit the code, tweak the UI, and adjust features to suit your needs.
+- **Sharing**: You can now share the link with others, allowing them to use your instance of **The Buypass**. Just remember that the session expires in 3 minutes!
