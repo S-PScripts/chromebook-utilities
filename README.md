@@ -58,7 +58,22 @@ For any feedback, contributions, or inquiries, you can reach out to the creators
 
 ## 🧑‍💻 Acknowledgements
 
-This project wouldn’t have been possible without the amazing open-source community. Big thanks to all the contributors and creators!
+This project wouldn’t have been possible without the amazing open-source community. Big thanks to all the contributors:
+
+### 🎉 Contributors
+
+- **S-PScripts** – [GitHub Profile](https://github.com/S-PScripts)  
+  1,708 commits, 30,779 additions, 23,154 deletions
+- **Bxqrn** – [GitHub Profile](https://github.com/Bxqrn)  
+  9 commits, 650 additions, 252 deletions
+- **HelloIloveGimkit2** – [GitHub Profile](https://github.com/HelloIloveGimkit2)  
+  4 commits, 10 additions, 3 deletions
+- **joshuajohncohen** – [GitHub Profile](https://github.com/joshuajohncohen)  
+  2 commits, 28 additions, 1 deletion
+- **WatchGamingVideos** – [GitHub Profile](https://github.com/WatchGamingVideos)  
+  1 commit, 2 additions
+- **stpv221** – [GitHub Profile](https://github.com/stpv221)  
+  1 commit, 3 additions
 
 ---
 
