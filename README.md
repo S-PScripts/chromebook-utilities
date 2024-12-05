@@ -15,14 +15,14 @@ Want more details or a live demonstration of everything this repo offers? Explor
 This repo contains a wide array of Chromebook-related utilities, from **exploits** to **tutorials** and much more!
 
 ### 🔧 What’s Inside:
-- **Exploits** – A collection of practical tools for tweaking and customizing your Chromebook experience.
+- **Exploits** – A collection of practical tools for tweaking and customising your Chromebook experience.
 - **Games** – Access fun and engaging games for platforms like Roblox and Minecraft.
 - **Proxy Tutorials** – Learn how to set up proxies for better internet access and privacy.
-- **Credits** – Recognizing the creators behind these tools.
+- **Credits** – Recognising the creators behind these tools.
 
 ---
 
-## 📸 Visualize it!
+## 📸 Visualise it!
 
 Below are some sneak peeks of the **Chromebook Utility Hub** in action:
 
@@ -63,18 +63,12 @@ This project wouldn’t have been possible without the amazing open-source commu
 ### 🎉 Contributors
 
 - **S-PScripts** – [GitHub Profile](https://github.com/S-PScripts)  
-  1,708 commits, 30,779 additions, 23,154 deletions
 - **Bxqrn (Burnout)** – [GitHub Profile](https://github.com/Bxqrn)  
-  9 commits, 650 additions, 252 deletions
 - **HelloIloveGimkit2** – [GitHub Profile](https://github.com/HelloIloveGimkit2)  
-  4 commits, 10 additions, 3 deletions
 - **joshuajohncohen** – [GitHub Profile](https://github.com/joshuajohncohen)  
-  2 commits, 28 additions, 1 deletion
 - **WatchGamingVideos** – [GitHub Profile](https://github.com/WatchGamingVideos)  
-  1 commit, 2 additions
 - **stpv221** – [GitHub Profile](https://github.com/stpv221)  
-  1 commit, 3 additions
-
+- **schoolexploitkid** - [GitHub Profile](https://github.com/schoolexploitkid)
 ---
 
 ### 🖤 Made with Love by:
