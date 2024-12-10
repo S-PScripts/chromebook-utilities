@@ -7,7 +7,7 @@
 
 - **GitHub-Linked Email**:  
   [ts2021me@outlook.com](mailto:ts2021me@outlook.com)  
-  *(Please note: I don't check this email regularly, so use the main one for quicker responses)*
+  *(Please note: I check this email rarely, use the main one)*
 
 ### 💬 **Discord**:
 - **Username**: **TS2021**  
