@@ -1,10 +1,11 @@
 A collection of AIs...
 
 --------------------------------------------------------------------------------------------------------------------------------
-AIs: If they give query limits, just reload.
+AIs: The good ones
+If they give query limits, just reload.
 
 You:
-https://you.com/
+https://you.com/ [my preference]
 
 Perplexity:
 https://www.perplexity.ai/
@@ -14,23 +15,43 @@ https://deepai.org/
 --------------------------------------------------------------------------------------------------------------------------------
 -
 --------------------------------------------------------------------------------------------------------------------------------
-AIs: These are actual ChatGPT clones but it can't recall any messages. :(
+AIs: These are actual ChatGPT clones but they cannot recall any messages.
 https://talkai.info/chat/
 https://ai-chats.org/chat/
 --------------------------------------------------------------------------------------------------------------------------------
 -
 --------------------------------------------------------------------------------------------------------------------------------
+AIs: Sign up to use these
+
+Jenni AI:
+https://jenni.ai/
+
+Writesonic:
+https://writesonic.com/chat/
+--------------------------------------------------------------------------------------------------------------------------------
+-
+--------------------------------------------------------------------------------------------------------------------------------
+AIs: Extension required
+
 GrammarlyGO:
 https://www.grammarly.com/
 1. Download Grammarly at https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen?pli=1
 2. Open/create a Google document.
 3. Click the lightbulb with the plus icon.
+--------------------------------------------------------------------------------------------------------------------------------
+-
+--------------------------------------------------------------------------------------------------------------------------------
+AIs: Common ones
 
 Microsoft Copilot:
 https://copilot.microsoft.com/?showconv=1
 
 Claude:
 https://claude.ai/
+--------------------------------------------------------------------------------------------------------------------------------
+-
+--------------------------------------------------------------------------------------------------------------------------------
+AIs: More obscure ones
 
 Computer.com:
 https://computer.com/ (use its AI Chat Bot)
@@ -42,6 +63,8 @@ https://sdk.vercel.ai/playground
 --------------------------------------------------------------------------------------------------------------------------------
 -
 --------------------------------------------------------------------------------------------------------------------------------
+AIs: Ones that do specific tasks
+
 Tutorly:
 https://tutorly.ai/
 
@@ -50,30 +73,48 @@ https://qrcode-ai.com/
 --------------------------------------------------------------------------------------------------------------------------------
 -
 --------------------------------------------------------------------------------------------------------------------------------
-AI Checkers:
-GPTZero - https://gptzero.me/ [5,000 chars, best at detecting] [login for deep scan]
-ZeroGPT - https://www.zerogpt.com/ [15,000 chars, better at detecting]
-Writer - https://writer.com/ai-content-detector/ [1,500 chars]
+AI Checkers: Check for AI content in text
 
-Copyleaks - https://copyleaks.com/ai-content-detector
-Sapling - https://sapling.ai/ai-content-detector
+GPTZero:
+https://gptzero.me/ [5,000 chars, best at detecting] [login for deep scan to see what content it's detecting]
+
+ZeroGPT:
+https://www.zerogpt.com/ [15,000 chars, better at detecting]
+
+Writer: 
+https://writer.com/ai-content-detector/ [1,500 chars]
+
+Copyleaks:
+https://copyleaks.com/ai-content-detector
+
+Sapling:
+https://sapling.ai/ai-content-detector
 --------------------------------------------------------------------------------------------------------------------------------
 -
 --------------------------------------------------------------------------------------------------------------------------------
+Humanisers: Turn AI content into human-like content
+
 Quillbot:
 https://quillbot.com/ [removes some plagiarism and ai generated content]
-
-CodeGPT:
-https://app.codegpt.co/ [also works as a VS code extension]
 
 Humanize AI: 
 https://humanizeai.pro/ [removes all ai generated content, recommended!]
 --------------------------------------------------------------------------------------------------------------------------------
 -
 --------------------------------------------------------------------------------------------------------------------------------
+Misc: Ones I'm not sure what they do, possibly because I can't access them
+
+CodeGPT:
+https://app.codegpt.co/ [also works as a VS code extension]
+--------------------------------------------------------------------------------------------------------------------------------
+-
+--------------------------------------------------------------------------------------------------------------------------------
 Math solvers:
 
-WolframAlpha:
+Microsoft Maths Solver: RECOMMENDED
+https://mathsolver.microsoft.com/
+
+WolframAlpha: RECOMMENDED
 https://www.wolframalpha.com/
 
 Symbolab:
@@ -96,6 +137,3 @@ https://www.tiger-algebra.com/
 
 QuickMath:
 https://quickmath.com/solve/
-
-Microsoft Maths Solver:
-https://mathsolver.microsoft.com/
