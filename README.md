@@ -1,4 +1,4 @@
-# 📦 Chromebook Utilities Collection - IT'S FREE!
+# 📦 Chromebook Utilities Collection - Operating since 2023
 
 Welcome to the **Chromebook Utilities Collection**! This repo is packed with tools, resources, and guides designed specifically for **Chromebook users**. Whether you're looking for enhanced functionality, custom tools, or just something cool for your device, you've come to the right place!
 
