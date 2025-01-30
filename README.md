@@ -22,14 +22,6 @@ This repo contains a wide array of Chromebook-related utilities, from **exploits
 
 ---
 
-## 📸 Visualise it!
-
-Below are some sneak peeks of the **Chromebook Utility Hub** in action:
-
-![Chromebook Utilities Overview](https://via.placeholder.com/900x500.png?text=Chromebook+Utilities+Collection+Overview)
-
----
-
 ## 🛠️ How To Use
 
 1. **Download the Repo:**
@@ -42,10 +34,9 @@ Below are some sneak peeks of the **Chromebook Utility Hub** in action:
 
 ## 💬 Stay Connected
 
-For any feedback, contributions, or inquiries, you can reach out to the creators:
+For any feedback, contributions, or inquiries, you can reach out to the creator:
 
 - **S-PScripts**: [GitHub Profile](https://github.com/S-PScripts)
-- **Burnout (Bxqrn)**: [GitHub Profile](https://github.com/Bxqrn)
 
 ---
 
