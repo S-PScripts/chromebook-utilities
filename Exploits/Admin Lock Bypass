@@ -1,0 +1,15 @@
+Remove the admin lock on your Chromebook. Hardware-based exploit.
+
+Requirements:
+-> Screwdriver
+
+Instructions:
+1. Turn your Chromebook off.
+2. Unscrew the back cover.
+3. Unplug the power cord connecting the battery & motherboard.
+4. Hold the power button for 30 seconds.
+5. Plug the power cord back in & screw the back cover on.
+
+Credits:
+https://github.com/The-Wagonization/The-Wagon-Site | JackWagon885
+https://the-wagonization.github.io/The-Wagon-Site/
