@@ -56,11 +56,11 @@ This project wouldn’t have been possible without the amazing open-source commu
 - **S-PScripts** – [GitHub Profile](https://github.com/S-PScripts)
 - **schoolexploitkid** - [GitHub Profile](https://github.com/schoolexploitkid)
 - **Bxqrn (Burnout)** – [GitHub Profile](https://github.com/Bxqrn)
+- **charlieis1nsan3** – [GitHub Profile](https://github.com/charlieis1nsan3)
 - **HelloIloveGimkit2** – [GitHub Profile](https://github.com/HelloIloveGimkit2)  
 - **joshuajohncohen** – [GitHub Profile](https://github.com/joshuajohncohen)  
 - **WatchGamingVideos** – [GitHub Profile](https://github.com/WatchGamingVideos)  
 - **stpv221** – [GitHub Profile](https://github.com/stpv221)
-- **charlieis1nsan3** – [GitHub Profile](https://github.com/charlieis1nsan3)  
 ---
 
 ### 🖤 Made with Love by:
