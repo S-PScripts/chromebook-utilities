@@ -1,4 +1,5 @@
 # https://github.com/3kh0/ext-remover/discussions/1532
+Want to see exclusive exploits unavailable here? Click the link above!
 
 # 📦 Chromebook Utilities Collection - Operating since 2023
 
