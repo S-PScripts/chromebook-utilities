@@ -1,0 +1,26 @@
+Omada is a community and small group of people working on hosting free and open-source services on the basis of freedom, privacy and decentralisation. 
+One of these services is Omada DNS, which breaks Lightspeed, Securly, GoGuardian and more from working simply using a network setting. This also breaks chromeOS updates.
+OmadaDNS is an AdGuard Home DNS server running with a blocklist. It has no logs, and it uses Quad9 upstream.
+
+Notes:
+-> If your school has "Managed networks" on, use cauDNS.
+
+Instructions:
+1. Go to your settings.
+2. Click on the wifi name you are using and click it again.
+3. Go to the 'Network' section and click it.
+4. Scroll down until you find the 'Name servers' section.
+5. Change the option to 'Custom Name Servers'.
+6. Set the first field to 66.23.198.252, the second field to 66.94.105.229, the third field to 167.86.91.171, and the fourth to 0.0.0.0
+7. Refresh your network connection by turning your wifi off and on.
+
+Issues:
+-> GoGuardian is patching this soon with a hardcoded list. Common sites like Discord will stay blocked, but you will still be able to use about any proxy link.
+-> Lightspeed keeps a cache for two weeks of blocked websites. Simply use the DNS for more than two weeks.
+-> This does NOT work on filters such as ContentKeeper, iboss, most Cisco configurations, or FortiGuard. They are network level.
+-> If you're already using OmadaDNS, continue to do so, and DO NOT connect to a wifi network without it, unless your extensions may update and be patched.
+-> This commonly breaks locked mode quizzes. To fix them, revert the DNS, reboot your Chromebook, go to chrome://policy and press "refresh policies".
+
+Credits:
+https://omada.cafe/
+Omada

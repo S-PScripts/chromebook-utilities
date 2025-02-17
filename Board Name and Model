@@ -1,0 +1,47 @@
+Here's how to get your board name and your board model.
+
+Method 1:
+1. Go to chrome://version/
+2. Check the Platform section and look at the end. This is your board name. For example, it could be octopus or dedede.
+3. Check the Customization ID section. This is your board model. For example, it could be phaser360 or boten.
+
+Method 2:
+1. Go to chrome://system/
+2. Wait until it finishes loading.
+
+To find your board name, check one of these sections:
+CHROMEOS_RELEASE_BOARD (board name at start)
+CHROMEOS_RELEASE_BUILDER_PATH (board name at start)
+CHROMEOS_RELEASE_DESCRIPTION (board name at end)
+platform_identity_name
+
+To find your board model, check one of these sections:
+HWID (board model at start)
+hardware_class (board model at start)
+platform_identity_model
+
+If chrome://system is blocked, do CTRL + SEARCH + I, enter anything in the description, click Continue, then click the blue System and app info text.
+
+Method 3:
+1. Go to Google Play.
+2. Click on your account in the top right corner.
+3. Click the arrow next to your email.
+4. Click "Manage accounts on this device".
+5. Click the search icon.
+6. Search "device" and scroll all the way down.
+7. There should be something that says "Device configuration for" and then your board name.
+Found by https://github.com/SlitheringLizard1 | SlitheringLizard1
+https://github.com/3kh0/ext-remover/discussions/1494
+
+Method 4:
+1. Open Settings.
+2. Go to the Apps section.
+3. Click on Android Settings.
+4. Scroll to the bottom of the blue cog app that opens.
+5. You should find a section called "About device (your board name)".
+
+Method 5:
+1. Go to chrome://connectors-internals
+2. You should see a line saying    "deviceModel": "your board model",
+3. Input your board model here to find your board name: https://cros.tech/
+Found by https://github.com/Charlieis1nsan3 | HyperNut
