@@ -11,5 +11,6 @@ Classroom.cloud - State Of Mind
 -> COLOUR. When the extension is blue, it is available (teacher can turn it on), orange means that it is out of hours (teacher can't turn it on), green means that DANGER!
 -> All you had to do was pin the dang extension and watch its colour. But surprise... most of the people that play games or watch sport during class are the dummies/half-technologically challenged. 
 -> Maybe I'm being harsh since I'm not technologically challenged but I'm surprised only a few people have figured this out.
+-> update: so the time zone glitch works sorta but you gotta use it before the teacher actually turns it on lol
 
-Feb 4 2025
+Feb 21 2025
