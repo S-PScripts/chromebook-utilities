@@ -2,4 +2,4 @@
 **All exploits in this repo have been moved to the Discord server linked above.**
 
 # Chromebook Utilities Collection
-# I won't maintain this repo anymore
+# I won't maintain this repo anymore (I maintain the Discord server and I've lost interest of this repo)
