@@ -1,0 +1,38 @@
+Sh1mmer - Mercury Workshop
+Website: https://sh1mmer.me/
+GitHub: https://github.com/MercuryWorkshop/sh1mmer
+
+The Fog (Google's response to sh1mmer, and why this might not be working for you):
+-> Downgrading and unenrollment has been patched by Google. 
+-> If your Chromebook has never updated to version 112 before (check in chrome://version), you can ignore this and follow the regular instructions. 
+-> If not, unenrollment will not work as normal. 
+-> If you aren't willing to take apart your Chromebook to unenroll, you can use an affiliated project, E-HALCYON to boot into a deprovisioned environment temporarily.
+
+How to use SH1MMER on v111 → v113 (if you're willing to take the back cover off your Chromebook):
+-> You only need to do this once, and it will let you use SH1MMER even after it's been completely patched.
+
+1. Unplug everything, open the back panel, disconnect the battery to disable WP, plug in the charger
+
+2. Boot into SH1MMER and use "Un-Enroll / Deprovision" (yes it will show an error, but that doesn't matter)
+(you will also need to run "Disable block_devmode" if you're using the old legacy version)
+
+3. Go to the bash shell and run this command: 
+/usr/share/vboot/bin/set_gbb_flags.sh 0x8090
+
+Do not use "Reset GBB Flags" after this.
+
+4. Exit SH1MMER, unplug everything, reconnect the battery, and reconnect the charger.
+
+5. Boot up and press Ctrl+D to enter developer mode.
+
+6. When completed, use Ctrl+ALT+SHIFT+R to powerwash
+
+7. After powerwashing, immediately enter VT2 with Ctrl+Alt+F2 (→), login as "root" and run these commands:
+tpm_manager_client take_ownership
+cryptohome --action=remove_firmware_management_parameters
+
+If it fails, try downgrading to v110 if possible. If you can't, use E-Halycon instead.
+
+8. Press Ctrl+Alt+F1 (←), and use Ctrl+Alt+Shift+R to powerwash again.
+
+NOTE: If you have a dedede board, your WP method is probably different. Look your model up online to find the WP method.

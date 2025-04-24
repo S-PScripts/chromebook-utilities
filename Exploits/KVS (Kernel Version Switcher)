@@ -1,0 +1,23 @@
+KVS (Kernel Version Switcher) - Change to any kernel version (unpatch downgrading)
+
+What is this?
+KVS is a project which will change your tpm_kernver to any version. This works by writing custom values to 0x1008 TPM index.
+
+How do I use this?
+1) Please make sure you are unenrolled / FWMP does not exist.
+2) Download a shim from kxtz' shim mirror [https://dl.darkn.bio/KVS]
+3) Flash your shim using a tool of your choice. Chrome Recovery Utility is preferred.
+
+KVS Website:
+https://kvs.kxtz.dev/
+
+GitHub (has instructions to compile a KVS shim):
+https://git.kxtz.dev/KVS
+https://github.com/kxtzownsu/KVS
+
+Credits:
+kxtzownsu - Writing KVS, Providing kernver 0 & kernver 1 files.
+planetearth1363 - Providing kernver 2 files
+miimaker - Providing kernver 3 files
+OlyB - Helping kxtzownsu with the shim builder, most of the shim builder wouldn't exist without him.
+Google - Writing the tpmc command

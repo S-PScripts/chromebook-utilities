@@ -1,0 +1,155 @@
+Information in this file are all from https://github.com/BinBashBanana/badrecovery!
+
+BadRecovery:
+-> BadRecovery (formerly OlyBmmer) is an exploit for ChromeOS devices, leveraging a vulnerability in recovery images to get arbitrary code execution or to chain to other exploits.
+-> BadRecovery unenrolls ALL devices that are EOL before 2024, and can unenroll current supported devices on kernel version 3 or lower.
+-> The exploit and writeup were released to the public on October 5th, 2024.
+-> You can read the writeup here: https://github.com/BinBashBanana/badrecovery/blob/master/writeup.md
+
+How to use:
+You will need:
+-> A USB drive or SD card (8 GB or larger)
+-> Something to flash the image (dd, rufus, chromebook recovery utility, etc.)
+-> A ChromeOS device that has not received the patch (see patch)
+
+Preparing an image:
+You can build an image or you can use a prebuilt image.
+
+Using a prebuilt:
+-> Go to [https://dl.darkn.bio/BadRecovery]
+-> Find your board
+-> Download the image
+-> Go to the section below for flashing the image
+
+Building an image:
+-> First, you must download an official recovery image for your device. 
+-> You can download them from ChromiumDash [https://chromiumdash.appspot.com/serving-builds?deviceCategory=Chrome%20OS] or Chrome100 [https://chrome100.dev/]
+-> See modes of operation for which version you'll need, usually r124 or older.
+-> Be sure you've downloaded the correct image for your device.
+
+-> Make sure to unzip the recovery image before proceeding to the next step!
+
+-> Next, you must modify the recovery image using the script included in the repository. 
+-> You can use the web version [https://binbashbanana.github.io/badrecovery/builder.html] of the builder, though it is a fair bit slower.
+
+-> To get the script, run these commands on a linux machine:
+git clone https://github.com/BinBashBanana/badrecovery
+cd badrecovery
+
+-> To modify a recovery image using the script, run
+sudo ./build_badrecovery.sh -i <image.bin>
+(Replace <image.bin> with the path to your recovery image bin.)
+
+-> The script may prompt you to install required dependencies.
+-> You can specify the mode using the --type argument (-t for short). 
+-> If left unspecified, the script will automatically determine the best option based on the version and features of the recovery image.
+
+Example:
+sudo ./build_badrecovery.sh -i image.bin -t postinst
+-> The script would fail if it detected that the supplied recovery image does not meet the requirements for postinst mode (see table below).
+
+-> The recovery image is now modified, and is ready to be flashed to a USB drive or SD card.
+
+Flashing the image:
+-> You can use many tools for this, e.g. balena etcher, dd, etc. but the choice you will probably want to use is Chromebook Recovery Utility
+-> Steps for using CRU:
+1. Install Chromebook Recovery Utility onto your personal computer. 
+(https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm)
+2. Open the extension, click on the settings button in the top right-hand corner, and click "Use local image".
+3. Select the recovery image you downloaded from chrome100.
+4. Plug in the USB you wish to use, and follow the prompts on the screen.
+5. On your Chromebook, press Esc+Reload+Power and follow the prompts.
+6. On the checking for updates screen, press Ctrl+Shift+E to skip it.
+
+Running on ChromeOS device:
+1. First, enter recovery mode. See this article [https://support.google.com/chromebook/answer/1080595#enter] for instructions to enter Recovery.
+2. If you are not using the unverified payload, skip to step 5. The unverified payload will not work on devices that disallow developer mode (most school devices).
+3. ONLY if you are using the unverified payload, you will have to enter Developer Mode by pressing Ctrl+D on the recovery screen.
+4. If you are using unverified payload, DO NOT follow the prompts to re-enable verified mode. Instead, press Ctrl+D to get around these screens.
+5. If you are not using unverified, you are already in recovery. Otherwise, re-enter recovery.
+6. On the "Connect a recovery device" screen, plug in your BadRecovery drive.
+7. Profit?
+
+Important:
+-> On the unverified payload, you must also enter developer mode, and then enter recovery mode again for BadRecovery to work.
+-> On Cr50 devices (most devices manufactured in 2018 or later), you must NOT be in developer mode for unenrollment to work. Ensure you are in verified mode recovery.
+-> In any other case, you can use either verified or developer mode recovery.
+
+-> Plug in the prepared USB drive or SD card. On the unverified payload, BadRecovery will start in only a few seconds if you've done everything correctly.
+
+-> On any other payload, the system will recover first. This may take a while depending on the speed of your drive.
+-> On postinst and postinst_sym payloads, BadRecovery will start partway through the recovery process.
+
+Note:
+-> If using postinst_sym and BadRecovery does not start, the path to the internal drive is incorrect.
+
+-> On basic or persist payloads, reboot into verified mode after recovery completes.
+-> Optionally, you can look at VT3 and reboot early to skip postinst and save some time.
+
+-> On the persist payload, BadRecovery will start within a few seconds of ChromeOS booting.
+-> On basic, you must proceed through setup and the device will unenroll using cryptosmite [https://github.com/FWSmasher/CryptoSmite]
+
+-> When BadRecovery finishes, you will usually be able to skip the 5 minute developer mode delay by immediately switching back into recovery mode to get to developer mode. (This is not required.)
+
+Modes of operation:
+
+Mode	Requirements	Description
+postinst	
+86 ≤ version ≤ 124 AND disk layout v1 or v2	
+ROOT-A (usb) overflows into ROOT-A (internal). Not supported on disk layout v3 (devices with minios). Replaces postinst with a custom payload and grants code execution in recovery.
+
+postinst_sym	
+34 ≤ version ≤ 124 AND (kernel ≥ 4.4 OR year < 2038)	
+ROOT-A (usb) overflows into STATE (internal). Stateful installer copies payload (usb) to a symlink in STATE (internal) which points to ROOT-A (internal). Replaces postinst with a custom payload and grants code execution in recovery.
+Caveat: internal disk device path must be known.
+
+persist	
+26 ≤ version ≤ 89 (untested below 68)	
+ROOT-A (usb) overflows into STATE (internal). Encrypted data persisted through cryptosmite, code execution given in ChromeOS through crx-import.
+
+basic	
+26 ≤ version ≤ 119 (untested below 68)	
+ROOT-A (usb) overflows into STATE (internal). Standard cryptosmite unenrollment payload.
+
+unverified	
+version ≤ 41 / version ≤ 47 (WP off) / any version (developer mode NOT blocked)	
+Unverified ROOT-A, developer mode only! Use this for very old devices or for testing. This is an intended feature, not a bug.
+
+-> All images will be larger than 2 and smaller than 8 GB, except unverified, which is almost always less than 1 GB.
+
+Note:
+For persist and basic, on version 86 and above (when postinst is available), built images are large (8.5 GB) for the legacy/v1 disk layout and even larger (17 GB) for disk layout v2. 
+postinst should always be preferred anyway. If you choose to use either of these modes anyway, some different steps must be taken while installing the recovery image.
+
+Patch:
+-> R125 recovery images and newer are not vulnerable to this (except unverified). 
+-> To determine if you can use this, follow these in order:
+
+-> Was your device EOL before 2024? → YES
+-> Are you on ChromeOS version 124 or lower? → YES
+-> Was your device released after mid-2024? → NO
+-> Does your device show 03 or lower as the last digits of the kernver (kernel version) on the recovery screen (press TAB, look at the line that starts with "TPM")? → YES
+-> Higher than 03? → NO
+
+Credits:
+-> OlyB/BinBashBanana - most of the work here
+-> Writable - cryptosmite [https://github.com/FWSmasher/CryptoSmite] vulnerability
+-> Rory McNamara - encrypted_import vulnerability
+-> Bomberfish - the name BadRecovery
+
+-> joshuajohncohen (Helped me with this file)
+
+Testers:
+Big thanks to the testers:
+-> Juliet (celes)
+-> M_Wsecond (lars)
+-> Kelpsea Stem (peppy, nissa)
+-> Kxtz (relm)
+-> Desvert (peach-pi)
+-> WeirdTreeThing (trogdor)
+-> cmxci (gnawty)
+
+Dedications:
+-> Percury Mercshop
+-> Blake Nelsen (kinda)
+-> Rory McNamara
