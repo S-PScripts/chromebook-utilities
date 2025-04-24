@@ -1,0 +1,200 @@
+<!-- This is a tool to edit managed network configurations to block updates and change the DNS and proxy settings, even if it's greyed out in the settings. -->
+<!-- DOWNLOAD THIS HTML FILE -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>caubdns</title>
+	<style>
+		/* Overall page styling */
+		body {
+			background: linear-gradient(to bottom, #141E30, #243B55);
+			color: #E5E5E5;
+			font-family: 'Poppins', sans-serif;
+			font-size: 18px;
+			margin: 0;
+			padding: 0;
+			overflow-y: auto; /* Allow scrolling */
+		}
+
+		/* Container styling */
+		.container {
+			background: rgba(30, 40, 60, 0.95);
+			box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+			border-radius: 12px;
+			max-width: 800px;
+			padding: 30px;
+			margin: 50px auto;
+			width: 90%;
+		}
+
+		/* Title styling */
+		h1 {
+			text-align: center;
+			font-size: 36px;
+			color: #FFA726;
+			text-transform: uppercase;
+			margin-bottom: 20px;
+			letter-spacing: 1.5px;
+			text-shadow: 0 4px 10px rgba(255, 167, 38, 0.8);
+		}
+
+		/* Input fields styling */
+		input[type="text"], input[type="number"] {
+			width: 100%;
+			padding: 10px;
+			margin: 10px 0;
+			border-radius: 8px;
+			border: 1px solid #555;
+			background: #222;
+			color: #FFF;
+			font-size: 16px;
+			box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+			transition: all 0.3s ease;
+		}
+
+		input[type="text"]:focus, input[type="number"]:focus {
+			border-color: #FFA726;
+			box-shadow: 0 0 10px #FFA726;
+			outline: none;
+		}
+
+		/* Checkbox styling */
+		input[type="checkbox"] {
+			margin-right: 10px;
+			transform: scale(1.2);
+			cursor: pointer;
+			accent-color: #FFA726;
+		}
+
+		label {
+			display: block;
+			margin-top: 20px;
+			font-size: 16px;
+			color: #FFA726;
+			text-transform: uppercase;
+			font-weight: bold;
+		}
+
+		/* Buttons */
+		button {
+			display: inline-block;
+			padding: 12px 20px;
+			background: linear-gradient(145deg, #FF8C00, #FFA726);
+			border: none;
+			border-radius: 8px;
+			color: #FFF;
+			font-size: 16px;
+			font-weight: bold;
+			cursor: pointer;
+			transition: all 0.3s ease;
+			box-shadow: 0 6px 12px rgba(255, 167, 38, 0.6);
+			margin: 10px 5px 0;
+		}
+
+		button:hover {
+			transform: scale(1.05);
+			box-shadow: 0 10px 20px rgba(255, 167, 38, 0.8);
+		}
+
+		/* Instruction section styling */
+		.list {
+			background: #1F2E40;
+			padding: 20px;
+			border-radius: 8px;
+			margin-top: 20px;
+			box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+		}
+
+		.list h2 {
+			color: #FFA726;
+			font-size: 18px;
+			margin-bottom: 10px;
+		}
+
+		.list ol {
+			margin: 10px 0;
+			padding-left: 20px;
+			color: #E5E5E5;
+		}
+
+		code {
+			background: #222;
+			padding: 5px 8px;
+			border-radius: 4px;
+			color: #FFA726;
+			font-family: monospace;
+		}
+
+		footer {
+			text-align: center;
+			color: #888;
+			font-size: 14px;
+			margin: 20px 0;
+		}
+
+		a {
+			color: #FFA726;
+			text-decoration: none;
+		}
+
+		a:hover {
+			text-decoration: underline;
+		}
+
+	</style>
+</head>
+<body>
+	<div class="container">
+		<h1>caubdns editor</h1>
+		<input id="meteredToggle" type="checkbox" checked>
+		<label for="meteredToggle">Enable metered (update blocker)</label>
+		<input id="dnsEnabled" type="checkbox">
+		<label for="dnsEnabled">Edit DNS</label>
+		<input type="text" id="dns1" placeholder="Primary DNS IP..." />
+		<input type="text" id="dns2" placeholder="Secondary DNS IP..." />
+		<input type="text" id="dns3" placeholder="Tertiary DNS IP..." />
+		<input type="text" id="dns4" placeholder="Quaternary DNS IP..." />
+
+		<input id="proxyEnabled" type="checkbox">
+		<label for="proxyEnabled">Edit proxy</label>
+		<label>FTP Proxy</label>
+		<input type="text" id="ftpProxy" placeholder="socks4://localhost" />
+		<input type="number" id="ftpProxyPort" value="1080" />
+		<label>HTTP Proxy</label>
+		<input type="text" id="httpProxy" placeholder="socks4://localhost" />
+		<input type="number" id="httpProxyPort" value="1080" />
+		<label>Secure HTTPS Proxy</label>
+		<input type="text" id="secureHttpProxy" placeholder="socks4://localhost" />
+		<input type="number" id="secureHttpProxyPort" value="1080" />
+		<label>Socks Host</label>
+		<input type="text" id="socks" placeholder="localhost" />
+		<input type="number" id="socksProxyPort" value="1080" />
+		<label>Domains to Exclude (JSON Array)</label>
+		<input type="text" value="[]" id="excludeDomains" />
+		<code>["*.com", "google.com"]</code>
+
+		<div class="list">
+			<h2>Instructions</h2>
+			<ol>
+				<li>Edit the settings above.</li>
+				<li>Go to <code>chrome://network#state</code>.</li>
+				<li>Scroll to "Favourite Networks".</li>
+				<li>Find your WiFi network and click "+" next to its name.</li>
+				<li>Copy the network data and paste it below.</li>
+			</ol>
+		</div>
+		<input class="inputData" placeholder="Paste network data here" />
+		<div id="extraInputs"></div>
+		<button onclick="addInput()">+</button>
+		<button onclick="removeInput()">-</button>
+		<button onclick="gen()">Generate and Download File</button>
+
+		<footer>
+			Made with ❤️ by <a href="#">Burnout</a>.
+		</footer>
+	</div>
+</body>
+</html>
