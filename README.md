@@ -5,7 +5,6 @@
 
 ## Important Update 2:
 - Please join the Discord server linked here: https://github.com/3kh0/ext-remover/discussions/1532
-- All exploits in this repo have been moved to the Discord server linked above.
-- I maintain the Discord server and I've lost interest of this repo.
+- Just join Titanium Network
 
 ### Created by S-PScripts
