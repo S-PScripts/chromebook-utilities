@@ -1,7 +1,8 @@
-# Chromebook Utilities Collection (ARCHIVED)
+# Chromebook Utilities Collection (ARCHIVED, sort of)
 
 ## Important Update:
-- I won't be maintaining this repository anymore. Just go to https://github.com/wea-f/ByePassHub if you want something updated
+- I won't be maintaining this repository anymore as much
+- https://github.com/wea-f/ByePassHub if you want more gxmes or prxes.
 
 ## Important Update 2:
 - Please join the Discord server linked here: https://github.com/3kh0/ext-remover/discussions/1532
