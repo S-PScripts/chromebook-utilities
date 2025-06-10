@@ -1,65 +1,57 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chromebook Utility Hub</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="images/cloak.png">
-    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js" defer></script>
-    <script src="particles.js" defer></script>
+  <meta charset="UTF-8">
+  <title>Chromeboook Utilities</title>
+  <style>
+    body { font-family: sans-serif; }
+    ul { list-style-type: none; padding-left: 20px; }
+    a { text-decoration: none; color: #0366d6; }
+  </style>
 </head>
 <body>
-    <!-- Particle Background -->
-    <div id="particles-js"></div>
+  <h1>📁 Chromebook Utilities</h1>
+  <h3>This repo was created by S-PScripts! Check out the source <a href="https://github.com/S-PScripts/chromebook-utilities">here</a> or download the <a href = "https://github.com/S-PScripts/chromebook-utilities/archive/refs/heads/main.zip">repo.</a> </h3>
+  <div id="file-tree">Loading...</div>
 
-    <!-- Main Content Wrapper -->
-    <div class="content-wrapper">
-        <!-- Header Section -->
-        <header>
-            <h1>Chromebook Utility Hub</h1>
-            <h2>Your Ultimate Resource Collection</h2>
-        </header>
+  <script>
+    const user = "S-PScripts";
+    const repo = "chromebook-utilities";
+    const branch = "main";
+    const apiBase = `https://api.github.com/repos/${user}/${repo}/contents/`;
 
-        <!-- Resource Section -->
-        <section class="resources">
-            <h3>Explore</h3>
-            <ul>
-                <li>
-                    <a href="exploits.html" class="link">Tons of Exploits</a>
-                </li>
-                <li>
-                    <a href="games.html" class="link">Games (Roblox, Minecraft)</a>
-                </li>
-                <li>
-                    <a href="tutorials.html" class="link">Proxy Tutorials</a>
-                </li>
-                <li>
-                    <a href="credits.html" class="link">Credits</a>
-                </li>
-            </ul>
-        </section>
+    async function fetchTree(path = "") {
+      const url = apiBase + path;
+      const response = await fetch(url);
+      if (!response.ok) {
+        return `<li>Error loading ${path}</li>`;
+      }
+      const items = await response.json();
 
-        <!-- Buttons Section -->
-        <div class="buttons">
-            <a href="https://github.com/S-PScripts/chromebook-utilities/archive/refs/heads/main.zip" class="button">
-                Download Repo
-            </a>
-            <a href="https://github.com/S-PScripts/chromebook-utilities" class="button">
-                View Source Code
-            </a>
-        </div>
-    </div>
+      if (!Array.isArray(items)) return "";
 
-    <!-- Footer Section -->
-    <footer>
-        <p>
-            Made with ❤️ by 
-            <a href="https://github.com/S-PScripts" target="_blank" rel="noopener noreferrer" class="homepage-link">
-                S-PScripts
-            </a> and 
-            <a href="https://github.com/Bxqrn" target="_blank" rel="noopener noreferrer" class="homepage-link">
-                Burnout
-            </a>
-        </p>
-    </footer>
+      const ul = document.createElement("ul");
+      for (const item of items) {
+        const li = document.createElement("li");
+
+        if (item.type === "dir") {
+          li.innerHTML = `<strong>📁 ${item.name}</strong>`;
+          const subTree = await fetchTree(item.path);
+          li.appendChild(subTree);
+        } else if (item.type === "file") {
+          const rawURL = `https://raw.githubusercontent.com/${user}/${repo}/${branch}/${item.path}`;
+          li.innerHTML = `<a href="${rawURL}" target="_blank">📄 ${item.name}</a>`;
+        }
+        ul.appendChild(li);
+      }
+      return ul;
+    }
+
+    fetchTree().then(tree => {
+      const container = document.getElementById("file-tree");
+      container.innerHTML = "";
+      container.appendChild(tree);
+    });
+  </script>
+</body>
+</html>
