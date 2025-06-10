@@ -15,3 +15,5 @@
 #### https://chromebook-exploits.onrender.com/ <br>
 
 #### https://chromebook-utilities.github.io/ (manually updated) <br>
+
+# I've now updated the website so they are more usable!
