@@ -2,21 +2,21 @@
 All the links for Chromebook Utilities.
 
 ## Main website:
-### https://reals-p.site/chromebook-utilities/ <br>
+### https://reals-p.site/chromebook-utilities/ 
 
 ## Alternative websites:
-### https://chromebook-utilities.pages.dev/ <br>
-### https://chromebook-exploits.pages.dev/ <br>
+- https://chromebook-utilities.pages.dev/ 
+- https://chromebook-exploits.pages.dev/ 
 
-### https://chromebook-utilities.vercel.app/ <br>
-### https://chromebook-exploits.vercel.app/ <br>
+- https://chromebook-utilities.vercel.app/ 
+- https://chromebook-exploits.vercel.app/ 
 
-### https://chromebook-utilities.netlify.app/ <br>
-### https://chromebook-exploits.netlify.app/ <br>
+- https://chromebook-utilities.netlify.app/ 
+- https://chromebook-exploits.netlify.app/ 
 
-### https://chromebook-utilities-fgyb.onrender.com/ <br>
-### https://chromebook-exploits.onrender.com/ <br>
+- https://chromebook-utilities-fgyb.onrender.com/ 
+- https://chromebook-exploits.onrender.com/ 
 
-### https://chromebook-utilities.github.io/ (manually updated) <br>
+- https://chromebook-utilities.github.io/ (manually updated) 
 
 # I've now updated the website so they are more usable!
