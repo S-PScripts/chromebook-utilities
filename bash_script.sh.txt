@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Find all regular files except those in .git and with excluded extensions
+find . -type f -not -path './.git/*' -not -name '*.png' -not -name '*.html' -not -name '*.js' -not -name '*.css' -not -name '*.md' | while read -r f; do
+    # Skip if the file already ends with .txt
+    if [[ "$f" != *.txt ]]; then
+        mv -- "$f" "$f.txt"
+    fi
+done
