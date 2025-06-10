@@ -19,4 +19,4 @@ All the links for Chromebook Utilities.
 
 - https://chromebook-utilities.github.io/ (manually updated) 
 
-# I've now updated the website so they are more usable!
+# fixing soon
