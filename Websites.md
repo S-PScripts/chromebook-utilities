@@ -1,10 +1,6 @@
 # Websites
 All the links for Chromebook Utilities.
 
-## Main website:
-### https://reals-p.site/chromebook-utilities/ [working]
-
-## Alternative websites:
 - https://chromebook-utilities.netlify.app/
 - https://chromebook-exploits.netlify.app/
 
