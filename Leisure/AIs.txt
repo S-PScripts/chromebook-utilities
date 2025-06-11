@@ -10,6 +10,9 @@ https://www.perplexity.ai/ [my preference]
 You: Sign up for the full experience
 https://you.com/
 
+Grok:
+https://grok.com
+
 DeepAI: (This one is now banned for me...)
 https://deepai.org/
 ------------------------------------------------------------------------------------------------------------------------------------------------------
