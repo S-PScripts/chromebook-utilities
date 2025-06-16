@@ -1,0 +1,4 @@
+Rather than copying and pasting each proxy URL to see if they work or not, use one of the multi URL openers listed:
+https://www.openallurls.com/
+https://www.openmultipleurl.com/
+https://www.websiteplanet.com/webtools/multiple-url/
