@@ -1,7 +1,7 @@
 # Chromebook Utilities Collection
 
 ## Important Update:
-- I'll probably be making some updates here again, but it won't be too often.
+- I will not be updating this repo anymore (or very infrequently, at least).
 - Go to https://github.com/wea-f/ByePassHub if you want more gxmes or prxes.
 - Join Titanium Network (.gg/unblock)!
 
