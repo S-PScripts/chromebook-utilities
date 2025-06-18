@@ -7,7 +7,7 @@ If they give query limits, just reload.
 Perplexity: Sign up for the full experience
 https://www.perplexity.ai/ [my preference]
 
-You: Sign up for the full experience
+You: Sign up (practically impossible to get around the pop-up)
 https://you.com/
 
 Grok:
@@ -65,7 +65,7 @@ https://gemini.google.com/
 HuggingFace: Make an account.
 https://huggingface.co/chat/
 
-DeepSeek: (My school is slow)
+DeepSeek:
 https://www.deepseek.com/
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 -                                                                                                                                                    -
