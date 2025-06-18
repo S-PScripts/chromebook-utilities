@@ -1,20 +1,10 @@
 A collection of AIs...
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-AIs: The unbanned ones for me
-If they give query limits, just reload.
+AIs:
 
 Perplexity: Sign up for the full experience
 https://www.perplexity.ai/ [my preference]
-
-You: Sign up (practically impossible to get around the pop-up)
-https://you.com/
-
-Grok:
-https://grok.com
-
-DeepAI: (This one is now banned for me...)
-https://deepai.org/
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 -                                                                                                                                                    -
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -62,11 +52,24 @@ https://claude.ai/
 Gemini: You will probably need to use a personal Google Account as you will probably have this pop-up -> "Gemini isn't supported for this account"
 https://gemini.google.com/
 
+DeepSeek:
+https://www.deepseek.com/
+
+DeepAI:
+https://deepai.org/
+------------------------------------------------------------------------------------------------------------------------------------------------------
+-                                                                                                                                                    -
+------------------------------------------------------------------------------------------------------------------------------------------------------
+AIs: Ones that may be work:
+
+You: Sign up (practically impossible to get around the pop-up)
+https://you.com/
+
 HuggingFace: Make an account.
 https://huggingface.co/chat/
 
-DeepSeek:
-https://www.deepseek.com/
+Grok:
+https://grok.com
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 -                                                                                                                                                    -
 ------------------------------------------------------------------------------------------------------------------------------------------------------
