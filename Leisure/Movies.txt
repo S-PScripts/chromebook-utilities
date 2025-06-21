@@ -1,10 +1,14 @@
-Watch movies at your school on your school chromebook?! Or just at home (unless you've a madlad).
+Watch movies at your school on your school chromebook?! Or just at home (unless you're a madlad).
 
 MovieWeb: MOVIEWEB IS DISCONTINUED
+https://movie-web-cy.vercel.app/
 https://movie-web-meta-refactor.vercel.app/ - OLD
 
 movies.cf:
 https://pirate-media.vercel.app/
+
+P-Stream:
+https://pstream.org/
 
 Movie Services using Google Slides
 Netflix: https://docs.google.com/presentation/d/149GpUX0v2xNpwbUTv0Ra1bXSBJ8VImN3yQXMYA9ZhKA/edit
