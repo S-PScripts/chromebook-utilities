@@ -62,13 +62,13 @@ https://deepai.org/
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 AIs: Ones that may be work:
 
-You: Sign up (practically impossible to get around the pop-up)
+You: Sign up
 https://you.com/
 
 HuggingFace: Make an account.
 https://huggingface.co/chat/
 
-Grok:
+Grok: Sign up
 https://grok.com
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 -                                                                                                                                                    -
