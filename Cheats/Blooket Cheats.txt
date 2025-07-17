@@ -1,5 +1,5 @@
 Website:
-https://blooketbot.glitch.me/
+https://blooket-bot.vercel.app/
 
 Blooket Cheats:
 https://github.com/Blooket-Council/Blooket-Cheats
