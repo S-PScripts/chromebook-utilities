@@ -1,5 +1,9 @@
 # Chromebook Utilities Collection
 
+## Disclaimer
+This project is provided "as is" without any warranty of any kind, express or implied. The creator assumes no responsibility or liability for any misuse, damage, or issues that may arise from its use. 
+By accessing or using this repository, you acknowledge that you are solely responsible for your actions and any consequences that follow. Use of this material is entirely at your own risk.
+
 ## Important Update:
 - I will not be updating this repo anymore / I will be updating it very infrequently.
 - Go to https://github.com/wea-f/ByePassHub if you want more gxmes or prxes.
