@@ -1,5 +1,5 @@
-These are some youtube video links that might be able to unblock restricted videos on your school account:
-This will not work when trying to open age restricted videos, google patched them all :(
+These are some YouTube video links that might be able to unblock restricted videos on your school account:
+This will not work when trying to open age-restricted videos, Google patched them all :(
 VIDEOIDHERE should be the youtube video id, a 11 character string unique to every video that's the second half of all youtube links.
 
 Here's the two formats of youtube links...
@@ -14,19 +14,20 @@ Javascript version:
 javascript:(function () {if (window.location.toString().includes('www.youtube.com/watch?v%27)) { window.open(%27https://www.youtube-nocookie.com/embed/%27 + window.location.toString().split(%27=%27)[1]) }})()
 
 Another method:
-so like if ur school blocked a certain video, u can use this to unblock
-Find the link of the blocked video
-Paste it into google docs
-Click spacebar after, it shud turn into a link
-Click the link
-An image should pop up below the actual hyperlink, click the image
-A pop-up should be visible at the right side of the screen, and you can watch the video
+If your school blocked a certain video, you can use this to unblock:
+- Find the link of the blocked video.
+- Paste it into Google Docs.
+- Click Space after, and it should turn into a link.
+- Click the link.
+- An image should pop up below the actual hyperlink; click the image.
+- A pop-up should be visible on the right side of the screen, and you can watch the video.
+
 DON'T WATCH INAPPROPRIATE VIDEOS WITH THIS, I'M NOT RESPONSIBLE FOR IT!!!
 
 Example:
 https://youtube.com/watch?v=dQw4w9WgXcQ
 https://youtu.be/dQw4w9WgXcQ
-In this case, the video id would be dQw4w9WgXcQ.
+In this case, the video ID would be dQw4w9WgXcQ.
 
 You can also use Norepted to make this bypass easier! Credits to https://github.com/wea-f/ for making this site.
 https://wea-f.github.io/Norepted/
