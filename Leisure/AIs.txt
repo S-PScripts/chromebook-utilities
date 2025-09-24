@@ -68,6 +68,8 @@ https://you.com/
 HuggingFace: Make an account.
 https://huggingface.co/chat/
 
+https://librechat-librechat.hf.space/
+
 Grok: Sign up
 https://grok.com
 ------------------------------------------------------------------------------------------------------------------------------------------------------
