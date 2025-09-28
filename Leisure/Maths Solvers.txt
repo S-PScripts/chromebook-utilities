@@ -1,8 +1,5 @@
 Math solvers:
 
-Microsoft Maths Solver: RECOMMENDED
-https://mathsolver.microsoft.com/
-
 WolframAlpha: RECOMMENDED
 https://www.wolframalpha.com/
 
@@ -29,3 +26,6 @@ https://quickmath.com/solve/
 
 Gauth:
 https://www.gauthmath.com/
+
+Desmos:
+https://www.desmos.com/
