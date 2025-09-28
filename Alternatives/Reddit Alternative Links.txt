@@ -13,9 +13,6 @@ WWW	v0.31.0	🇺🇸 US		SFW only
 https://libreddit.kavin.rocks
 WWW	v0.34.0	🇮🇳 IN		
 
-https://reddit.simo.sh
-WWW	v0.30.1	🇧🇬 BG	
-
 https://libreddit.nl
 WWW	v0.34.0	🇳🇱 NL		
 
