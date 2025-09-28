@@ -28,7 +28,7 @@ DeepAI:
 https://deepai.org/
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-AIs: Ones that may be work:
+AIs: Ones that may be work.
 
 You: Sign up
 https://you.com/
@@ -78,13 +78,19 @@ https://sdk.vercel.ai/playground
 -> When you go to the link, make sure to delete one of the chats (you probably won't need two running at the same time)
                                                                                                                                                 -
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-AIs: Ones that do specific tasks. Scroll down to find Image, Audio and Coding AIs!
+AIs: Homework Helpers
+
+Gauth:
+https://gauthmath.com/
+
+Question AI:
+https://questionai.com/
+
+Brainly:
+http://brainly.com/
 
 Tutorly:
 https://tutorly.ai/
-
-QR Code AI: (it makes QR codes)
-https://qrcode-ai.com/
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 AI Checkers: Check for AI content in text
@@ -117,7 +123,10 @@ Free Undetectable AI:
 https://undetectableai.pro/ [isn't too good, but works]
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Misc: Ones I'm not sure what they do, possibly because I can't access them
+Misc:
+
+QR Code AI: It makes QR codes
+https://qrcode-ai.com/
 
 CodeGPT:
 https://app.codegpt.co/ [also works as a VS code extension]
@@ -144,6 +153,15 @@ https://wavtool.com/
 
 Musicfy:
 https://create.musicfy.lol/
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+AIs: VIDEO
+
+Runway:
+https://runwayml.com/
+
+LTX Studio:
+https://ltx.studio/
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 AIs: CODING
