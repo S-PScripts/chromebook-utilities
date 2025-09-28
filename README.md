@@ -1,5 +1,7 @@
 # Chromebook Utilities Collection
-A collection of exploits and tools for managed/enrolled chromebooks
+### A collection of exploits and tools for managed/enrolled chromebooks.
+
+#### If you like this collection, make sure to star it!
 
 ## Disclaimer
 This project is provided "as is" without any warranty of any kind, express or implied. The creator assumes no responsibility or liability for any misuse, damage, or issues that may arise from its use. 
