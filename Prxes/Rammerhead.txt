@@ -1,161 +1,127 @@
-MOST OF THESE LINKS DON'T WORK (THIS LIST IS YEARS OLD) BUT I USE RAMMERHEAD OFTEN SO HERE IT IS
-
 Rammerhead: (can be cloaked, tabs can be opened as an about:blank)
 #### For these ones you can add r. before the links (I've already done it for you):
-https://britannica.cf/  <br>
-https://r.britannica.cf/ <br>
+https://britannica.cf/  
+https://r.britannica.cf/ 
 
-https://britannica.gq/  <br>
-https://r.britannica.gq/ <br>
+https://britannica.gq/  
+https://r.britannica.gq/ 
 
-https://codewars.cf/  <br>
-https://r.codewars.cf/ <br>
+https://codewars.cf/  
+https://r.codewars.cf/ 
 
-https://codewars.gq/  <br>
-https://r.codewars.gq/ <br>
+https://codewars.gq/  
+https://r.codewars.gq/ 
 
-https://pluralsight.cf/  <br>
-https://r.pluralsight.cf/ <br>
+https://pluralsight.cf/  
+https://r.pluralsight.cf/ 
 
-https://pluralsight.gq/  <br>
-https://r.pluralsight.gq/ <br>
+https://pluralsight.gq/  
+https://r.pluralsight.gq/ 
 
-https://flipgrid.cf/  <br>
-https://r.flipgrid.cf/ <br>
+https://flipgrid.gq/ 
+https://r.flipgrid.gq/ 
 
-https://flipgrid.gq/ <br>
-https://r.flipgrid.gq/ <br>
+https://flipgrid.tk/ 
+https://r.flipgrid.tk/ 
 
-https://flipgrid.tk/ <br>
-https://r.flipgrid.tk/ <br>
+https://coursera.cf/ 
+https://r.coursera.cf/ 
 
-https://coursera.cf/ <br>
-https://r.coursera.cf/ <br>
+https://coursera.gq/ 
+https://r.coursera.gq/ 
 
-https://coursera.gq/ <br>
-https://r.coursera.gq/ <br>
+https://monkeytype.cf/ 
+https://r.monkeytype.cf/ 
 
-https://sharkquiz.cf/ <br>
-https://r.sharkquiz.cf/ <br>
+https://monkeytype.gq/ 
+https://r.monkeytype.gq/ 
 
-https://sharkquiz.gq/ <br>
-https://r.sharkquiz.gq/ <br>
+https://monkeytype.tk/ 
+https://r.monkeytype.tk/ 
 
-https://monkeytype.cf/ <br>
-https://r.monkeytype.cf/ <br>
+https://quizlet.gq/ 
+https://r.quizlet.gq/ 
 
-https://monkeytype.gq/ <br>
-https://r.monkeytype.gq/ <br>
+https://typeracer.gq/ 
+https://r.typeracer.gq/ 
 
-https://monkeytype.tk/ <br>
-https://r.monkeytype.tk/ <br>
+https://freecodecamp.tk/ 
+https://r.freecodecamp.tk/ 
 
-https://quizlet.gq/ <br>
-https://r.quizlet.gq/ <br>
+https://freecodecamp.gq/ 
+https://r.freecodecamp.gq/ 
 
-https://typeracer.gq/ <br>
-https://r.typeracer.gq/ <br>
+https://achievementnetwork.gq/ 
+https://r.achievementnetwork.gq/ 
 
-https://freecodecamp.tk/ <br>
-https://r.freecodecamp.tk/ <br>
+https://achievementnetwork.cf/ 
+https://r.achievementnetwork.cf/ 
 
-https://freecodecamp.gq/ <br>
-https://r.freecodecamp.gq/ <br>
+https://achievementnetwork.tk/ 
+https://r.achievementnetwork.tk/ 
 
-https://achievementnetwork.gq/ <br>
-https://r.achievementnetwork.gq/ <br>
+https://soraapp.gq/ 
+https://r.soraapp.gq/ 
 
-https://achievementnetwork.cf/ <br>
-https://r.achievementnetwork.cf/ <br>
-
-https://achievementnetwork.tk/ <br>
-https://r.achievementnetwork.tk/ <br>
-
-https://soraapp.gq/ <br>
-https://r.soraapp.gq/ <br>
-
-https://platform.everfi.gq/ <br>
-https://r.platform.everfi.gq/ <br>
+https://platform.everfi.gq/ 
+https://r.platform.everfi.gq/ 
 
 #### Below you cannot add r. before the links:
-https://education.mordeco.com/ <br>
-https://edu.mordeco.com/ <br>
-https://staff.mordeco.com/ <br>
-https://admin.mordeco.com/ <br>
 
-https://quantumphysics.sciencesimplified.pro/ <br>
-https://biographyhelp.sciencesimplified.pro/ <br>
-https://math.sciencesimplified.pro/ <br>
+https://login.achievementnetwork.cf/ 
+https://login.achievementnetwork.gq/ 
 
-https://login.googlesclassroom.gq/ <br>
-https://login.googlesclassroom.cf/ <br>
+https://chrome.lhost.dev/ 
+https://blocked.lhost.dev/ 
+https://tabs.lhost.dev/ 
 
-https://login.achievementnetwork.cf/ <br>
-https://login.achievementnetwork.gq/ <br>
+https://r.outschool.tk/ 
+https://r.outschool.gq/ 
 
-https://chrome.lhost.dev/ <br>
-https://blocked.lhost.dev/ <br>
-https://tabs.lhost.dev/ <br>
+https://learner.outschool.tk/ 
+https://learner.outschool.gq/ 
 
-https://r.outschool.tk/ <br>
-https://r.outschool.gq/ <br>
+https://membean.cf/ 
+https://membean.gq/ 
 
-https://learner.outschool.tk/ <br>
-https://learner.outschool.gq/ <br>
+https://lsmdm.tk/  
+https://lsmdm.gq/  
+https://lsmdm.cf/  
 
-https://membean.cf/ <br>
-https://membean.gq/ <br>
-
-https://lsmdm.tk/  <br>
-https://lsmdm.gq/  <br>
-https://lsmdm.cf/  <br>
-
-https://jeo2.goldsoft.rs/  <br>
-https://jeo3.goldsoft.rs/ <br>
-https://jeo4.goldsoft.rs/ <br>
-
-https://jeo2.todotrabajo.ar/ <br>
-https://jeo3.todotrabajo.ar/ <br>
-https://jeo4.todotrabajo.ar/ <br>
-
-https://jeo2.subcetatecity.ro/ <br>
-https://jeo3.subcetatecity.ro/ <br>
-https://jeo4.subcetatecity.ro/ <br>
-
-https://reading.englishpapers.online/ <br>
-https://sentry.soraapp.gq/ <br>
-https://mathtestaxamschool.zcvx.cf/ <br>
-https://canvas.lnstructure.cf/ <br>
-https://amplifyscience.cf/ <br>
-https://theplan.planb.gq/ <br>
-https://whywhywhy.deleesportsmedicine.com/   <br>
-https://saltersforeheadhasa.shinylook.ro/  <br>
-https://rx.blackxfiied.xyz/  <br>
-https://best-pizza-is-whopper.adentse.com/ <br>
-https://www.pleaseinput.html-5.me/ <br>
-https://slape3.zwanenwater48.nl/ <br>
-https://oh-hell-nah.5inas.cf/ <br>
-https://search.mugmovies.pics/ <br>
-https://sso.prodigygame.online/ <br>
-https://fun1.frostbite.cc/ <br>
-https://signup.soapclient.com/ <br>
-https://fair.hashable.org/ <br>
-https://gabeisagoober.bluepill.ml/ <br>
-https://howtomath.theeduweb.com/ <br>
-https://math4kids.containersarelinux.net/ <br>
-https://freenomisratelimitingme.cf/ <br>
-https://error418.cobos.mx/ <br>
-https://jeo.robot-agachado.org/ <br>
-https://reading-helper.gq/ <br>
-https://beastacademy.gq/  <br>
-https://lizzyyy.bgg.cl/ <br>
-https://1.containersarelinux.net/ <br>
-https://rammer.rude.li/ <br>
-https://booket.cf/  <br>
-https://pxnguin.vlad.md/   <br>
-https://relay.lsaccess.cf/ <br>
-https://googlesclassroom.gq <br>
-https://houydabeast.redpill.ml/ <br>
-https://joyridearoundthepark.5inas.cf/ <br>
-https://shouldiboosttherammerheadserver.tk/ <br>
-https://shouldiboosttherammerheadserver.gq/ <br>
+THESE MAY NOT WORK
+https://sentry.soraapp.gq/ 
+https://mathtestaxamschool.zcvx.cf/ 
+https://canvas.lnstructure.cf/ 
+https://amplifyscience.cf/ 
+https://theplan.planb.gq/ 
+https://whywhywhy.deleesportsmedicine.com/   
+https://saltersforeheadhasa.shinylook.ro/  
+https://rx.blackxfiied.xyz/  
+https://best-pizza-is-whopper.adentse.com/ 
+https://www.pleaseinput.html-5.me/ 
+https://slape3.zwanenwater48.nl/ 
+https://oh-hell-nah.5inas.cf/ 
+https://search.mugmovies.pics/ 
+https://sso.prodigygame.online/ 
+https://fun1.frostbite.cc/ 
+https://signup.soapclient.com/ 
+https://fair.hashable.org/ 
+https://gabeisagoober.bluepill.ml/ 
+https://howtomath.theeduweb.com/ 
+https://math4kids.containersarelinux.net/ 
+https://freenomisratelimitingme.cf/ 
+https://error418.cobos.mx/ 
+https://jeo.robot-agachado.org/ 
+https://reading-helper.gq/ 
+https://beastacademy.gq/  
+https://lizzyyy.bgg.cl/ 
+https://1.containersarelinux.net/ 
+https://rammer.rude.li/ 
+https://booket.cf/  
+https://pxnguin.vlad.md/   
+https://relay.lsaccess.cf/ 
+https://googlesclassroom.gq 
+https://houydabeast.redpill.ml/ 
+https://joyridearoundthepark.5inas.cf/ 
+https://shouldiboosttherammerheadserver.tk/ 
+https://shouldiboosttherammerheadserver.gq/ 
