@@ -13,7 +13,7 @@ Geogebra:
 https://www.geogebra.org/solver
 
 UpStudy (CameraMath):
-https://cameramath.com/mathsolver
+https://upstudy.ai/math-solver
 
 Mathforyou:
 https://mathforyou.net/en/online/
@@ -24,8 +24,10 @@ https://www.tiger-algebra.com/
 QuickMath:
 https://quickmath.com/solve/
 
-Gauth:
+Gauth: AI MATHS SOLVER TOO!
 https://www.gauthmath.com/
 
 Desmos:
 https://www.desmos.com/
+
+RIP MICROSOFT MATHS SOLVER
