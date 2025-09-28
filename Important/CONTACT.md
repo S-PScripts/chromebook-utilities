@@ -3,15 +3,9 @@
 ### 📧 **Email**:
 - **Main Contact (Primary)**:  
   [ts2021me@gmail.com](mailto:ts2021me@gmail.com)  
-  *(This is the best way to reach me for urgent matters or personal communication)*
-
-- **GitHub-Linked Email**:  
-  [ts2021me@outlook.com](mailto:ts2021me@outlook.com)  
-  *(Please note: I check this email rarely, use the main one)*
 
 ### 💬 **Discord**:
 - **Username**: **TS2021**  
-  *(I'm active on Discord most days, feel free to reach out for real-time conversations!)*
 
 ---
 
