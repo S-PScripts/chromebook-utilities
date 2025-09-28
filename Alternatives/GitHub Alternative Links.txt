@@ -1,65 +1,13 @@
 Here are some alternatives for GitHub!
 
 GotHub:
-https://gh.bloatcat.tk
-Cloudflare: No
-Version: ba427231
-Branch: master
-Country: Iceland
-Hosting provider: 1984
-
-https://gothub.frontendfriendly.xyz
-Cloudflare: No
-Version: aa94dcc6
-Branch: master
-Country: USA
-Hosting provider: Hetzner
-
-https://gothub.lunar.icu
-Cloudflare: No
-Version: aa94dcc6
-Branch: master
-Country: Germany
-Hosting provider: Avoro
-
-https://gothub.no-logs.com
-Cloudflare: No
-Version: aa94dcc6
-Branch: master
-Country: Sweden
-Hosting provider: Vultr
-
-https://g.opnxng.com
-Cloudflare: No
-Version: aa94dcc6
-Branch: master
-Country: Singapore
-Hosting provider: Vultr
-
-https://gh.owo.si
-Cloudflare: No
-Version: aa94dcc6
-Branch: master
-Country: Germany
-Hosting provider: Contabo
-
-https://gothub.projectsegfau.lt
-Cloudflare: No
-Version: aa94dcc6
-Branch: master
-Country: GeoDNS (Luxembourg/USA/India)
-Hosting provider: BuyVM/Digital Ocean/Airtel
-
-https://gh.whateveritworks.org
-Cloudflare: No
-Version: aa94dcc6
-Branch: master
-Country: Germany
-Hosting provider: Hetzner
-
-https://gothub.dev.projectsegfau.lt
-Cloudflare: No
-Version: 4dddeae1
-Branch: dev
-Country: Luxembourg
-Hosting provider: BuyVM
+Link	Tor	Cloudflare	Country	ISP	Branch
+gothub.lunar.icu	No	No	Germany	Avoro	master
+gh.owo.si	Yes	No	Germany	Contabo	master
+gothub.r4fo.com	Yes	No	Netherlands	Oracle	master
+gothub.dev.projectsegfau.lt	Yes	No	India	Airtel	dev
+gh.phreedom.club	No	No	Iceland	Flokinet	dev
+gothub.ducks.party	No	No	Netherlands	Timeweb	dev
+gothub.projectsegfau.lt	Yes	No	GeoDNS (Germany/USA/India)	Avoro/Racknerd/Airtel	master
+gothub.hyperreal.coffee	No	No	USA	Linode	master
+g.opnxng.com	No	No	Singapore	Vultr	master
