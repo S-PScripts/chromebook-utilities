@@ -1,4 +1,0 @@
-DuckOS:
-
-v5 -
-https://duckos.pages.dev/
