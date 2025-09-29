@@ -1,16 +1,11 @@
 You can get answers to quizzes and more!
 
-Quizit: https://quizit.online/
+School Cheats: https://schoolcheats.net/
 -> Quizizz
 -> Kahoot
--> Wordwall
--> Liveworksheets
 -> Edpuzzle
--> Quizlet
 -> Blooket
--> Gimkit
--> Brainly
--> Testportal
+-> Quiz.com
 
 Cheat Network: https://cheatnetwork.eu/ 
 -> Quizizz
@@ -27,14 +22,17 @@ Cheat Network: https://cheatnetwork.eu/
 -> Nearpod
 -> Wordwall
 
-School Cheats: https://schoolcheats.net/
+Quizit: https://quizit.online/
 -> Quizizz
 -> Kahoot
+-> Wordwall
+-> Liveworksheets
 -> Edpuzzle
+-> Quizlet
 -> Blooket
--> Quiz.com
-
-Contains getting answers for a new quiz site quiz.com!
+-> Gimkit
+-> Brainly
+-> Testportal
 
 Note: You may need to login with your Discord for some features. 
 If you only have your chromebook, use a proxy.
