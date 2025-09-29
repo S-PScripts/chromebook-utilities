@@ -1,6 +1,6 @@
 Here are some alternatives for StackOverflow!
 
-PrivateOverflow:
+AnonymousOverflow:
 https://code.whatever.social/
 https://overflow.smnz.de/
 https://overflow.adminforge.de/
