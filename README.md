@@ -12,5 +12,3 @@ By accessing or using this repository, you acknowledge that you are solely respo
 - Join Titanium Network (vanity: .gg/unblock)!
 
 ### Created by S-PScripts
-
-**DO NOT USE THE PAGES.DEV DOMAINS, CLOUDFLARE F*CKED ME UP AND I CAN'T REDEPLOY THE DOMAINS UNTIL I DELETE ALL THE DEPLOYMENTS (WHICH IS 2000+ AND WILL TAKE HOURS TO DO)**
