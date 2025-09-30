@@ -12,3 +12,5 @@ By accessing or using this repository, you acknowledge that you are solely respo
 - Join Titanium Network (vanity: .gg/unblock)!
 
 ### Created by S-PScripts
+
+f*ck cloudflare for stopping me from updating my pages.dev domains
