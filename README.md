@@ -13,5 +13,4 @@ By accessing or using this repository, you acknowledge that you are solely respo
 
 ### Created by S-PScripts
 
-f*ck cloudflare for stopping me from updating my pages.dev domains
-(i'm also to blame, anyways i'll fix the chromebook utilities domain soon)
+**DO NOT USE THE PAGES.DEV DOMAINS, CLOUDFLARE F*CKED ME UP AND I CAN'T REDEPLOY THE DOMAINS UNTIL I DELETE ALL THE DEPLOYMENTS (WHICH IS 2000+ AND WILL TAKE HOURS TO DO)**
