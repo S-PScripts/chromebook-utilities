@@ -85,6 +85,10 @@ https://searx.foss.family/
 https://searx.nobulart.com/
 https://searx.thegpm.org/
 
+Whoogle:
+https://search.sethforprivacy.com/
+https://whoogle.lunar.icu/
+
 Brave:
 https://search.brave.com/
 
