@@ -1,47 +1,64 @@
 Here are some alternatives for Reddit!
 
-Libreddit/Redlib:
-https://github.com/libreddit/libreddit-instances/blob/master/instances.md - INSTANCES
+Libreddit/Redlib Instances:
+https://github.com/libreddit/libreddit-instances/blob/master/instances.m
+https://github.com/redlib-org/redlib-instances/blob/main/instances.md
 
 I've also included the list of instances here:
 
-URL - Network - Version - Location - Behind - Cloudflare? - Comment
+LibReddit:
+URL	Network	Version	Location	Behind Cloudflare?	Comment
+https://lr.vern.cc	
+WWW	v0.36.0	🇺🇸 US		
 
-https://safereddit.com	
-WWW	v0.31.0	🇺🇸 US		SFW only
+https://discuss.whatever.social
+WWW	v0.36.0	🇺🇸 US		uses CDN
 
+
+RedLib:
+URL	Network	Version	Location	Behind Cloudflare?	Comment
+https://redlib.perennialte.ch	
+WWW	v0.36.0	🇦🇺 AU	✅	
+
+https://red.artemislena.eu	
+WWW	v0.36.0	🇩🇪 DE		Be crime do gay
+
+https://redlib.privacyredirect.com	
+WWW	v0.36.0	🇫🇮 FI		
+
+https://redlib.baczek.me	
+WWW	v0.36.0	🇵🇱 PL		
+
+https://redlib.4o1x5.dev	
+WWW	v0.36.0	🇭🇺 HU		
+
+https://redlib.frontendfriendly.xyz	
+WWW	v0.36.0	🇽🇽 XX		
+
+https://reddit.adminforge.de
+WWW	v0.36.0	🇫🇦 false		
+
+https://redlib.thebunny.zone	
+WWW	v0.36.0	🇭🇷 HR		🩷
+
+https://lr.ptr.moe
+WWW	v0.36.0	🇩🇪 DE	✅	
+
+https://redlib.privadency.com
+WWW	v0.36.0	🇩🇪 DE		
+
+
+
+
+-------------------------------------
 https://libreddit.kavin.rocks
 WWW	v0.34.0	🇮🇳 IN		
-
-https://libreddit.nl
-WWW	v0.34.0	🇳🇱 NL		
-
-https://reddit.rtrace.io
-WWW	v0.34.0	🇩🇪 DE		
-
-https://libreddit.privacydev.net
-WWW	v0.31.0	🇺🇸 US		
-
-https://l.opnxng.com
-WWW	v0.31.0	🇸🇬 SG		
 
 https://libreddit.projectsegfau.lt
 WWW	v0.34.0	🇱🇺 LU		
 
-https://libreddit.oxymagnesium.com	
-WWW	v0.31.2	🇺🇸 US		
+https://redlib.catsarch.com/
+WWW	v0.31.0	🇺🇸 US
 
 https://reddit.utsav2.dev
 WWW	v0.30.1	🇺🇸 US		
-
-https://discuss.whatever.social
-WWW	v0.34.0	🇺🇸 US		uses CDN
-
-https://libreddit.bus-hit.me	
-WWW	v0.31.0	🇨🇦 CA		
-
-https://snoo.habedieeh.re
-WWW	v0.31.0	🇨🇦 CA		
-
-https://libreddit.tux.pizza	
-WWW	v0.31.0	🇺🇸 US		
