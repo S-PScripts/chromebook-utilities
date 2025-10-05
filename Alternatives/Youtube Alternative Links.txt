@@ -9,59 +9,20 @@ https://github.com/TeamPiped/Piped/wiki/Instances - INSTANCES
 Here's the list here too:
 Instance Name	Instance API URL	Instance Location(s)	CDN	Registered Users
 kavin.rocks (Official)	https://pipedapi.kavin.rocks	🇺🇸, 🇮🇳, 🇳🇱, 🇨🇦, 🇬🇧, 🇫🇷	Yes	
-tokhmi.xyz	https://pipedapi.tokhmi.xyz	🇺🇸	Yes	
-moomoo.me	https://pipedapi.moomoo.me	🇬🇧	Yes	
-syncpundit.io	https://pipedapi.syncpundit.io	🇺🇸, 🇮🇳, 🇬🇧, 🇯🇵	Yes	
-mha.fi	https://api-piped.mha.fi	🇫🇮	Yes	
-garudalinux.org	https://piped-api.garudalinux.org	🇫🇮	Yes	
-rivo.lol	https://pipedapi.rivo.lol	🇨🇱	Yes	
 leptons.xyz	https://pipedapi.leptons.xyz	🇦🇹	Yes	
-lunar.icu	https://piped-api.lunar.icu	🇩🇪	Yes	
-dc09.ru	https://ytapi.dc09.ru	🇷🇺	Yes	
-colinslegacy.com	https://pipedapi.colinslegacy.com	🇺🇸	Yes	
-vyper.me	https://yapi.vyper.me	🇨🇱	Yes	
-looleh.xyz	https://api.looleh.xyz	🇳🇱	Yes	
-cfe.re	https://piped-api.cfe.re	🇵🇱	Yes	
-r4fo.com	https://pipedapi.r4fo.com	🇩🇪	Yes	
-darkness.services	https://pipedapi.darkness.services	🇺🇸	Yes	
+nosebs.ru	https://pipedapi.nosebs.ru	🇫🇮	Yes	
 kavin.rocks libre (Official)	https://pipedapi-libre.kavin.rocks	🇳🇱	No	
-mint.lgbt	https://pa.mint.lgbt	🇨🇦	No	
-il.ax	https://pa.il.ax	🇺🇸	No	
 privacy.com.de	https://piped-api.privacy.com.de	🇩🇪	No	
-projectsegfau.lt	https://api.piped.projectsegfau.lt	🇫🇷	No	
-projectsegfau.lt in	https://pipedapi.in.projectsegfau.lt	🇮🇳	No	
-projectsegfau.lt us	https://pipedapi.us.projectsegfau.lt	🇺🇸	No	
-whatever.social	https://watchapi.whatever.social	🇺🇸	No	
-privacydev.net	https://api.piped.privacydev.net	🇫🇷	No	
-palveluntarjoaja.eu	https://pipedapi.palveluntarjoaja.eu	🇫🇷	No	
-smnz.de	https://pipedapi.smnz.de	🇩🇪	No	
 adminforge.de	https://pipedapi.adminforge.de	🇩🇪	No	
-qdi.fi	https://pipedapi.qdi.fi	🇺🇸	No	
-hostux.net	https://piped-api.hostux.net	🇫🇷, 🇱🇺	No	
-vern.cc	https://pdapi.vern.cc	🇺🇸	No	
-pfcd.me	https://pipedapi.pfcd.me	🇩🇪	No	
-frontendfriendly.xyz	https://pipedapi.frontendfriendly.xyz	🇺🇸	No	
 piped.yt	https://api.piped.yt	🇩🇪	No	
-astartes.nl	https://pipedapi.astartes.nl	🇳🇱	No	
-osphost.fi	https://pipedapi.osphost.fi	🇫🇮	No	
-simpleprivacy.fr	https://pipedapi.simpleprivacy.fr	🇫🇷	No	
 drgns.space	https://pipedapi.drgns.space	🇺🇸	No	
-ggtyler.dev	https://piapi.ggtyler.dev	🇺🇸	No	
-pluto.lat	https://api.watch.pluto.lat	🇫🇮	No	
-seitan-ayoub.lol	https://piped-backend.seitan-ayoub.lol	🇩🇪	No	
 owo.si	https://pipedapi.owo.si	🇩🇪	No	
-minionflo.net	https://api.piped.minionflo.net	🇩🇪	No	
-nezumi.party	https://pipedapi.nezumi.party	🇮🇹	No	
 ducks.party	https://pipedapi.ducks.party	🇳🇱	No	
-ngn.tf	https://pipedapi.ngn.tf	🇹🇷	No	
-coldforge.xyz	https://pipedapi.coldforge.xyz	🇺🇸	No	
 codespace.cz	https://piped-api.codespace.cz	🇨🇿	No	
 reallyaweso.me	https://pipedapi.reallyaweso.me	🇩🇪	No	
-phoenixthrush.com	https://pipedapi.phoenixthrush.com	🇩🇪	No	
 private.coffee	https://api.piped.private.coffee	🇦🇹	No	
-ehwurscht.at	https://schaunapi.ehwurscht.at	🇦🇹	No	
-dedyn.io	https://pipedapi.dedyn.io	🇩🇪	No	
-nosebs.ru	https://pipedapi.nosebs.ru	🇫🇮	No	
+darkness.services	https://pipedapi.darkness.services	🇺🇸	No	
+orangenet.cc	https://pipedapi.orangenet.cc	🇸🇮	No	
 
 Invidious:
 https://docs.invidious.io/instances/ - INSTANCES
