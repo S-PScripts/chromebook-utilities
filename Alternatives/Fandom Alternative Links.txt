@@ -1,7 +1,9 @@
 Fandom Alternative Links:
 
 Breeze Wiki:
-Hoster Link
+
+Hoster
+Link
 
 Cadence
 https://breezewiki.com
@@ -20,6 +22,9 @@ https://bw.projectsegfau.lt
 
 Hostux
 https://breeze.hostux.net
+
+Artemis Lena
+https://bw.artemislena.eu
 
 Frontend Friendly
 https://breezewiki.frontendfriendly.xyz
@@ -47,6 +52,9 @@ https://breezewiki.nadeko.net
 
 AlexPewMaster
 https://fandom.reallyaweso.me
+
+4o1x5
+https://breezewiki.4o1x5.dev
 
 Rafo
 https://breezewiki.r4fo.com/
