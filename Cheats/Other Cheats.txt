@@ -1,11 +1,14 @@
 You can get answers to quizzes and more!
 
 School Cheats: https://schoolcheats.net/
--> Quizizz
+-> Deltamath
+-> Wayground (Quizizz)
 -> Kahoot
--> Edpuzzle
 -> Blooket
--> Quiz.com
+-> Edpuzzle
+-> Edmentum
+-> Edulastic
+-> Lexia
 
 Cheat Network: https://cheatnetwork.eu/ 
 -> Quizizz
@@ -34,5 +37,5 @@ Quizit: https://quizit.online/
 -> Brainly
 -> Testportal
 
-Note: You may need to login with your Discord for some features. 
-If you only have your chromebook, use a proxy.
+Note: You may need to log in with a Discord account for some features. 
+If you only have your Chromebook, use a proxy.
