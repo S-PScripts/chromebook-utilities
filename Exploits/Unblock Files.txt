@@ -1,0 +1,25 @@
+Open any file in Chrome, even if blocked
+
+What is this exploit?
+- This exploit is a workaround for HTML/other files being blocked in the Chrome browser on ChromeOS. It also blocks the extensions' permissions to access the files opened in the Chrome browser.
+- This exploit is easy after the initial steps have been completed! It has been tested and working on **ChromeOS v140**.
+
+Requirements:
+- Android support (common)
+
+Instructions
+- Add/Create your desired file and copy it to the downloads folder (ChromeOS files).
+- Open the settings app, and navigate to `Apps`, then `Manage Google Play preferences`, and click on `Open Android settings`.
+- Now, in the Android preferences app, go to `Apps`, `All Apps`, `Files` and click on `Open`.
+- Once the app is open, you should pin it to the shelf for easier access.
+- Now, once you have accessed the Files app, navigate to `Downloads` and right-click on the file, click `Open With`, and select Google Chrome.
+- The file should now open in Google Chrome on your Chromebook with no extensions being enforced, without the file being blocked!
+
+Additional Notes/GTK:
+- Pinning both the `Settings` (Android) and `Files`(Android) apps to your shelf can be useful if future exploits/bugs are discovered.
+- This works from v137 to v141, and potentially other versions.
+- This can be used as a filter bypass in some cases, but it is only an HTML bypass that is not feasible to use as a filter bypass in all environments.
+
+Credits:
+q8j.__
+Titanium Network
