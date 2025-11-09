@@ -5,13 +5,11 @@ https://eaglercraft.com/ [home]
 
 EaglercraftX 1.8.8 [official]:
 https://eaglercraft.net/
-https://eaglercraft.me/
 
 EaglercraftX 1.8.8 [unofficial]:
 https://mcv18.netlify.app/ [file] 3/10/2024
 https://svaaps.github.io/eaglercrafthtml/ [file] 1/5/2023
 https://eaglercraft.q13x.com/ [assets]
-https://code.nyphp.com/ [none]
 
 Eaglercraft 1.5.2 + EaglercraftX 1.8.8:
 https://cerealistic.github.io/ 
@@ -20,21 +18,13 @@ https://afganistan.stream/
 
 EaglerCraft 1.5.2 [official]:
 https://eaglercraft.net/mc/1.5.2/
-https://eaglercraft.me/mc/1.5.2/
 
 Eaglercraft 1.5.2 [unofficial]:
 https://xlegends.github.io/server-gxmehub/
 https://theguy888.github.io/EvenBetterThanMinekhan/ [wait time]
 https://eaglercraft.github.io/game/ [wait time | local]
-https://eagler.almondnet.cn/Nebula.html [local]
 https://eaglercraft000.pages.dev/ [wait time]
 https://sd592g.github.io/zj684od4lfg/
-
-Eaglercraft (My Drive - Google Drive):
-https://eaglercraft.is-very.fun/ [25/10/2022]
-https://big.fun-boom.ru/ [25/10/2022]
-https://temp.grupopremiermotors.com.pe/ [25/10/2022]
-https://gyatt.hs.vc/ [25/10/2022]
 
 EaglercrackX 1.3 + 1.5 + 1.8:
 https://eaglercrack.github.io/index.html [main]
@@ -59,7 +49,6 @@ Hacks:
 https://eaglerhacks.vercel.app/ -- Includes FuschiaX | Kerosene | Nebula | nit_client | OddFuture
 
 Clients:
-https://client.tlochsta.dev/compiled/web/ [Astro Client]
 https://precisionclient-88k.pages.dev/ [Precision Client]
 
 UBG:
