@@ -12,7 +12,6 @@ https://rivestream.org/
 https://cinema.bz/
 https://spenflix.ru/
 
-
 https://filmcave.net/
 https://watch.corsflix.net/
 https://filmex.to/
@@ -32,8 +31,8 @@ https://smashystream.xyz/
 https://flixway.pro/
 https://pstream.mov/
 
-https://vidjoy.pro/
 https://watch.spencerdevs.xyz/
+
 
 MovieWeb: MOVIEWEB IS DISCONTINUED
 https://movie-web-cy.vercel.app/
