@@ -10,7 +10,7 @@ https://alienflix.net/
 https://flickystream.net/
 https://rivestream.org/
 https://cinema.bz/
-https://spenflix.ru/
+https://watch.spencerdevs.xyz/
 
 https://filmcave.net/
 https://watch.corsflix.net/
@@ -30,9 +30,6 @@ https://hexa.watch/
 https://smashystream.xyz/
 https://flixway.pro/
 https://pstream.mov/
-
-https://watch.spencerdevs.xyz/
-
 
 MovieWeb: MOVIEWEB IS DISCONTINUED
 https://movie-web-cy.vercel.app/
