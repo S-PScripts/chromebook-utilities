@@ -1,5 +1,5 @@
 # Chromebook Utilities Collection
-### A collection of exploits and tools for managed/enrolled chromebooks.
+### A collection of exploits and tools for managed/enrolled Chromebooks.
 
 #### If you like this collection, make sure to star it!
 
@@ -9,6 +9,6 @@ By accessing or using this repository, you acknowledge that you are solely respo
 
 ## Important Update:
 - I will not be updating this repo anymore / I will be updating it very infrequently.
-- Join Titanium Network for more stuff: .gg/unblock)!
+- Join Titanium Network for more prxes and exploits! .gg/unblock
 
 ### Created by S-PScripts
