@@ -3,8 +3,8 @@
 ### Read the [Disclaimer](https://github.com/S-PScripts/chromebook-utilities/blob/main/DISCLAIMER.md) before viewing this collection further.
 ---
 ### Important Update:
-- I will not be updating this repo anymore / I will be updating it very infrequently.
-- Join Titanium Network for more prxes and exploits! .gg/unblock
+- This collection will no longer be updated often due to my lack of interest in it.
+- You can join Titanium Network for more links and exploits (.gg/unblock)
 ---
 ### If you like this collection, make sure to star it!
 ### Created by S-PScripts
