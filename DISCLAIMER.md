@@ -5,7 +5,7 @@ I, S-PScripts, owner and main maintainer of **chromebook-utilities**, provide th
 **To teachers and guardians:**
 
 * I am not responsible for students misusing this resource.
-* I do not support students playing games, using proxies, or otherwise avoiding their work.
+* I do not support students playing games, using proxies or exploits, or otherwise attempting to avoid work or bypass school/enterprise website restrictions (whether at school or at home).
 * A moderate approach to discipline is recommended, such as temporarily taking away the device and notifying parents.
 * Severe punishment is unnecessary unless the misuse is repeated; in that case, handle it as you see fit.
 
