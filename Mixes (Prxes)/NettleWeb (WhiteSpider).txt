@@ -1,12 +1,24 @@
 NettleWeb (WhiteSpider):
 
 Main Sites: 
-https://nettleweb.pages.dev/
+https://nettleweb.com/
+
+https://giigle.cf/
+https://whitespider.cf/
+
+https://whspi.github.io/
 https://whitespider.eu.org/ 
 https://whitesp.eu.org/
+
+https://nettleweb.pages.dev/
+https://nettleweb.github.io/
+https://nettleweb.vercel.app/
+https://nettleweb.netlify.app/
+
+https://whitespider.pages.dev/
 https://whitespider.netlify.app/
 https://whitespider-self.vercel.app/
-https://whspi.github.io/
+
 https://whitespider-dev.github.io/
 https://sigmasigmatoiletedge.github.io/
 
