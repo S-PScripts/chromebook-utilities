@@ -1,3 +1,5 @@
+[no longer worth it]
+
 1. Go to https://copilot.microsoft.com/
 2. Sign in
 3. Start a new chat and use the "action" mode.
