@@ -1,11 +1,10 @@
 How to play console games:
-1. Go to an unblocked game website (find them in the Emulator file in this repo!)
-2. Find a game.
-3. Download it.
-4. Go to an online emulation website (find them in the Emulator file)
-5. Find the console the game is run on or click auto-detect.
-6. Click upload file.
-7. Find the rom file and press done.
+1. Go to an unblocked game website (find them in the Emulators file in this repo).
+2. Find a game and download it.
+4. Go to an online emulation website (find them in the Emulators file).
+5. Find the console the game is run on (or click auto-detect).
+6. Click Upload File.
+7. Find the ROM file and press Done.
 8. Play your game!
 
-YOU CAN ALSO PLAY MANY THAT ARE BUILT INTO SOME OF THE WEBSITES IN THE HUBS.
+YOU CAN ALSO PLAY MANY THAT ARE BUILT INTO SOME OF THE GAME WEBSITES.
