@@ -1,10 +1,10 @@
-## 🚨 **Takedown Requests**  
+## **Takedown Requests**  
 If you believe that any content I have shared infringes on your copyright, please don’t hesitate to reach out to me directly. I take copyright matters seriously and will act promptly to resolve any concerns.
 
 ### **How to Request a Takedown**:
 
 1. **Sign In to GitHub**:  
-   If you don’t have a GitHub account, create one [here](https://github.com/join). It's quick and easy.
+   If you don't have a GitHub account, create one [here](https://github.com/join). It's quick and easy.
 
 2. **Navigate to the Issues Tab**:  
    On the repository page, click the **"Issues"** tab located near the top of the page.
