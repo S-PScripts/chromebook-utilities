@@ -1,8 +1,6 @@
 ## 🚨 **Takedown Requests**  
 If you believe that any content I have shared infringes on your copyright, please don’t hesitate to reach out to me directly. I take copyright matters seriously and will act promptly to resolve any concerns.
 
-NOTE: MOST PROXIES ARE TAKEN FROM [WEA-F'S BYPASSHUB](https://github.com/wea-f/ByePassHub/).
-
 ### **How to Request a Takedown**:
 
 1. **Sign In to GitHub**:  
@@ -22,7 +20,7 @@ NOTE: MOST PROXIES ARE TAKEN FROM [WEA-F'S BYPASSHUB](https://github.com/wea-f/B
 
 ### **What Happens Next?**
 
-- I will review your issue and should respond within **2 days** to address the takedown request.
+- I will review your issue and should respond within **3 days** to address the takedown request.
 - If necessary, I will take immediate action to remove or modify the content in question.
 
 Thank you for bringing this to my attention, and I appreciate your cooperation!
