@@ -24,3 +24,6 @@ https://auth.vincenzodimaro.it/
 https://dashboard.vincenzodimaro.it/
 https://app.vincenzodimaro.it/
 https://home.vincenzodimaro.it/
+
+Discord:
+https://discord.com/invite/cYjHFDguxS
