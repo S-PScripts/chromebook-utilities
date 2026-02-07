@@ -24,9 +24,6 @@ https://gemini.google.com/
 DeepSeek:
 https://www.deepseek.com/
 
-DeepAI:
-https://deepai.org/
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 AIs: Ones that may be work.
 
@@ -36,8 +33,20 @@ https://you.com/
 HuggingFace: Make an account.
 https://huggingface.co/chat/
 
+DeepAI:
+https://deepai.org/
+
+Qwen Chat: Sign up
+https://chat.qwen.ai
+
+Kimi: Sign up
+https://www.kimi.com
+
 Grok: Sign up
 https://grok.com
+
+Meta/Llama:
+https://www.meta.ai
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 AIs: These are actual ChatGPT clones but they cannot recall any messages.
@@ -60,23 +69,24 @@ https://writesonic.com/chat/
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 AIs: Extension required
 
-GrammarlyGO:
+GrammarlyGO/Superhuman:
 https://www.grammarly.com/
 1. Download Grammarly at https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen?pli=1
-2. Open/create a Google document.
+2. Open/create a Google Document.
 3. Click the lightbulb with the plus icon.
+= You can also use the sidebar! =
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 AIs: More obscure ones
 
 Computer.com:
-https://computer.com/ (use its AI Chat Bot, sign in for more queries)
+https://chatbox.computer.com/chat/ (sign in for more queries)
 
-Vercel AI SDK:
+Vercel AI SDK: Sign in
 https://sdk.vercel.ai/playground 
 -> You have many AIs to choose from. If you don't have Pro, make sure to not use them.
 -> When you go to the link, make sure to delete one of the chats (you probably won't need two running at the same time)
-                                                                                                                                                -
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 AIs: Homework Helpers
 
