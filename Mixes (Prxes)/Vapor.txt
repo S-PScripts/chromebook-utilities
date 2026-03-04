@@ -1,4 +1,9 @@
 Vapor:
+https://education-vapor.b-cdn.net/
+https://sciencehelp.b-cdn.net/
+
+https://shneducation.org/ (wildcard)
+
 https://igenuinelyneed.help/
 https://ohgodplease.help/
 https://helpmecheckthisout.help
@@ -31,20 +36,7 @@ https://vaperisveryeducational.dinprima.ro/
 https://schoolsca.justlearning.net/
 https://government.tablero-anmac.ar
 
-https://learn.texasmath.org/
 https://trucks.eemotors.uk/
-https://transport.saintsparky.org/
-https://homework.kutakutik.or.id/
-https://sports.izlet.com.ar/
-https://music.icom.org.np/
-https://portal.pelotonkorea.com/
-https://grades.imanado.net/
-https://dining.dipeshshahi.com.np/
-https://support.uwgraduation.net/
-https://housing.lecreativity.com/
-https://homework.ephrata-rdc.com/
-https://bookstore.lauriemillotte.com/
-https://calendar.familiamarinho.com.br/
 
 https://classroom-connect30.vapor.my.cdn.cloudflare.net 
 https://classroom-connect53.vapor.my.cdn.cloudflare.net 
