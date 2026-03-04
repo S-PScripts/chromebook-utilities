@@ -6,6 +6,7 @@ https://wildcard.quizlet.one/#home
 https://wildcard.khanacademy.mom/#home
 https://wildcard.kahoot.mom/
 https://wildcard.canvas.mom/
+https://wildcard.securly.mom/
 https://wildcard.eaglercraft.shop/
 https://wildcard.artsineducation.net/#home
 https://wildcard.oliverloves.food/#home
@@ -25,7 +26,6 @@ https://wildcard.ogtra.de/
 https://wildcard.quizizz.mom/
 https://wildcard.schoolsandtravel.com/
 https://wildcard.thisisschool.work/
-
 
 < .cdn.cloudflare.net can be added to the end of some of these links >
 
