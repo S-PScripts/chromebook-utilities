@@ -1,3 +1,4 @@
+-- 2026-03-07: Proxy currently down, I don't know if/when I will check it again --
 DEMON:
 https://demonzero.space/
 https://demonzero.xyz/
