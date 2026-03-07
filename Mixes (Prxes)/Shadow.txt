@@ -1,3 +1,4 @@
+-- 2025-03-07: As of writing this proxy just does not load. Most of the URLs still work I believe, but they are really buggy --
 Shadow:
 https://keenwriting.websdr64.ru/
 https://modernwriting.websdr64.ru/
