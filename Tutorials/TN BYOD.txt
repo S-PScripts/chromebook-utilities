@@ -1,7 +1,7 @@
-149.56.128.250
-
 BYOD (Bring Your Own Domain) provides an easy way to make proxy links for the partnered services of TN, without compromising any security or increasing work for the services themselves. 
 
 How do I set it up?
 Simply log into whatever service manages your DNS for your domain(s), be it CloudFlare, Porkbun, or any other, and point the desired domain or subdomain to the IP below. Then, after waiting a few minutes, visit the domain and select a service to bind it to.
 Make sure your SSL/TLS is set to full and not flexible.
+
+149.56.128.250
