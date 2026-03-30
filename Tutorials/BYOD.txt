@@ -7,3 +7,8 @@ Afterwards, point the desired domain or subdomain to the IP below. Then, after w
 Make sure your SSL/TLS is set to full and not flexible.
 
 149.56.128.250
+
+
+I can't be bothered to find the BYOD for everything else, just make a Discord account and join the relevant prxy/gxme servers.
+
+Krypton: 185.230.219.5
