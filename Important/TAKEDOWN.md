@@ -5,3 +5,5 @@ If you believe I have stolen proxy/game links from **bot dispensers**, please co
 GitHub Issues: https://github.com/S-PScripts/chromebook-utilities/issues <br>
 Email: ts2021me@gmail.com <br>
 Discord: ts2021 <br>
+
+**NOTE: All of the links in this repository come from public channels in Discord servers.**
