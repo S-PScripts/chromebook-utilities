@@ -8,8 +8,7 @@ Make sure your SSL/TLS is set to full and not flexible.
 
 149.56.128.250
 
-
-I can't be bothered to find the BYOD for everything else, just make a Discord account and join the relevant prxy/gxme servers.
+OTHER BYOD IP ADDRESSES:
 
 1346lol: -
 1key: 151.80.60.23
