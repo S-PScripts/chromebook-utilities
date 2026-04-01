@@ -11,7 +11,46 @@ Make sure your SSL/TLS is set to full and not flexible.
 
 I can't be bothered to find the BYOD for everything else, just make a Discord account and join the relevant prxy/gxme servers.
 
-1key: 151.80.60.23
-Krypton: 185.230.219.5
-Cherri: 5.188.124.65
-Axis: 185.193.67.216
+0DIRECTORY:
+1346lol:
+1key:
+Axiom:
+Axis:
+Boredom:
+Bromine:
+BrunysIXLWork:
+CanLite:
+Cherri:
+DEMON:
+DogeUB:
+DotGUI:
+Endis:
+Fern:
+Frogie's Arcade:
+Galaxy:
+Glint:
+Holy Unblocker:
+Interstellar:
+Jordan's Math Work:
+Krypton:
+Nebulo:
+Neo:
+NettleWeb (WhiteSpider):
+Nexora:
+Overcloaked:
+PeteZah:
+Platinum Network:
+Quasar:
+README.md:
+Red's Exploit Corner:
+Shadow:
+Shuttle:
+Truffled:
+UBX:
+UniUB:
+Utopia:
+Vapor:
+Velara:
+Vertex Gold:
+Waves:
+Wilway:
