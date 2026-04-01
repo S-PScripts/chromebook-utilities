@@ -11,46 +11,44 @@ Make sure your SSL/TLS is set to full and not flexible.
 
 I can't be bothered to find the BYOD for everything else, just make a Discord account and join the relevant prxy/gxme servers.
 
-0DIRECTORY:
-1346lol:
-1key:
-Axiom:
-Axis:
-Boredom:
-Bromine:
-BrunysIXLWork:
-CanLite:
-Cherri:
-DEMON:
-DogeUB:
-DotGUI:
-Endis:
-Fern:
-Frogie's Arcade:
-Galaxy:
-Glint:
-Holy Unblocker:
-Interstellar:
-Jordan's Math Work:
-Krypton:
-Nebulo:
-Neo:
-NettleWeb (WhiteSpider):
-Nexora:
-Overcloaked:
-PeteZah:
-Platinum Network:
-Quasar:
-README.md:
-Red's Exploit Corner:
-Shadow:
-Shuttle:
-Truffled:
-UBX:
-UniUB:
-Utopia:
-Vapor:
-Velara:
-Vertex Gold:
-Waves:
-Wilway:
+1346lol: -
+1key: 151.80.60.23
+Axiom: 93.95.228.17 and 89.127.232.1
+Axis: 185.193.67.216
+Boredom: 158.69.222.114
+Bromine: 5.188.124.52 (or 129.153.136.235)
+BrunysIXLWork: -
+CanLite: 104.36.85.249
+Cherri: 5.188.124.65
+DEMON: -
+DogeUB: 15.204.230.53
+DotGUI: -
+Endis: 144.217.77.9
+Fern: 92.38.177.17
+Frogie's Arcade: 69.164.251.210
+Galaxy: 40.160.3.200
+Glint: 5.188.124.13
+Holy Unblocker: TN IP address
+Interstellar: banned
+Jordan's Math Work: -
+Krypton: /
+Nebulo: /
+Neo: -
+NettleWeb (WhiteSpider): -
+Nexora: -
+Overcloaked: /
+PeteZah: 51.222.141.36 
+Platinum Network: 51.91.158.192
+Quasar: -
+Red's Exploit Corner: 152.53.37.155
+Shadow: -
+Shuttle: -
+Truffled: 205.209.125.106
+UBX: -
+UniUB: 69.10.52.218
+Utopia: /
+Vapor: invites paused
+Velara: 152.53.83.13
+Vertex Gold: -
+Waves: -
+Wilway: invites paused
