@@ -31,7 +31,7 @@ Glint: 5.188.124.13
 Holy Unblocker: TN IP address
 Interstellar: banned
 Jordan's Math Work: -
-Krypton: /
+Krypton: 185.230.219.5
 Nebulo: /
 Neo: -
 NettleWeb (WhiteSpider): -
