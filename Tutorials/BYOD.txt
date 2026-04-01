@@ -11,4 +11,7 @@ Make sure your SSL/TLS is set to full and not flexible.
 
 I can't be bothered to find the BYOD for everything else, just make a Discord account and join the relevant prxy/gxme servers.
 
+1key: 151.80.60.23
 Krypton: 185.230.219.5
+Cherri: 5.188.124.65
+Axis: 185.193.67.216
