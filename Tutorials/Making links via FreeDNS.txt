@@ -1,43 +1,15 @@
-Visit FreeDNS
+Making links via FreeDNS:
+1. Go to https://freedns.afraid.org/signup/?plan=starter
+2. Fill in the details to sign-up, then go to your inbox to activate the account.
+- You don't need to put your real name, and you can put in a temporary email address.
+3. Make sure you are at https://freedns.afraid.org/subdomain/?ls=1
+4. Click "Add a subdomain".
+5. Do the following:
+- Set Type to A.
+- Enter anything as the subdomain.
+- Choose any domain from the dropdown list.
+- Set Destination to an IP address from BYOD (depending on what prxy you want to use)
+6. Complete the captcha, then click "Save!".
+7. Wait until the link propogates (this can take a few minutes). You can also create more domains if you want.
 
-Go to FreeDNS. If the site is blocked, try accessing it from another device (you can't use an unblocker for this site, it won't work).
-
-Sign Up for a Free Account
-If this is your first time, click "Sign Up for Free." If you already have an account, proceed to Step 5.
-
-Fill Out Your Details
-Complete the sign-up form with your details:
-
-Name: You don't have to use your real name.
-User ID: Choose a unique ID.
-Email: You can use a temporary email provider like TempMail to create more links in the future.
-Complete Email Activation
-Once you've filled in the details, click "Sign Up." You’ll receive an activation email. Confirm your email address to complete the registration.
-
-Register Your Link
-After creating your account, head to the FreeDNS registration page: FreeDNS Registry.
-Alternatively, on the FreeDNS dashboard:
-
-Click on "Subdomains" in the left-hand menu.
-Select "Add Subdomain."
-In the "Domain" dropdown, choose "many, many more."
-Click on the first sentence that says "Shared Domain Registry."
-Choose a Domain
-Browse the list of domains available for use (e.g., chickenkiller.com).
-
-Ensure that the domain you choose is accessible to you and not blocked.
-Select a domain that has low popularity for higher chances of being unblocked.
-Make sure the domain is public.
-Configure the Domain
-On the configuration page:
-
-Make sure the "A" record type is selected (this should be the default).
-Enter the name of your subdomain (e.g., subdomainName.chosenDomain.com).
-Set the Destination
-Depending on which unblocker you are using, enter the correct IP destination for your subdomain.
-
-Save Your Settings
-After entering the IP destination, click "Save" and complete the captcha.
-
-Wait for Propagation
-It might take a couple of minutes for your new subdomain to propagate. Once it’s done, you can visit the link you created and access your site!
+WARNING: FreeDNS will likely ban your account after a few days.
