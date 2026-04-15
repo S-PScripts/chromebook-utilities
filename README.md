@@ -1,5 +1,5 @@
 # Chromebook Utilities Collection
-### A collection of exploits and tools for managed/enrolled Chromebooks.
+### A collection of exploits and tools for managed/enrolled Chromebooks, similar to [ByePassHub](https://github.com/wea-f/ByePassHub) by [wea-f](https://github.com/wea-f).
 ### Read the [Disclaimer](https://github.com/S-PScripts/chromebook-utilities/blob/main/Important/DISCLAIMER.md) before viewing this collection further.
 ---
 ### Important Update:
