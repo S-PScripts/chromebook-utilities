@@ -5,6 +5,7 @@
 ### Important Update:
 - This collection will no longer be updated often due to my lack of interest in it.
 - You can join Titanium Network for more links and exploits (.gg/unblock).
+- If you want to see a version of ByePassHub before wea-f removed stuff and archived their repo, go [here](https://github.com/Space-Fox1/ByePassHub-BACKUP-).
 ---
 ### If you like this collection, make sure to star it!
 ### Created by S-PScripts
