@@ -3,6 +3,9 @@ Math solvers:
 WolframAlpha: RECOMMENDED
 https://www.wolframalpha.com/
 
+Gauth: AI MATHS SOLVER TOO!
+https://www.gauthmath.com/
+
 Symbolab:
 https://www.symbolab.com/solver
 
@@ -23,9 +26,6 @@ https://www.tiger-algebra.com/
 
 QuickMath:
 https://quickmath.com/solve/
-
-Gauth: AI MATHS SOLVER TOO!
-https://www.gauthmath.com/
 
 Desmos:
 https://www.desmos.com/
