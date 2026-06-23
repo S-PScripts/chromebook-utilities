@@ -1,31 +1,28 @@
 A collection of AIs...
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-AIs: Recommended
-
-Perplexity: Sign up for the full experience
-https://www.perplexity.ai/
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
 AIs: Common ones you know. These are probably blocked but use your home computer or a prxy instead.
 
 ChatGPT: Make an account for more.
 https://chatgpt.com/
 
-Microsoft Copilot: Use a Microsoft account.
-https://copilot.microsoft.com/?showconv=1
+Gemini: You will need to use a personal Google Account if you see this pop-up -> "Gemini isn't supported for this account"
+https://gemini.google.com/
 
 Claude: Make an account.
 https://claude.ai/
 
-Gemini: You will probably need to use a personal Google Account as you will probably have this pop-up -> "Gemini isn't supported for this account"
-https://gemini.google.com/
+Microsoft Copilot: Use a Microsoft account.
+https://copilot.microsoft.com/?showconv=1
 
 DeepSeek:
 https://www.deepseek.com/
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 AIs: Ones that may be work.
+
+Perplexity: Sign up for the full experience
+https://www.perplexity.ai/
 
 You: Sign up
 https://you.com/
